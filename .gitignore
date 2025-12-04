@@ -1,0 +1,14 @@
+# Virtual environment
+myenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Project outputs
+articles/
+progress.json
+errors.log
+summary.txt
