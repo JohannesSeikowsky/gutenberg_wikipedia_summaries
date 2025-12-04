@@ -12,3 +12,6 @@ articles/
 progress.json
 errors.log
 summary.txt
+
+# Claude Code
+CLAUDE.md
