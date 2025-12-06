@@ -1,0 +1,2250 @@
+{
+  "total": 142,
+  "successful": 4,
+  "still_failed": 138,
+  "details": [
+    {
+      "book_id": "2230",
+      "url": "http://en.wikipedia.org/wiki/Faust,_Part_2\\r",
+      "lang": "en",
+      "page_title": "Faust,_Part_2\\r",
+      "diagnostics": {
+        "page_id": "N/A",
+        "lang": "en",
+        "page_title": "Faust,_Part_2\\r",
+        "missing": true
+      },
+      "status": "failed",
+      "error": "Page does not exist (404)"
+    },
+    {
+      "book_id": "2229",
+      "url": "http://en.wikipedia.org/wiki/Faust,_Part_1\\r",
+      "lang": "en",
+      "page_title": "Faust,_Part_1\\r",
+      "diagnostics": {
+        "page_id": "N/A",
+        "lang": "en",
+        "page_title": "Faust,_Part_1\\r",
+        "missing": true
+      },
+      "status": "failed",
+      "error": "Page does not exist (404)"
+    },
+    {
+      "book_id": "69584",
+      "url": "https://en.wikipedia.org/wiki/Gray_Lensman",
+      "lang": "en",
+      "page_title": "Gray_Lensman",
+      "diagnostics": {
+        "page_id": 74594919,
+        "lang": "en",
+        "page_title": "Gray_Lensman",
+        "extract_length": 0,
+        "raw_size": 73,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "40986",
+      "url": "http://en.wikipedia.org/wiki/Oera_Linda",
+      "lang": "en",
+      "page_title": "Oera_Linda",
+      "diagnostics": {
+        "page_id": 28785037,
+        "lang": "en",
+        "page_title": "Oera_Linda",
+        "extract_length": 0,
+        "raw_size": 76,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "60962",
+      "url": "https://en.wikipedia.org/wiki/The_Vegetable,_or_From_President_to_Postman",
+      "lang": "en",
+      "page_title": "The_Vegetable,_or_From_President_to_Postman",
+      "diagnostics": {
+        "page_id": 78915268,
+        "lang": "en",
+        "page_title": "The_Vegetable,_or_From_President_to_Postman",
+        "extract_length": 0,
+        "raw_size": 74,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "16",
+      "url": "https://en.wikipedia.org/wiki/Peter_and_Wendy",
+      "lang": "en",
+      "page_title": "Peter_and_Wendy",
+      "diagnostics": {
+        "page_id": 80682248,
+        "lang": "en",
+        "page_title": "Peter_and_Wendy",
+        "extract_length": 0,
+        "raw_size": 57,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "71",
+      "url": "https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)",
+      "lang": "en",
+      "page_title": "Civil_Disobedience_(Thoreau)",
+      "diagnostics": {
+        "page_id": 80143948,
+        "lang": "en",
+        "page_title": "Civil_Disobedience_(Thoreau)",
+        "extract_length": 0,
+        "raw_size": 87,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "432",
+      "url": "https://en.wikipedia.org/wiki/The_Ambassadors",
+      "lang": "en",
+      "page_title": "The_Ambassadors",
+      "diagnostics": {
+        "page_id": 81744418,
+        "lang": "en",
+        "page_title": "The_Ambassadors",
+        "extract_length": 0,
+        "raw_size": 85,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "451",
+      "url": "https://en.wikipedia.org/wiki/The_Shadow_Line_(novel)",
+      "lang": "en",
+      "page_title": "The_Shadow_Line_(novel)",
+      "diagnostics": {
+        "page_id": 81069919,
+        "lang": "en",
+        "page_title": "The_Shadow_Line_(novel)",
+        "extract_length": 0,
+        "raw_size": 76,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "503",
+      "url": "https://en.wikipedia.org/wiki/Lang%27s_Fairy_Books",
+      "lang": "en",
+      "page_title": "Lang's_Fairy_Books",
+      "diagnostics": {
+        "page_id": 78825604,
+        "lang": "en",
+        "page_title": "Lang's_Fairy_Books",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "540",
+      "url": "https://en.wikipedia.org/wiki/Lang%27s_Fairy_Books",
+      "lang": "en",
+      "page_title": "Lang's_Fairy_Books",
+      "diagnostics": {
+        "page_id": 78825604,
+        "lang": "en",
+        "page_title": "Lang's_Fairy_Books",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "775",
+      "url": "https://en.wikipedia.org/wiki/The_Sleeper_Awakes",
+      "lang": "en",
+      "page_title": "The_Sleeper_Awakes",
+      "diagnostics": {
+        "page_id": 79777398,
+        "lang": "en",
+        "page_title": "The_Sleeper_Awakes",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "919",
+      "url": "https://en.wikipedia.org/wiki/Ethics_(Spinoza_book)",
+      "lang": "en",
+      "page_title": "Ethics_(Spinoza_book)",
+      "diagnostics": {
+        "page_id": 78325624,
+        "lang": "en",
+        "page_title": "Ethics_(Spinoza_book)",
+        "extract_length": 0,
+        "raw_size": 77,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "920",
+      "url": "https://en.wikipedia.org/wiki/Ethics_(Spinoza_book)",
+      "lang": "en",
+      "page_title": "Ethics_(Spinoza_book)",
+      "diagnostics": {
+        "page_id": 78325624,
+        "lang": "en",
+        "page_title": "Ethics_(Spinoza_book)",
+        "extract_length": 0,
+        "raw_size": 77,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "935",
+      "url": "https://en.wikipedia.org/wiki/Self-Help_(book)",
+      "lang": "en",
+      "page_title": "Self-Help_(book)",
+      "diagnostics": {
+        "page_id": 79877764,
+        "lang": "en",
+        "page_title": "Self-Help_(book)",
+        "extract_length": 0,
+        "raw_size": 82,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "948",
+      "url": "https://en.wikipedia.org/wiki/Ethics_(Spinoza_book)",
+      "lang": "en",
+      "page_title": "Ethics_(Spinoza_book)",
+      "diagnostics": {
+        "page_id": 78325624,
+        "lang": "en",
+        "page_title": "Ethics_(Spinoza_book)",
+        "extract_length": 0,
+        "raw_size": 77,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "971",
+      "url": "https://en.wikipedia.org/wiki/Ethics_(Spinoza_book)",
+      "lang": "en",
+      "page_title": "Ethics_(Spinoza_book)",
+      "diagnostics": {
+        "page_id": 78325624,
+        "lang": "en",
+        "page_title": "Ethics_(Spinoza_book)",
+        "extract_length": 0,
+        "raw_size": 77,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "975",
+      "url": "https://en.wikipedia.org/wiki/Ethics_(Spinoza_book)",
+      "lang": "en",
+      "page_title": "Ethics_(Spinoza_book)",
+      "diagnostics": {
+        "page_id": 78325624,
+        "lang": "en",
+        "page_title": "Ethics_(Spinoza_book)",
+        "extract_length": 0,
+        "raw_size": 77,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "1022",
+      "url": "https://en.wikipedia.org/wiki/Walking_(Thoreau)",
+      "lang": "en",
+      "page_title": "Walking_(Thoreau)",
+      "diagnostics": {
+        "page_id": 80167733,
+        "lang": "en",
+        "page_title": "Walking_(Thoreau)",
+        "extract_length": 0,
+        "raw_size": 76,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "1098",
+      "url": "https://en.wikipedia.org/wiki/Draft:The_Turmoil_(novel)",
+      "lang": "en",
+      "page_title": "Draft:The_Turmoil_(novel)",
+      "diagnostics": {
+        "page_id": 78361672,
+        "lang": "en",
+        "page_title": "Draft:The_Turmoil_(novel)",
+        "extract_length": 0,
+        "raw_size": 80,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "1473",
+      "url": "https://en.wikipedia.org/wiki/The_Absentee",
+      "lang": "en",
+      "page_title": "The_Absentee",
+      "diagnostics": {
+        "page_id": 81364602,
+        "lang": "en",
+        "page_title": "The_Absentee",
+        "extract_length": 0,
+        "raw_size": 22,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "1735",
+      "url": "https://en.wikipedia.org/wiki/Sophist_(dialogue)",
+      "lang": "en",
+      "page_title": "Sophist_(dialogue)",
+      "diagnostics": {
+        "page_id": 6109963,
+        "lang": "en",
+        "page_title": "Sophist_(dialogue)",
+        "extract_length": 13763
+      },
+      "status": "success",
+      "filename": "1735_en.txt"
+    },
+    {
+      "book_id": "1905",
+      "url": "https://en.wikipedia.org/wiki/The_Governess,_or_The_Little_Female_Academy",
+      "lang": "en",
+      "page_title": "The_Governess,_or_The_Little_Female_Academy",
+      "diagnostics": {
+        "page_id": 64516691,
+        "lang": "en",
+        "page_title": "The_Governess,_or_The_Little_Female_Academy",
+        "extract_length": 0,
+        "raw_size": 105,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "3091",
+      "url": "https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon",
+      "lang": "en",
+      "page_title": "Eight_Hundred_Leagues_on_the_Amazon",
+      "diagnostics": {
+        "page_id": 79705383,
+        "lang": "en",
+        "page_title": "Eight_Hundred_Leagues_on_the_Amazon",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "3800",
+      "url": "https://en.wikipedia.org/wiki/Ethics_(Spinoza_book)",
+      "lang": "en",
+      "page_title": "Ethics_(Spinoza_book)",
+      "diagnostics": {
+        "page_id": 78325624,
+        "lang": "en",
+        "page_title": "Ethics_(Spinoza_book)",
+        "extract_length": 0,
+        "raw_size": 77,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "3804",
+      "url": "https://en.wikipedia.org/wiki/Pierre_et_Jean",
+      "lang": "en",
+      "page_title": "Pierre_et_Jean",
+      "diagnostics": {
+        "page_id": 79349502,
+        "lang": "en",
+        "page_title": "Pierre_et_Jean",
+        "extract_length": 0,
+        "raw_size": 76,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "4278",
+      "url": "https://en.wikipedia.org/wiki/An_introduction_to_Yoga",
+      "lang": "en",
+      "page_title": "An_introduction_to_Yoga",
+      "diagnostics": {
+        "page_id": 78474384,
+        "lang": "en",
+        "page_title": "An_introduction_to_Yoga",
+        "extract_length": 0,
+        "raw_size": 84,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "5765",
+      "url": "https://en.wikipedia.org/wiki/Insectivorous_Plants_(book)",
+      "lang": "en",
+      "page_title": "Insectivorous_Plants_(book)",
+      "diagnostics": {
+        "page_id": 24101844,
+        "lang": "en",
+        "page_title": "Insectivorous_Plants_(book)",
+        "extract_length": 0,
+        "raw_size": 99,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "6637",
+      "url": "https://de.wikipedia.org/wiki/Der_Alpenk%C3%B6nig_und_der_Menschenfeind",
+      "lang": "de",
+      "page_title": "Der_Alpenk\u00f6nig_und_der_Menschenfeind",
+      "diagnostics": {
+        "page_id": 240085,
+        "lang": "de",
+        "page_title": "Der_Alpenk\u00f6nig_und_der_Menschenfeind",
+        "extract_length": 12185
+      },
+      "status": "success",
+      "filename": "6637_de.txt"
+    },
+    {
+      "book_id": "7214",
+      "url": "https://en.wikipedia.org/wiki/Pan_(novel)",
+      "lang": "en",
+      "page_title": "Pan_(novel)",
+      "diagnostics": {
+        "page_id": 80770418,
+        "lang": "en",
+        "page_title": "Pan_(novel)",
+        "extract_length": 0,
+        "raw_size": 79,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "7277",
+      "url": "https://en.wikipedia.org/wiki/Lang%27s_Fairy_Books",
+      "lang": "en",
+      "page_title": "Lang's_Fairy_Books",
+      "diagnostics": {
+        "page_id": 78825604,
+        "lang": "en",
+        "page_title": "Lang's_Fairy_Books",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "7359",
+      "url": "https://en.wikipedia.org/wiki/Indian_Summer_(novel)",
+      "lang": "en",
+      "page_title": "Indian_Summer_(novel)",
+      "diagnostics": {
+        "page_id": 79820323,
+        "lang": "en",
+        "page_title": "Indian_Summer_(novel)",
+        "extract_length": 0,
+        "raw_size": 63,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "8126",
+      "url": "https://en.wikipedia.org/wiki/Der_Nachsommer",
+      "lang": "en",
+      "page_title": "Der_Nachsommer",
+      "diagnostics": {
+        "page_id": 79820319,
+        "lang": "en",
+        "page_title": "Der_Nachsommer",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "8978",
+      "url": "https://en.wikipedia.org/wiki/The_Sleeper_Awakes",
+      "lang": "en",
+      "page_title": "The_Sleeper_Awakes",
+      "diagnostics": {
+        "page_id": 79777398,
+        "lang": "en",
+        "page_title": "The_Sleeper_Awakes",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "8981",
+      "url": "https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon",
+      "lang": "en",
+      "page_title": "Eight_Hundred_Leagues_on_the_Amazon",
+      "diagnostics": {
+        "page_id": 79705383,
+        "lang": "en",
+        "page_title": "Eight_Hundred_Leagues_on_the_Amazon",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "9000",
+      "url": "https://hif.m.wikipedia.org/wiki/Vishnu_Sahasranama",
+      "lang": "unknown",
+      "page_title": "Vishnu_Sahasranama",
+      "diagnostics": {
+        "connection_error": true
+      },
+      "status": "failed",
+      "error": "Connection error"
+    },
+    {
+      "book_id": "9046",
+      "url": "https://en.wikipedia.org/wiki/K%C3%B6nig_Ottokars_Gl%C3%BCck_und_Ende",
+      "lang": "en",
+      "page_title": "K\u00f6nig_Ottokars_Gl\u00fcck_und_Ende",
+      "diagnostics": {
+        "page_id": 80827057,
+        "lang": "en",
+        "page_title": "K\u00f6nig_Ottokars_Gl\u00fcck_und_Ende",
+        "extract_length": 0,
+        "raw_size": 92,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "9350",
+      "url": "https://en.wikipedia.org/wiki/The_Shadow_Line_(novel)",
+      "lang": "en",
+      "page_title": "The_Shadow_Line_(novel)",
+      "diagnostics": {
+        "page_id": 81069919,
+        "lang": "en",
+        "page_title": "The_Shadow_Line_(novel)",
+        "extract_length": 0,
+        "raw_size": 76,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "9629",
+      "url": "https://en.wikipedia.org/wiki/More_Ghost_Stories",
+      "lang": "en",
+      "page_title": "More_Ghost_Stories",
+      "diagnostics": {
+        "page_id": 79882534,
+        "lang": "en",
+        "page_title": "More_Ghost_Stories",
+        "extract_length": 0,
+        "raw_size": 95,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "10574",
+      "url": "https://en.wikipedia.org/wiki/The_History_of_England_(Hume_book)",
+      "lang": "en",
+      "page_title": "The_History_of_England_(Hume_book)",
+      "diagnostics": {
+        "page_id": 80999312,
+        "lang": "en",
+        "page_title": "The_History_of_England_(Hume_book)",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11131",
+      "url": "https://en.wikipedia.org/wiki/Pierre_et_Jean",
+      "lang": "en",
+      "page_title": "Pierre_et_Jean",
+      "diagnostics": {
+        "page_id": 79349502,
+        "lang": "en",
+        "page_title": "Pierre_et_Jean",
+        "extract_length": 0,
+        "raw_size": 76,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11255",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11422",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11485",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11544",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11552",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11709",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "11920",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "12055",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "12163",
+      "url": "https://en.wikipedia.org/wiki/The_Sleeper_Awakes",
+      "lang": "en",
+      "page_title": "The_Sleeper_Awakes",
+      "diagnostics": {
+        "page_id": 79777398,
+        "lang": "en",
+        "page_title": "The_Sleeper_Awakes",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "12297",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "12683",
+      "url": "https://en.wikipedia.org/wiki/Christine_(Cholmondeley_novel)",
+      "lang": "en",
+      "page_title": "Christine_(Cholmondeley_novel)",
+      "diagnostics": {
+        "page_id": 81611569,
+        "lang": "en",
+        "page_title": "Christine_(Cholmondeley_novel)",
+        "extract_length": 0,
+        "raw_size": 98,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13217",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13579",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13602",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13610",
+      "url": "https://en.wikipedia.org/wiki/Studies_in_the_Psychology_of_Sex",
+      "lang": "en",
+      "page_title": "Studies_in_the_Psychology_of_Sex",
+      "diagnostics": {
+        "page_id": 71950446,
+        "lang": "en",
+        "page_title": "Studies_in_the_Psychology_of_Sex",
+        "extract_length": 0,
+        "raw_size": 34,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13613",
+      "url": "https://en.wikipedia.org/wiki/Studies_in_the_Psychology_of_Sex",
+      "lang": "en",
+      "page_title": "Studies_in_the_Psychology_of_Sex",
+      "diagnostics": {
+        "page_id": 71950446,
+        "lang": "en",
+        "page_title": "Studies_in_the_Psychology_of_Sex",
+        "extract_length": 0,
+        "raw_size": 34,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13614",
+      "url": "https://en.wikipedia.org/wiki/Studies_in_the_Psychology_of_Sex",
+      "lang": "en",
+      "page_title": "Studies_in_the_Psychology_of_Sex",
+      "diagnostics": {
+        "page_id": 71950446,
+        "lang": "en",
+        "page_title": "Studies_in_the_Psychology_of_Sex",
+        "extract_length": 0,
+        "raw_size": 34,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13615",
+      "url": "https://en.wikipedia.org/wiki/Studies_in_the_Psychology_of_Sex",
+      "lang": "en",
+      "page_title": "Studies_in_the_Psychology_of_Sex",
+      "diagnostics": {
+        "page_id": 71950446,
+        "lang": "en",
+        "page_title": "Studies_in_the_Psychology_of_Sex",
+        "extract_length": 0,
+        "raw_size": 34,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13700",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "13847",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "14157",
+      "url": "https://en.wikipedia.org/wiki/Bouvard_et_P%C3%A9cuchet",
+      "lang": "en",
+      "page_title": "Bouvard_et_P\u00e9cuchet",
+      "diagnostics": {
+        "page_id": 81257569,
+        "lang": "en",
+        "page_title": "Bouvard_et_P\u00e9cuchet",
+        "extract_length": 0,
+        "raw_size": 82,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "14806",
+      "url": "https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon",
+      "lang": "en",
+      "page_title": "Eight_Hundred_Leagues_on_the_Amazon",
+      "diagnostics": {
+        "page_id": 79705383,
+        "lang": "en",
+        "page_title": "Eight_Hundred_Leagues_on_the_Amazon",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "15041",
+      "url": "https://en.wikipedia.org/wiki/The_Negro_Problem_(book)",
+      "lang": "en",
+      "page_title": "The_Negro_Problem_(book)",
+      "diagnostics": {
+        "page_id": 79622261,
+        "lang": "en",
+        "page_title": "The_Negro_Problem_(book)",
+        "extract_length": 0,
+        "raw_size": 78,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "15593",
+      "url": "https://en.wikipedia.org/wiki/Les_aventures_de_M._Colin-Tampon",
+      "lang": "en",
+      "page_title": "Les_aventures_de_M._Colin-Tampon",
+      "diagnostics": {
+        "page_id": 2900437,
+        "lang": "en",
+        "page_title": "Les_aventures_de_M._Colin-Tampon",
+        "extract_length": 0,
+        "raw_size": 156,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "16425",
+      "url": "https://en.wikipedia.org/wiki/Amor_de_Perdi%C3%A7%C3%A3o",
+      "lang": "en",
+      "page_title": "Amor_de_Perdi\u00e7\u00e3o",
+      "diagnostics": {
+        "page_id": 81226061,
+        "lang": "en",
+        "page_title": "Amor_de_Perdi\u00e7\u00e3o",
+        "extract_length": 0,
+        "raw_size": 140,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "18456",
+      "url": "https://en.wikipedia.org/wiki/Henry_IV_(Pirandello)",
+      "lang": "en",
+      "page_title": "Henry_IV_(Pirandello)",
+      "diagnostics": {
+        "page_id": 78970029,
+        "lang": "en",
+        "page_title": "Henry_IV_(Pirandello)",
+        "extract_length": 0,
+        "raw_size": 120
+      },
+      "status": "failed",
+      "error": "Page has content but extract failed (likely special page type)"
+    },
+    {
+      "book_id": "18484",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "18485",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "18912",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19094",
+      "url": "https://en.wikipedia.org/wiki/Magic_(play)",
+      "lang": "en",
+      "page_title": "Magic_(play)",
+      "diagnostics": {
+        "page_id": 78550243,
+        "lang": "en",
+        "page_title": "Magic_(play)",
+        "extract_length": 0,
+        "raw_size": 86,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19211",
+      "url": "https://en.wikipedia.org/wiki/The_History_of_England_(Hume_book)",
+      "lang": "en",
+      "page_title": "The_History_of_England_(Hume_book)",
+      "diagnostics": {
+        "page_id": 80999312,
+        "lang": "en",
+        "page_title": "The_History_of_England_(Hume_book)",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19212",
+      "url": "https://en.wikipedia.org/wiki/The_History_of_England_(Hume_book)",
+      "lang": "en",
+      "page_title": "The_History_of_England_(Hume_book)",
+      "diagnostics": {
+        "page_id": 80999312,
+        "lang": "en",
+        "page_title": "The_History_of_England_(Hume_book)",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19213",
+      "url": "https://en.wikipedia.org/wiki/The_History_of_England_(Hume_book)",
+      "lang": "en",
+      "page_title": "The_History_of_England_(Hume_book)",
+      "diagnostics": {
+        "page_id": 80999312,
+        "lang": "en",
+        "page_title": "The_History_of_England_(Hume_book)",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19214",
+      "url": "https://en.wikipedia.org/wiki/The_History_of_England_(Hume_book)",
+      "lang": "en",
+      "page_title": "The_History_of_England_(Hume_book)",
+      "diagnostics": {
+        "page_id": 80999312,
+        "lang": "en",
+        "page_title": "The_History_of_England_(Hume_book)",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19215",
+      "url": "https://en.wikipedia.org/wiki/The_History_of_England_(Hume_book)",
+      "lang": "en",
+      "page_title": "The_History_of_England_(Hume_book)",
+      "diagnostics": {
+        "page_id": 80999312,
+        "lang": "en",
+        "page_title": "The_History_of_England_(Hume_book)",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19216",
+      "url": "https://en.wikipedia.org/wiki/The_History_of_England_(Hume_book)",
+      "lang": "en",
+      "page_title": "The_History_of_England_(Hume_book)",
+      "diagnostics": {
+        "page_id": 80999312,
+        "lang": "en",
+        "page_title": "The_History_of_England_(Hume_book)",
+        "extract_length": 0,
+        "raw_size": 90,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19338",
+      "url": "https://en.wikipedia.org/wiki/The_Keeper_(short_story)",
+      "lang": "en",
+      "page_title": "The_Keeper_(short_story)",
+      "diagnostics": {
+        "page_id": 79409917,
+        "lang": "en",
+        "page_title": "The_Keeper_(short_story)",
+        "extract_length": 0,
+        "raw_size": 71,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19446",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "19932",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "20785",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "21021",
+      "url": "https://en.wikipedia.org/wiki/Maya_the_Bee",
+      "lang": "en",
+      "page_title": "Maya_the_Bee",
+      "diagnostics": {
+        "page_id": 7436172,
+        "lang": "en",
+        "page_title": "Maya_the_Bee",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "21508",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "22166",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "22354",
+      "url": "https://en.wikipedia.org/wiki/Maya_the_Bee",
+      "lang": "en",
+      "page_title": "Maya_the_Bee",
+      "diagnostics": {
+        "page_id": 7436172,
+        "lang": "en",
+        "page_title": "Maya_the_Bee",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "22824",
+      "url": "https://en.wikipedia.org/wiki/Der_Wehrwolf",
+      "lang": "en",
+      "page_title": "Der_Wehrwolf",
+      "diagnostics": {
+        "page_id": 80943292,
+        "lang": "en",
+        "page_title": "Der_Wehrwolf",
+        "extract_length": 0,
+        "raw_size": 72,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "22976",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "22984",
+      "url": "https://en.wikipedia.org/wiki/Peter_and_Wendy",
+      "lang": "en",
+      "page_title": "Peter_and_Wendy",
+      "diagnostics": {
+        "page_id": 80682248,
+        "lang": "en",
+        "page_title": "Peter_and_Wendy",
+        "extract_length": 0,
+        "raw_size": 57,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "24026",
+      "url": "https://fi.wikipedia.org/wiki/Joulukertomus_(Charles_Dickens)",
+      "lang": "fi",
+      "page_title": "Joulukertomus_(Charles_Dickens)",
+      "diagnostics": {
+        "page_id": 1880888,
+        "lang": "fi",
+        "page_title": "Joulukertomus_(Charles_Dickens)",
+        "extract_length": 0,
+        "raw_size": 25
+      },
+      "status": "failed",
+      "error": "Page has content but extract failed (likely special page type)"
+    },
+    {
+      "book_id": "24032",
+      "url": "https://zh-min-nan.wikipedia.org/wiki/J%C3%BB-l%C3%AEm_G%C5%8De-s%C3%BA",
+      "lang": "unknown",
+      "page_title": "J\u00fb-l\u00eem_G\u014de-s\u00fa",
+      "diagnostics": {
+        "connection_error": true
+      },
+      "status": "failed",
+      "error": "Connection error"
+    },
+    {
+      "book_id": "24091",
+      "url": "https://en.wikipedia.org/wiki/Despoilers_of_the_Golden_Empire",
+      "lang": "en",
+      "page_title": "Despoilers_of_the_Golden_Empire",
+      "diagnostics": {
+        "page_id": 7773596,
+        "lang": "en",
+        "page_title": "Despoilers_of_the_Golden_Empire",
+        "extract_length": 0,
+        "raw_size": 39,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "25014",
+      "url": "https://en.wikipedia.org/wiki/Bouvard_et_P%C3%A9cuchet",
+      "lang": "en",
+      "page_title": "Bouvard_et_P\u00e9cuchet",
+      "diagnostics": {
+        "page_id": 81257569,
+        "lang": "en",
+        "page_title": "Bouvard_et_P\u00e9cuchet",
+        "extract_length": 0,
+        "raw_size": 82,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "25154",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "26573",
+      "url": "https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)",
+      "lang": "en",
+      "page_title": "Civil_Disobedience_(Thoreau)",
+      "diagnostics": {
+        "page_id": 80143948,
+        "lang": "en",
+        "page_title": "Civil_Disobedience_(Thoreau)",
+        "extract_length": 0,
+        "raw_size": 87,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "26654",
+      "url": "https://en.wikipedia.org/wiki/Peter_and_Wendy",
+      "lang": "en",
+      "page_title": "Peter_and_Wendy",
+      "diagnostics": {
+        "page_id": 80682248,
+        "lang": "en",
+        "page_title": "Peter_and_Wendy",
+        "extract_length": 0,
+        "raw_size": 57,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "26685",
+      "url": "https://it.wikipedia.org/wiki/Aphrodite:_m%C5%93urs_antiques",
+      "lang": "it",
+      "page_title": "Aphrodite:_m\u0153urs_antiques",
+      "diagnostics": {
+        "page_id": 10473937,
+        "lang": "it",
+        "page_title": "Aphrodite:_m\u0153urs_antiques",
+        "extract_length": 0,
+        "raw_size": 31
+      },
+      "status": "failed",
+      "error": "Page has content but extract failed (likely special page type)"
+    },
+    {
+      "book_id": "26686",
+      "url": "https://en.wikipedia.org/wiki/Unterm_Birnbaum",
+      "lang": "en",
+      "page_title": "Unterm_Birnbaum",
+      "diagnostics": {
+        "page_id": 81196879,
+        "lang": "en",
+        "page_title": "Unterm_Birnbaum",
+        "extract_length": 0,
+        "raw_size": 140,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "28096",
+      "url": "https://en.wikipedia.org/wiki/Lang%27s_Fairy_Books",
+      "lang": "en",
+      "page_title": "Lang's_Fairy_Books",
+      "diagnostics": {
+        "page_id": 78825604,
+        "lang": "en",
+        "page_title": "Lang's_Fairy_Books",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "28170",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "28203",
+      "url": "https://en.wikipedia.org/wiki/Moods_(book)",
+      "lang": "en",
+      "page_title": "Moods_(book)",
+      "diagnostics": {
+        "page_id": 80397230,
+        "lang": "en",
+        "page_title": "Moods_(book)",
+        "extract_length": 0,
+        "raw_size": 74,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "28610",
+      "url": "https://en.wikipedia.org/wiki/The_Wind_Is_My_Lover",
+      "lang": "en",
+      "page_title": "The_Wind_Is_My_Lover",
+      "diagnostics": {
+        "page_id": 79441488,
+        "lang": "en",
+        "page_title": "The_Wind_Is_My_Lover",
+        "extract_length": 0,
+        "raw_size": 78,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "28973",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "29553",
+      "url": "https://en.wikipedia.org/wiki/Bunte_Steine",
+      "lang": "en",
+      "page_title": "Bunte_Steine",
+      "diagnostics": {
+        "page_id": 79820350,
+        "lang": "en",
+        "page_title": "Bunte_Steine",
+        "extract_length": 0,
+        "raw_size": 134,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "30553",
+      "url": "https://en.wikipedia.org/wiki/Les_Aventures_du_roi_Pausole_(novel)",
+      "lang": "en",
+      "page_title": "Les_Aventures_du_roi_Pausole_(novel)",
+      "diagnostics": {
+        "page_id": 79232886,
+        "lang": "en",
+        "page_title": "Les_Aventures_du_roi_Pausole_(novel)",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "30576",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "30580",
+      "url": "https://en.wikipedia.org/wiki/Lang%27s_Fairy_Books",
+      "lang": "en",
+      "page_title": "Lang's_Fairy_Books",
+      "diagnostics": {
+        "page_id": 78825604,
+        "lang": "en",
+        "page_title": "Lang's_Fairy_Books",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "30967",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "31219",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "31405",
+      "url": "https://el.wikipedia.org/wiki/%CE%97_%CE%A4%CF%81%CE%B9%CE%BA%CF%85%CE%BC%CE%AF%CE%B1",
+      "lang": "el",
+      "page_title": "\u0397_\u03a4\u03c1\u03b9\u03ba\u03c5\u03bc\u03af\u03b1",
+      "diagnostics": {
+        "page_id": 901908,
+        "lang": "el",
+        "page_title": "\u0397_\u03a4\u03c1\u03b9\u03ba\u03c5\u03bc\u03af\u03b1",
+        "extract_length": 0,
+        "raw_size": 51
+      },
+      "status": "failed",
+      "error": "Page has content but extract failed (likely special page type)"
+    },
+    {
+      "book_id": "33749",
+      "url": "https://pt.wikipedia.org/wiki/O_Anel_Misterioso",
+      "lang": "pt",
+      "page_title": "O_Anel_Misterioso",
+      "diagnostics": {
+        "page_id": 7660404,
+        "lang": "pt",
+        "page_title": "O_Anel_Misterioso",
+        "extract_length": 0,
+        "raw_size": 67
+      },
+      "status": "failed",
+      "error": "Page has content but extract failed (likely special page type)"
+    },
+    {
+      "book_id": "35379",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "35380",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "35381",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "36020",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "36022",
+      "url": "https://en.wikipedia.org/wiki/Slave_Narrative_Collection",
+      "lang": "en",
+      "page_title": "Slave_Narrative_Collection",
+      "diagnostics": {
+        "page_id": 80738972,
+        "lang": "en",
+        "page_title": "Slave_Narrative_Collection",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "44125",
+      "url": "https://en.wikipedia.org/wiki/The_Histories_(Polybius)",
+      "lang": "en",
+      "page_title": "The_Histories_(Polybius)",
+      "diagnostics": {
+        "page_id": 78827423,
+        "lang": "en",
+        "page_title": "The_Histories_(Polybius)",
+        "extract_length": 0,
+        "raw_size": 81,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "44126",
+      "url": "https://en.wikipedia.org/wiki/The_Histories_(Polybius)",
+      "lang": "en",
+      "page_title": "The_Histories_(Polybius)",
+      "diagnostics": {
+        "page_id": 78827423,
+        "lang": "en",
+        "page_title": "The_Histories_(Polybius)",
+        "extract_length": 0,
+        "raw_size": 81,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "46226",
+      "url": "https://en.wikipedia.org/wiki/Niobe_(play)",
+      "lang": "en",
+      "page_title": "Niobe_(play)",
+      "diagnostics": {
+        "page_id": 81260649,
+        "lang": "en",
+        "page_title": "Niobe_(play)",
+        "extract_length": 0,
+        "raw_size": 95,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "46290",
+      "url": "https://en.wikipedia.org/wiki/Pan_(novel)",
+      "lang": "en",
+      "page_title": "Pan_(novel)",
+      "diagnostics": {
+        "page_id": 80770418,
+        "lang": "en",
+        "page_title": "Pan_(novel)",
+        "extract_length": 0,
+        "raw_size": 79,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "46531",
+      "url": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "lang": "en",
+      "page_title": "Yoga_Vasistha",
+      "diagnostics": {
+        "page_id": 79811063,
+        "lang": "en",
+        "page_title": "Yoga_Vasistha",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "46747",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Lambert",
+      "lang": "fr",
+      "page_title": "Gabriel_Lambert",
+      "diagnostics": {
+        "page_id": 16791750,
+        "lang": "fr",
+        "page_title": "Gabriel_Lambert",
+        "extract_length": 0,
+        "raw_size": 40,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "46909",
+      "url": "https://en.wikipedia.org/wiki/Bouvard_et_P%C3%A9cuchet",
+      "lang": "en",
+      "page_title": "Bouvard_et_P\u00e9cuchet",
+      "diagnostics": {
+        "page_id": 81257569,
+        "lang": "en",
+        "page_title": "Bouvard_et_P\u00e9cuchet",
+        "extract_length": 0,
+        "raw_size": 82,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "48434",
+      "url": "https://en.wikipedia.org/wiki/Peter_and_Wendy",
+      "lang": "en",
+      "page_title": "Peter_and_Wendy",
+      "diagnostics": {
+        "page_id": 80682248,
+        "lang": "en",
+        "page_title": "Peter_and_Wendy",
+        "extract_length": 0,
+        "raw_size": 57,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "50202",
+      "url": "https://en.wikipedia.org/wiki/The_Wind_Is_My_Lover",
+      "lang": "en",
+      "page_title": "The_Wind_Is_My_Lover",
+      "diagnostics": {
+        "page_id": 79441488,
+        "lang": "en",
+        "page_title": "The_Wind_Is_My_Lover",
+        "extract_length": 0,
+        "raw_size": 78,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "50457",
+      "url": "https://en.wikipedia.org/wiki/Luz%C5%ABmiyy%C4%81t",
+      "lang": "en",
+      "page_title": "Luz\u016bmiyy\u0101t",
+      "diagnostics": {
+        "page_id": 78879477,
+        "lang": "en",
+        "page_title": "Luz\u016bmiyy\u0101t",
+        "extract_length": 0,
+        "raw_size": 74,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "51529",
+      "url": "https://en.wikipedia.org/wiki/The_Sleeper_Awakes",
+      "lang": "en",
+      "page_title": "The_Sleeper_Awakes",
+      "diagnostics": {
+        "page_id": 79777398,
+        "lang": "en",
+        "page_title": "The_Sleeper_Awakes",
+        "extract_length": 0,
+        "raw_size": 83,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "51942",
+      "url": "https://en.wikipedia.org/wiki/The_Three_Godfathers_(novel)",
+      "lang": "en",
+      "page_title": "The_Three_Godfathers_(novel)",
+      "diagnostics": {
+        "page_id": 81555384,
+        "lang": "en",
+        "page_title": "The_Three_Godfathers_(novel)",
+        "extract_length": 0,
+        "raw_size": 95,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "53628",
+      "url": "https://en.wikipedia.org/wiki/Der_Stechlin",
+      "lang": "en",
+      "page_title": "Der_Stechlin",
+      "diagnostics": {
+        "page_id": 81196897,
+        "lang": "en",
+        "page_title": "Der_Stechlin",
+        "extract_length": 0,
+        "raw_size": 133,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "53947",
+      "url": "https://en.wikipedia.org/wiki/The_Lady_from_Tr%C3%A9velez_(play)",
+      "lang": "en",
+      "page_title": "The_Lady_from_Tr\u00e9velez_(play)",
+      "diagnostics": {
+        "page_id": 80265594,
+        "lang": "en",
+        "page_title": "The_Lady_from_Tr\u00e9velez_(play)",
+        "extract_length": 0,
+        "raw_size": 91,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "60563",
+      "url": "https://en.wikipedia.org/wiki/Journal_to_Eliza",
+      "lang": "en",
+      "page_title": "Journal_to_Eliza",
+      "diagnostics": {
+        "page_id": 79594034,
+        "lang": "en",
+        "page_title": "Journal_to_Eliza",
+        "extract_length": 0,
+        "raw_size": 115,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "63096",
+      "url": "https://en.wikipedia.org/wiki/Bouvard_et_P%C3%A9cuchet",
+      "lang": "en",
+      "page_title": "Bouvard_et_P\u00e9cuchet",
+      "diagnostics": {
+        "page_id": 81257569,
+        "lang": "en",
+        "page_title": "Bouvard_et_P\u00e9cuchet",
+        "extract_length": 0,
+        "raw_size": 82,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "66505",
+      "url": "https://en.wikipedia.org/wiki/Bouvard_et_P%C3%A9cuchet",
+      "lang": "en",
+      "page_title": "Bouvard_et_P\u00e9cuchet",
+      "diagnostics": {
+        "page_id": 81257569,
+        "lang": "en",
+        "page_title": "Bouvard_et_P\u00e9cuchet",
+        "extract_length": 0,
+        "raw_size": 82,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "69663",
+      "url": "https://en.wikipedia.org/wiki/Tagebuch_einer_Verlorenen_(book)",
+      "lang": "en",
+      "page_title": "Tagebuch_einer_Verlorenen_(book)",
+      "diagnostics": {
+        "page_id": 79257043,
+        "lang": "en",
+        "page_title": "Tagebuch_einer_Verlorenen_(book)",
+        "extract_length": 0,
+        "raw_size": 128
+      },
+      "status": "failed",
+      "error": "Page has content but extract failed (likely special page type)"
+    },
+    {
+      "book_id": "71095",
+      "url": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "lang": "en",
+      "page_title": "Yoga_Vasistha",
+      "diagnostics": {
+        "page_id": 79811063,
+        "lang": "en",
+        "page_title": "Yoga_Vasistha",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "71248",
+      "url": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "lang": "en",
+      "page_title": "Yoga_Vasistha",
+      "diagnostics": {
+        "page_id": 79811063,
+        "lang": "en",
+        "page_title": "Yoga_Vasistha",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "71249",
+      "url": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "lang": "en",
+      "page_title": "Yoga_Vasistha",
+      "diagnostics": {
+        "page_id": 79811063,
+        "lang": "en",
+        "page_title": "Yoga_Vasistha",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "71326",
+      "url": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "lang": "en",
+      "page_title": "Yoga_Vasistha",
+      "diagnostics": {
+        "page_id": 79811063,
+        "lang": "en",
+        "page_title": "Yoga_Vasistha",
+        "extract_length": 0,
+        "raw_size": 75,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "73638",
+      "url": "https://en.wikipedia.org/wiki/Le_Disciple",
+      "lang": "en",
+      "page_title": "Le_Disciple",
+      "diagnostics": {
+        "page_id": 79589329,
+        "lang": "en",
+        "page_title": "Le_Disciple",
+        "extract_length": 0,
+        "raw_size": 124
+      },
+      "status": "failed",
+      "error": "Page has content but extract failed (likely special page type)"
+    },
+    {
+      "book_id": "74595",
+      "url": "https://en.wikipedia.org/wiki/The_President%27s_Daughter_(Britton_book)",
+      "lang": "en",
+      "page_title": "The_President's_Daughter_(Britton_book)",
+      "diagnostics": {
+        "page_id": 81497021,
+        "lang": "en",
+        "page_title": "The_President's_Daughter_(Britton_book)",
+        "extract_length": 0,
+        "raw_size": 95,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "74917",
+      "url": "https://en.wikipedia.org/wiki/Pan_(novel)",
+      "lang": "en",
+      "page_title": "Pan_(novel)",
+      "diagnostics": {
+        "page_id": 80770418,
+        "lang": "en",
+        "page_title": "Pan_(novel)",
+        "extract_length": 0,
+        "raw_size": 79,
+        "is_redirect": true
+      },
+      "status": "failed",
+      "error": "Page is a redirect"
+    },
+    {
+      "book_id": "75544",
+      "url": "https://simple.wikipedia.org/wiki/Peer_Gynt",
+      "lang": "simple",
+      "page_title": "Peer_Gynt",
+      "diagnostics": {
+        "page_id": 366826,
+        "lang": "simple",
+        "page_title": "Peer_Gynt",
+        "extract_length": 821
+      },
+      "status": "success",
+      "filename": "75544_simple.txt"
+    },
+    {
+      "book_id": "76366",
+      "url": "https://simple.wikipedia.org/wiki/Heart_of_Stone_(German_fairy_tale)",
+      "lang": "simple",
+      "page_title": "Heart_of_Stone_(German_fairy_tale)",
+      "diagnostics": {
+        "page_id": 1095726,
+        "lang": "simple",
+        "page_title": "Heart_of_Stone_(German_fairy_tale)",
+        "extract_length": 10310
+      },
+      "status": "success",
+      "filename": "76366_simple.txt"
+    }
+  ]
+}
