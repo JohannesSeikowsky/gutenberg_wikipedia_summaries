@@ -1,0 +1,21 @@
+Calculus Made Easy is a book on infinitesimal calculus originally published in 1910 by Silvanus P. Thompson. The original text continues to be available as of 2008 from Macmillan and Co., but a 1998 update by Martin Gardner is available from St. Martin's Press which provides an introduction; three preliminary chapters explaining functions, limits, and derivatives; an appendix of recreational calculus problems; and notes for modern readers. Gardner changes "fifth form boys" to the more American sounding (and gender neutral) "high school students," updates many now obsolescent mathematical notations or terms, and uses American decimal dollars and cents in currency examples.
+Calculus Made Easy ignores the use of limits with its epsilon-delta definition, replacing it with a method of approximating (to arbitrary precision) directly to the correct answer in the infinitesimal spirit of Leibniz, now formally justified in modern nonstandard analysis and smooth infinitesimal analysis.
+The first edition was published in 1910 and was reprinted four times. A second edition followed in 1914 and received fifteen reprints. A third edition, only slightly modified from the second, was reprinted six times by 1967. The original text is now in the public domain under US copyright law (although Macmillan's copyright under UK law is reproduced in the 1998 edition from St. Martin's Press). It can be freely accessed on Project Gutenberg.
+
+
+== Further reading ==
+Nature, Vol. 86, No. 2158 (March 9, 1911), p. 41. doi:10.1038/086041c0. A review of the first edition. Internet Archive; Google Books.
+Carl Linderholm, College Mathematics Journal, Vol. 31, No. 1 (January, 2000), pp. 77-79. A review of Silvanus P. Thompson, revised by Martin Gardner, Calculus Made Easy (St. Martin's Press, 1998).
+
+
+== References ==
+
+
+== External links ==
+
+Silvanus P. Thompson, Calculus Made Easy: Being a Very-Simplest Introduction to Those Beautiful Methods of Reckoning which Are Generally Called by the Terrifying Names of the Differential Calculus and the Integral Calculus (New York: MacMillan Company, 2nd Ed., 1914). Also available as the (London: MacMillan and Co., Limited, 2nd Ed., 1914) printing, which isn't published under Thompson's name, but instead has the byline of "by F.R.S." (i.e., Fellow of the Royal Society).
+
+ Calculus Made Easy at Project Gutenberg (Re-typeset in LaTeX)
+ Calculus Made Easy public domain audiobook at LibriVox
+Calculus Made Easy online
+Public-domain modernized edition based on the Project Gutenberg text

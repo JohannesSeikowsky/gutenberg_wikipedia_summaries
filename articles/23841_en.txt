@@ -1,0 +1,74 @@
+The Book of Han (Chinese: 漢書), finished in 111 CE, is one of the Twenty-Four Histories and covers the Western, or Former Han dynasty from the first emperor in 206 BCE to the fall of Wang Mang in 23 CE. The work was composed by Ban Gu (32–92 CE), an Eastern Han court official, with the help of his sister Ban Zhao, continuing the work of their father, Ban Biao. They modelled their work on the Records of the Grand Historian (c. 91 BCE), a cross-dynastic general history, but theirs was the first in this annals-biography form to cover a single dynasty. It is the best source, sometimes the only one, for many topics such as literature in this period. The Book of Han is also called the Book of the Former Han (前漢書; Qián Hàn shū) to distinguish it from the Book of the Later Han (後漢書; Hòu Hàn shū) which covers the Eastern Han period (25–220 CE), and was composed in the fifth century by Fan Ye (398–445 CE).
+
+
+== Contents ==
+This history developed from a continuation of Sima Qian's Records of the Grand Historian, initiated by Ban Gu's father, Ban Biao, at the beginning of the Later Han dynasty. This work is usually referred to as Later Traditions (後傳), which indicates that the elder Ban's work was meant to be a continuation. Other scholars of the time, including Liu Xin and Yang Xiong also worked on continuations of Sima's history. After Ban Biao's death, his eldest son Ban Gu was dissatisfied with what his father had completed, and he began a new history that started with the beginning of the Han dynasty. This distinguished it from Sima Qian's history, which had begun with China's earliest legendary rulers. In this way, Ban Gu initiated the Jizhuanti (紀傳體，纪传体) format for dynastic histories that was to remain the model for the official histories until modern times.
+For the periods where they overlapped, Ban Gu adopted nearly verbatim much of Sima Qian's material, though in some cases he also expanded it. He also incorporated at least some of what his father had written, though it is difficult to know how much. The completed work ran to a total of 100 fascicles 卷, and included essays on law, science, geography, and literature. Ban Gu's younger sister Ban Zhao finished writing the book in 111, 19 years after Ban Gu had died in prison. An outstanding scholar in her own right, she is thought to have written volumes 13–20 (eight chronological tables) and 26 (treatise on astronomy), the latter with the help of Ma Xu. As with the Records of the Grand Historian, Zhang Qian, a notable Chinese general who travelled to the west, was a key source for the cultural and socio-economic data on the Western Regions contained in the 96th fascicle. The "Annals" section and the three chapters covering the reign of Wang Mang were translated into English by Homer H. Dubs. Other chapters have been rendered into English by A. F. P. Hulsewé, Clyde B. Sargent, Nancy Lee Swann, and Burton Watson.
+The text includes a description of the Triple Concordance Calendar System 三統曆 developed by Liu Xin in fascicle 21. This is translated to English by Cullen.
+Ban Gu's history set the standard for the writings of later Chinese dynasties, and today it is a reference used to study the Han period. It is regarded as one of the "Four Histories" 四史 of the Twenty-Four Histories canon, together with the Records of the Grand Historian, Records of the Three Kingdoms and History of the Later Han.
+
+
+=== Annals ===
+Ji (紀, annal), 12 volumes. Emperors' biographies in strict annal form, which offer a chronological overview of the most important occurrences, as seen from the imperial court.
+
+
+=== Chronological tables ===
+Biao (表, tables), 8 volumes. Chronological tables of important people.
+
+
+=== Treatises ===
+Zhi (志, memoirs), 10 volumes. Each treatise describes an area of effort of the state.
+
+
+=== Biographies ===
+Zhuan (傳, exemplary traditions, usually translated as biographies), 70 volumes. Biographies of important people. The biographies confine themselves to the description of events that clearly show the exemplary character of the person. Two or more people are treated in one main article, as they belong to the same class of people. The last articles describe the relations between China and the various peoples at and beyond the frontiers, including the contested areas of Ba in present-day Yunnan; Nanyue in present-day Guangdong, Guangxi, and Vietnam; and Minyue in present-day Fujian.
+
+
+=== Mention of Japan ===
+The people of Japan make their first unambiguous appearance in written history in this book (Book of Han, Volume 28, Treatise on Geography), in which it is recorded, "The people of Wo are located across the ocean from Lelang Commandery, are divided into more than one hundred tribes, and come to offer tribute from time to time." It is later recorded that in 57, the southern Wa kingdom of Na sent an emissary named Taifu to pay tribute to Emperor Guangwu and received a golden seal. The seal itself was discovered in northern Kyūshū in the 18th century. According to the Book of Wei, the most powerful kingdom on the archipelago in the third century was called Yamatai and was ruled by the legendary Queen Himiko.
+
+
+=== Commentaries ===
+The comments of both Yan Shigu (581–645) and Su Lin are included in the Palace Edition. The Hanshu Buzhu 漢書補注 by Wang Xianqian (1842–1918) contains notes by a number commentators, including Wang himself. Hanshu Kuiguan 漢書管窺 by Yang Shuda is a modern commentary.
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+Works cited
+
+
+== Further reading ==
+Amies, Alex (2020). Hanshu Volume 95 The Southwest Peoples, Two Yues, and Chaoxian: Translation with Commentary. Gutenberg Self Publishing Press. ISBN 978-0-9833348-7-3.
+Dorn'eich, Chris M. (2008). Chinese sources on the History of the Niusi-Wusi-Asi(oi)-Rishi(ka)-Arsi-Arshi-Ruzhi and their Kueishuang-Kushan Dynasty. Shiji 110/Hanshu 94A: The Xiongnu: Synopsis of Chinese original Text and several Western Translations with Extant Annotations. Berlin. To read or download go to: [1]
+Dubs, Homer H. (trans.) The History of the Former Han Dynasty. 3 vols. Baltimore: Waverly, 1938–55. Digitized text. (Digitized text does not retain volume or page numbers and alters Dubs' footnote numbering.) Glossary.
+Honey, David B. "The Han shu Manuscript Evidence, and the Textual Criticism of the Shih-chi: The Case of the Hsiung-nu lieh-chuan", CLEAR 21 (1999), 67–97.
+Hulsewe, A. F .P. "A Striking Discrepancy between the Shih chi and the Han shu." T'oung Pao 76.4–5 (1990): 322–23.
+Hulsewé, A. F. P. (1993). ""Han shu 漢書"". In Loewe, Michael (ed.). Early Chinese Texts – A Bibliographical Guide. Berkeley, CA: Society for the Study of Early China & Institute of East Asian Studies, University of California Berkeley. pp. 129–136. ISBN 1-55729-043-1.
+Hulsewé, A. F. P. and Loewe, M. A. N. China in Central Asia: The Early Stage 125 BC – AD 23: an annotated translation of chapters 61 and 96 of the History of the Former Han Dynasty. Leiden: E. J. Brill, 1979.
+Knechtges, David R. (2010). "Han shu 漢書". In Knechtges, David R.; Chang, Taiping (eds.). Ancient and Early Medieval Chinese Literature: A Reference Guide, Part One. Leiden, South Holland: Brill. pp. 339–45. ISBN 978-90-04-19127-3.
+Sargent, Cyde B., Tr. Wang Mang; A Translation of the Official Account of His Rise to Power as Given in the History of the Former Han Dynasty, with Introd. and Notes. Shanghai: Graphic Art Book Co., 1947.
+Schaab-Hanke, Dorothee. Review of 'Politik und Geschichtsschreibung im alten China: Pan-ma i-t’ung 班馬異同' by Hans van Ess (Wiesbaden: Harrassowitz, 2014). T’oung Pao 102-1-3 (2016), pp. 225-235.
+Swann, Nancy Lee, tr. Food and Money in Ancient China: The Earliest Economic History of China to A.D. 25. Princeton: Princeton University Press, 1950; rpt. New York: Octagon Books, 1974.
+Stange, Hans O.H. "Die monographie über Wang Mang." Abhandlungen für die kunde des morgenlandes XXIII, 3, 1939.
+Stange, Hans O.H. Leben und persünlichkeit und werk Wang Mangs. Berlin, 1914.
+Tinios, Ellis. "Sure Guidance for One's Own Time: Pan Ku and the Tsan to Han-shu 94." Early China 9–10 (1983–85): 184–203.
+Van der Sprenkel, O. B. Pan Piao, Pan Ku, and the Han History. Centre for Oriental Studies Occasional Paper, no. 3. Canberra: Australian National University, 1964.
+Watson, Burton. 1974. Courtier and Commoner in Ancient China. Selections from the History of the Former Han. Columbia University Press, New York. (A translation of chapters 54, 63, 65, 67, 68, 71, 74, 78, 92, and 97).
+Wilbur, C. Martin. Slavery in China during the Former Han Dynasty, 206 B.C.–A.D. 25. Publications of Field Museum of Natural History, Anthropological Series, 35. Chicago: Field Museum of Natural History, 1943. Reprint. New York: Russell & Russell, 1967. Selected translations from the Han shu.
+Wu, Shuping, "Hanshu" ("Book of Han"). Encyclopedia of China (Chinese Literature Edition), 1st ed.
+Yap, Joseph P. (2019). The Western Regions, Xiongnu and Han, from the Shiji, Hanshu and Hou Hanshu. Amazon Digital Services LLC - KDP Print US. ISBN 978-1792829154.
+
+
+== External links ==
+
+Book of Han (Full text) – Chinese Text Project
+Silk Road Seattle (The Silk Road Seattle website contains many useful resources including a number of full-text historical works, maps, photos, etc.)
+Book of Han《漢書》 Chinese text with matching English vocabulary

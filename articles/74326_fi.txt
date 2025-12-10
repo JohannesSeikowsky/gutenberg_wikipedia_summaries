@@ -1,0 +1,855 @@
+Aisopoksen faabelit (m.kreik. Aἰσώπου μῦθοι, Aisōpū mȳthoi) on Aisopoksen nimiin laitettu kokoelma faabeleita eli eläinsatuja. Todellisuudessa kokoelma on syntynyt pitkän ajan kuluessa ja suuri osa faabeleista on myöhempää alkuperää. Faabeleissa puhujina toimivat yleensä eläimet, jotka edustavat erilaisia stereotyyppisiä ihmisluonteita. Satujen yhteyteen on usein liitetty moraalinen opetuslause. Faabeleita on käytetty paljon moraaliopetuksessa ja lapsille tehtyjen satujen, näytelmien ja sarjakuvien pohjana.
+
+
+== Historia ==
+
+
+=== Alkuperä ===
+Perinteisen käsityksen mukaan Aisopos, mikäli hän oli historiallinen henkilö, eli arkaaisella kaudella noin vuosina 620–563 eaa. Hänet esitettiin ulkomuodoltaan rumana orjana, ja hänet tunnettiin faabeleiden kertojana. Myöhemmän antiikin aikana kaikki faabelit laitettiin usein hänen nimiinsä. Todellisuudessa niin kutsuttujen Aisopoksen faabeleiden kokoelma on syntynyt pitkän ajan kuluessa eikä suuri osa niistä ole peräisin Aisopokselta. Osa on syntynyt jo useita satoja vuosia ennen Aisopoksen syntymää, ja osa taas on peräisin paljon häntä myöhäisemmältä ajalta. Todistettavasti vanhimpana pidetään tarinaa haukasta ja satakielestä, joka on viimeistään 700-luvulta eaa., sillä se esiintyy jo Hesiodoksen teoksessa Työt ja päivät. Monet kokoelman sadut ovat ainakin nykyaikaan säilyneessä muodossaan selvästi hellenistiseltä tai roomalaiselta kaudelta, eli useita satoja vuosia Aisopoksen arvioitua elinaikaa myöhemmältä ajalta. Tarina sudesta lammasten vaatteissa taas on tullut osaksi kokoelmaa vasta 1100-luvulla.
+
+Erään teorian mukaan Aisopoksen faabelit olisivat alkuperältään itämaisia. Tästä saattavat kertoa niiden muoto, niiden viittaukset aasialaisiin tapoihin sekä niiden ei-kreikkalaiset eläimet, kuten pantterit, riikinkukot ja apinat. Nykytutkimus on löytänyt samanlaisia tarinoita sumerilaisesta ja akkadilaisesta kulttuurista 2000-luvulta eaa. Aisopoksen faabeleita varhaisempaan aikaan ajoittuvat myös intialaiset Panchatantra-kokoelman eläintarinat. Ainakin osa niistä on voinut kulkeutua kreikkalaiseen kirjallisuuteen viimeistään hellenistisellä kaudella.
+Arabialaisessa kirjallisuudessa taas esiintyy Luqman, joka esitetään joskus Daavidin aikalaisena ja joskus Jobin sisaren tai tädin poikana. Arabien parissa ”Luqmanin viisaus” on ollut yhtä vertauskuvallista kuin ”Salomon viisaus”. Persialaisissa kuvauksissa Luqman esitetään rumana mustaihoisena orjana, ja on mahdollista, että osa tästä kuvauksesta on päätynyt osaksi myöhempiä Aisopoksen kuvauksia. Siksi on ehdotettu, että Luqmanin ja Aisopoksen nimiin laitetut tarinat voisivat palautua samoihin indo-persialaisiin lähteisiin.
+
+
+=== Aisopos-kokoelmien synty ===
+Aisopoksen ei uskota jättäneen jälkeensä varsinaisia kirjallisia töitä. Antiikin lähteet antavat kuvan siitä, että hänen nimiinsä laitetut faabelit tunnettiin ennen kaikkea suullisessa, ei kirjallisessa muodossa. Faabelit olivat suosiossa Ateenassa klassisella kaudella. Erityisen usein niihin viittaa komediakirjailija Aristofanes. Vaikuttaa kuitenkin siltä, että jo tuolloin Aisopoksen nimiin laitettiin myös muilta peräisin olleita faabeleita, sillä hän oli lajityypin tunnetuin edustaja. Eräs esimerkki tällaisesta faabelista löytyy Aristofaneen Linnuista; skoliastin mukaan sen todellinen kirjoittaja oli Arkhilokhos.
+Se, että faabelit tunnettiin ennen kaikkea suullisessa muodossa, tulee ilmi muun muassa siitä, että Aristofanes esittää Ampiaisissa Filokleonin oppineen faabelinsa suullisesti, ei kirjoista. Lisäksi Platon kertoo Sokrateen sepittäneen faabeleita runomuotoon, ja tällöinkin kyseessä olivat ne sadut, jotka tämä tunsi ja muisti. Antiikin lähteissä faabeleita lainataan usein hyvin erilaisissa muodoissa, mikä sekin viittaa siihen, ettei niitä tunnettu kirjallisena kokoelmana. Esimerkiksi Aristoteles lainaa Aisopokselta Momoksen valitusta siitä, etteivät härän sarvet olleet sijoitettu sen harteille, jolloin se voisi työntää niillä voimakkaammin, vaan sen herkimpään osaan, päähän; kun taas Lukianoksella vika esitetään siinä muodossa, etteivät härän sarvet olleet aivan sen silmien edessä. Mikäli faabeleista olisi ollut kirjallinen laitos, tällaisia eroja tuskin olisi esiintynyt.
+Platon, joka torjui Homeroksen runot ihannevaltiostaan, hyväksyi kuitenkin Aisopoksen sadut. Hän käyttää niistä termiä mythoi (μῦθοι). Vanhemman nimityksen faabeleille on arveltu olleen ainos (αἶνος), joka esiintyy myös Odysseuksen epiteetissä polyainos (πολύαινος). Hesiodoksella sen merkitys on muuttunut moraaliseksi faabeliksi. Aristofanes käyttää faabeleista termiä logoi (λόγοι), mikä kertoo niiden olleen proosamuotoisia. Vastaavasti Herodotos viittaa niiden kirjailijaan ilmaisulla ”Aisopos proosakirjailija” (Αἴσωπος ὁ λογόποιος, Aisōpos ho logopoios), sillä logos (λόγος) merkitsi alun perin proosaa siinä missä epē (ἔπη) runoutta, ja piti sisällään sekä faabelit että historian. Myöhemmin termi alkoi kuitenkin merkitä ennen kaikkea puheita, kun niistä tuli oma kirjallisuuden lajityyppinsä.
+Antiikin kirjallisuudessa Aisopoksen nimiin laitettuja faabeleita esiintyy myös muun muassa Ksenofonilla, Demostheneellä, Demadeella, Horatiuksella ja Plutarkhoksella. Ensimmäisen kirjallisen kokoelman Aisopoksen faabeleista teki ilmeisesti Demetrios Faleronlainen hellenistisen kauden alussa. Tämä kokoelma, Aisopeia, oli tarkoitettu lähdeaineistoksi puhujien käyttöön sekä koulutusta varten, sillä faabeleita käytettiin moraalisten esimerkkien lähteenä. Se käsitti arviolta satakunta faabelia, jotka oli poimittu aikaisemmasta kreikkalaisesta kirjallisuudesta. Teos oli merkittävässä roolissa faabeleiden välittämisessä myöhemmille sukupolville, mutta se ei ole säilynyt nykyaikaan.
+Nykyaikaan Aisopoksen faabelit ovat selviytyneet ennen kaikkea Phaedruksen (1. vuosisata eaa./jaa.) ja Babrioksen (100-luku) välittäminä. Phaedruksen kokoelma sisälsi noin 120 ja Babrioksen noin 200 faabelia. Joskus myöhäisantiikin aikana kreikankielisissä kokoelmissa kiersi arviolta ainakin 350 faabelia.
+
+Faabelit nousivat uuteen suosioon 900-luvulta lähtien, jonka jälkeen niitä koottiin jälleen kokoelmiksi Aisopoksen nimen alle. Mainitulla vuosisadalla syntyi latinankielinen proosamuotoisten faabeleiden kokoelma, joka kulkee Romuluksen nimissä. Hieman myöhemmin munkki Ademar kokosi elegiamitassa olleita latinankielisiä faabeleita.
+
+
+=== Käsikirjoitukset ===
+Aisopoksen nimissä nykyaikaan säilyneet faabelit ovat proosamuotoisia. Monet niistä ovat selvästi epäperäisiä. Faabeleiden tärkeimpiä kokoelmia on kolme. Ensimmäinen tunnetaan Heidelbergin käsikirjoituksesta, ja julkaistiin vuonna 1610. Siihen kuuluu 136 faabelia. Niiden epäperäisyys tulee ilmi muun muassa siitä, että ne mainitsevat puhuja Demadeen, joka eli 200 vuotta Aisoposta myöhemmin, sekä pitävät sisällään kokonaisen lauseen, joka vaikuttaa olevan peräisin Jobin kirjasta. Osa faabeleista vaikuttaa olevan kholiambissa ja näin oletettavasti peräisin Babriokselta.
+Toinen kokoelma on Maksimos Planudeen 1200-luvulla tekemä. Sen alkuun on liitetty Aisopoksen elämäkerta. Myös tässä kokoelmassa on yksi selvä Saarnaajan kirjaan perustuva hebraismi, paljon myöhempiä kreikkalaisia sanoja, sekä viitteitä Babrioksen kholiambeista. Kolmas kokoelma on Firenzen käsikirjoituksessa, ja se julkaistiin vuonna 1809. Se on noin sata vuotta Planudesta vanhempi ja sisältää saman elämäkerran.
+
+
+=== Tekstilaitokset ja käännökset ===
+Aisopoksen faabeleita alettiin painaa heti kirjapainotaidon alkuvaiheessa. Faabeleiden ensimmäiset tekstilaitokset olivat Buono Accorson Milanossa 1400-luvun lopulla toimittama laitos, joka koostui Planudeen tekemästä kokoelmasta sekä latinankielisestä käännöksestä; Robert Estiennen eli Robertus Stephanuksen laitos (Pariisi, 1546), joka käsitti saman kokoelman sekä joitakin lisäfaabeleita Bibliothèque du Roin käsikirjoituksesta; sekä Isaac Nicolas Neveletin laitos (Frankfurt am Main, 1610), joka lisäsi näihin Heidelbergin käsikirjoituksen faabelikokoelman.
+Myöhempiä samojen faabeleiden laitoksia olivat muun muassa John Hudsonin (Marianus) laitos (Oxford, 1718, 8vo.), J. G. Hauptmannin laitos (Leipzig, 1741), J. M. Heusingerin laitos (Leipzig, 1756), J. C. G. Ernestin laitos (Leipzig, 1781) ja G. H. Schaeferin laitos (Leipzig, 1810, 1818 ja 1820). Francesco de Furia lisäsi näihin uusia faabeleita Firenzen käsikirjoituksesta, ja hänen laitoksensa julkaisi uudelleen Adamántios Koraís (Coray; Pariisi, 1810). J. G. Schneider kokosi 231 faabelia omaan laitokseensa (Breslau, 1810).
+Faabeleiden varhaisia käännöksiä oli Marie de Francen ranskannos 1100-luvulla. Myöhemminkin faabelit ovat olleet Euroopassa laajalti tunnettuja, ja niitä on mukailtu paljon useissa eri kielissä. Esimerkiksi Ranskassa Jean de la Fontainen vuonna 1668 julkaistut faabelikäännökset ja omat mukaelmat luetaan ranskankielisen kirjallisuuden klassikoihin. Toinen tunnettu aisoposlaisia faabeleita kääntänyt ja itse sepittänyt oli venäläinen Ivan Krylov (1809, 1843).
+Faabeleita hyödynnettiin keskiajalta lähtien erityisesti kouluopetuksessa, myös Suomessa. Niiden avulla opetettiin kreikkaa, moraalin perusteita ja eläinoppia. Tämän vuoksi faabeleita on suomennettu laajalti jo 1700- ja 1800-luvuilla. Myöhemminkin faabeleista on julkaistu useita erilaisia suomennoskokoelmia. Kattavin on Jari Tammen suomennos (Pikku-idis, 2010).
+
+
+== Sisältö ==
+Aisopoksen nimiin laitettuja faabeleita arvellaan olevan laskutavasta riippuen noin 350–900. Laskutapojen erot johtuvat siitä, että faabeleista on eri traditioissa lukuisia eri versioita, joissa on paljon päällekkäisyyttä. Faabeleissa puhujina toimivat yleensä eläimet, joskus ihmiset tai jumalat ja joskus jopa elottomat kohteet, kuten vuoret tai joet. Joskus faabelit ovat mytologisia syntytarinoita, tunnetuista henkilöistä kertovia anekdootteja tai suoranaisia vitsejä, jotka on tarkoitettu huvittamaan yleisöä.
+
+Faabeleissa esiintyvät eläimet edustavat yleensä erilaisia stereotyyppisiä ihmisluonteita ja ihmisten hyveitä ja paheita: ketut ovat ovelia, leijonat urheita ja jänikset pelkureita. Eri versioissa eläimet ovat kuitenkin saattaneet vaihtua toisiksi. Tällaista sovittamista on tehty erityisesti, kun faabelit ovat kulkeutuneet kulttuurista ja maantieteelliseltä alueelta toiselle. Faabeleiden maailma on usein julma; Tammen sanoin se on ”sydämettömien ihmisten maailma: murhien, pahanteon, pilkan ja halveksunnan maailma – – Esikristillisessä antiikin yhteisössä toimii viidakon laki ja omillaan olemisen moraali – – jos näet lähimmäisesi makaavan maassa, älä auta häntä ylös vaan potki häntä lisää”. Faabelit ovatkin ennen kaikkea aikuisille tarkoitettuja, eivätkä usein sovellu lapsille ainakaan sellaisinaan.
+Faabeleihin on usein liitetty moraalinen opetuslause. Se voi olla joko endomythion eli tarinansisäinen, epimythion eli tarinanjälkeinen tai harvemmin promythion eli tarinaa edeltävä. Useissa faabeleissa on sekä endomythion että epimythion. Moraaliopetukset on lisätty faabeleihin jälkikäteen jossakin niiden historian vaiheessa alkaen roomalaiselta kaudelta, kun faabeleita on käytetty opetuksessa. Usein opetuslauseet ovat holhoavia ja jopa tekopyhiä, eivätkä ne aina edes sovi kovin hyvin itse tarinaan. Kaikissa faabeleissa moraaliopetusta ei ole.
+Tunnettuja faabeleita ovat muun muassa ”Kettu ja viinirypäleet”, jossa kettu ei ylety viinirypäleisiin ja joka tunnetaan suomenkielisen version lausahduksesta ”happamia, sanoi kettu pihlajanmarjoista”; ”Poika, joka huusi sutta”, jossa paimenpoika valehtelee suden tulosta liian usein, niin ettei häntä lopulta uskota, kun susi oikeasti tulee ja syö hänen lampaansa; ”Jänis ja kilpikonna”, jossa kilpikonna voittaa juoksukilpailun jänistä vastaan; ”Maalaishiiri ja kaupunkilaishiiri”, joka kuvaa maalaiselämän kaupunkilaiselämää rauhallisemmaksi, vaikka kaupunkilaiselämä voikin olla aineellisesti yltäkylläisempää; ”Muurahainen ja heinäsirkka”, jossa kesät soitteluun keskittynyt heinäsirkka joutuu pulaan talven saapuessa, siinä missä ahkera muurahainen oli koonnut talvivarastoja; sekä ”Susi lampaan vaatteissa”, jossa susi soluttautuu lampaiden joukkoon helpon aterian toivossa, mutta tuleekin teurastetuksi lampaana.
+
+
+=== Luettelo faabeleista (Perryn indeksi) ===
+Aisopoksen faabeleita on järjestetty eri tavoin. Usein ne on luetteloitu aakkosjärjestyksessä joko faabelin kreikan- tai latinankielisen nimen tai ensimmäisten sanojen mukaan. Seuraavassa faabelit on esitetty numeroituna Ben Edwin Perryn muodostaman niin kutsutun Perryn indeksin mukaisesti. Siinä faabeleita on 584. Niin kutsuttu Laajennettu Perry käsittää 725 faabelia. Tammen suomennoskokoelma sisältää 453 faabelia. Siinä käytetään erilaista numerointia; sikäli kun faabelit on voitu tunnistaa samaksi, suomennoskokoelmassa mukana olevien faabeleiden numero on suluissa faabelin nimen perässä.
+
+
+==== 1–100 ====
+
+1. Kotka ja kettu (258)
+2. Kotka, naakka ja paimen (70)
+3. Kotka ja pillerinpyörittäjä (259)
+4. Haukka ja satakieli (283)
+5. Ateenalainen velallinen (407)
+6. Vuohipaimen ja villivuohet (341)
+7. Kissa ja kanat; eli Kissa kanojen lääkärinä (102)
+8. Aisopos telakalla (247)
+9. Kettu ja pukki (43)
+10. Kettu ja leijona (77)
+11. Kalastaja, joka soitti huilua (361)
+12. Kettu ja pantteri (292)
+13. Kalastajat, jotka saivat saaliiksi kiven (363)
+14. Apina ja kettu (286)
+15. Kettu ja viinirypäleet (35)
+16. Kissa ja kukko (284)
+17. Kettu ja katkennut häntä (329)
+18. Kalastaja ja pikkukala (349)
+19. Kettu ja piikkipensas (61)
+20. Kettu ja krokotiili (287)
+21. Kalastajat ja tonnikala (362)
+22. Kettu ja puunhakkaaja (238)
+23. Kukot ja peltopyy (282)
+24. Turvonnut kettu (322)
+25. Jäälintu (371)
+26. Kalastaja ja joki (168)
+27. Kettu ja naamio (250)
+28. Sairas mies ja jumalat (423)
+29. Miilunpolttaja ja vanuttaja (166)
+30. Haaksirikkoutunut mies (419)
+31. Keski-ikäinen mies ja rakastajattaret (401)
+32. Murhamies (317)
+33. Rehvasteleva urheilija (28)
+34. Sairas mies ja vaimo (422)
+35. Mies ja satyyri (120)
+36. Mies ja oraakkeli (426)
+37. Sokea mies ja sudenpentu (153)
+38. Susi ja kyntäjä (110)
+39. Räystäspääsky ja muut linnut (395)
+40. Tähtitieteilijä (98)
+41. Kettu, karitsa ja koira (226)
+42. Maanviljelijä ja pojat (398)
+43. Kaksi sammakkoa (321)
+44. Zeus ja sammakot (215)
+45. Härät ja akselit (17)
+46. Pohjoistuuli ja aurinko (302)
+47. Lapsi ja uhrisisälmykset (392)
+48. Hemppo ja lepakko; eli Satakieli ja lepakko (360)
+49. Karjapaimen ja leijona (10)
+50. Fretti ja Afrodite (115)
+51. Maanviljelijä ja käärme (174)
+52. Maanviljelijä ja koirat (355)
+53. Vanha mies ja riitaisat pojat (399)
+54. Etanat (358)
+55. Piiat ja kukko (334)
+56. Naisnoita (97)
+57. Vanha nainen ja lääkäri (107)
+58. Leski ja kana (335)
+59. Fretti ja viila (65)
+60. Vanhus ja Kuolema (415)
+61. Maanviljelijä ja Sattuma (352)
+62. Delfiinit, valaat ja törö (20)
+63. Demades ja faabeli (1)
+64. Koiran purema mies (319)
+65. Matkamiehet ja karhu (179)
+66. Nuoret miehet ja teurastaja (279)
+67. Matkamiehet ja kirves (180)
+68. Kaksi vihamiestä (253)
+69. Sammakkonaapurukset (396)
+70. Kaisla ja oliivipuu (301)
+71. Pelkuri ja kultainen leijona (141)
+72. Mehiläishoitaja (195)
+73. Apina ja delfiini (85)
+74. Hirvi ja kuvajainen (56)
+75. Yksisilmäinen hirvi (373)
+76. Peura ja leijona (372)
+77. Naarashirvi ja viiniköynnös (199)
+78. Merenkulkijat (364)
+79. Kissa ja hiiret (63)
+80. Kärpäset ja hunaja (389)
+81. Kettu ja apina (214)
+82. Aasi, kukko ja leijona (11)
+83. Apina ja kameli (114)
+84. Kaksi pillerinpyörittäjää (44)
+85. Porsas ja lampaat (326)
+86. Rastas ja myrttimarjat (388)
+87. Kana, joka muni kultamunia (336)
+88. Hermes ja kuvanveistäjä (408)
+89. Hermes ja Teiresias (425)
+90. Kyy, vesikäärme ja sammakot (184)
+91. Aasi ja sylikoira (68)
+92. Metsästyskoira ja vahtikoira (163)
+93. Kyy ja viila (66)
+94. Isä ja kaksi tytärtä (169)
+95. Aviomies ja hankala vaimo (405)
+96. Kyy ja kettu (248)
+97. Kili, susi ja huilu (117)
+98. Kili ja susi (22)
+99. Mies ja Hermeen patsas (409)
+100. Zeus, Prometheus, Athene ja Momos (430 )
+
+
+==== 101–200 ====
+
+101. Naakka kauneuskilpailussa; eli Naakka lainahöyhenissä (92)
+102. Hermes ja Maa (427)
+103. Hermes ja käsityöläiset
+104. Zeus ja Apollon (306)
+105. Hevonen, härkä, koira ja ihminen (436)
+106. Zeus ja kilpikonna (447)
+107. Zeus ja kettu (116)
+108. Zeus ja ihminen
+109. Zeus ja häpeä (435)
+110. Puolijumala (351)
+111. Herakles ja Plutos (386)
+112. Muurahainen ja pillerinpyörittäjä (265)
+113. Tonnikala ja hai (254)
+114. Lääkäri hautajaisissa (106)
+115. Linnunpyytäjä ja aspiskyy (272)
+116. Rapu ja kettu (130)
+117. Kameli ja Zeus (444)
+118. Majava
+119. Vihannekset ja rikkakasvit (440)
+120. Puutarhuri ja koira (198)
+121. Muusikko kotona (37)
+122. Varkaat ja kukko (261)
+123. Naakka ja korpit (90)
+124. Kettu ja korppi (51)
+125. Varis ja korppi (93)
+126. Naakka ja kettu (343)
+127. Varis ja koira (94)
+128. Haarahaukka ja käärme (271); eli Korppi ja käärme (374)
+129. Naakka ja kyyhkyset (91)
+130. Vatsa ja jalat (162)
+131. Naakka ja naru (209)
+132. Koira leijonajahdissa (5)
+133. Koira ja kuvajainen (57)
+134. Susi ja nukkuva koira (40)
+135. Koirat ja vuodat (320)
+136. Koira ja jänis (227)
+137. Hyttynen ja sonni (16)
+138. Jänikset ja sammakot (137)
+139. Lokki ja haarahaukka (129)
+140. Leijona ja maanviljelijän tytär (112)
+141. Leijona ja sammakko (76)
+142. Kettu, leijona ja jalanjäljet (”Jäljet pelottavat”) (220)
+143. Leijona ja sonni (47)
+144. Maanviljelijä ja teljetty leijona (338)
+145. Leijona ja delfiini (183)
+146. Leijona, hiiri ja kettu (142)
+147. Leijona, karhu ja kettu (157)
+148. Leijona, jänis ja peura (348)
+149. Leijona, hyeena ja kettu (218)
+150. Leijona ja hiiri (172)
+151. Leijona ja aasi metsästävät yhdessä (13)
+152. Maantierosvo ja mulperipuu (316)
+153. Sudet, lampaat ja pässi (146)
+154. Susi ja hevonen (327)
+155. Susi ja karitsa (285)
+156. Susi ja harmaahaikara (188)
+157. Susi ja vuohi (48)
+158. Susi ja lastenhoitaja (346)
+159. Susi ja uuhi; eli Kolme totuutta (50)
+160. Haavoittunut susi ja uuhi (147)
+161. Ennustaja (96)
+162. Vauva ja varis
+163. Mehiläiset ja Zeus (445)
+164. Kybelen kerjäläispapit ja aasi (202)
+165. Hiiret ja fretit (369)
+166. Zeus ja muurahainen (446)
+167. Hiiri keittoruukussa (390)
+168. Haaksirikkoinen ja meri (82)
+169. Nuori tuhlari ja pääsky (80)
+170. Sairas mies ja lääkäri (105)
+171. Lepakko, lokki ja vatukka (439)
+172. Lepakko ja lumikot (124)
+173. Puunhakkaaja ja Hermes (424)
+174. Matkamies ja Sattuma (353)
+175. Matkamiehet ja plataani (201)
+176. Maanviljelijä ja jäätynyt käärme (340)
+177. Matkamiehet ja risukasa (344)
+178. Matkamies ja Hermes (421)
+179. Aasi ja puutarhuri (206)
+180. Suolakauppias ja aasi (273)
+181. Aasi ja härkä (160)
+182. Aasi kantaa jumalan patsasta (79)
+183. Villiaasi ja kesy aasi (204)
+184. Aasi ja laulukaskaat (67)
+185. Aasit ja Zeus (411)
+186. Aasi ja aasinkuljettaja (394)
+187. Leijona ja hevonen (101)
+188. Kettu, aasi ja leijonantalja; eli Aasi leijonantaljassa (86)
+189. Aasi ja sammakot (230)
+190. Aasi, korppi ja susi (242)
+191. Aasi, kettu ja leijona (275)
+192. Kana ja käärmeenmunat (323)
+193. Linnunpyytäjä ja töyhtökiuru (178)
+194. Kattohaikara ja kurjet (186)
+195. Kameli ja ihmiset (78)
+196. Käärme ja rapu (270)
+197. Käärme, fretti ja hiiret (158)
+198. Zeus ja tallattu käärme (315)
+199. Poika ja skorpioni (62)
+200. Varas ja äiti (400)
+
+
+==== 201–300 ====
+
+201. Kyyhkynen ja maalaus (391)
+202. Kyyhkynen ja varis (293)
+203. Apina ja kalastajat (69)
+204. Rikas mies ja parkitsija (167)
+205. Rikas mies ja itkijänaiset (333)
+206. Paimen, koira ja sairas lammas (234)
+207. Paimen ja meri (81)
+208. Paimen, lampaat ja viitta (194)
+209. Paimen ja sudenpennut (152)
+210. Poika, joka huusi sutta (278)
+211. Hukkuva poika (359)
+212. Keritty lammas (236)
+213. Granaattiomenapuu, omenapuu, oliivipuu ja orapihlaja (300)
+214. Myyrä ja äiti (32)
+215. Ampiaiset, peltopyyt ja viinitarhuri (264)
+216. Ampiainen ja käärme (252)
+217. Sonni ja villivuohet (8)
+218. Apinan lapset (397)
+219. Riikinkukko ja naakka (212)
+220. Kameli, norsu ja apina (213)
+221. Zeus ja käärme (281)
+222. Emakko, koira ja Afrodite (296)
+223. Sika ja kettu raskaana olemisen keveydestä (295)
+224. Villisika ja kettu (414)
+225. Saiturin kulta (377)
+226. Jänis ja kilpikonna (2)
+227. Pääsky ja käärme (308)
+228. Villihanhet ja kurjet (187)
+229. Pääsky ja varis (291)
+230. Kilpikonna ja kotka (127)
+231. Kirppu ja painija (417)
+232. Ketut joella (231)
+233. Joutsen ja omistaja (350)
+234. Susi ja paimen (149)
+235. Muurahainen ja kyyhkkynen (170)
+236. Matkamiehet ja korppi (95)
+237. Mies ja uusi aasi (60)
+238. Villikyyhkyt ja kesykyyhkyt (132)
+239. Horkoksen rangaistus (313)
+240. Prometheus ja ihmiset (428)
+241. Laulukaskas ja kettu (53)
+242. Hyeena ja kettu (122)
+243. Kaksi hyeenaa (123)
+244. Papukaija ja fretti (30)
+245. Pelkuri ja korpit (143)
+246. Vaimo ja juoppo aviomies (406)
+247. Diogenes ja lautturi (193)
+248. Diogenes ja kalju mies (403)
+249. Tanssiva kameli (113)
+250. Saksanpähkinäpuu (200)
+251. Töyhtökiuru (387)
+252. Koira, kukko ja kettu (276)
+253. Koira ja näkinkenkä (393)
+254. Koira ja teurastaja (280)
+255. Hyttynen ja leijona (3)
+256. Jänikset ja ketut (190)
+257. Naarasleijona ja kettunarttu (294)
+258. Leijona, susi ja kettu (219)
+259. Leijona, Prometheus ja norsu (140)
+260. Susi ja varjo (59)
+261. Karitsa ja susi (49)
+262. Oliivipuu ja muut puut (Puut valitsevat kuninkaan)
+263. Aasi ja muuli (159)
+264. Aasi, koira ja kirje (328)
+265. Linnunpyytäjä ja peltopyy (133)
+266. Kaksi kantolaukkua (434)
+267. Paimen, sudenpentu ja susi (150)
+268. Kastemato ja käärme (74)
+269. Hirvi, hevonen ja metsästäjä (189)
+270. Seinä ja seiväs (83)
+271. Talvi ja kevät (303)
+272. Mies ja kirppu (260)
+273. Kirppu ja härkä (14)
+274. Zeus ja hyvät asiat (433)
+275. Kaksi miestä, kotka ja kettu; eli Kotka, jolta leikattiin siivet (197)
+276. Kotka ja nuoli (134)
+277. Satakieli ja pääsky (441)
+278. Kaksi miestä kiistelemässä jumalista; eli Ateenalainen ja thebalainen (305)
+279. Vuohi ja aasi (274)
+280. Vuohipaimen ja vuohi (244)
+281. Kaksi kukkoa ja kotka (370)
+282. Kalastaja ja kalat (384)
+283. Maanviljelijä ja kettu (339)
+284. Mies ja leijona väittelemässä (307)
+285. Mies ja Hermeen patsas (376)
+286. Hämähäkki ja lisko
+287. Arabi ja hänen kamelinsa
+288. Karhu ja kettu (228)
+289. Sammakko ja kettu; eli Sammakko lääkärinä (103)
+290. Härät ja teurastaja (324)
+291. Härkäkuski ja Herakles (418)
+292. Aasi ja härkä (19)
+293. Mies ja fretti
+294. Riikinkukko ja kurki (290)
+295. Maanviljelijä, joka kadotti kuokkansa
+296. Maalaismies ja kotka (173)
+297. Maanviljelijä ja kurjet (356)
+298. Maanviljelijä ja kottaraiset
+299. Maanviljelijä ja puu (375)
+300. Hieho ja härkä (31)
+
+
+==== 301–400 ====
+
+301. Ruma orjatar ja Afrodite (416)
+302. Tammet ja Zeus (135)
+303. Mänty ja kiilat (136)
+304. Kuusi ja piikkipensas (298)
+305. Sairas irvi ja hänen ystävänsä
+306. Hermes, mies ja muurahaiset (314)
+307. Hermes ja kuvanveistäjä
+308. Hermes ja koira (410)
+309. Hermes ja arabit
+310. Eunukki ja uhripappi (121)
+311. Ihmiset ja Zeus (429)
+312. Zeus ja hyvien asioiden ruukku (432)
+313. Zeus ja ostrakonit (431)
+314. Aurinko ja sammakot (342)
+315. Muuli (26)
+316. Herakles ja Athene (451)
+317. Sairas mies ja puoskari (104)
+318. Kilpahevonen (366)
+319. Hevonen ja tallirenki (237)
+320. Hevonen ja sotilas (365)
+321. Kameli, joka paskansi jokeen (412)
+322. Rapu ja emo (225)
+323. Korppi ja Hermes (420)
+324. Kipeä korppi ja emo (224)
+325. Maanviljelijä ja töyhtökiuru
+326. Metsästäjä ja puunhakkaaja (9)
+327. Metsästäjä ja kalastaja
+332. Koira ja kulkunen (29)
+333. Jänis ja kettu (54)
+334. Jänis ja leijonan oikeus (222)
+335. Leijona ja kotka
+336. Leijona, kettu ja hirvi (221)
+337. Leijona, kettu ja apina
+338. Leijona ja villisika (156)
+339. Leijona ja hyeena (217)
+340. Leijona ja jousimies (139)
+341. Leijona ja vasa (210)
+342. Sudet ja koirat (144)
+343. Koirat ja kenraali; eli Sudet ja koirat sodassa (154)
+344. Kettu, susi ja leijonat; eli Susi leijonien joukossa (89)
+345. Kettu, susi ja lahja (177)
+346. Susi ja koira puupannassa (203)
+347. Susi ja leijona (318)
+348. Susi ja aasi (223)
+349. Kerskaileva lamppu (24)
+350. Avionrikkoja ja aviomies
+351. Nuori hirvi ja hirviemo (138)
+352. Maalaishiiri ja kaupunkilaishiiri (381)
+353. Hiiri ja härkä
+354. Hiiri ja sepät
+355. Totuus autiomaassa (449)
+356. Lampaat ja koira (164)
+357. Aasi, hevonen ja sota; eli Aasi, joka kadehti hevosta (383)
+358. Aasi leijonana (87)
+359. Aasi katolla
+360. Kettu, aasi ja orjantappura (249)
+361. Linnunpyytäjä, peltopyy ja kukko (262)
+362. Käärmeen häntä (73)
+363. Isä, poika ja leijona; eli Poika ja maalattu leijona (354)
+364. Eläinten kauneuskilpailu (34)
+365. Paimen, susi ja koira (148)
+366. Paimen ja sudenpentu (151)
+367. Polemos ja Hybris (448)
+368. Joki ja talja (23)
+369. Ruusu ja amarantti (299)
+370. Torvensoittaja (263)
+371. Lisko ja käärme
+372. Leijona ja kolme sonnia (155)
+373. Muurahainen ja heinäsirkka (266)
+374. Pukki ja viiniköynnös (257)
+375. Kalju ratsastaja (402)
+376. Sammakko ja härkä (75)
+377. Varis ja ylpeä pääsky (25)
+378. Ruukut (191)
+379. Mies, joka oli rakastunut omaan tyttäreensä
+380. Kuninkaan poika ja hänen suolensa
+381. Vanha maanviljelijä ja aasit
+382. Delfoilaiset ja heidän esivanhempansa
+383. Prometheus ja kaksi tietä (450)
+384. Hiiri ja sammakko (269)
+385. Unet
+386. Typerä tyttö
+387. Mies ja itikka (84)
+388. Leski ja kyntäjä
+389. Kissan syntymäpäiväjuhlat (46)
+390. Varis ja vesiruukku (413)
+391. Merimiehet ja kivet
+392. Susi ja kipeä aasi (99)
+393. Etiopialainen (108)
+394. Kettu ja leijona metsästäjinä (72)
+395. Käärme ja kotka
+396. Haarahaukka, joka hirnui (438)
+397. Linnunpyytäjä ja laulukaskas
+398. Korppi ja joutsen (128)
+399. Hanhi ja joutsen (64)
+400. Paimen ja mehiläiset
+
+
+==== 401–500 ====
+
+401. Mies, tamma ja varsa (196)
+402. Metsästäjä ja ratsastaja (36)
+403. Metsästäjä ja koira
+404. Metsästäjä ja susi
+405. Kyklooppi
+406. Koirat ja leijonannahka
+407. Koira ja susi (4)
+408. Jänis kaivossa ja kettu
+409. Kettu ja vangittu leijona (21)
+410. Nuorukainen ja nainen
+411. Villiaasi, kesy aasi ja leijona (205)
+412. Joet ja meri (38)
+413. Oliivipuu ja viikunapuu
+414. Sonni, leijonaemo ja villisika (229)
+415. Seppä ja koira (233)
+416. Karhu, kettu ja leijona metsästämässä yhdessä
+417. Susi ja Lykofron
+418. Struts
+419. Varas ja majatalonpitäjä
+420. Kaksi avionrikkojaa
+421. Merimies ja hänen poikansa
+422. Kotka, joka oli aiemmin ihminen
+423. Aisopos ja narttu
+424. Aisopos korinttilaisille
+425. Kalastaja ja mustekala
+426. Kettu ja kattohaikara (256)
+427. Siili, kettu ja punkit (192)
+428. Sybarislainen ja vaunut
+429. Kettu ja aaltoja laskenut mies
+430. Ihmisen luominen
+431. Ihmisten ja eläinten kieli
+432. Apollon, muusat ja dryadit
+433. Afrodite ja kauppias
+434. Peukaloinen kotkan selässä
+435. Musta kissa
+436. Kybelen pappi ja leijona
+437. Pöllö ja linnut
+438. Ruukku nostaa oikeusjutun; eli Sybarislainen nainen ja ruukku (301)
+439. Laakeripuu ja oliivipuu
+440. Karannut orja
+441. Juhlapäivä ja sen jälkeinen päivä
+442. Punastumisen alkuperä
+443. Harmaahaikara ja hiirihaukka
+444. Eros ihmisten joukossa
+445. Nautinto ja Kipu
+446. Käki ja pikkulinnut
+447. Töyhtökiuru ja sen töyhtö
+448. Orfeus ja koirat (437)
+449. Koira talvella ja kesällä; eli Koiran talo
+450. Leijonat ja jänikset
+451. Susi lampaan vaatteissa (88)
+452. Susi ja aasi oikeudessa
+453. Susi ja paimenet (243)
+454. Hiiri ja osteri
+455. Momos ja Afrodite
+456. Typerys ja siivilä
+457. Poika ja villihevonen
+458. Aasi ja Dipsas-käärme
+459. Aasin kurkistus
+460. Aasi ja varjo (304)
+461. Silmät ja hunaja; eli Silmät ja suu (71)
+462. Kuningatar Arsinoen suru
+463. Tanssivat apinat
+464. Apinat kaupunkia perustamassa
+465. Paimen, teurastaja ja karitsa
+466. Yltäkylläisyys ja Puute
+467. Satyyri ja tuli
+468. Kuu ja hänen äitinsä
+469. Leijona, härkä ja sen sarvet
+470. Laulukaskaat
+471. Täit ja maanviljelijä
+472. Turhamainen naakka ja riikinkukko
+473. Jänis ja varpunen (267)
+474. Susi, kettu ja apina (311)
+475. Suutarista lääkäriksi
+476. Vanhus ja aasi (207)
+477. Lammas, hirvi ja susi (309)
+478. Lammas, koira ja susi
+479. Synnyttävä nainen (404)
+480. Koiraemo ja pennut (42)
+481. Vanha leijona, villikarju, härkä ja aasi
+482. Koirat ja krokotiilit
+483. Koira ja aarre (379)
+484. Aasi loukkaa villikarjua
+485. Sammakot ja taistelevat sonnit (211)
+486. Haarahaukka ja kyyhkyset
+487. Nuori härkä, leijona ja varas
+488. Kotka, kissa ja villisian emakko
+489. Keisari Tiberius ja lakeija
+490. Kotka ja varis
+491. Kaksi muulia (380)
+492. Hirvi härkätallissa (131)
+493. Vanha nainen ja viiniruukku
+494. Pantteri ja paimenet
+495. Aisopos ja maanviljelijä
+496. Teurastaja ja apina
+497. Aisopos ja hulinoitsija (255)
+498. Kärpänen ja muuli (15)
+499. Veli ja sisar
+500. Sokrates ja ystävät (182)
+
+
+==== 501–584 ====
+
+501. Augustus ja murha; eli Uskomisesta ja epäuskomisesta
+502. Eunukin vastaus röyhkimykselle
+503. Kukko ja helmi (331)
+504. Mehiläiset, kuhnurit ja ampiaiset (312)
+505. Aisopos ja jousi (453)
+506. Koira ja karitsa vuohien joukossa
+507. Laulukaskas ja pöllö
+508. Jumalat ja heidän puunsa
+509. Hera (Juno) ja riikinkukko (442)
+510. Aisopos ja hänen lamppunsa
+511. Fretti ja hiiret
+512. Äiti ja kolme tytärtä; eli Arvoituksellinen testamentti
+513. Varas ja hänen lamppunsa
+514. Apina ja leijonan hengitys (216)
+515. Prometheus
+516. Zeus (Juppiter) ja vuohet; eli Parrakkaat kutut
+517. Zeus (Juppiter) ja koirat
+518. Kettu ja lohikäärme (378)
+519. Simonides ja haaksirikko (385)
+520. Vuori raskaana (345)
+521. Muurahainen ja kärpänen (289)
+522. Simonides ja jumalkaksoset; eli Kuinka jumalat pelastivat Simonideen
+523. Demetrios ja Menandros (245)
+524. Kaksi sotilasta ja ryöväri (181)
+525. Kalju mies ja kärpänen
+526. Sika, aasi ja ohra
+527. Pelle, maanviljelijä ja sika
+528. Kaksi kaljua miestä
+529. Ruhtinas-niminen huilunsoittaja
+530. Tilaisuus (452)
+531. Sonni ja vasikka (18)
+532. Vanha koira ja isäntä (240)
+533. Apina ja kettu
+534. Hermes (Mercurius) ja kaksi naista
+535. Prometheus and Huijaus
+536. Apollonin oraakkeli
+537. Aisopos ja kirjailija
+538. Pompeius ja hänen sotilaansa
+539. Hera (Juno), Afrodite (Venus) ja kana
+540. Vanha härkä ja nuori härkä
+541. Aisopos ja atleetti (27)
+542. Aasi ja lyyra (332)
+543. Leski ja sotilas
+544. Kaksi kosijaa
+545. Aisopos ja hänen emäntänsä
+546. Kukko ja kissat
+547. Synnyttävä emakko ja susi
+548. Aisopos ja karannut orja (208)
+549. Sotaratsu ja mylläri (367)
+550. Karhu ja ravut; eli Kun karhu on nälkäinen
+551. Matkamies ja korppi
+552. Käärme ja lisko
+553. Varis ja lammas
+554. Sokrates ja orja
+555. Nuori mies ja ilotyttö
+556. Ampiainen ja perhonen (297)
+557. Kettu ja maalintu
+558. Kaksi kukkoa ja haukka
+559. Etana ja peili
+560. Kalju mies ja puutarhuri
+561. Pöllö, kissa ja hiiri
+562. Kettu ja peltopyy (277)
+563. Paimen ja leijona; eli Androkles (171)
+564. Sääski ja härkä
+565. Aasi ja hevonen (368)
+566. Linnut, eläimet ja lepakko (125)
+567. Satakieli, haukka ja linnunpyytäjä (268)
+568. Kateellinen kettu ja susi
+569. Apinoiden kuningas
+570. Hanhi ja haikara
+571. Aasi, hevonen ja ohra (45)
+572. Kili ja susi
+573. Kesy käärme; eli Maanviljelijä ja käärme
+574. Kotka ja haarahaukka (185)
+575. Teurastaja ja lampaat (165)
+576. Linnunpyydystäjä ja linnut
+577. Korppi ja muut linnut päivällisellä
+578. Hevonen ja vuohet (7)
+579. Mies ja miekka
+580. Ahne mies ja kateellinen mies
+581. Poika ja varas
+582. Maanviljelijä ja hänen härkänsä
+583. Maanviljelijä ja sika; eli Sika ilman aivoja
+584. Kaksi kalaa; eli Jokikala ja merikala (288)
+
+
+==== Laajennettu Perry ====
+Paulus Diaconus
+
+585. Sairas leijona, kettu ja karhu
+586. Vasikka ja haikara
+587. Kirppu ja Kihti
+Odo Cheritonlainen
+
+588. Haukka ja kyyhkyset
+589. Pyhän Martinuksen lintu
+590. Harakka ja pyrstö (118)
+591. Rupikonna ja kaunis poika
+592. Kissa munkkina
+593. Kettu ja susi kaivossa
+594. Kissa, rotta ja juusto
+595. Isengrim munkkina
+596. Lampaiden valitus susia vastaan
+597. Kettu tunnistaa syntinsä kukolle
+598. Ampiainen ja hämähäkki
+599. Kotka ja varislääkäri
+600. Aasi ja sika
+601. Kana, kananpojat ja haarahaukka
+602. Päivällinen leijonan kotona
+603. Hanhi ja varis
+604. Haarahaukka ja peltopyyt (347)
+605. Kettu ja kissa (12)
+606. Varis ja kyyhkynen
+607. Suden hautajaiset
+608. Likainen koira
+609. Mies ja yksisarvinen
+610. Kettu ja lautturi
+611. Kettu ja kanat
+612. Haukka ja haarahaukka
+613. Kellon laittaminen kissalle; eli Hiirien kokous koskien kissaa
+614. Pöllö ja linnut
+615. Kissa, hiiri ja vala (39)
+616. Jäniksen ja suden kilpailu
+617. Käärme miehen povella
+618. Kiittämätön mies
+619. Hiiri etsimässä kumppania
+620. Haikara ja käärme
+621. Riikinkukko ja linnut (176)
+622. Rupikonna ja sammakko
+623. Ateenalainen filosofi / Vuohi ja aasi
+624. Vanha isä ja julma poika
+625. Susi kalastajana ja kettu
+626. Käki ja kotka
+627. Satakieli ja jousimies
+628. Susi kuuntelee ketun ja aasin tunnustukset
+629. Maanviljelijä, joka kutsuttiin päivällisille
+630. Navetassa kasvanut maanviljelijä
+631. Kreikan kuningas ja hänen veljensä
+632. Julianus Luopio ja demoni
+633. Hirtettäväksi tuomittu mies
+634. Filosofi, joka sylki kuninkaan partaan
+635. Enkeli paljastaa Jumalan tuomiot
+636. Susi ja lammas suutelevat
+637. Kesy aspiskyy
+638. Aasi, jolla oli syy olla poissa, sekä kettu ja susi
+639. Kotka ja rotta
+640. Sotilas ja käärme / Lohikäärme ja maanviljelijä
+641. Susi ja pappi
+642. Sotilas ja pappi
+643. Apina ja kauppias
+
+John Sheppey
+
+644. Hiirihaukka ja haukka
+645. Leijona ja yksisarvinen
+Metrisiä, alkuperä tuntematon
+
+646. Syöttökukko ja haukka
+647. Kauppias ja vaimo
+Alexander Neckam
+
+648. Korppikotka ja kotka
+Riimitettyjä (Ms. Add. 11619, British Museum)
+
+649. Hirvi, siili ja metsäkarju
+Robert's Romulus (Mss. 347b ja 347c, Bibliotheque Nationale)
+
+650. Kovakuoriainen ilmassa (126)
+651. Maanviljelijä ja hänen vaimonsa
+652. Käki ja muut linnut
+653. Maanviljelijä myi hevosensa
+654. Kotka, haukka ja kurki
+655. Susi paastoamassa
+656. Pääsky ja varpuset
+657. Maanviljelijä, naudat ja sonta (235)
+658. Zeus (Juppiter) ja jänis (443)
+659. Susi ja kovakuoriainen
+
+Codex Bruxellensis 536
+
+660. Varas ja kovakuoriainen
+661. Vaimo ja rakastaja
+662. Varas ja Paholainen
+663. Lohikäärmeen antama talletus
+664. Mies testaa palvelijaa
+665. Mies rukoilee toista hevosta
+666. Mies rukoilee itsensä puolesta
+667. Kaupunkilainen ja kesy naakka
+668. Kolme toivetta
+669. Kettu, kuu ja joki (58)
+670. Susi, korppi ja pässi (241)
+671. Kettu ja kyyhkynen
+672. Kotka, haukka ja kyyhkyset
+673. Hevonen ja vilja
+674. Hevonen ja vuohi pakettitarjouksena
+675. Susi ja siili
+676. Sudet ja sadonkorjaajat (111)
+677. Taidemaalari ja hänen vaimonsa
+678. Kauris neuvoo vasaansa
+679. Varis ja poikaset
+680. Vuohi ja susi
+681. Riidanhaluinen vaimo
+682. Uppiniskainen vaimo
+683. Kuiskaavat maantierosvot
+684. Lääkäri, rikas mies ja tytär
+685. Mäyrä sikojen joukossa
+686. Susi ansassa ja siili
+687. Susi ja lautturi
+688. Susi opettelee kirjaimia
+689. Susi ja kyyhky, joka keräsi oksia
+690. Mies veneessä
+691. Vanha mies ja poika
+692. Kissa piispana
+
+Fabulae Extravagantes
+
+693. Epäonninen susi, kettu ja muuli
+694. Metsäkarju
+695. Pukki ja kuvajainen; eli Pukki ja susi (55)
+696. Susi ja rampa aasi (100?)
+697. Käärme neuvonantajana
+698. Susi kalastajana
+699. Suden epäonni
+700. Metsästäjä ja kyntäjä
+701. Koira ja susi
+702. Koira kaukalossa (251)
+703. Kolme poikaa perintöä jakamassa
+704. Kettu suden opissa
+705. Koira, susi ja pässi
+706. Leijonan poika oppii ihmisistä
+707. Ritari ja valehteleva linnanherra
+
+Codex Bernensis 679
+
+708. Apina ja karhu
+709. Koira ja sen surmattu isäntä
+710. Koira ja poika joessa
+711. Pässi ja sen kalju isäntä
+712. Susi ja nälkäinen kettu
+713. Aviorikoksen tehnyt kurki
+714. Pässi ja susi
+715. Kettu ja sairas apina
+716. Hiiri ja tytär
+717. Kukko ja hevonen puhuvat isännästä
+718. Antelias kettu ja susi
+719. Koira anelee luuta isännältään
+
+Promptuarium (1300-luku)
+
+720. Linnunpelätin
+Poggio ja Abstemius
+
+721. Isä, poika ja aasi
+722. Aasin opettaminen lukemaan
+723. Maalainen jokea ylittämässä
+724. Kärpänen vaunuissa
+725. Kalat, jotka hyppäävät paistinpannulta hiiliin
+
+
+== Esimerkkejä ==
+Faabeleissa esiintyy muun muassa kertomus janoisesta variksesta, joka laittoi kiviä vesiastiaan, jotta sai vedenpinnan kohoamaan. Tätä on testattu myös käytännössä ja todettu mahdolliseksi tavaksi toimia. Tarina innoitti tutkijoita siinä määrin, että Cambridgen yliopistossa tehtiin koe neljällä variksella, jotka laitettiin poimimaan kelluva mato vesiastiasta. Varikset käyttivät jopa mielellään isompia kiviä ensin.
+
+
+== Lähteet ==
+
+
+== Kirjallisuutta ==
+
+
+=== Suomennoksia ===
+Aisopos: Faabelit: täydellinen kokoelma moraaleineen.  (Valikoinut ja suomentanut Jari Tammi)  Pikku-idis, 2010.  ISBN 978-952-9589-40-1 
+Aisopos. 12 faabelia. Teoksessa Kivimäki, Arto & Vesterinen, Sampo: Otollinen tilaisuus – Antiikin faabeleita, s. 11–24.  Helsinki:  Tammi, 2002.  ISBN 951-31-2595-5 
+
+
+=== Muita käännöksiä ja tekstilaitoksia ===
+Perry, Ben Edwin (toim.): Aesopica.  Urbana, 1952. 
+
+
+=== Muuta kirjallisuutta ===
+Wimpenny, Jo: Aesop’s Animals: The Science Behind the Fables.  Bloomsbury Publishing, 2021.  ISBN 9781472966933 
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Aisopoksen faabelit Wikimedia Commonsissa
+Aisopoksen faabeleita eli eläinsatuja suomen kielellä
+Αισώπου Μύθοι. Wikisource. (muinaiskreikaksi) (kreikaksi)
+Aesop's Fables. Wikisource. (englanniksi)
+The Æsop for Children. Library of Congress. (englanniksi)
+Perry's Index to the Aesopica Aesopica: Aesop's Fables in English, Latin & Greek.
+Perry Index Fables of Aesop.

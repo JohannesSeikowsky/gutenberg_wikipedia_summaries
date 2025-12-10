@@ -1,0 +1,74 @@
+The Principles of Scientific Management (1911) is a monograph published by Frederick Winslow Taylor where he laid out his views on principles of scientific management, or industrial era organization and decision theory. Taylor was an American manufacturing manager, mechanical engineer, and then a management consultant in his later years. The term scientific management refers to coordinating the enterprise for everyone's benefit including increased wages for laborers although the approach is "directly antagonistic to the old idea that each workman can best regulate his own way of doing the work." His approach is also often referred to as Taylor's Principles, or Taylorism.
+
+
+== Contents ==
+The monograph consisted of three sections: Introduction, Chapter 1: Fundamentals of Scientific Management, and Chapter 2: The Principles of Scientific Management.
+
+
+=== Introduction ===
+Taylor started this paper by quoting U.S. President Theodore Roosevelt: "The conservation of our national resources is only preliminary to the larger question of national efficiency". Taylor pointed out that while a large movement had started to conserve material resources, the less visible and less tangible effects of the wasted human effort were only vaguely appreciated. He argues the necessity of focusing on training rather than finding the "right man", stating "In the past, the man has been first; in the future, the system must be first", and the first goal of all good systems should be developing first-class men. He listed three goals for the work:
+
+First. To point out, through a series of simple illustrations, the great loss which the whole country is suffering through inefficiency in almost all of our daily acts.
+
+Second. To try to convince the reader that the remedy for this inefficiency lies in systematic management, rather than in searching for some unusual or extraordinary man.
+
+Third. To prove that the best management is true science, resting upon clearly defined laws, rules, and principles, as a foundation. And further to show that the fundamental principles of scientific management are applicable to all kinds of human activities, from our simplest individual acts to the work of our great corporations, which call for the most elaborate cooperation. And, briefly, through a series of illustrations, to convince the reader that whenever these principles are correctly applied, results must follow which are truly astounding.
+
+Lastly, Taylor noted that while the examples were chosen to appeal to engineers and managers, his principles could be applied to the management of any social enterprise, such as homes, farms, small businesses, churches, philanthropic institutions, universities, and government.
+
+
+=== Chapter 1: Fundamentals of scientific management ===
+
+Taylor argued that the principle object of management should be to secure the maximum prosperity for the employer, coupled with the maximum prosperity for each employee. He argued that the most important object of both the employee and the management should be the training and development of each individual in the establishment, so that he can do the highest class of work for which his natural abilities fit him. Taylor demonstrated that maximum prosperity can exist only as the result of maximum productivity, both for the shop and individual, and rebuked the idea that the fundamental interests of employees and employers are necessarily antagonistic.
+Taylor described how workers deliberately work slowly, or “soldier”, to protect their interests. According to Taylor, there were three reasons for the inefficiency:
+
+First. The fallacy, which has from time immemorial been almost universal among workmen, that a material increase in the output of each man or each machine in the trade would result in the end in throwing a large number of men out of work.
+
+Second. The defective systems of management which are in common use, and which make it necessary for each workman to soldier, or work slowly, in order that he may protect his own best interests.
+
+Third. The inefficient rule-of-thumb methods, which are still almost universal in all trades, and in practicing which our workmen waste a large part of their effort.
+
+Taylor argued that the cheapening of any article in common use almost immediately results in a largely increased demand for that article, creating additional work and contradicting the first belief.
+As to the second cause, Taylor pointed to quotes from 'Shop Management' to help explain how current management styles caused workers to soldier. He explained the natural tendency of men to take it easy as distinct from "systematic soldiering" due to thought and reasoning, and how bringing men together at a standard rate of pay exacerbated this problem. He described how under standard day, piece, or contract work it was in the workers' interest to work slowly and hide how fast work can actually be done, and the antagonism between workers and management must change.
+For the third cause, Taylor noted the enormous saving of time and increase in output that could be obtained by eliminating unnecessary movements and substituting faster movements, which can only be realized after a motion and time study by a competent man. While there are perhaps "forty, fifty, or a hundred ways of doing each act in each trade", "there is always one method and one implement which is quicker and better than any of the rest".
+
+
+=== Chapter 2: The Principles of Scientific Management ===
+
+In this section, Taylor explained his principles of scientific management. He starts by describing what he considered the best system of management then in use, the system of "initiative and incentive". In this system, management gives incentives for better work, and workers give their best effort. The form of payment is practically the whole system, in contrast to scientific management. Taylor's scientific management consisted of four principles:
+
+First. They develop a science for each element of a man's work, which replaces the old rule-of-thumb method.
+Second. They scientifically select and then train, teach, and develop the workman, whereas in the past he chose his own work and trained himself as best he could.
+Third. They heartily cooperate with the men so as to ensure all of the work being done is in accordance with the principles of the science which has been developed. 
+
+Fourth. There is an almost equal division of the work and the responsibility between the management and the workmen. The management take over all work for which they are better fitted than the workmen, while in the past almost all of the work and the greater part of the responsibility were thrown upon the men.
+Under the management of "initiative and incentive", the first three elements often exist in some form, but their importance is minor. However, under scientific management, they "form the very essence of the whole system". Taylor's summary of the fourth point is Under the management of "initiative and incentive" practically the whole problem is "up to the workman", while under scientific management fully one-half of the problem is "up to the management". It is up to the management to determine the best method to complete each task through a time and motion study, to train the worker in this method, and keep individual records for incentive based pay.
+Taylor devotes most of the remainder of the work to providing case studies to support his case, including:
+
+Moving pig iron at the  Bethlehem Steel Company, with the famous story of the "ox"-like worker "Schmidt".
+Taylor's work at the Midvale Steel Company
+Shoveling at Bethlehem Steel
+Bricklaying, as studied by Frank B. Gilbreth
+The inspection of small polished steel balls for bicycle bearing machine shop.
+Taylor warned about attempting to implement parts of scientific management without accepting the whole philosophy, stating that too fast of a change was often met with trouble, strikes, and failure.
+
+
+== See also ==
+US labor law
+Louis Brandeis
+Frederick Winslow Taylor
+Scientific management
+
+
+== Notes ==
+
+
+== References ==
+E McGaughey, 'Behavioural Economics and Labour Law' (2014) LSE Legal Studies Working Paper No. 20/2014
+Taylor, Frederick Winslow (1903), Shop Management, New York, NY, USA: American Society of Mechanical Engineers, OCLC 2365572. "Shop Management" began as an address by Taylor to a meeting of the ASME, which published it in pamphlet form. The link here takes the reader to a 1912 republication by Harper & Brothers. Also available from Project Gutenberg. {{citation}}: External link in |postscript= (help)CS1 maint: postscript (link)
+Taylor, Frederick Winslow (1911), The Principles of Scientific Management, New York, NY, USA and London, UK: Harper & Brothers, LCCN 11010339, OCLC 233134. Also available from Project Gutenberg. {{citation}}: External link in |postscript= (help)CS1 maint: postscript (link)
+
+
+== External links ==
+The Principles of Scientific Management – via Archive.org
+Scientific Management Theory - Frederick Taylor

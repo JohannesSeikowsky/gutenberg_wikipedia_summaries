@@ -1,0 +1,78 @@
+The Yajnavalkya Smriti (Sanskrit: याज्ञवल्क्य स्मृति, IAST: Yājñavalkya Smṛti) is one of the many Dharma-related texts of Hinduism composed in Sanskrit. It is dated between the 3rd and 5th century CE, and belongs to the Dharmashastra tradition. The text was composed after the Manusmriti, but like it and Naradasmriti, the text was composed in shloka (poetic meter) style. The legal theories within the Yajnavalkya Smriti are presented in three books, namely achara-kanda (customs), vyavahara-kanda (judicial process), and prayascitta-kanda (crime and punishment, penance).
+The text is the "best composed" and systematic specimen of this genre, with large sections on judicial process theories, one which had a greater influence on medieval India's judiciary practice than Manusmriti. It later became influential in the studies of legal process in ancient and medieval India, during the colonial British India, with the first translation published in German in 1849. The text is notable for its differences in legal theories from Manusmriti, for being more liberal and humane, and for extensive discussions on evidence and judiciousness of legal documents. 
+
+
+== Date ==
+The text most likely dates to the Gupta period, roughly between the 3rd and 5th century CE. There is some debate as to whether it is to be placed in the earlier or later part of that time span. Patrick Olivelle suggests the likely date may be in the 4th to 5th century CE.
+Arguments for particular dating are based on the concise, sophisticated vocabulary found throughout the text and on the use of certain terms such as nāṇaka (a coin), and references to Greek astrology (which has been known in India since the 2nd century; see Yavanajataka). The argument arises when considerations are made as to who was exchanging the nāṇaka and when the level of Greek thought which the author understood is brought into question.
+
+
+== Author ==
+
+The text is named after the revered Vedic sage Yajnavalkya, who appears in many major Upanishads of Hinduism, as well as other influential texts such as the Yoga Yajnavalkya. However, as the text is believed to have been composed more than a millennium after his life, it is possible that it has been attributed to him out of respect, as has been common in the Hindu traditions.
+The text was likely composed in the Mithila region of historic India (in and around modern Bihar).
+
+
+== Structure ==
+The text is in classical Sanskrit, and is organized in three books. These are achara-kanda (368 verses), vyavahara-kanda (307 verses) and prayascitta-kanda (335 verses). The Yājñavalkya Smṛti consists of a cumulative total of 1,010 ślokas (verses), and its presentation is methodical, clear and concise instead of the poetic "literary beauty" found in Manusmriti according to Robert Lingat.
+Ludo Rocher states that this treatise, like others in Dharmasastras genre, is a scholarly tradition on Dharma rather than a Law book, as understood in the western languages. In contrast, Robert Lingat states that the text is closer to presenting legal philosophy and a transition from being Dharma speculations found in earlier Dharma-related texts.
+
+
+== Sources ==
+Yajnavalkya, known for his concise style, drew heavily from Manu's legal treatise and Kautilya's Arthashastra in this text. The text mirrors Manusmriti's structure and follow a similar format in terms of organization and content. Chapter 1 and chapter 3 are influenced by Manu, while chapter 2, focusing on legal procedure, draws from both Manu and Kautilya's Arthashastra. The text includes sections discussing embryology and anatomy, drawn from medical texts such as Charaka Samhita. It also contains concise portions on music and yogic meditation, likely derived from early treatises on these subjects. Yajnavalkya also claims authorship of a yoga treatise within the text.
+
+
+== Content ==
+The text is laid out as a frame story in which the sages of Mithila approach Yājñavalkya and ask him to teach them dharma. The text opens its reply by reverentially mentioning ancient Dharma scholars, and asserting in verses 1.4-5 that the following each have written a Dharmasastra (most of these are lost to history) – Manu, Atri, Visnu, Harita, Yajnavalkya, Ushanas, Angiras, Yama, Apastamba, Samvarta, Katyayana, Brihaspati, Parashara, Vyasa, Samkha, Likhita, Daksha, Gautama, Shatatapa and Vashistha. The rest of the text is Yājñavalkya's theories on dharma, presented under Ācāra (proper conduct), Vyavahāra (criminal law) and Prāyaścitta (expiation).
+The Yajnavalkya Smriti extensively quotes the Manu Smriti and other Dharma-texts, sometimes directly paraphrasing passages from these, often reducing earlier views into a compendium and offering an alternate legal theory. The text places emphasizes the act of giving (dana) as the essence of dharma, and it elevates yoga and self-perception (atmadarsana) as the highest form of dharma. There are influential differences from the Manu Smriti and earlier Dharma texts, especially with regard to statecraft, the primary of attested documentary evidence in legal process, and in jurisprudence.
+
+1. Pioneered the structure which was adopted in future dharmaśāstric discourse:
+
+a) Divided dharma into fairly equally weighted categories of:
+Ācāra (proper conduct)
+Vyavahāra (legal procedure)
+Prāyaścitta (penance)
+b) Subdivided these three further by specific topics within the major subject heading.
+2. Documentary evidence as the highest foundation of Legal Procedure:
+
+Yājñavalkya portrayed evidence as hierarchical, with attested documents receiving the highest consideration, followed by witnesses, and finally ordeals (five types of verifiable testimony).
+3. Restructured the Courts:
+
+Yājñavalkya distinguished between courts appointed by the king and those which were formed by communities of intermediate groups.   He then portrayed these courts as a part of a system of hierarchical appeals. He streamlined legal processes into four clear steps: plaint, plea, evidence, and verdict, and he was the first to delineate five forums for adjudicating lawsuits. He emphasized the use of documents as legal evidence, a concept absent in Manu's work, showcasing the evolution of jurisprudence and the role of scribes in society.
+4. Changed the placement of the discussion of Ascetic Orders:
+
+Forest hermits and renouncers are discussed within the section regarding penance (prāyaścitta).  In previous texts, description of ascetics followed the discussion of Brahmins and framed them in opposition to householder Brahmins. He suggested that one could live a spiritually fulfilling life without withdrawing from society, thereby bridging the gap between householders and ascetics.
+5. Focused on Mokṣa:
+
+Increased attention was given to a description of Mokṣa, dwelling on meditation and the transience of the worldly body.  There is even an in-depth, technical discourse based on a medical treatise of the time.
+
+
+== Commentary ==
+Five medieval era bhasya (review and commentaries) on Yajnavalkya Smrti have survived into the modern era. These are by Visvarupa (Bālakrīḍā, 750-1000 CE), Vijanesvara (Mitaksara, 11th or 12th century, most studied, from the Varanasi school), Apararka (Apararka-nibandha, 12th-century, from the Kashmir school), Sulapani (Dipakalika, 14th or 15th century) and Mitramisra (Viramitrodaya, 17th-century).
+
+
+== Influence ==
+The legal theories in this text were likely very influential in medieval India, because its passages and quotes are found inscribed in every part of India, and these inscriptions are dated to be from around 10th to 11th century CE. The text is also widely commented upon, and referenced in popular works such as the 5th-century Panchatantra. The text is profusely quoted in chapters 253-258 of the extant manuscripts of the Agni Purana, and in chapters 93-106 of the Garuda Purana.
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Bibliography ===
+Mandagadde Rama Jois (1984). Legal and Constitutional History of India: Ancient legal, judicial, and constitutional system. Universal Law Publishing. ISBN 978-81-7534-206-4.
+Robert Lingat (1973). The Classical Law of India (Translated by J Duncan M Derrett). University of California Press. ISBN 978-0-520-01898-3.
+Timothy Lubin; Donald R. Davis Jr; Jayanth K. Krishnan (2010). Hinduism and Law: An Introduction. Cambridge University Press. ISBN 978-1-139-49358-1.
+John Mayne (1991). A treatise on Hindu law and usage. Stevens and Haynes, London (Reprinted by Motilal Banarsidass). OCLC 561697663.
+Patrick Olivelle (2006). Between the Empires: Society in India 300 BCE to 400 CE. Oxford University Press. ISBN 978-0-19-977507-1.
+Patrick Olivelle (2005). Manu's Code of Law. Oxford University Press. ISBN 978-0-19-517146-4.
+Ludo Rocher (2014). Studies in Hindu Law and Dharmaśāstra. Anthem Press. ISBN 978-1-78308-315-2.
+Winternitz, Maurice (1986). History of Indian Literature. Motilal Banarsidass Publ. ISBN 81-208-0056-7.
+Yajnavalkya (2019). Patrick Olivelle (ed.). Yajnavalkya - A Treatise on Dharma. Murty Classical Library of India 20. Translated by Patrick Olivelle. Harvard University Press. ISBN 978-0-674-27706-9.
+
+
+== External links ==
+Yájnavalkya Smriti with Vijnanesvara commentary, Book 1 of 3 SC Vidyarnava (1918), English translation
+Yájnavalkya Smriti with Vijnanesvara commentary (Sanskrit manuscript)

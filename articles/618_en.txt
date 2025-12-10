@@ -1,0 +1,87 @@
+The Junius manuscript is one of the four major codices of Old English literature. Written in the 10th century, it contains poetry dealing with Biblical subjects in Old English, the vernacular language of Anglo-Saxon England. Modern editors have determined that the manuscript is made of four poems, to which they have given the titles Genesis, Exodus, Daniel, and Christ and Satan. The identity of their author is unknown. For a long time, scholars believed them to be the work of Cædmon, accordingly calling the book the Cædmon manuscript. This theory has been discarded due to the significant differences between the poems.
+The manuscript owes its current designation to the Anglo-Dutch scholar Franciscus Junius, who was the first to edit its contents and who bequeathed it to Oxford University. It is kept in the Bodleian Library under shelfmark MS Junius 11. The first edition of its contents appeared in 1655.
+
+
+== Name and date ==
+
+The codex now referred to as the "Junius manuscript" was formerly called the "Cædmon manuscript" after an early theory that the poems it contains were the work of Cædmon; the theory is no longer considered credible, therefore the manuscript it is commonly referred to either by its Bodleian Library shelf mark "MS Junius 11", or more casually as "the Junius manuscript" or "Codex Junius". 'Junius' in these is Franciscus Junius, who published the first edition of its contents in 1655.
+It has been established on palaeographical grounds that compilation of the manuscript began c. AD 1000. Recent work has suggested an earlier, narrow window for the likely compilation date to 960–1000 for Liber I and shortly thereafter for Liber II, based on an integrated dating of the text, paleography, and illustrations.
+The compilation was in two stages: Liber I contains the poems Genesis, Exodus, and Daniel, and was the work of a single scribe. Liber II contains the poem Christ and Satan. The manuscript contains numerous illustrations that are an example of the Winchester style of drawing, typical of the period and region; it appears that two illustrators worked independently on the manuscript. The first scribe left spaces in the text for other illustrations which were never completed.
+
+
+== Illustrations ==
+The manuscript is partly illustrated with a series of line drawings depicting the events in the text.  From spaces left by the scribes, it appears that it was intended that the manuscript be fully illustrated; in the event, the work was left unfinished after only about a third of the artwork had been drawn. This scheme of illustrations, which is unparalleled in other manuscripts of Anglo-Saxon poetry, implies that the manuscript was conceived of as being considerably more important than most vernacular texts; it may have been intended for devotional or didactic use.
+
+
+== Contents ==
+The names of the poems themselves are modern inventions; they are not given titles in the manuscript.  As with the majority of Anglo-Saxon writing, the poems are anonymous and their provenance and dating are uncertain.
+
+
+=== Genesis ===
+
+Genesis is a paraphrase of the first part of the biblical book of Genesis, from the Creation through to the test of Abraham's faith with the sacrifice of Isaac (Gen. 22).
+The work is now recognised as a composite work formed of two originally distinct parts, conventionally referred to as Genesis A and Genesis B; the latter, lines 235–851 of the poem as we have it, appears to have been interpolated from an older poem to produce the current text.
+It is Genesis B which has attracted the most critical attention.  Its origin is notable in that it appears to be a translation from a ninth-century Old Saxon original; this theory was originally made on metrical grounds, in 1875 by the German scholar Sievers, and then confirmed by the discovery of a fragment of Old Saxon verse that appears to correspond to part of the work in 1894. Thematically and stylistically, it is distinctive: it tells the story of the falls of Satan and Man in an epic style, and has been suggested as an influence for Beowulf, and even, perhaps, for Milton's Paradise Lost.
+
+
+=== Exodus ===
+
+Exodus is a retelling of the story of the Israelites' Flight from Egypt and the Crossing of the Red Sea.
+
+
+=== Daniel ===
+
+A short paraphrase of the book of Daniel, dwelling particularly on the story of the Fiery Furnace, deals with the first five chapters of the Book of Daniel.
+
+
+=== Christ and Satan ===
+
+A three-part poem detailing the Fall of Satan, Christ's harrowing of Hell (from the Apocryphal New Testament Gospel of Nicodemus), and Christ's temptation in the desert.
+
+
+== Facsimiles ==
+The Cædmon manuscript of Anglo-Saxon Biblical poetry: Junius XI in the Bodleian , ed. by Israel Gollancz (London: Oxford University Press, 1927.)
+Digital facsimiles are available online and offline:
+
+A complete digital facsimile is available through digital Bodleian.
+A complete digital facsimile with copious annotations, transcriptions and translations was released on CD format in 2004:
+
+Muir, Bernard J., ed. (2004), A Digital Facsimile of Oxford, Bodleian Library, MS. Junius 11 (CD-ROM; software by Nick Kennedy), Oxford: Bodleian Library, University of Oxford
+
+
+== Editions ==
+All of the poems from MS Junius 11 are edited to digital images of their manuscript pages, and translated, in the Old English Poetry in Facsimile project[1], Martin Foys et al. (eds.). University of Wisconsin-Madison (2019–)
+
+
+== See also ==
+Anglo-Saxon literature
+Exeter Book
+History of the English Bible
+Nowell Codex
+Old English Bible translations
+Vercelli Book
+
+
+== References ==
+
+
+== Further reading ==
+Broderick, Herbert (1983), "Observations on the Method of Illustration in MS Junius 11 and the Relationship of the Drawings to the Text", Scriptorium, 37 (2): 161–177, with plate 2, doi:10.3406/scrip.1983.1312.
+Broderick, Herbert (2009). "Metatextuality, Sexuality, and Intervisuality in MS Junius 11". Word and Image. 25 (4): 384–400. doi:10.1080/02666280902717262. S2CID 194035959.
+Breul, Karl (1898), "Eduard Sievers", The Modern Quarterly of Language and Literature, 1 (3): 173–175, JSTOR 41065399.
+Karkov, Catherine E. (2001). Text and Picture in Anglo-Saxon England: Narrative Strategies in the Junius 11 Manuscript. Cambridge Studies in Anglo-Saxon England. Vol. 31. Cambridge, UK: Cambridge University Press. ISBN 978-0521093064.
+Karkov, Catherine (2007). "Margins and Marginalization: Representations of Eve in Oxford, Bodleian Library, MS Junius 11". In Keefer, Sarah L.; Bremmer, Rolf H. (eds.). Signs on the Edge. Space, Text and Margin in Medieval Manuscripts. Mediaevalia Groningana New Series. Vol. 10. Paris: Peeters. pp. 57–84. ISBN 978-9042919808.
+Lockett, Leslie (2002). "An Integrated Re-examination of the Dating of Oxford, Bodleian Library, Junius 11". Anglo-Saxon England. 31 (1): 141–173, with plates I–IVc. doi:10.1017/S0263675102000066. S2CID 161744163.
+Lucas, Peter J. (1980), "MS Junius 11 and Malmesbury", Scriptorium, 34 (2): 197–220, doi:10.3406/scrip.1980.1172.
+Ohlgren, Thomas H. (1992). Anglo-Saxon Textual Illustration. Kalamazoo, MI: Medieval Institute, Western Michigan University. ISBN 978-1879288102.
+Raw, Barbara C. (1976), "The Probable Derivation of Most of the Illustrations in Junius 11 from an Illustrated Old Saxon Genesis", Anglo-Saxon England, 5: 133–148, with plates Ia–IV, doi:10.1017/S026367510000082X, S2CID 162770056.
+Raw, Barbara C. (1984). "The Construction of Oxford, Bodleian Library, Junius 11". Anglo-Saxon England. 13: 187–205. doi:10.1017/S0263675100003586.
+Wrenn, Charles Leslie (1967), A Study of Old English Literature, Norton, ISBN 978-0393097689.
+
+
+== External links ==
+
+Bodleian Medieval Manuscripts Catalogue Entry
+Encyclopædia Britannica Cædmon manuscript
+
+ Junius manuscript at Project Gutenberg

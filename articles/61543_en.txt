@@ -1,0 +1,86 @@
+Psychological Types (German: Psychologische Typen) is a book by Carl Jung that was originally published in German by Rascher Verlag in 1921, and translated into English in 1923, becoming volume 6 of The Collected Works of C. G. Jung. It is the baseline of many personality typology systems, particularly Myers Briggs.
+In the book, Jung proposes four main functions of consciousness: two perceiving or non-rational functions (Sensation and Intuition), and two judging or rational functions (Thinking and Feeling). These functions are modified by two main attitude types: extraversion and introversion.
+Jung proposes that the dominant function, along with the dominant attitude, characterizes consciousness, while its opposite is repressed and characterizes the unconscious. Based on this, the eight outstanding psychological types are: Extraverted sensation / Introverted sensation; Extraverted intuition / Introverted intuition; Extraverted thinking / Introverted thinking; and Extraverted feeling / Introverted feeling. Jung, as such, describes in detail the effects of tensions between the complexes associated with the dominant and inferior differentiating functions in highly and even extremely one-sided types.
+Extensive detailed abstracts of each chapter are available online.
+
+
+== Historical context ==
+Jung's interest in typology grew from his desire to reconcile the theories of Sigmund Freud and Alfred Adler, and to define how his own perspective differed from theirs. Jung wrote, "In attempting to answer this question, I came across the problem of types; for it is one's psychological type which from the outset determines and limits a person's judgment." He concluded that Freud's theory was extraverted and Adler's introverted. Jung became convinced that acrimony between the Adlerian and Freudian camps was due to this unrecognized existence of different fundamental psychological attitudes, which led Jung "to conceive the two controversial theories of neurosis as manifestations of a type-antagonism."
+
+The characteristic animosity between the adherents of the two standpoints arises from the fact that either standpoint necessarily involves a devaluation and disparagement of the other. So long as the radical difference between [Adler's] ego-psychology and [Freud's] psychology of instinct is not recognized, either side must naturally hold its respective theory to be universally valid.
+Due to the multifarious nature of fantasy, the fantasies of both Adlerian and Freudian patients contained ample empirical evidence to reinforce the steadfast belief of each side in their respective theories.
+
+The scientific tendency in both is to reduce everything to their own principle, from which their deductions in turn proceed. In the case of fantasies this operation is particularly easy to accomplish because...they...express purely instinctive as well as pure ego-tendencies. Anyone who adopts the standpoint of instinct will have no difficulty in discovering in them the "wish-fulfillment," the "infantile wish," the "repressed sexuality." And the man who adopts the standpoint of the ego can just as easily discover those elementary aims concerned with the security and differentiation of the ego, since fantasies are mediating products between the ego and the instincts. Accordingly they contain elements of both sides. Interpretation from either side is always somewhat forced and arbitrary, because one side is always suppressed.
+Each side can demonstrate the truth embodied in its theory. However, it is only partial truth and not generally valid because it excludes the principle and truth embodied in the other.
+
+Nevertheless, a demonstrable truth does on the whole emerge; but it is only a partial truth that can lay no claim to general validity. Its validity extends only so far as the range of its principle. But in the domain of the other principle it is invalid.
+Jung still used Adler's and Freud's theories, but in restricted circumstances.
+
+This [type-antagonism] discovery brought with it the need to rise above the opposition and to create a theory which would do justice not merely to one or the other side, but to both equally. For this purpose a critique of both the aforementioned theories is essential. Both are painfully inclined to reduce high-flown ideals, heroic attitudes, nobility of feeling, deep convictions, to some banal reality, if applied to such things as these. On no account should they be so applied...In the hand of a good doctor, of one who really knows the human soul...both theories, when applied to the really sick part of a soul, are wholesome caustics, of great help in dosages measured to the individual case, but harmful and dangerous in the hand that knows not how to measure and weigh.
+The two theories of neurosis are not universal theories: They are caustic remedies to be applied, as it were, locally.
+Naturally, a doctor must be familiar with the so-called "methods." But he must guard against falling into any specific, routine approach. In general one must guard against theoretical assumptions...In my analyses they play no part. I am unsystematic very much by intention. We need a different language for every patient. In one analysis I can be heard talking the Adlerian dialect, in another the Freudian.
+
+
+== Content ==
+
+
+=== Chapter I ===
+
+
+=== Chapter II ===
+
+
+=== Chapter III ===
+
+
+=== Chapter IV ===
+
+
+=== Chapter V ===
+
+
+=== Chapters VI–IX ===
+
+
+=== Chapter X: "General Description of the Types" ===
+
+
+==== Attitude-types ====
+Consciousness is directed by a tendency to form objective(from the environment) or subjective(from the psyche) motives and ideas. Respectively, they are extraversion and introversion, giving rise to extraverts and introverts. The unconscious has its own attitude, opposite of consciousness.
+
+
+==== Function-types ====
+Psychological functions are a form of mental activity that remain the same in principle under different conditions and cannot be reduced to each other. They can be rational and judging (thinking/feeling) or irrational and perceiving (sensation/intuition).
+Thinking is the function which, in accordance with its logical laws, uses concepts to connect information. Feeling is a function that, according to its subjective value, accepts or rejects a concept. Sensation is the function that transmits physiological stimulus to conscious perception. Intuition is the function that transmits invisible, mental associations.
+Just as consciousness is directed by an attitude, it is also directed by a function, giving rise to thinking types, feeling types, sensation types, and intuitive types. Likewise, the unconscious opposes the function-type with an opposing function. A thinking type's unconscious is characterized by feeling, and a sensation type's unconscious by intuition. The functions of the other group are more or less susceptible to conscious influence, that being their differentiation. For a thinking type, those are intuition and sensation; for a sensation type, those are thinking and feeling. The unconscious functions exist in an archaic state, and are often present in dreams and fantasies.
+
+
+==== Psychological types ====
+There are eight total combinations of the attitude-type and the function-type; the psychological types. They are categorised as extraverted rational types, extraverted irrational types, introverted rational types, and introverted irrational types.
+Extraverted rational types judge concepts and situations by what is generally considered to be rational. They suppress subjective reason and perception, and if repression occurs, they fall under their influence via the unconscious. Repressed sensation can express itself in the form of compulsive pleasure-seeking, and suppressed intuition in the form of compulsive suspicion of the unpleasant and evil. The extraverted feeling type dispenses judgement according to what is acceptable for and in tune with the environment. The extraverted thinking type judges according to the objective facts and valid ideas of the environment. Repressed subjective judging in an extraverted feeling type leads to a surfacing of undeveloped, negative ideas that deprecate what is valued, and an absolutist character for them. In an extraveted thinking type, selfish intentions surface, the person becomes overly sensitive and dogmatic, and loses sight of everything not relevant to the formula or cause.
+Extraverted irrational types are guided simply by events as they happen, without constant judgement, and they base themselves on experiences. They suppress subjective perception and reason. If judging is repressed, they become calculating and the person never stays put long enough to reap the fruits of their work. Thinking takes the form of apparent sophistries or pedantry, and feeling of ruthlessness or puritanism. The extraverted sensation type is guided by experiences and is always on the lookout for new ones that excite the senses and are enjoyable. The extraverted intuitive type is guided by new ideas and possibilities in the making. Repressed subjective perception in an extraverted sensation type causes an unscrupulous search for stimulation, and unconscious intuition supplies wild suspicions, phobias, superstitions, and religious streaks. In an extraverted intuitive type, hypochondria and absurd bodily sensations surface, and compulsive attachments to certain sensations given by people.
+Introverted rational types judge by their own principles. If objective judging is repressed, they become inflexible, navel-gazing, egotistical, and develop feelings of inferiority that they compensate for in the real world. The introverted thinking type is concerned with developing logical insights for its subjective ideas- an example is Kant. The introverted feeling type is also concerned with these ideas, but the person judges them with their feeling-values. Repressed objective judging in an introverted thinking type makes the person isolated, unsympathetic, sensitive to minor things that supposedly secretly concern the person, and aggressive in the face of criticism. In an introverted feeling type, the person becomes domineering, plotting, and forms many rivals.
+Introverted irrational types are captivated by their subjective perception and inner world, chiefly as related to the collective unconscious. When objective perception is repressed, they become deluded and lose touch with reality. The introverted sensation type is guided by their perceptions that are merely suggested by the object in the moment, related to its aesthetic, becoming, and passing. This is seen when paintings of the same landscape differ not simply in ability. Intuition, on the other hand, receives from the sensation only the impetus to immediate activity; it peers behind the scenes, quickly perceiving the inner image that gave rise to the specific phenomenon, i.e. the attack of vertigo, in the present case. It sees the image of a tottering man pierced through the heart by an arrow. This image fascinates the intuitive activity; it is arrested by it, and seeks to explore every detail of it. It holds fast to the vision, observing with the liveliest interest how the picture changes, unfolds further, and finally fades. In this way introverted intuition perceives all the background processes of consciousness with almost the same distinctness as extraverted sensation senses outer objects. When objective perception is repressed in an introverted sensing type, compulsive thoughts of external malevolence occur. The introverted intuitive type becomes a hypochondriac, sensitive in the sense organs, and compulsively tied to particular people or objects.
+
+
+==== Auxiliary functions ====
+In reality, a type's principal function is often influenced by another function of secondary importance, despite its absolute sovereignty. Opposing functions, like thinking and feeling can be on the same level, but then they're relatively undeveloped. Sensation can give thinking practicality, intuition can give thinking speculations, feeling can give intuition feeling for choice of artistic images, thinking can give intuition a system for its vision, etc. The auxiliary can also allow the unconscious to be approached, by protecting the conscious standpoint from undue influence. A uniformly conscious state of functions is present among prehistoric peoples.
+
+
+=== Chapter XI ===
+
+
+== See also ==
+Keirsey Temperament Sorter
+Myers–Briggs Type Indicator
+Personality type
+Psychological astrology
+Socionics
+
+
+== References ==
+
+
+== External links ==
+Psychological Types text scan at Internet Archive
+ Psychological Types: Or, the Psychology of Individuation public domain audiobook at LibriVox

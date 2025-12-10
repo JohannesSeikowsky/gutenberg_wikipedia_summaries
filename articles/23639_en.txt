@@ -1,0 +1,95 @@
+The Moralia (Latin for "Morals", "Customs" or "Mores"; Ancient Greek: Ἠθικά, Ethiká) is a set of essays ascribed to the 1st-century scholar Plutarch of Chaeronea. The eclectic collection contains 78 essays and transcribed speeches. They provide insights into Roman and Greek life, but they also include timeless observations. Many generations of Europeans have read or imitated them, including Michel de Montaigne, Renaissance Humanists and Enlightenment philosophers.
+
+
+== Contents ==
+
+
+=== General structure ===
+The Moralia include On the Fortune or the Virtue of Alexander the Great, an important adjunct to Plutarch's Life of the great general; On the Worship of Isis and Osiris, a crucial source of information on Egyptian religious rites; and On the Malice of Herodotus (which may, like the orations on Alexander's accomplishments, have been a rhetorical exercise), in which Plutarch criticizes what he sees as systematic bias in the Histories of Herodotus; along with more philosophical treatises, such as On the Decline of the Oracles, On the Delays of the Divine Vengeance, On Peace of Mind and lighter fare, such as Odysseus and Gryllus ("Bruta animalia ratione uti"), a humorous dialog between Homer's Odysseus and one of Circe's enchanted pigs. The Moralia were composed first, while writing the Lives occupied much of the last two decades of Plutarch's own life.
+Some editions of the Moralia include works later understood as pseudepigrapha. Among these are the Lives of the Ten Orators (biographies of the Attic orators based on Caecilius of Calacte), On the Opinions of the Philosophers, On Fate, and On Music. These works are attributed to "Pseudo-Plutarch". Though the thoughts and opinions recorded are not Plutarch's and come from a slightly later era, they are all classical in origin and have value to the historian.
+
+
+=== Books ===
+Since the Stephanus edition of 1572, the Moralia have traditionally been arranged in 14 books (listed with English, original Greek, and Latin titles):
+
+
+== Editions ==
+
+
+=== Early manuscripts ===
+"The catalogue is transmitted by a group of Moralia manuscripts, the oldest of which is the Parisinus gr. 1678 (very damaged in the folia containing the list), a copy from the tenth century, on which a second hand of the twelfth century intervened to add the list; see Irigoin (1987: CCCIII–CCGXVIII for introduction and critical edition of the entire catalogue)." (Oikonomopoulou 174)
+The only surviving manuscript containing all seventy-eight of the extant treatises included in Plutarch's Moralia dates to sometime shortly after 1302 AD.
+
+
+=== Modern editions ===
+Plutarch. Moralia. Translated by William Watson Goodwin. Boston: Little, Brown & Company, 1871. 5 vols.
+Plutarch. Moralia. Translated by Frank Cole Babbitt, et al. Loeb Classical Library. Cambridge, Massachusetts: Harvard University Press et al., 1927–2004. 16 vols.
+
+
+== Contents ==
+
+
+=== Origins dilemma ===
+In his essay "The Symposiacs", Plutarch discusses the famous problem of the chicken and the egg. Although Plutarch was not the first person to discuss the problem (Aristotle had already discussed it hundreds of years before Plutarch), he was the first person to put the question into its modern form.
+
+
+=== On reincarnation ===
+Included in Moralia is a letter addressed by Plutarch to his wife, bidding her not give way to excessive grief at the death of their two-year-old daughter, who was named Timoxena after her mother. In the letter, Plutarch expresses his belief in reincarnation:
+
+The soul, being eternal, after death is like a caged bird that has been released. If it has been a long time in the body, and has become tame by many affairs and long habit, the soul will immediately take another body and once again become involved in the troubles of the world. The worst thing about old age is that the soul's memory of the other world grows dim, while at the same time its attachment to things of this world becomes so strong that the soul tends to retain the form that it had in the body. But that soul which remains only a short time within a body, until liberated by the higher powers, quickly recovers its fire and goes on to higher things.
+
+
+=== Spartan lives and sayings ===
+Since Spartans wrote no history prior to the Hellenistic period – their only extant literature is fragments of 7th-century lyrics – Plutarch's five Spartan lives and "Sayings of Spartans" and "Sayings of Spartan Women", rooted in sources that have since disappeared, are some of the richest sources for historians of Lacedaemonia. While they are important, they are also controversial. Plutarch lived centuries after the Sparta he writes about (and a full millennium separates him from the earliest events he records); and even though he visited Sparta, many of the ancient customs he reports had been long abandoned, so he never actually saw what he wrote about.
+Plutarch's sources themselves can be problematic. As the historians Sarah Pomeroy, Stanley Burstein, Walter Donlan, and Jennifer Tolbert Roberts have written, "Plutarch was influenced by histories written after the decline of Sparta and marked by nostalgia for a happier past, real or imagined." Turning to Plutarch himself, they write, "the admiration writers like Plutarch and Xenophon felt for Spartan society led them to exaggerate its monolithic nature, minimizing departures from ideals of equality and obscuring patterns of historical change." Thus, the Spartan egalitarianism and superhuman immunity to pain that have seized the popular imagination are likely myths, and their main architect is Plutarch. While flawed, Plutarch is nonetheless indispensable as one of the only ancient sources of information on Spartan life. Pomeroy et al. conclude that Plutarch's works on Sparta, while they must be treated with skepticism, remain valuable for their "large quantities of information" and these historians concede that "Plutarch's writings on Sparta, more than those of any other ancient author, have shaped later views of Sparta", despite their potential to misinform. He was also referenced in saying unto Sparta, "The beast will feed again."
+
+
+=== Works on Greek and Roman religion ===
+Book IV of the Moralia contains the Roman and Greek Questions (Αἰτίαι Ῥωμαϊκαί and Αἰτίαι Ἑλλήνων). The customs of Romans and Greeks are illuminated in little essays that pose questions such as "Why were patricians not permitted to live on the Capitoline?" (no. 91), and then suggests answers to them.
+Plutarch's priestly duties connected part of his literary work with the Pythian oracle at Delphi: one of his most important works on this subject is the "Why Pythia does not give oracles in verse" ("Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν"). Even more important is the dialogue "On the 'E' at Delphi" ("Περὶ τοῦ Εἶ τοῦ ἐν Δελφοῖς"), which features Ammonius, a Platonic philosopher and teacher of Plutarch, and Lambrias, Plutarch's brother.According to Ammonius, the letter E written on the temple of Apollo in Delphi originated from the Seven Sages of Greece, whose maxims were also written on the walls of the vestibule of the temple and were not seven but actually five: Chilon, Solon, Thales, Bias, and Pittakos. The tyrants Cleobulos and Periandros used their political power to be incorporated in the list. Thus, the E, which was used to represent the number 5, constituted an acknowledgement that the Delphic maxims actually originated from only five genuine wise men.
+
+
+=== "On the Malice of Herodotus" ===
+
+In "On the Malice of Herodotus", Plutarch criticizes the historian Herodotus for all manner of prejudice and misrepresentation. It has been called the "first instance in literature of the slashing review". The 19th century English historian George Grote considered this essay a serious attack upon the works of Herodotus, and speaks of the "honourable frankness which Plutarch calls his malignity".
+Plutarch makes some palpable hits, catching Herodotus out in various errors, but it is also probable that it was merely a rhetorical exercise, in which Plutarch plays devil's advocate to see what could be said against so favourite and well-known a writer. According to Barrow (1967), Herodotus's real failing in Plutarch's eyes was to advance any criticism at all of the city-states that saved Greece from Persia. Barrow concluded that "Plutarch is fanatically biased in favor of the Greek cities; they can do no wrong."
+
+
+=== Other works ===
+Table-Talk (Συμποσιακά);
+Dinner of the Seven Sages.
+Dialogue on Love (Ερωτικος); Latin name = Amatorius.
+
+
+== Early humanist editions ==
+Erasmus of Rotterdam is credited with a prominent role in the dissemination of the Moralia since the early 1500s. He accessed the Moralia for the first time while being an assistant to Demetrius Ducas in Venice. He and Girolamo Aleandro served as the proofreaders of a Greek edition of the Moralia which was published by the Italian printer Aldus Manutius in March 1509. When Erasmus then left Venice for England, he took one book with him.  He then began to translate it into Latin in Cambridge 1511. Erasmus published several chapters of the Moralia in England, until the complete Moralia with eight chapters was published in August 1514 in Basel by Johann Froben. By Jorge Leto it is suggested that six chapters were published earlier in late 1513 or early 1514 by Badius Ascensius. The translation of Erasmus saw five editions printed by Froben between 1514 and 1520.
+
+
+== References ==
+
+
+== Further reading ==
+Aalders, Gerhard J. D. 1982. Plutarch’s Political Thought. Amsterdam: North Holland.
+Chapman, Ann. 2011. The Female Principle in Plutarch’s Moralia. Dublin, Ireland: Univ. of Dublin Press.
+Jones, Christopher P. 1966. "Towards a Chronology of Plutarch’s Works." Journal of Roman Studies 56:61–74.
+Opsomer, Jan. 2007. "The Place of Plutarch in the History of Platonism." In Plutarco e la Cultura della sua Età. Edited by Paola Volpe Cacciatore and Franco Ferrari, 283–309. Naples, Italy: D’Auria.
+Russell, Donald A. 1973. Plutarch. London: Duckworth.
+Titchener, Frances B. 1995. "Plutarch's Use of Thucydides in the Moralia." Phoenix 49.3: 189–200.
+Van der Stockt, Luc. 1999. "A Plutarchan Hypomnema on Self-Love." American Journal of Philology 120:575–599.
+Van der Stockt, Luc. 2000. Rhetorical Theory and Praxis in Plutarch. Leuven, Belgium: Peeters.
+Van Hoof, Lieve. 2010. Plutarch’s Practical Ethics: The Social Dynamics of Philosophy. Oxford: Oxford Univ. Press.
+Van Nuffelen, Peter. 2011. Rethinking the Gods: Philosophical Readings of Religion in the Post-Hellenistic Period. Cambridge, UK, and New York: Cambridge Univ. Pres
+
+
+== External links ==
+Plutarch. Scripta moralia, Volume I, Volume II. Edited by Friedrich Dübner. France, Ambrosio Firmin Didot, 1841.
+Plutarch, Morals and Essays Volume 3 from Project Gutenberg
+Plutarch, Moralia. Complete Goodwin translation of 1878 as HTML files tagged with geolocated place names at ToposText (search "Moralia").
+Plutarch at LacusCurtius.
+List of translations from Attalus.org.
+Plutarch, "Sentiments concerning nature", from University of Adelaide.
+ Moralia public domain audiobook at LibriVox
+Internet Archive
+
+Plutarch, Moralia Volumes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII:1, XIII:2, XIV, XV, Index. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1927 etc.
+Plutarch, Moralia Volumes I, II, III, IV, V. Translated by William W. Goodwin. Little, Brown and Company, 1909.

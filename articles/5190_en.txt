@@ -1,0 +1,124 @@
+Johann Sebastian Bach wrote his fifth Brandenburg Concerto, BWV 1050.2 (formerly 1050), for harpsichord, flute and violin as soloists, and an orchestral accompaniment consisting of strings and continuo. An early version of the concerto, BWV 1050.1 (formerly 1050a), originated in the late 1710s. On 24 March 1721 Bach dedicated the final form of the concerto to Margrave Christian Ludwig of Brandenburg.
+
+
+== History ==
+
+In his Weimar period (1708–1717) Bach was involved in the concerto genre, mainly through copying and transcribing. The earliest extant sources of Bach's own concerto compositions date from his Köthen period (1717–1723), where the 1721 autograph of the six Brandenburg Concertos takes a central place. Nonetheless, around half a dozen of Bach's extant concertos, including some of the Brandenburg Concertos and lost models of his later harpsichord concertos, seem to have had their roots in his Weimar period.
+
+Most of what Bach may have left with his employer in Weimar perished in a fire destroying Schloss Weimar in the 1770s.
+In 1719 a new large two-manual harpsichord arrived in the residence of Bach's then-time employer at Köthen. BWV 1050a, an extant early version of the fifth Brandenburg Concerto, may have been conceived for this instrument, but that seems unlikely as that version of the concerto was probably intended for a limited single-manual keyboard instrument. This puts the origin of the concerto's earliest version at least before Bach's third year in Köthen. Further, the presence of a traverso as one of the instruments needed for the performance of the concerto seems to indicate that it was not written for the group of performers Bach had at his disposal at Weimar or during his early years in Köthen: the traverso was a relatively new instrument at the time with probably no performers in either orchestra.
+By the time when Bach added the concerto to the set of Brandenburg Concertos in 1721 he had reworked it for a two-manual harpsichord, expanding the accompaniment with an additional cello part. Because of the limited input of the violin and flute solo parts, as compared with that of the harpsichord, the concerto can be seen as a harpsichord concerto, moreover, the first harpsichord concerto ever written. Nonetheless, the structure of the concerto and the soloist material of the harpsichordist are greatly indebted to violin concertos such as Vivaldi's Grosso mogul (which Bach had transcribed for organ, BWV 594) and Johann Ernst of Saxe-Weimar's G major concerto, which Bach had transcribed twice (for organ, BWV 592, and for harpsichord, BWV 592a).
+
+
+=== Italian and French characteristics ===
+
+In his Weimar period Bach became involved with the concerto genre. The concertos he copied and transcribed were either by Italian composers, most of them by Vivaldi but also concertos by other Venetian composers such as Albinoni and Alessandro and Benedetto Marcello, or by German composers adopting the style of the Italian concerto, such as Telemann and Johann Ernst of Saxe-Weimar. Most of these concertos were in three movements (in a fast–slow–fast sequence). The violin concerto was the dominant subgenre. A specific idiom for violin solo passages in such concertos, for instance a technique called bariolage, had developed. The solo passages were often in a faster tempo (shorter note values) than the accompaniment.
+The tutti passages of these concertos, that is where the whole orchestra joins in, were characterised by a ritornello theme which was often quite independent of the thematic material developed by the soloist(s). A typical concerto movement in this Italian style of solo concerto (as opposed to concerto formats not centred around one or more soloists such as the ripieno concerto) opened with a ritornello, followed by a solo passage called episode, after which a tutti brings back (a variant of) the ritornello, followed by further alternating solo and tutti passages, the movement being concluded by the ritornello. The characteristics of the ritornellos used by Bach in his concertos play an important role in the dating of his compositions: as so few of Bach's concertos survive in manuscripts from the time of composition scholars devised chronologies of his concerto output based on the development of the ritornello format throughout his career. A point of comparison for such chronologies are for instance cantata movements in concerto form, for many of which the time of origin can be established more accurately.
+The Italian violin concerto influence is strongest in the concerto's first movement. The concerto's second movement, exceptional for a slow movement in Bach's concerto output, is a pure concerto form, consisting of a regularly returning ritornello and evenly distributed episodes, without the experimentation of the concerto's outer movements. The last movement, with a da capo structure, has no clear ritornello: this is the only extant da capo concerto movement by Bach that has no ritornello structure. In this movement the concertato violin no longer doubles the ripieno violin in tutti passages according to the Italian practice, instead the ripieno violin is mostly doubled by the flute in the tuttis: it is a French practice (with the traverso at that time also being a French novelty) to have a woodwind instrument double the highest string part. This practice is for instance also found in Bach's rather French than Italian orchestral suites, e.g. in BWV 1067, but only in this movement in his concertos.
+The typical Italian violino principale (violin soloist) being combined with a typical French traversière (transverse flute) in the concertino also seems to indicate Bach's aim to unite different backgrounds in the concerto, but without making it so crude that these instruments would perform in their respective national styles. Another French element in the concerto's closing movement is the gigue theme which opens it, close to a theme used by Dieupart, and which Bach develops in a French fashion comparable to a similar passage in one of his orchestral suites, in this case the first movement of BWV 1069. The many instances of five-part writing in the concerto's final movement may be seen as another approach with a typical French connotation in the early 18th century.
+
+
+=== Early version (BWV 1050a) ===
+
+BWV 1050a (1050.1), the extant early version of the fifth Brandenburg Concerto, survives in a manuscript copy, consisting of performance parts, which was produced between 1744 and 1759. In this version the concerto is in six parts (a sei):
+
+Soloists (concertato instruments, together forming the concertino):
+traverso
+violin concertato
+harpsichord concertato
+Accompaniment, i.e. ripieno and continuo parts:
+violin
+viola
+violone (playing in eight-foot pitch)
+The violone part is only extant for the first movement. In this version of the concerto the three movements are indicated as "Allegro", "Adagio" and "Allegro". The harpsichordist's left hand plays the continuo line, doubled, with simplifications and omissions, by the violone. The accompaniment is minimal as to not overpower the naturally quiet single-manual harpsichord: firstly the accompaniment is reduced in numbers, with no second violin nor cello parts and only one bass part, and secondly the accompaniment gets instruction to play quietly most of the time. The ritornellos used by Bach in this concerto, for instance the extremely Vivaldian ritornello of the first movement, stay very close to early 18th-century Italian an Italianate violin concerto models, thus making a time of origin shortly after the concerto transcriptions of the mid-Weimar period likely.
+An occasion to work with a traverso performer may have presented itself during a visit the composer made to Dresden in September 1717, shortly before he moved to Köthen, a visit which is primarily remembered for the aborted contest with Marchand. Pierre-Gabriel Buffardin was a virtuoso traverso player working for the Dresden court since 1715. Bach may have known Buffardin through his brother Johann Jacob, who had been a pupil of the French flautist in 1712. Bach also knew two top Dresden violinists: Volumier, the concertmaster who had invited the composer to Dresden, and Pisendel. If Bach wrote the concerto for Dresden it seems to allude to the strife regarding the Italian versus the French style which occupied its musicians at the time, Bach delivering a work which without complexes combined characteristics of both styles. Another coincidence is that the concerto's middle movement is built on a theme composed by Marchand, as if Bach wanted to show off to his prospective competitor how he could elaborate that theme quite differently from its composer's original treatment.
+The possibility of a performance of the early version of the fifth Brandenburg Concerto in Dresden in 1717 was first tentatively proposed by harpsichordist and musicologist Pieter Dirksen in the early 1990s. Although the hypothesis rests on a complex of circumstantial indications without direct evidence, it has been picked up by Bach scholars.
+
+
+=== As harpsichord concerto ===
+
+Formally the fifth Brandenburg Concerto is a concerto grosso, with a concertino consisting of three instruments. However, throughout the concerto the harpsichord takes the leading role among the soloists, with, for instance, a long solo passage for this instrument near the end of the first movement: neither of the other soloists has a comparable solo passage. In this sense the concerto has been called the first keyboard concerto ever written. Vivaldi, and other composers, had occasionally given solo passages to keyboard instruments in their concertos before Bach, but never had a concerto been written which gave the harpsichord a soloist role throughout on the scale of the fifth Brandenburg Concerto and its predecessor BWV 1050a.
+Nowhere throughout the concerto is the concertato violin allowed to shine with typical violinistic solo passages: Bach allotted all of the specific solo violin idiom, including extended violin-like arpeggio and bariolage passages, to the harpsichord. Nor does the naturally quiet traverso get a chance to cover the harpsichord's contributions to the polyphony. Neither the violin nor flute soloists get solo passages faster than thirty-seconds: these very fast episodes, typical for a concertato violin, are in this concerto also exclusively reserved for the harpsichord. In the early version of the concerto the concertato violin always has to play piano or quieter whenever the harpsichord plays a soloist passage. The extended harpsichord solo of the first movement in the concerto's final version adds more imitations of typical violin solo techniques. Central in the B section of the A–B–A da capo structure of the last movement the harpsichord gets a solo accompanied by all the other instruments, including the flute and the concertato violin, which through this keyboard solo of around thirty bars often play unisono with one another.
+
+
+=== As No. 5 of the six Brandenburg Concertos ===
+The final version of the fifth Brandenburg Concerto survives in two autographs:
+
+D-B Am.B 78, known as the dedication score, is the manuscript containing the six Brandenburg concertos, and the March 1721 dedication to the Margrave of Brandenburg, with BWV 1050 as fifth concerto.
+D-B Mus. ms. Bach St 130 is a set of performing parts of BWV 1050 which originated shortly before the dedication score was issued to the Margrave of Brandenburg.
+When introducing the concerto as fifth item in the dedication score, or shortly before (1720–1721), Bach completely revised the work in a set of seven performance parts, copying these with some further refinements into the score. In this version of the concerto the harpsichord is a two-manual instrument allowing a more varied approach to the dynamics: the concertato violin is no longer instructed to play piano in combination with the harpsichord's solo work, while, on the other hand, the harpsichord has to shift to a softer register (i.e. other manual) where playing in a continuo role during tuttis. The harpsichord's solo near the end of the first movement is expanded from 18 to 65 bars. Also, where the earlier version is written for a harpsichord with a four-octave keyboard, the harpsichord part of the final version extends beyond these four octaves. In the Brandenburg Five version of the concerto Bach reworked and expanded an additional cello part from the violone part of the earlier version, and the violone, now playing in 16-foot pitch, gets a full-fledged ripieno part. However, taking account of doubled ripieno and continuo material, the concerto is still basically a concerto in six parts.
+
+
+=== Concerto grosso format ===
+All six of the Brandenburg Concertos are sometimes indicated as concerto grosso: the first, third and sixth of these concertos have however no concertino versus orchestra distinction. The concerto grosso was a Roman invention, typically featuring two violins and a cello as concertino, with a string orchestra of multiple string instruments per part. Venetian composers seemed slow in adopting the genre, and as Bach and his German contemporaries rather turned to Venetian music they may have been hardly aware of it. The fifth Brandenburg Concerto seems intended to be performed with one instrument per part, as to not overpower the harpsichord with its relatively restrained volume, and was not referred to as a concerto grosso by its composer. Neither are Bach's other concertos with a concertino of three instruments (BWV 1049/1057, BWV 1063–1064 and BWV 1044) referred to as concerto grosso in contemporary documents.
+
+
+== Structure ==
+
+In the 1721 dedication score the header for the fifth concerto reads: "Concerto 5to. à une Traversiere, une Violino principale, une Violino è una Viola in ripieno, Violoncello, Violone è Cembalo concertato" (5th Concerto. for a Traverso, a principal Violin, a Violin and a Viola in ripieno, Cello, Violone and concertato Harpsichord). The soloist instruments, flute, violin and harpsichord, perform in all three movements of the concerto, while the accompanying instruments, ripieno violin and viola, and cello and violone, only perform in the outer "Allegro" movements. The concerto is in D major, which is the key of the outer movements, which are both in cut time (). The common time () middle movement, indicated as "Adagio" in the BWV 1050a early version and as "Affettuoso" in the Brandenburg Five final version (BWV 1050), is in the relative key of B minor.
+Throughout the concerto tutti and solo passages are differentiated by indications for the harpsichord performer:
+
+In the tutti passages the harpsichord takes an accompanying (i.e. thorough bass) role marked by a figured bass notation for a bass line exclusively written in the lower of the two staves with the music for the instrument. Additionally Bach wrote "accompagnamento" or "accomp." to indicate these passages where the harpsichord takes the accompanying role.
+Soloist passages lack the figures for the harpsichord's bass line, and any word indicating an accompanying role.
+The first movement has the structure of an elaborate ritornello form, in the style of an early 18th-century Italian violin concerto movement, but with the harpsichord in the leading role among the soloists. The melodic material of the ritornello tutti passages, where the leading melody line is mostly performed by the concertato and ripieno violins in unison, is relatively independent from the melodic material developed by the solo instruments in the episodes. The second movement is a rather straightforward ritornello form, with either the flute or the violin taking the leading role in the tuttis, and episodes where the right hand of the harpsichord takes the role of a soloist performing melodies partially based on the ritornello theme. The final movement has a da capo form, with the leading melody in the tutti passages mostly performed by the violin and flute in unison, which is a French stylistic characteristic.
+
+
+=== Second movement: Affettuoso ===
+
+The five tutti passages in the concerto's slow middle movement each take four bars. The identical opening and closing tutti passages are in B minor, with the violin playing the leading melody line. The flute takes the lead in the other tuttis. The central tutti passage is the only one, apart from the outer ones, in a minor key. The first of the two major key tuttis is a mere transposition of the opening tutti to its relative major, also switching the violin and flute roles. The fourth tutti, in G major, variates the melodic material.
+The harpsichord takes the lead in the intermittent solo episodes: the harpsichordist's right hand, accompanied by a bass line in the left hand and some figuration by the other concertato instruments, variates on the tutti material in soloist episodes varying from five to eleven bars in length. The structure of the movement is thus more or less symmetrical, with some added weight to the fourth tutti and episode:
+
+Opening tutti in B minor (leading melody played by violin)
+5-bar episode
+Tutti in D major (leading melody played by flute)
+6-bar episode
+Tutti in F♯ minor (leading melody played by flute)
+6-bar episode
+Tutti (variated) in G major (leading melody played by flute)
+11-bar episode
+Closing tutti in B minor (leading melody played by violin), repeats opening tutti
+The music of this movement is exclusively performed by the three concertato instruments, with the right hand of the harpsichordist being allotted the soloist role, and the other instruments, together with the continuo line of the harpsichordist's left hand, producing the orchestral accompaniment – as a whole this distribution of roles is quite different from that of a trio sonata movement. The violone part of the early version of the concerto breaks off after the first movement, leaving uncertain whether it was intended to perform only in the outer movements or also in the middle movement: it is possible that in this version the violone reinforced the continuo bass-line in the tuttis.
+The movement's tempo indication is a standard "Adagio" in the older version, changed to "Affettuoso" in the final version. The latter indication may reflect more clearly what Bach wanted to express in the movement. Additionally, while some of the harpsichord's melodies involve sustained notes (which would not sound for a long enough time if the movement is played too slow), Bach may have wanted to accelerate the pace a bit by the new tempo indicator. Bach contrasted the harpsichord's long notes to short-note figuration by violin and flute: these instruments, although naturally more suitable to play sustained notes, play no long notes throughout the movement.
+
+
+=== Third movement: Allegro ===
+Structure
+The movement is written in ternary form following this pattern
+Section A starting in D major.
+Section B starting in B minor.
+And then an exact repeat of Section A.
+The piece uses fugal exposition which has a structure of a fugal subject and answer and is based on a gigue (a French dance).
+Instrumentation
+The piece has two groups of instruments:
+The Concertino:- the soloist group.
+The Ripieno:- the accompanying group.
+There would be some musical confrontation between these two groups.
+This movement is surprising for the Baroque era as the harpsichord has a dual role. The general role of the harpsichord in baroque music was to fill in harmonies. However, in this particular movement, it also has a soloist role, which was never seen prior to this piece.
+
+
+== Reception ==
+
+F-Sn Ms 2.965 and D-B Mus. ms. Bach St 131 are manuscript copies of the concerto realised during the composer's lifetime, in 1721 and around the 1730s respectively, after the autographs of the final version. In his Triple Concerto, BWV 1044, Bach returned to the format of the fifth Brandenburg Concerto. A handful extant copies of the fifth Brandenburg Concerto were produced in the second half of the 18th century. In this period Bach's autograph score and performance parts of BWV 1050 were owned by Johann Kirnberger and the composer's son Carl Philipp Emanuel respectively: by the middle of the 19th century both manuscripts were in the possession of the Berlin State Library, the former via Kirnberger's pupil Princess Anna Amalia of Prussia and the Joachimsthal Gymnasium, and the latter via Georg Poelchau.
+Further hand copies of the concerto were produced in the first half of the 19th century. Siegfried Dehn's first edition of the fifth Brandenburg Concerto, based on the autographs in the Berlin State Library, was published by C. F. Peters in 1852. The next year the concerto was performed in the Gewandhaus in Leipzig. The Bach Gesellschaft (BG) published the Brandenburg Concertos in 1871, edited by Wilhelm Rust. Max Reger's orchestral arrangement of the concerto was published by Breitkopf & Härtel in 1915. Reger also arranged the concerto for piano duet. Arnold Schering's score edition of the concerto was based on the BG version and was published by Eulenburg in the late 1920s.
+Around 1925 Eusebius Mandyczewski provided a continuo realisation for the concerto, which was edited by Karl Geiringer for a publication of the score by Wiener Philharmonischer Verlag. Universal Edition later published Mandyczewski's version in a new revision by Christa Landon. Heinrich Besseler was Bärenreiter's editor for the Brandenburg Concertos in the New Bach Edition (Neue Bach-Ausgabe, NBA). In 1959 Bärenreiter published August Wenzinger's performance edition of the fifth Brandenburg Concerto, based on the 1956 New Bach Edition Urtext, and with a continuo realisation by Eduard Müller. Previously, Bärenreiter had also published performance material of the concerto with a continuo realisation by Günter Raphael.
+Bärenreiter published Alfred Dürr's edition of the early BWV 1050a version of the concerto, with a preface by Besseler, in 1964. In 1975 Dürr's edition of the early version was appended to the NBA Series VII Vol. 2 publication of the Brandenburg Concertos. The violone part for the third movement of the NBA edition of BWV 1050a was based on a spurious cello part for the BWV 1050 version of the concerto: Dirksen deemed the result of that combination unconvincing.
+Recordings of the fifth Brandenburg Concerto were released on 78 rpm discs:
+
+1935: Rudolf Serkin (piano) with the Busch Chamber Players conducted by Adolf Busch (Columbia Nos. LFX483–LFX485), later reissued on CD (EMI 1991).
+1947: Pro Musica (Stuttgart) conducted by Otto Klemperer (Polydor Nos. 566218–566220: three two-sided discs)
+In 1973 Wendy Carlos included a Moog synthesizer performance of the fifth Brandenburg Concerto in her second Switched-On Bach album.
+
+
+== References ==
+
+
+== Sources ==
+Siegfried Dehn (editor). Cinquième Concerto pour Clavecin, Flûte et Violon concertans avec accompagnement de Violon, Alto, Violoncelle et Basse composé par JEAN SEBASTIEN BACH (=BWV 1050; part of a series titled Six Concertos composés par JEAN SEBASTIEN BACH publiés pour la première fois d'après les manuscrits origineaux in which all six Brandenburg Concertos were published in separate volumes between 1850 and 1852). Leipzig: C. F. Peters, 1852.
+Pieter Dirksen. "The Background to Bach's Fifth Brandenburg Concerto" pp. 157–185 in The Harpsichord and its Repertoire: Proceedings of the International Harpsichord Symposium, Utrecht, 1990. Utrecht: STIMU Foundation for Historical Performance Practice, 1992. ISBN 9072786033
+Alfred Dürr. "Zur Entstehungsgeschichte des 5. Brandenburgischen Konzerts", pp. 63–69 in Bach-Jahrbuch 1975. Berlin: Evangelische Verlagsanstalt (for Neue Bachgesellschaft), 1975. OCLC 603773050
+Wilhelm Rust (editor). "5. Concert in D dur für Clavier, Flöte und Violine mit Begleitung von Violine, Viola, Violoncell und Continuo" in Joh. Seb. Bach's Kammermusik: Dritter Band, Vol. 19 of the Bach-Gesellschaft Ausgabe. Breitkopf & Härtel, 1871. Preface (Vorwort) pp. XIII–XIV and XVI–XVIII, and Score pp. 125–164
+
+
+== External links ==
+Brandenburg Concerto No. 5: performance by the Netherlands Bach Society (video and background information)
+Brandenburg Concerto No.5 in D major, BWV 1050: Scores at the International Music Score Library Project

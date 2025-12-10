@@ -1,0 +1,47 @@
+The Ayenbite of Inwyt —also Aȝenbite (Agenbite) of Inwit; literally, the "again-biting of inner wit," or the Remorse (Prick) of Conscience is the title of a confessional prose work written in a Kentish dialect of Middle English.
+Rendered from the French original, one supposes by a "very incompetent translator," it is generally considered more valuable as a record of Kentish pronunciation in the mid-14th century than exalted as a work of literature.
+
+
+== Origins and content ==
+The Ayenbite is a translation of the French Somme le Roi (also known as the Book of Vices and Virtues), a late 13th-century treatise on Christian morality; the popularity of this latter text is demonstrated by the large number of surviving copies. The subject-matter is treated primarily allegorically; for example, the seven deadly sins are identified with the seven heads of the Beast of the Apocalypse.
+The surviving copy of the work was completed on 27 October 1340, by a Benedictine monk, Michael of Northgate. This can be stated with rare certainty, for the author specifies all these details himself, writing in the preface,
+
+And in a postscript,
+
+It is usually assumed that Michael of Northgate was himself the translator, not merely a copyist; the library of St Augustine's contained two copies of the French work at this time.
+
+
+== Language ==
+Since the work was intended for the use of Kentish commoners, its language has a number of unusual features.
+Firstly, the vocabulary shows a marked preference for translating technical terms into compounds of English words, rather than borrowing French or Latin terminology. The title itself is a common example: it uses ayenbite, "again-bite", for modern English "remorse", and inwyt, "in-wit", or 'inward-knowledge', for modern English "conscience", both terms being literal translations (calques) of the Latin words. Even "amen" is often translated, into the phrase zuo by hit ("so be it"). It is thus an early example of linguistic purism in English.
+Secondly, the orthography transparently reveals many details of pronunciation. Most notably, initial fricatives are regularly voiced: the word "sin" is spelt zenne, "father" becomes vader, "first" becomes verst or averst.
+The spelling is unusually consistent for the time, which implies that it is an accurate representation of the author's speech: it has been described as "as close to a 'pure' dialect as we can get". As such, and particularly given our precise knowledge of its place and date of writing, it is an invaluable resource in reconstructing the linguistic history of southern England.
+The text is also notable for its archaic morphology compared to other specimens of Middle English. For instance, the neuter gender and dative case of Old English are still distinguished; þet child bed oure Lhorde, þet gernier/to þe gerniere. The spelling Lhord(e) (Old English hlaford(e)) also suggests retention of the Old English /hl/ consonant cluster. None of these features are found in the Ormulum, from Lincolnshire, which is almost two centuries older.
+
+
+== Reception ==
+As Michael explains in his postscript, the Ayenbite was intended to provide a confessional treatise that would be accessible to "lewede men," those who could read neither French nor Latin, for the good of their souls. In this aim it can be compared to Robert Mannyng's contemporary Handlyng Synne, but unlike that work, the Ayenbite appears not to have gained any popularity; only one copy has survived, in the British Library Arundel MS 57, and that is almost certainly the original. No demonstrable influence on later works has been found; a 19th-century theory that Chaucer might have used the work as a source for his Parson's Tale has long been abandoned.
+In the 20th century, the work gained some recognition when its title was adopted by James Joyce, who used it numerous times in his novel Ulysses (1922) as a trope for conscience, especially in referencing Hamlet and Walt Whitman. In Joyce's spelling, agenbite of inwit, the title has gained a limited foothold in the English language; for example, in regard to a fictional character in Samuel R. Delany's 1968 science fiction novel Nova, using the Joyce spelling.
+
+
+== References ==
+
+
+=== Edition ===
+Morris, Richard, ed, revised by Gradon, Pamela (1965). Dan Michel's Ayenbite of Inwyt or Remorse of Conscience. EETS O.S. 23. Oxford University Press.
+
+
+=== Criticism ===
+Freeborn, Dennis (1992). From Old English to Standard English. London: Macmillan.
+Gradon, Pamela (1979). Dan Michel's Ayenbite of Inwyt or Remorse of Conscience, volume 2 (introduction and commentary). EETS O.S. 278. Oxford University Press.
+Thomson, Clara L. (1907). "Later Transition English: Legendaries and Chroniclers", in Ward, A.W., and Waller, A.R., eds. The Cambridge History of English Literature, vol. I From the Beginnings to the Cycles of Romance, 374-401. Cambridge University Press.
+Treharne, Elaine, ed (2000). Old and Middle English: An Anthology. Oxford: Blackwell.
+
+
+=== Example ===
+Delany, Samuel R. (1968). Nova. New York: Doubleday.
+
+
+== External links ==
+
+Full text at Archive.org

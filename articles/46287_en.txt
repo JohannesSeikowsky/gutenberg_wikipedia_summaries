@@ -1,0 +1,49 @@
+Liber Vagatorum (Latin for 'Book of Vagabonds')[a] is an anonymously authored text first printed in Pforzheim, southwestern Germany, likely in 1509 or 1510. It consists of three sections: the first provides a catalogue of various types of wandering beggars, the second outlines the deceptive practices they are alleged to use, and the third offers a glossary of terms in Rotwelsch, a cant used by vagrants. Despite its Latin title, Liber Vagatorum is predominantly written in German, making it accessible to a broader audience beyond the scholarly class. While traditionally attributed to Matthias Hütlin, a 16th-century Spitalmeister (lit. 'hospital master') of Pforzheim, this authorship remains contested.
+Following its initial publication, the book gained rapid popularity and underwent multiple reprints under various titles throughout the 16th to 18th centuries. Martin Luther, the seminal figure in the Protestant Reformation, edited several editions beginning in 1528, adding a preface that advised readers to refrain from almsgiving to wandering beggars, arguing that such charity would divert resources from those genuinely in need.
+
+
+== Contents ==
+Liber Vagatorum comprises three parts. 
+
+
+=== Part I ===
+The first part is organised in twenty-eight chapters. The text provides a categorisation and description of various types of beggars and vagrants found in medieval German society, detailing their methods of deception and strategies for soliciting alms. Bregers, for example, are honest paupers who beg out of necessity, often ashamed of their circumstances, and are typically known to the local community. In contrast, Stabülers are itinerant beggars who travel from one religious site to another with their families, adorned with saintly symbols on their hats and cloaks, and continually beg without seeking work. Lossners claim to have been imprisoned for religious reasons, often using forged letters from foreign princes to support their stories and carrying chains or other symbols of captivity, usually stolen or fabricated. Klenkners feign physical disabilities, such as missing limbs, to evoke sympathy, often begging at fairs or church doors.
+Dobissers pose as friars, soliciting donations for the supposed repair of churches or religious sites. Kammesierers are former scholars or students who, having fallen into disrepute, often due to gambling or other vices, resort to begging. Grantners pretend to have epilepsy or similar ailments, often staging dramatic seizures to elicit sympathy and donations. Dutzers claim to be on religious pilgrimages, requesting specific alms each day and fabricating elaborate stories to justify their need for precise sums. Dallingers, former executioners, publicly whip themselves as penance. Dützbetterins are women who pretend to be in childbirth or claim to have given birth to monstrous creatures, using such stories to beg for charity.[b] Schwanfelders are beggars who strip naked and feign suffering from extreme cold to receive clothing donations, which they later sell. Voppers are primarily women who pretend to be possessed by demons, often working with accomplices who claim to be helping them exorcise the demons in exchange for alms.
+The text portrays these beggars as largely deceitful, manipulating religious and charitable sentiments to obtain financial support through fraudulent means. It advises caution in giving alms to such individuals, as many are not genuinely in need.
+
+
+=== Part II ===
+The second instructs the reader on how to avoid their traps and trickery. 
+
+
+=== Part III ===
+The third provides a glossary of Rotwelsch words. 
+Liber Vagatorum is, despite its Latin title, entirely written in German except for the Rotwelsch words, thereby appealed to a broader audience rather than the learned class of the era. Most of the earliest editions were adorned on the title page with a woodcut of a beggar leading his wife and child on their journey on foot. A woodcut of a fool on horseback holding a hand mirror—created by Hans Dorn, a printer who was active in Brunswick—was used as the title illustration of a later edition.
+
+
+== Sources and authorship ==
+John Camden Hotten, who translated Liber Vagatorum into English in 1860, argued that the book was compiled from the reports of Johannes Knebel, detailing trials held in Basel, Switzerland, in 1475. During these trials, a large number of vagabonds, beggars, and mendicants of various kinds were arrested and interrogated. These events were later chronicled by Hieronymus Wilhelm Ebner von Eschenbach, a Nuremberg diplomat and scholar, whose manuscript was included in Johann Heumann von Teutschenbrunn's Heumanni Exercitationes iuris universi (1749), specifically in Volume One, Chapter XIII, "Observatio de lingua occulta ('An observation of a secret language')". Knebel's account closely aligns with Ebner's manuscript. Friedrich Kluge, a prominent German philologist, posited that Liber Vagatorum drew partially from the Basler Rathsmandat wider die Gilen und Lamen ('Basel Council's Mandate against the Gilen and Lamen'), published around 1450, which included a brief list of Rotwelsch words. Kluge observed that the three sections of Liber Vagatorum lacked cohesive integration; for instance, the glossary in the third section omits several Rotwelsch terms mentioned earlier in the text. This observation led Kluge to hypothesise that the book was likely compiled from multiple sources. 
+A widely accepted theory regarding the authorship of Liber Vagatorum posits that Matthias Hütlin, the Spitalmeister (lit. 'hospital master') of Pforzheim, may have been the anonymous compiler of the work. Hütlin, who served as the administrator of the city hospital in Pforzheim, belonged to the Order of the Holy Ghost, a Roman Catholic order dedicated to the care of the poor, sick, and orphaned, which managed numerous hospitals throughout Europe. Initially serving as provisor hospitalis (lit. 'hospital provider'), he was elected Spitalmeister of Pforzheim in 1500 by the order's general chapter in Strasbourg, upon the recommendation of Christopher I, Margrave of Baden. The Order's involvement in social welfare provision and its exposure to marginalised populations frequenting hospitals make Hütlin a plausible candidate for authoring a text concerned with the behaviours and deceptions of itinerants and beggars. However, despite the compelling nature of this theory, it remains contested.
+
+
+== Publication history ==
+The four earliest editions of Liber Vagatorum were likely printed in 1509 or 1510, with the first printed in Pforzheim in High German. The book gained immediate popularity, leading to at least 14 more editions by 1511. Some of these were in Low German or Low Rhenish, and one edition expanded the Rotwelsch glossary to include 280 words. 
+
+Around 20 additional editions of Liber Vagatorum were published throughout the remainder of the 16th century, many of which appeared under entirely different titles. From 1528 onwards, several editions, titled Von der falschen Betler Büberey ('On the Deceitful Deeds of Beggars'), were edited by Martin Luther, the leading figure of the Protestant Reformation. Luther revised certain passages and added a preface, leading some readers of these editions to mistakenly attribute the book's authorship to him. In his preface, Luther expressed regret for having been deceived by some of the types of wandering beggars described in the book and interpreted their deceit as evidence of the devil's influence over the world. He advised readers against giving alms to these beggars, arguing that it diverted help from those genuinely in need. Regarding the origins of Rotwelsch, Luther asserted that Hebrew, introduced by Jews, formed a fundamental component of the cant. Hotten later partially concurred with Luther's linguistic assessment, suggesting that Hebrew appeared to be "a principal element" of Rotwelsch. English historian Clifford Edmund Bosworth posited that Hebrew words had entered Rotwelsch through Yiddish.
+From around 1540, some editions were inaccurately titled Die Rotwelsch Grammatic (lit. 'The Rotwelsch Grammar'). A 1580 reprint of Von der falschen Betler Büberey was titled Ein Büchlein von den Bettlern genant Expertus in truphis (lit. 'A Little Book about Beggars, or, Expert in Frauds'). Approximately six more editions were printed in the 17th century, with at least two additional editions in the 18th century.
+
+
+== See also ==
+Martin Luther § Anti-Jewish polemics and antisemitism
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Works cited ===

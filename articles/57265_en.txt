@@ -1,0 +1,281 @@
+The Ramayana (; Sanskrit: रामायणम्, romanized: Rāmāyaṇam), also known as the Valmiki Ramayana or Tulsidas Ramayana, as traditionally attributed to Valmiki, is a smriti text (also described as a Sanskrit epic) from ancient India, one of the two important epics of Hinduism known as the Itihasas, the other being the Mahabharata. The epic narrates the life of Rama, the seventh avatar of the Hindu deity Vishnu, who was a prince of Ayodhya in the kingdom of Kosala. The epic follows his fourteen-year exile to the forest urged by his father King Dasharatha, on the request of Rama's stepmother Kaikeyi; his travels across the forests in the Indian subcontinent with his wife Sita and brother Lakshmana; the kidnapping of Sita by Ravana, the king of Lanka, that resulted in bloodbath; and Rama's eventual return to Ayodhya along with Sita to be crowned as a king amidst jubilation and celebration.
+Scholarly estimates for the earliest stage of the text range from the 7th–5th to 5th–4th century BCE, and later stages extend up to the 3rd century CE, although the original date of composition is unknown. It is one of the largest ancient epics in world literature and consists of nearly 24,000 shlokas (verses), divided into seven kāṇḍa (chapters). Each shloka is a couplet (two individual lines). The Ramayana belongs to the genre of Itihasa, narratives of past events (purāvṛtta), interspersed with teachings on the goals of human life.
+There are many versions of the Ramayana in Indian languages, including Buddhist and Jain adaptations. There are also Cambodian (Reamker), Malay (Hikayat Seri Rama), Filipino, Thai (Ramakien), Lao, Burmese, Nepali, Maldivian, Vietnamese, and Tibeto-Chinese versions of the Ramayana.
+The Ramayana was an important influence on later Sanskrit poetry and the Hindu life and culture, and its main figures were fundamental to the cultural consciousness of a number of nations, both Hindu and Buddhist. Its most important moral influence was the importance of virtue, in the life of a citizen and in the ideals of the formation of a state (from Sanskrit: रामराज्य, romanized: Rāmarājya, a utopian state where Rama is king) or of a functioning society.
+
+
+== Etymology ==
+The name Rāmāyaṇa is composed of two words, Rāma and ayana "travel, journey", with the grammatical internal sandhi "joining" of the final short a in Rāma and the initial short a in ayana to the longer form ā. Rāma, the name of the main figure of the epic, has two contextual meanings. In the Atharvaveda, it means "dark-coloured or black" and is related to the word rātri "the darkness or stillness of night". The other meaning, which can be found in the Mahabharata, is "pleasing, pleasant, charming, lovely, beautiful". Thus, Rāmāyaṇa means "Rama's journey".
+
+
+== Dating ==
+Scholarly estimates of the earliest stage of the available text range from the 7th–5th to 5th-4th centuries BCE, with later stages extending  to the 3rd century CE. According to Robert P. Goldman (1984), the oldest parts of the Ramayana date to the early 7th century BCE. Goldman states that the core portions could not have been composed later than the 6th or 5th century BCE, as the narrative neither mentions Buddhism (founded in the 5th century BCE) nor reflects the later prominence of Magadha (which rose to power in the 7th century BCE). The text also mentions Ayodhya as the capital of Kosala, rather than its later name of Saketa or its successor capital of Shravasti. In terms of narrative time, the action of the Ramayana predates the Mahabharata. Goldman & Sutherland Goldman (2022) consider the Ramayana's oldest surviving version was composed around 500 BCE.
+Books two to six are the oldest portion of the epic, while the first and last books (Balakanda and Uttara Kanda, respectively) are considered to be later additions. Style differences and narrative contradictions between these two volumes and the rest of the epic have led scholars including Hermann Jacobi toward this consensus.
+
+
+== Textual characteristics ==
+
+
+=== Genre ===
+The Ramayana belongs to the genre of Itihasa, narratives of past events (purāvṛtta), which includes the epics Mahabharata and Ramayana, and the Puranas. The genre also includes teachings on the goals of human life. It depicts the duties of relationships, portraying ideal characters like the ideal son, servant, brother, husband, wife, and king. Like the Mahabharata, Ramayana presents the teachings of ancient Hindu sages in the narrative allegory, interspersing philosophical and ethical elements.
+
+
+=== Structure ===
+In its extant form, Valmiki's Ramayana is an epic poem containing over 24,000 couplet verses, divided into seven kāṇḍas (Bālakāṇḍa, Ayodhyakāṇḍa, Araṇyakāṇḍa, Kiṣkindakāṇḍa, Sundarākāṇḍa, Yuddhakāṇḍa, Uttarakāṇḍa), and about 500 sargas (chapters). It is regarded as one of the longest epic poems ever written.
+
+
+=== Recensions ===
+The Ramayana text has several regional renderings, recensions, and sub-recensions. Textual scholar Robert P. Goldman differentiates two major regional revisions: the northern (n) and the southern (s). Scholar Romesh Chunder Dutt writes that "the Ramayana, like the Mahabharata, is a growth of centuries, but the main story is more distinctly the creation of one mind."
+There has been discussion as to whether the first and the last volumes of Valmiki's Ramayana (Bala Kanda and Uttara Kanda) were composed by the original author. Though Bala Kanda is sometimes considered in the main epic, according to many Uttara Kanda is certainly a later interpolation, not attributable to Valmiki. Both of these two kāndas are absent in the oldest manuscript.
+Some think that the Uttara Kanda contradicts how Rama and Dharma are portrayed in the rest of the epic. M. R. Parameswaran says that the way the positions of women and Shudras are depicted shows that the Uttara Kanda is a later insertion.
+
+Since Rama was revered as a dharmatma, his ideas seen in the Ramayana proper cannot be replaced by new ideas as to what dharma is, except by claiming that he himself adopted those new ideas. That is what the U-K [Uttara Kanda] does. It embodies the new ideas in two stories that are usually referred to as Sita-parityaga, the abandonment of Sita (after Rama and Sita return to Ayodhya and Rama was consecrated as king) and Sambuka-vadha, the killing of the ascetic Sambuka. The U-K attributes both actions to Rama, whom people acknowledged to be righteous and as a model to follow. By masquerading as an additional kanda of the Ramayana composed by Valmiki himself, the U-K succeeded, to a considerable extent, in sabotaging the values presented in Valmiki's Ramayana.
+
+
+== Characters ==
+
+
+== Synopsis ==
+
+
+=== Bāla Kāṇḍa ===
+
+The epic begins with the sage Vālmīki asking Nārada if there is a righteous man still left in the world, to which Nārada replies that such a man is Rāma. After seeing two birds being shot, Vālmīki creates a new form of metre called śloka, in which he is granted the ability to compose an epic poem about Rāma. He teaches his poem to the boys Lava and Kuśa, who recite it throughout the land and eventually at the court of King Rāma. Then the main narrative begins.
+Daśaratha is the King of Ayodhyā. He has three wives: Kausalyā, Kaikeyī, and Sumitrā. He does not have a son and, in the desire to have a legal heir, he performs a fire sacrifice known as Putrīyā Iṣṭi. Meanwhile, the gods are petitioning to Brahmā and Viṣhṇu about Rāvaṇa, king of the rākṣasas who is terrorizing the universe. Thus Viṣhṇu opts to be born into mortality to combat the demon Rāvaṇa. As a consequence, Rāma is first born to Kausalyā, Bharata is born to Kaikeyī, and Lakṣmaṇa and Śatrughna are born to Sumitrā.
+When Rāma is 16 years old, the r̥ṣi (sage) Viśvāmitra comes to the court of Daśaratha seeking  help against demons who are disturbing sacrificial rites. He chooses Rāma, who is followed by Lakṣmaṇa, his constant companion throughout the story. Rāma and Lakṣmaṇa receive instructions and supernatural weapons from Viśvāmitra and proceed to destroy Tāṭakā and many other demons. Viśvāmitra also recounts much lore of the landscape, his own ancestors, and the ancestors of the princes.
+The party then decides to attend King Janaka's sacrifice in the kingdom of Mithilā, who has a bow that no one has been able to string. Janaka recounts the history of the famed bow, and informs them that whoever strings the bow will win the hand of his daughter Sītā, whom he found in the earth while plowing a field. Rāma then proceeds to string the bow, but he breaks it in the process. Rāma marries Sītā; the wedding is celebrated with great festivity in Mithilā and the marriage party returns to Ayodhyā.
+
+
+=== Ayodhyā Kāṇḍa ===
+
+After Rāma and Sītā are married, an elderly Daśaratha expresses his desire to crown Rāma, to which the Kosala assembly and his subjects express their support. On the eve of the great event, Kaikeyī is happy regarding this but later is provoked by Mantharā, a wicked maidservant, to claim two boons that Daśaratha has granted to her. Kaikeyī demands Rāma to be exiled into the wilderness for fourteen years, while the succession passes to her son Bharata.
+The grief-stricken king, bound by his word, accedes to Kaikeyī's demands. Rāma accepts his father's reluctant decree with absolute submission and calm self-control which characterizes him throughout the story. He asks Sītā to remain in Ayodhyā, but she convinces him to take her with him into exile. Lakṣmaṇa also resolves to follow his brother into the forest.
+After Rāma's departure, King Daśaratha, unable to bear the grief, passes away. Meanwhile, Bharata, who is on a visit to his maternal uncle, learns about the events in Ayodhyā. He is shocked and refuses to profit from his mother's wicked scheming. He visits Rāma in the forest and implores him to return to Ayodhyā and claim the throne that is rightfully his, but Rāma, determined to carry out his father's orders to the letter, refuses to return before the period of exile. Bharata reluctantly returns to Ayodhyā and rules the kingdom on behalf of his brother.
+
+
+=== Araṇya Kāṇḍa ===
+
+In exile, Rāma, Sītā, and Lakṣmaṇa journey southward along the banks of the river Godāvari, where they build cottages and live off the land. One day, in the Pañcavati forest they are visited by a rākṣasī named Śurpaṇakhā, sister of Ravaṇa. She tries to seduce the brothers and, after failing, attempts to kill Sītā out of jealousy. Lakṣmaṇa stops her by cutting off her nose and ears. Hearing of this, her brothers Khara and Dushan organize an attack against the princes. Rama defeats Khara and his rakṣasīs.
+When the news of these events reaches Rāvaṇa, he resolves to destroy Rāma by capturing Sītā with the aid of the rakṣasa Mārīca, who, assuming the form of a golden deer, captivates Sītā's attention. Entranced by the beauty of the deer, Sītā pleads with Rāma to capture it. Rāma, aware that this is the ploy of the demons, cannot dissuade Sītā from her desire and chases the deer into the forest, leaving Sītā under Lakṣmaṇa's guard.
+After some time, Sītā hears Rāma calling out to her; afraid for his life, she insists that Lakṣmaṇa rush to his aid. Lakṣmaṇa tries to assure her that Rāma cannot be hurt that easily and that it is best if he continues to follow Rāma's orders to protect her. On the verge of hysterics, Sītā insists that it is not she but Rāma who needs Lakṣmaṇa's help. He obeys her wish but stipulates that she is not to leave the cottage or entertain any stranger. He then draws a line that no demon could cross and leaves to help Rāma. With the coast finally clear, Rāvaṇa appears in the guise of an ascetic requesting Sītā's hospitality. Unaware of her guest's plan, Sītā is tricked and is then forcibly carried away by Rāvaṇa.
+Jatāyu, a vulture, tries to rescue Sītā but is mortally wounded. In Lankā, Sītā is kept under the guard of rakṣasīs. Ravaṇa asks Sītā to marry him, but she refuses, being totally devoted to Rāma. Meanwhile, Rāma and Lakṣmaṇa learn about Sītā's abduction from Jatāyu and immediately set out to save her. During their search, they meet Kabandha and the ascetic Śabarī, who directs them to Sugriva and Hanuman.
+
+
+=== Kiṣkindhā Kāṇda ===
+
+Kishkindha Kanda is set in the land of Vānaras (Vana-nara) – Forest dwelling humans. Rāma and Lakṣmaṇa meet Hanumān, the biggest devotee of Rāma, greatest of ape heroes, and an adherent of Sugriva, the banished pretender to the throne of Kiṣkindhā. Rāma befriends Sugriva and helps him by killing his elder brother Vāli thus regaining the kingdom of Kiṣkindhā, in exchange for helping Rāma to recover Sītā.
+However, Sugriva soon forgets his promise and spends his time enjoying his newly gained power. The clever former ape queen Tārā, (wife of Vāli) calmly intervenes to prevent an enraged Lakṣmaṇa from destroying the ape citadel. She then eloquently convinces Sugriva to honour his pledge. Sugriva then sends search parties to the four corners of the earth, only to return without success from the north, east, and west. The southern search party under the leadership of Aṅgada and Hanumān learns from a vulture named Sampātī the elder brother of Jatāyu, that Sītā was taken to Lankā.
+
+
+=== Sundara Kāṇḍa ===
+
+Sundara Kanda forms the heart of Valmiki's Ramayana and consists of a detailed, vivid account of Hanumān's heroics. After learning about Sītā, Hanumān assumes a gigantic form and makes a colossal leap across the sea to Lanka. On the way, he meets many challenges like facing a Gandharva Kanyā who comes in the form of a demon to test his abilities. He encounters a mountain named Maināka who offers Hanuman assistance and a place to rest. Hanumān refuses because there is little time remaining to complete the search for Sītā.
+After entering Lankā, he finds a demon, Lankini, who protects all of Lankā. Hanumān fights her and subjugates her in order to get into Lankā. In the process, Lankini, who had an earlier vision or warning from the gods, knows that Lankā's end is near if someone defeats Lankini. Here, Hanumān explores the demons' kingdom and spies on Rāvaṇa. He locates Sītā in the Ashoka grove, where she is being wooed and threatened by Rāvaṇa and his rakṣasīs to marry him.
+Hanumān reassures Sītā, giving her Rāma's signet ring as a sign that Rāma is still alive. He offers to carry Sītā back to Rāma; however, she refuses and says that it is not the dharma, stating that Ramāyaṇa will not have significance if Hanumān carries her to Rāma – "When Rāma was not there, Rāvaṇa carried Sītā forcibly and when Rāvaṇa was not there, Hanumān carried Sītā back to Rāma." She says that Rāma himself must come and avenge the insult of her abduction. She gives Hanumān her comb as a token to prove that she is still alive.
+Hanumān takes leave of Sītā. Before going back to Rāma and telling him about Sītā's location and desire to be rescued only by him, he decides to wreak havoc in Lankā by destroying trees in the Naulakha Bagh and buildings and killing Rāvaṇa's warriors. He allows himself to be captured and delivered to Rāvaṇa. He gives a bold lecture to Rāvaṇa urging him to release Sīta. He is condemned and his tail is set on fire, but he escapes his bonds and leaps across the rooftops, sets fire to Rāvaṇa's citadel, and makes the giant leap back from the island. The joyous search party returns to Kiṣkindhā with the news.
+
+
+=== Yuddha Kāṇḍa ===
+
+Also known as Lankā Kāṇḍa, this book describes the war between the army of Rāma (Vanara) and the army of Rāvaṇa (Rakshasa). Having received Hanuman's report on Sītā, Rāma and Lakṣmaṇa proceed with their allies towards the shore of the southern sea. There they are joined by Rāvaṇa's renegade brother Vibhiṣaṇa. The vānaras named Nala and Nīla construct the Rama Setu.
+The princes and their army cross over to Lanka. A lengthy war ensues. During a battle, Ravana's son Meghanāda hurls a powerful weapon at Lakṣmaṇa who is mortally wounded. So Hanumān assumes his gigantic form and flies from Lankā to the Himalayas. Upon reaching, Hanumān is unable to identify the sanjeevani herb that will cure Lakṣmaṇa and so he decides to bring the entire mountain back to Lankā. Eventually, the war ends when Rāma kills Rāvaṇa. Rāma then installs Vibhishaṇa on the throne of Lanka.
+On meeting Sītā, Rāma says; "The dishonour meted out to him and the wrong done to her by Rāvaṇa have been wiped off by his victory over the enemy with the assistance of Hanumān, Sugrīva and Vibhishaṇa". However, upon criticism from people in his kingdom about the chastity of Sītā, Rāma is extremely disheartened.
+So Sītā, in order to prove the citizens wrong and wipe the false blame on her, requests Rāma and Lakṣmaṇa to prepare a pyre for her to enter. When Lakṣmaṇa prepares the pyre, Sītā prays to Agni and enters it in order to prove her conjugal fidelity. Agni appears in person from the burning pyre, carrying Sītā in his arms and restores her to Rāma, testifying to her purity. Rama later joyfully accepts her. The episode of Agni Pariksha varies in the versions of Ramāyaṇa by Valmiki and Tulsidas. In Tulsidas's Ramcharitmanas, Sītā was under the protection of Agni (see Māyā Sītā) so it was necessary to bring her out before reuniting with Rāma. The gods led by Brahma arrive and glorify Rama as the incarnation of Supreme God Narayana. Indra restores the dead Vanaras back to life.
+After the exile, Rāma returns to Ayodhya and the people are so happy that they celebrate it like a festival. Deepavali is the day celebrating when Rāma, Sītā, Lakṣmaṇa and Hanumān reached Ayodhyā after a period of 14 years in exile after Rāma's army of good defeated demon king Rāvaṇa's army of evil. The return of Rāma to Ayodhyā is celebrated with his coronation. It is called Rāma pattabhisheka. There are mentions in Rāmayaṇa that Rama gave several donations to Sugriva, Jambavan, other Vanaras, and gave a pearl necklace to Sita telling her to give it to a great person. She gives it to Hanumān. Rāma is very thankful to Vibhisaṇa and wants to give him a great gift. Rāma gives his Aradhana Devata (Sri Ranganathaswamy) to Vibhishana as a gift. Rama's rule itself, Rāma rājya, is described as just and fair. It is believed by many that when Rama returned, people celebrated their happiness with diyas, and the festival of Deepavali is connected with Rāma's return.
+
+
+=== Uttara Kanda ===
+
+Scholars note "linguistic and rhetorical differences" between the Uttara Kanda and books 2 through 6 of the Ramayana, especially in stories such as Sita's exile and the death of Shambuka, and together with Bala Kanda it is considered by some scholars to be an interpolation, and that "the 'original' poem ended with the Yuddhakanda.
+This kanda narrates Rama's reign in Ayodhya, the birth of Lava and Kusha, the Ashvamedha yajna, and the  last days of Rama. At the expiration of his term of exile, Rama returns to Ayodhya with Sita, Lakshmana, and Hanuman, where the coronation is performed. On being asked to prove his devotion to Rama, Hanuman tears his chest open and to everyone's surprise, there is an image of Rama and Sita inside his chest. Rama rules Ayodhya and the reign is called Rama-Rajya (a place where the common folk are  happy, fulfilled, and satisfied). Then Valmiki trained Lava and Kusha in archery and succeeded to the throne after Rama.
+
+
+== Versions ==
+
+As in many oral epics, multiple versions of the Ramayana survive. In particular, the Ramayana related in north India differs in important respects from that preserved in south India and the rest of southeast Asia. There is an extensive tradition of oral storytelling based on Ramayana in Indonesia, Cambodia, Philippines, Thailand, Malaysia, Laos, Vietnam and Maldives.
+
+
+=== India ===
+There are diverse regional versions of the Ramayana written by various authors in India. Some of them differ significantly from each other. A West Bengal manuscript from the 6th century presents the epic without two of its kandas.
+During the 12th century, Kamban wrote Ramavataram, known popularly as Kambaramayanam in Tamil, but references to Ramayana story appear in Tamil literature as early as 3rd century CE. The Telugu rendition, Ranganatha Ramayanam, was written by Gona Budda Reddy in the 13th century and another of a purer Telugu rendition, called Molla Ramayanam written by Atukuri Molla in the 15th century.
+The earliest translation to a regional Indo-Aryan language is the 14th-15th century Saptakanda Ramayana in Assamese by Madhava Kandali. Valmiki's Ramayana inspired Sri Ramacharit Manas by Tulsidas in 1576, an epic in Awadhi Hindi with a slant more grounded in a different realm of Hindu literature, that of bhakti; it is an acknowledged masterpiece, popularly known as Tulsi-krita Ramayana. Gujarati poet Premanand wrote a version of the Ramayana in the 17th century. Akbar, the third Mughal Emperor, commissioned a simplified text of the Ramayana which he dedicated to his mother, Hamida Banu Begum. Created around 1594, the manuscript is illustrated with scenes from the narrative.
+Other versions include Krittivasi Ramayan, a Bengali version by 14th century Bengali poet Krittibas Ojha in the early 15th century; Vilanka Ramayana by 15th century poet Sarala Dasa and Jagamohana Ramayana (also known as Dandi Ramayana) by 15th century poet Balarama Dasa, both in Odia; a Torave Ramayana in Kannada by 16th-century poet Narahari; Adhyathmaramayanam, a Malayalam version by Thunchaththu Ramanujan Ezhuthachan in the 16th century; in Marathi by Sridhara in the 18th century; in Maithili by Chanda Jha in the 19th century; and in the 20th century, Rashtrakavi Kuvempu's Sri Ramayana Darshanam in Kannada and Srimadramayana Kalpavrukshamu in Telugu by Viswanatha Satyanarayana who received Jnanapeeth award for this work.
+There is a sub-plot to the Ramayana, prevalent in some parts of India, relating the adventures of Ahiravan and Mahi Ravana, evil brother of Ravana, which enhances the role of Hanuman in the story. Hanuman rescues Rama and Lakshmana after they are kidnapped by the Ahi-Mahi Ravana at the behest of Ravana and held prisoner in a cave, to be sacrificed to the goddess Kali. Adbhuta Ramayana is a version that is obscure but also attributed to Valmiki – intended as a supplementary to the original Valmiki Ramayana. In this variant of the narrative, Sita is accorded far more prominence, such as elaboration of the events surrounding her birth – in this case to Ravana's wife, Mandodari as well as her conquest of Ravana's older brother in the Mahakali form.
+The Gondi people have their own version of the Ramayana known as the Gond Ramayani, derived from oral folk legends. It consists of seven stories with Lakshmana as the protagonist, set after the main events of the Ramayana, where he finds a bride.
+In Adiya Ramayana, an oral version of Ramayana prevailing among the Adiya tribe of Wayanad, Sita is an Adiya woman hailing from Pulpally in Wayanad. A notable difference in the version is  that the Rama, Lakshmana and Hanuman were tied to a tree and were brought to trial in the tribal court, where the deities of the clan Sidhappan, Nanjappan, Mathappan etc. interrogate them with intense inquiries regarding the ethical justification for abandoning his pregnant wife in the barren jungle, neglecting his duties as a husband. Rama admits his mistakes and reaccepts Sita, Lava and Kusha.
+
+
+==== Early references in Tamil literature ====
+
+Even before Kambar wrote the Ramavataram in Tamil in the 12th century CE, there are many ancient references to the story of Ramayana, implying that the story was familiar in the Tamil lands even before the Common Era. References to the story can be found in the Sangam literature of Akanaṉūṟu (dated 1st century BCE) and Purananuru (dated 300 BC), the twin epics of Silappatikaram (dated 2nd century CE) and Manimekalai (cantos 5, 17 and 18), and the Alvar literature of Kulasekhara Alvar, Thirumangai Alvar, Andal and Nammalvar (dated between 5th and 10th centuries CE). Even the songs of the Nayanmars have references to Ravana and his devotion to Lord Siva.
+The entire Ramayana was rewritten as a Tamil Opera in the 18th century CE by Arunachala Kavirayar in Srirangam, this opera, named the Rama Natakam, allowed access to those who could not read the original version.
+
+
+==== Buddhist version ====
+
+In the Buddhist variant of the Ramayana (Dasaratha Jataka), Dasharatha was king of Benares and not Ayodhya. Rama (called Rāmapaṇḍita in this version) was the son of Kaushalya, first wife of Dasharatha. Lakṣmaṇa (Lakkhaṇa) was a sibling of Rama and son of Sumitra, the second wife of Dasharatha. Sita was the wife of Rama. To protect his children from his wife Kaikeyi, who wished to promote her son Bharata, Dasharatha sent the three to a hermitage in the Himalayas for a twelve-year exile.
+After nine years, Dasharatha died and Lakkhaṇa and Sita returned. Rāmapaṇḍita, in deference to his father's wishes, remained in exile for a further two years. This version does not include the abduction of Sītā. There is no Ravana in this version, or the Rama-Ravana war. However, Ravana appears in other Buddhist literature, the Lankavatara Sutra.
+In the explanatory commentary on Jātaka, Rāmapaṇḍita is said to have been a previous birth of the Buddha, and Sita as previous birth of Yasodharā (Rahula-Mata).
+
+
+==== Jain versions ====
+
+Vimalsuri was a Jain monk of the Śvetāmbara Murtipujaka sect. He is best known for his composition "Paumachariyam", the earliest known Jain version of the Ramayana and the oldest work of literature written in Maharashtri Prakrit. Jain versions of the Ramayana can also be found in the various Jain agamas like Saṅghadāsagaṇī Vāchaka's Vasudevahiṇḍī (circa 4th century CE), Ravisena's Padmapurana (story of Padmaja and Rama, Padmaja being the name of Sita), Hemacandra's Trisastisalakapurusa charitra (hagiography of 63 illustrious persons), Sanghadasa's Vasudevahindi and Uttarapurana by Gunabhadara. According to Jain cosmology, every half time cycle has nine sets of Balarama, Vasudeva and prativasudeva.
+Rama, Lakshmana and Ravana are the eighth Baldeva, Vasudeva and Prativasudeva respectively. Padmanabh Jaini notes that, unlike in the Hindu Puranas, the names Baladeva and Vasudeva are not restricted to Balarama and Krishna in Jain Puranas. Instead they serve as names of two distinct classes of mighty brothers, who appear nine times in each half time cycle and jointly rule half the earth as half-chakravartins. Jaini traces the origin of this list of brothers to the jinacharitra (lives of jinas) by Acharya Bhadrabahu (3d–4th century BCE).
+In the Jain epic of Ramayana, it is not Rama who kills Ravana as told in the Hindu version. Perhaps this is because Rama, a liberated Jain Self in his last life, is unwilling to kill. Instead, it is Lakshmana who kills Ravana (as Vasudeva killes Prativasudeva). In the end, Rama, who led an upright life, renounces his kingdom, becomes a Jain monk and attains moksha. On the other hand, Lakshmana and Ravana go to Hell. However, it is predicted that ultimately they both will be reborn as upright persons and attain liberation in their future births. According to Jain texts, Ravana will be the future Tirthankara (omniscient teacher) of Jainism.
+The Jain versions have some variations from Valmiki's Ramayana. Dasharatha, the king of Ayodhya had four queens: Aparajita, Sumitra, Suprabha and Kaikeyi. These four queens had four sons. Aparajita's son was Padma and he became known by the name of Rama. Sumitra's son was Narayana: he came to be known by another name, Lakshmana. Kaikeyi's son was Bharata and Suprabha's son was Shatrughna. Furthermore, not much was thought of Rama's fidelity to Sita. According to the Jain version, Rama had four chief queens: Maithili, Prabhavati, Ratinibha, and Sridama.
+Furthermore, Sita takes renunciation as a Jain ascetic after Rama abandons her and is reborn in heaven as Indra. Rama, after Lakshman's death, also renounces his kingdom and becomes a Jain monk. Ultimately, he attains Kevala Jnana omniscience and finally liberation. Rama predicts that Ravana and Lakshmana, who were in the fourth hell, will attain liberation in their future births. Accordingly, Ravana is the future Tirthankara of the next half ascending time cycle and Sita will be his Ganadhara.
+
+
+=== Southeast Asian ===
+
+
+==== Indonesia ====
+
+There are several Indonesian adaptations of Ramayana, including the Javanese Kakawin Ramayana and Balinese Ramakavaca. The first half of Kakawin Ramayana is similar to the original Sanskrit version, while the latter half is very different. One of the recognizable modifications is the inclusion of the indigenous Javanese guardian demigod, Semar, and his sons, Gareng, Petruk, and Bagong who make up the numerically significant four Punokawan or "clown servants".
+Kakawin Ramayana is believed to have been written in Central Java circa 870 AD during the reign of Mpu Sindok in the Mataram kingdom. The Javanese Kakawin Ramayana is not based on Valmiki's epic, which was then the most famous version of Rama's story, but based on Ravanavadha or the "Ravana massacre," which is the sixth or seventh century poem by Indian poet Bhattikavya.
+Kakawin Ramayana was further developed on the neighboring island of Bali becoming the Balinese Ramakavaca. The bas-reliefs of Ramayana and Krishnayana scenes are carved on balustrades of the 9th century Prambanan temple in Yogyakarta, as well as in the 14th century Penataran temple in East Java. In Indonesia, the Ramayana is a deeply ingrained aspect of the culture, especially among Javanese, Balinese and Sundanese people, and has become the source of moral and spiritual guidance as well as aesthetic expression and entertainment, for example in wayang and traditional dances.
+The Balinese kecak dance for example, retells the story of the Ramayana, with dancers playing the roles of Rama, Sita, Lakhsmana, Jatayu, Hanuman, Ravana, Kumbhakarna and Indrajit surrounded by a troupe of over 50 bare-chested men who serve as the chorus chanting "cak". The performance also includes a fire show to describe the burning of Lanka by Hanuman. In Yogyakarta, the Wayang Wong Javanese dance also retells the Ramayana. One example of a dance production of the Ramayana in Java is the Ramayana Ballet performed on the Trimurti Prambanan open air stage, with dozens of actors and the three main prasad spires of the Prambanan Hindu temple as a backdrop.
+
+
+==== Malaysia ====
+The Malay adaptation of the Ramayana, also known as the Hikayat Seri Rama, incorporates elements of both Hindu mythology and Islamic mythology.
+
+
+==== Myanmar (Burma) ====
+
+The Burmese adaptation of the Ramayana is known as the Yama Zatdaw.
+
+
+==== Philippines ====
+
+The Maharadia Lawana, an epic poem of the Maranao people of the Philippines, has been regarded as an indigenized version of the Ramayana since it was documented and translated into English by Professor Juan R. Francisco and Nagasura Madale in 1968. The poem, which had not been written down before Francisco and Madale's translation, narrates the adventures of the monkey-king, Maharadia Lawana, to whom the Gods have granted immortality.
+Francisco, an indologist from the University of the Philippines Manila, believed that the Ramayana narrative arrived in the Philippines some time between the 17th to 19th centuries, via interactions with Javanese and Malaysian cultures which traded extensively with India.
+By the time it was documented in the 1960s, the character names, place names, and the precise episodes and events in Maharadia Lawana's narrative already had some notable differences from those of the Ramayana. Francisco believed that this was a sign of "indigenization", and suggested that some changes had already been introduced in Malaysia and Java even before the story was heard by the Maranao, and that upon reaching the Maranao homeland, the story was "further indigenized to suit Philippine cultural perspectives and orientations."
+
+
+==== Thailand ====
+
+Thailand's popular national epic Ramakien (Thai: รามเกียรติ์, from rāmakīrti, 'glory of Ram') is derived from the Hindu epic. In Ramakien, Sita is the daughter of Ravana and Mandodari (thotsakan and montho). Vibhishana (phiphek), the astrologer brother of Ravana, predicts the death of Ravana from Sita's horoscope. Ravana throws her into the water, but she is later rescued by Janaka (chanok).
+While the main story is identical to that of Ramayana, many other aspects were transposed into a Thai context, such as the clothes, weapons, topography and elements of nature, which are described as being Thai in style. It has an expanded role for Hanuman and he is portrayed as a lascivious character. Ramakien can be seen in an elaborate illustration at Wat Phra Kaew in Bangkok.
+
+
+=== Critical edition ===
+A critical edition of the text was compiled in India in the 1960s and 1970s, by the Oriental Institute at Maharaja Sayajirao University of Baroda, India, utilizing dozens of manuscripts collected from across India and the surrounding region. An English language translation of the critical edition was completed in November 2016 by Sanskrit scholar Robert P. Goldman of the University of California, Berkeley.
+Another English translation of the critical edition of the Valmiki Ramayana was done by the late Mr. Bibek Debroy.
+
+
+== Commentaries ==
+There are around thirty three commentaries on the Ramayana. Some of the commentaries on the Ramayana include-
+
+Mahesvara Tirtha's tattvadīpa (also known as tattvadīpika)
+Govindaraja's bhūṣaṇa (also known as govindarājīyam)
+Sivasahaya's śiromaṇi
+Mahadeva Yogi's amṛtakaṭaka
+Ramanuja's rāmānujīyam
+Ahobala's taniclōkī
+Nagoji Bhatta's(Ramavarma) tilaka
+Tryambakarāyamakhī's dharmākūtam
+The three commentaries tilaka, bhūṣaṇa and śiromaṇi are known as ṭīkātraya (i.e. commentary trio) and are more popular.
+
+
+== Influence ==
+
+
+=== Holidays ===
+
+
+==== Vijayadashami ====
+
+Vijayadashami is a major Hindu festival celebrated every year at the end of Durga Puja and Navaratri.
+
+
+==== Diwali ====
+
+Diwali, the festival of lights in Hinduism, is celebrated in joy of Lord Rama returning to Ayodhya with his wife Sita and brother Lakshmana.
+
+
+=== In art ===
+
+One of the most important literary works of ancient India, the Ramayana has had a profound impact on art and culture in the Indian subcontinent and southeast Asia with the lone exception of Vietnam. The story ushered in the tradition of the next thousand years of massive-scale works in the rich diction of regal courts and Hindu temples. It has also inspired much secondary literature in various languages, notably Kambaramayanam by Tamil poet Kambar of the 12th century, Telugu language Molla Ramayanam by poet Molla and Ranganatha Ramayanam by poet Gona Budda Reddy, 14th-century Kannada poet Narahari's Torave Ramayana and 15th-century Bengali poet Krittibas Ojha's Krittivasi Ramayan, as well as the 16th-century Awadhi version, Ramcharitmanas, written by Tulsidas.
+Ramayanic scenes have also been depicted through terracottas, stone sculptures, bronzes and paintings. These include the stone panel at Nagarjunakonda in Andhra Pradesh depicting Bharata's meeting with Rama at Chitrakuta (3rd century CE).
+The Ramayana became popular in Southeast Asia from the 8th century onward and was represented in literature, temple architecture, dance and theatre. Today, dramatic enactments of the story of the Ramayana, known as Ramlila, take place all across India and in many places across the globe within the Indian diaspora.
+In Indonesia, especially Java and Bali, Ramayana has become a popular source of artistic expression for dance drama and shadow puppet performances in the region. Sendratari Ramayana is the Javanese traditional ballet in wayang orang style, routinely performed in the cultural center of Yogyakarta. Large casts were part of outdoor and indoor performances presented regularly at Prambanan Trimurti temple for many years. Balinese dance dramas of Ramayana were also performed frequently in Balinese Hindu temples in Ubud and Uluwatu, where scenes from Ramayana are an integral part of kecak dance performances. Javanese Wayang (Wayang Kulit of purwa and Wayang Wong) also draw from Ramayana or Mahabharata.
+
+Ramayana has also been depicted in many paintings, notably by the Indonesian (Balinese) artists such as I Gusti Dohkar (before 1938), I Dewa Poetoe Soegih, I Dewa Gedé Raka Poedja, Ida Bagus Made Togog before 1948 period. Their paintings are currently in the National Museum of World Cultures collections of Tropenmuseum in Amsterdam, Netherlands. Malaysian artist Syed Thajudeen also depicted Ramayana in 1972. The painting is currently in the permanent collection of the Malaysian National Visual Arts Gallery.
+
+
+== In popular culture ==
+Multiple modern, English-language adaptations of the epic exist, namely Ram Chandra Series by Amish Tripathi, Ramayana Series by Ashok Banker and a mythopoetic novel, Asura: Tale of the Vanquished by Anand Neelakantan. Another Indian author, Devdutt Pattanaik, has published three different retellings and commentaries of Ramayana titled Sita, The Book Of Ram and Hanuman's Ramayan. A number of plays, movies and television serials have also been produced based upon the Ramayana.
+Quotes from the Ramayana are used in "Live Gloriously", the main theme for the video game Civilization VII.
+
+
+=== Stage ===
+
+One of the best known Ramayana plays is Gopal Sharman's The Ramayana, a contemporary interpretation in English, of the great epic based on the Valmiki Ramayana. The play has had more than 3,000 performances all over the world, mostly as a one-woman performance by actress Jalabala Vaidya, wife of the playwright Gopal Sharman. The Ramayana has been performed on Broadway, London's West End, United Nations Headquarters, the Smithsonian Institution among other international venue and in more than 35 cities and towns in India.
+Starting in 1978 and under the supervision of Baba Hari Dass, Ramayana has been performed every year by Mount Madonna School in Watsonville, California.
+In the Philippines, a jazz ballet production was produced in the 1970s entitled "Rama at Sita" (Rama and Sita). The production was a result of a collaboration of four National Artists, Bienvenido Lumbera's libretto (National Artist for Literature), production design by Salvador Bernal (National Artist for Stage Design), music by Ryan Cayabyab (National Artist for Music) and choreography by Alice Reyes (National Artist for Dance).
+
+
+=== Nomenclatures ===
+Ramayana has had a profound influence on India and Indians across the geographical and historical space. Rampur is the most common name for villages and towns across the nation particularly UP, Bihar and West Bengal. It is so common that people have been using Ram Ram as a greeting to each other.
+
+
+== Texts and translations ==
+Sanskrit text
+Electronic version of the Sanskrit text, input by Muneo Tokunaga
+Sanskrit text on GRETIL
+Translations
+Here is a list of notable English translations of the Ramayana in chronological order:
+
+Griffith, Ralph T. H. (1870–1874). The Ramayan of Valmiki. Trübner – via Sacred-texts.org. (Project Gutenberg).
+Griffith's translation was one of the earliest complete translations of the Ramayana into English.
+Dutt, Romesh Chunder (1898). The Ramayana and Mahabharata Condensed into English Verse. J. M. Dent. Reprint: Dover Publications. 2012. ISBN 978-0-486-14352-1.
+Dutt provided a condensed version of the Ramayana in verse form.
+Johnson, Helen M. (1931). "Book VII - Jain Ramayana (Rāmāyaṇa)". Trishashti Shalaka Purusha Caritra.
+This translation presents the Jain perspective on the Ramayana.
+Shastri, Hari Prasad (1952). The Ramayana of Valmiki. Shanti Sadan.
+Shastri's translation is notable for its attempt to retain the poetic beauty of the original Sanskrit.
+Narayan, R. K. (1973). The Ramayana: A Shortened Modern Prose Version of the Indian Epic. Chatto and Windus. ISBN 978-0-7011-1990-4.
+Narayan's translation is a prose version that simplifies the story for a modern audience while retaining its essential elements.
+Buck, William (1976). Ramayana. University of California Press. 35th Anniversary Edition. 2012. ISBN 978-0-520-27298-9
+Buck's version is a modern retelling that aims to make the story accessible to contemporary readers.
+Raghunathan, N. (1981). Srimad Valmiki Ramayanam. Madras: Vighneswara Publishing House.
+This translation is noted for its fidelity to the original text.
+Goldman, Robert P. (1990). The Ramayana of Valmiki: An Epic of Ancient India: Balakanda. Princeton University Press. ISBN 978-0-691-01485-2.
+————————— (1994). The Ramayana of Valmiki: An Epic of Ancient India: Kiskindhakanda. Princeton University Press. ISBN 978-0-691-06661-5.
+————————— (1996). The Ramayana of Valmiki: Sundarakanda. Princeton University Press. ISBN 978-0-691-06662-2.
+This translation is part of the Princeton Library of Asian Translations and is noted for its scholarly approach and detailed annotations. The project spans multiple volumes and years.
+Sattar, Arshia (1996). The Rāmāyaṇa by Vālmīki: An Epic of Ancient India. Viking. ISBN 978-0-14-029866-6.
+Sattar's translation is praised for its clarity and readability, as well as for staying close to the original text.
+Brockington, J. L.; Brockington, Mary (2006). Rāma the Steadfast: An Early Form of the Rāmāyaṇa. Penguin. ISBN 0-14-044744-X.
+This translation provides an early form of the Ramayana, emphasizing its foundational aspects.
+Debroy, Bibek (2017). The Valmiki Ramayana. Vol. 1. Penguin. ISBN 978-93-87326-26-2.
+Debroy's translation is known for its fidelity to the original text and detailed footnotes and commentary.
+These translations reflect a range of approaches, from strict adherence to the original Sanskrit text to more accessible modern retellings.
+
+
+== See also ==
+Rāmakṛṣṇavilomakāvyaṃ
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+ Ramayana at Project Gutenberg
+The Ramayana of Valmiki English translation by Hari Prasad Shastri, 1952 (revised edition with interwoven glossary)
+A condensed verse translation Archived 5 March 2021 at the Wayback Machine by Romesh Chunder Dutt sponsored by the Liberty Fund
+ Ramayan public domain audiobook at LibriVox
+Absolute dating of Ramayana
+Collection: Art of the Ramayana from the University of Michigan Museum of Art

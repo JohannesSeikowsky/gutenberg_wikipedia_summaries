@@ -1,0 +1,158 @@
+Le Marchand de Venise (The Merchant of Venice) est une pièce de théâtre de William Shakespeare écrite entre 1596 et 1597. Classée comme comédie dans le premier in-folio de 1623, elle partage certains aspects avec les autres comédies romantiques de l'auteur, mais contient également des passages d’une grande intensité tragique.
+Le personnage du titre est le marchand Antonio. Pour rendre service à son protégé Bassanio, il emprunte de l'argent à l'usurier Shylock. Certain de pouvoir le rembourser, il signe un contrat où il autorise son créancier à lui prélever une livre de chair en cas de défaut de paiement. Il ne peut faire face à son échéance et Shylock, qui veut se venger des humiliations que lui ont fait subir les chrétiens, insiste pour que le contrat soit appliqué à la lettre.
+Le portrait du Juif Shylock suscite de nombreuses interrogations et des interprétations très diverses, les uns y voyant un bouc émissaire, reflet des préjugés antisémites, les autres le porte-parole éloquent d’une communauté qui revendique un traitement humain.
+Cette ambiguïté fait que la pièce est parfois considérée comme l'une des « pièces à problème » de Shakespeare, au même titre par exemple que Mesure pour mesure.
+
+
+== Date et sources ==
+
+
+=== Publication ===
+On pense que le Marchand de Venise a été écrit entre 1596 et 1598. La pièce est mentionnée comme comédie par Francis Meres en 1598, ce qui indique qu'elle était sur scène à cette date. L'allusion de Solanio à son navire, l'André (acte I, Scène 1, v. 27), est considérée comme une allusion au navire espagnol Saint-André, capturé par les Anglais à Cadix en 1596. Par ailleurs, une date entre 1596 et 1597 correspond bien au style de la pièce.[réf. nécessaire]
+La pièce est inscrite au Registre des Libraires par James Roberts le 22 juillet 1598 sous le titre « Le Marchand de Venise, également appelée le Juif de Venise ». Le 28 octobre 1600, Roberts cède ses droits à Thomas Hayes, qui publie la même année, le premier in-quarto : «La Très excellente histoire du Marchand de Venise. Avec l'extrême cruauté de Shylock le juif vis-à-vis dudit marchand en prélevant exactement une livre de chair sur son corps [..] ». Une réédition pirate paraît en 1619 dans le « faux folio » de William Jaggard : par la suite, le 8 juillet 1619, l'héritier de Thomas Hayes, son fils Laurence Hayes, réclame et obtient une confirmation de ses droits sur la pièce. L'édition de 1600 est la base du texte publié dans le Premier Folio en 1623, et considéré, généralement, comme fidèle et fiable.
+
+
+=== Sources ===
+L'intrigue principale du Marchand de Venise est inspirée d'un conte italien de Giovanni Fiorentino, « Giannetto de Venise et la dame de Belmonte », paru dans Il Pecorone (Le Niais) en 1558 à Milan ; on y trouve la dame de Belmont, l’emprunt gagé sur une livre de chair pour permettre à l'amant de se rendre à Belmont, l’impossibilité de rembourser, l'opiniâtreté du créancier, le retour in extremis de l'ami à Venise, suivi par son épouse déguisée en juge, le procès où l’usurier est ironiquement confondu par la lettre même du contrat. Cet ouvrage ou sa traduction n’ayant pas été inscrits dans le registre des Libraires, les critiques ne savent pas si Shakespeare en connaissait une version italienne, une traduction manuscrite, ou une version orale. Cependant d’autres critiques ont noté l’existence du motif de la livre de chair dans une multiplicité d’autres sources. Shakespeare aurait pu lire le roman d’Anthony Munday, Zelauto (1580), mettant en scène l’usurier Truculento, insistant pour que sa créance lui soit remboursée avec les yeux de ses deux jeunes débiteurs. Il connaissait peut-être la traduction anglaise d'un texte français d’un certain Alexandre Sylvain, The Orator, parue en 1596, dont la version anglaise pourrait encore être de Munday. L’ouvrage est intéressant en ce qu’il présente l'épisode de la livre de chair (Déclamation 95) sous forme d’un débat juridique qui développe d’un côté le point de vue du créancier, et de l’autre celui du débiteur chrétien.
+L’histoire d'amour entre Jessica et Lorenzo se trouve déjà dans un récit de Masuccio Salernitano qui date de 1470, et dans Le Juif de Malte de Christopher Marlowe qui date de 1589 et jouit toujours d’une grande popularité dans les années 1590 ; Shylock emprunte un certain nombre de traits à Barabas, le héros de la pièce de Marlowe.
+L’épreuve des trois coffrets, quant à elle, figurait dans les Gesta Romanorum, inépuisable mine d’exempla pour les élisabéthains. Une traduction anglaise en avait été publiée par Wynkyn de Worde vers 1510-1515 (St John's College, Cambridge). L’imprimeur londonien Richard Robinson en publia plusieurs éditions soi-disant remaniées entre 1577 et 1600, sous le titre Certain Selected Histories for Christian Recreations, qui connurent un grand succès. « La trente-deuxième histoire » est le récit de l'épreuve imposée par l'empereur à la jeune fille inconnue que son fils veut épouser. Il lui montre trois récipients couverts, l'un en or, l'autre en argent et le troisième en plomb, avec une inscription en forme d'énigme ; la jeune fille prend son temps mais fait le bon choix. Les autres sources qui auraient pu inspirer Shakespeare sont la Confessio Amantis de John Gower, qui raconte comment un souverain éprouva ses courtisans en leur soumettant deux coffrets identiques, l’un rempli d'or, l’autre de foin, pour leur montrer que les apparences ne sont rien. Un récit semblable figurait dans le Décaméron de Boccace.
+La scène de psychomachie comique où l'on voit le clown Lancelot tiraillé entre son bon ange et son démon remonte au théâtre médiéval (Acte II, sc. ii, 1-31).
+Certains critiques pensent que Shakespeare aurait pu réécrire une pièce ancienne pour la remettre au goût du jour. Ils se basent sur le fait qu’un critique du théâtre et des débordements qu’il était supposé occasionner, Stephen Gosson, avait publié en 1579 A School of Abuse (L'École des abus), diatribe qui épargnait deux œuvres, dont une pièce intitulée Le Juif. Cette pièce aurait eu pour sujet « la cupidité de ceux qui font des choix mondains et l'esprit sanguinaire des usuriers » ; la référence aux choix dictés par la cupidité pourrait correspondre à la scène des trois coffrets, et celle qui mentionne « les usuriers sanguinaires » pourrait être une description du prototype de Shylock.
+
+
+=== Mises en scène ===
+Une allusion au vaisseau espagnol capturé en juin 1596 lors du siège de Cadix (I, i, 27) donne une idée du contexte dans lequel la pièce a été composée, ce qui permet de faire l'hypothèse qu'elle a été jouée pour la première fois entre 1596 et 1598.
+La première représentation attestée eut lieu à la cour de Jacques Ier, au printemps 1605, suivie d'une autre quelques jours plus tard. Il n’existe aucune trace d’autres représentations au XVIIe siècle. En 1701, George Granville mit en scène une adaptation de la pièce qui remporta un vif succès sous le titre Le Juif de Venise, avec l’acteur Thomas Betterton dans le rôle de Bassanio. Cette adaptation à laquelle était rajouté un intermède dansé ou « mascarade » fit autorité pendant une quarantaine d'années. Les passages de comédie basse mettant en scène le clown Gobbo avaient disparu, Granville se pliant aux bienséances du théâtre classique. En revanche il avait rajouté une scène de prison entre Shylock et Antonio, ainsi qu’une scène de banquet. Le rôle de Shylock était tenu par Thomas Dogget, qui en fit une figure comique, voire burlesque, qui laissa Nicholas Rowe, un des premiers biographes de l’auteur, assez dubitatif. Mais le succès populaire fut tel que le rôle en resta profondément marqué.
+En 1741, Charles Macklin revient au texte original avec une représentation très réussie au théâtre royal de Drury Lane, ouvrant la voie à Edmund Kean 70 ans plus tard.
+
+
+== Personnages principaux ==
+Le doge de Venise
+Antonio, le mélancolique « marchand de Venise », protecteur de Bassanio
+Bassanio, protégé d’Antonio, prétendant puis époux de Portia
+Leonardo, son serviteur
+Lorenzo, ami de Bassanio, amoureux de Jessica
+Gratiano, personnage jovial, ami des précédents
+Salerio, Solanio, Salarino : jeunes Vénitiens, amis d’Antonio.
+Shylock, vieil usurier juif
+Jessica, sa fille, amoureuse du chrétien Lorenzo
+Lancelot Gobbo, son serviteur avant de devenir celui de Lorenzo
+Le vieux Gobbo, père de Lancelot
+Tubal (en), autre usurier juif, ami de Shylock
+Portia (en), maîtresse de Bassanio
+Nerissa, sa dame de compagnie
+Le prince du Maroc, le prince d'Aragon : prétendants à la main de Portia
+
+
+== Argument ==
+
+Bassanio, jeune Vénitien, désire se rendre à Belmont pour demander la main de Portia. Il emprunte 3 000 ducats à son ami, le marchand Antonio. Comme tous ses navires sont en mer, Antonio emprunte la somme à un usurier juif, Shylock. Ce dernier déteste Antonio, qui prête sans usure et le malmène constamment. Il lui impose une condition : en cas de défaut de paiement, Shylock sera libre de prélever une livre de chair sur Antonio. Bassanio essaye de le dissuader d'accepter le marché, mais Antonio, surpris par ce qu'il prend pour de la générosité de la part de l'usurier, signe le contrat.
+Désireux d’éviter à sa fille un mariage malheureux, le père de Portia a élaboré une épreuve à laquelle doivent se soumettre les prétendants à sa main ; ils doivent choisir entre trois coffrets, en or, en argent et en plomb et s'engager à quitter les lieux s'ils font le mauvais choix. Deux candidats échouent mais Bassanio, aidé par Portia, choisit le bon coffret.
+La nouvelle arrive à Venise que les navires d’Antonio sont perdus, le laissant incapable de rembourser son emprunt dans les délais. Shylock est plus que jamais déterminé à se venger des chrétiens depuis que sa fille Jessica a fui sa maison pour se convertir et rejoindre Lorenzo, emportant une bonne part de ses richesses. Le contrat en main, Shylock fait arrêter Antonio et le traîne devant le doge.
+À Belmont, Portia et Bassanio viennent de se marier, ainsi que leurs amis Gratiano et Nerissa, la suivante de Portia. Ils reçoivent une lettre qui leur apprend les difficultés d’Antonio. Bassanio et Gratiano retournent à Venise avec de l'argent prêté par Portia pour sauver Antonio. À l'insu de Bassanio et Gratiano, Portia et Nerissa se rendent à Venise déguisées en hommes.
+
+À la cour du doge, Shylock refuse l'offre de Bassanio, qui lui propose de lui rembourser 6 000 ducats (le double de la somme empruntée) en échange de la dette d’Antonio et exige sa livre de chair. Le doge, qui souhaite sauver Antonio mais sans établir de précédent dangereux en dénonçant le contrat, demande l'avis de Balthazar, jeune « docteur de la Loi » ; Balthazar est en fait Portia déguisée, et son clerc n’est autre que Nerissa. Portia exhorte Shylock à la pitié, mais il s'obstine et la Cour l'autorise à prélever sa livre de chair. Chacun se résout avec consternation à l'amputation d'une livre de fesse, mais Shylock, au prétexte que le contrat ne précise pas l'endroit précis du prélèvement, exige de pouvoir prélever le cœur même d'Antonio...
+Au moment où Shylock va trancher, Portia observe que le contrat spécifie une livre de chair, ni plus ni moins : si une goutte de sang coule, il sera en tort. Shylock accepte alors le remboursement en argent mais Portia rappelle qu'il y a renoncé, et que, pour sa tentative d'assassinat sur Antonio, ses propriétés seront confisquées et sa vie remise à la merci du doge. Celui-ci gracie Shylock et un compromis est trouvé grâce à la générosité de chacun.
+Bassanio ne reconnaît pas Portia et pour remercier le « docteur de la Loi » d'avoir sauvé son ami, lui offre ce qu'il voudra. Balthazar-Portia refuse mais devant son insistance, lui demande son anneau et ses gants ; il remet ses gants sans hésitation, mais refuse de donner l'anneau, cadeau de Portia. « Balthazar » insistant, il cède et Gratiano fait de même avec le clerc.
+De retour à Belmont, Portia et Nerissa réclament leurs anneaux et font mine de se fâcher. Mais tous se réconcilient avec des excuses et de nouveaux serments et tout finit bien lorsqu’Antonio apprend que ses navires sont rentrés à bon port.
+
+
+== Citation ==
+Shakespeare a mis l'un de ses discours les plus éloquents dans la bouche de Shylock :
+
+« Un Juif n’a-t-il pas des yeux ? un Juif n’a-t-il pas des mains, desorganes, des proportions, des sens, des affections, des passions ? nese nourrit-il pas des mêmes aliments ? n’est-il pas blessé des mêmesarmes, sujet aux mêmes maladies, guéri par les mêmes remèdes,réchauffé par le même été et glacé par le même hiver qu’unchrétien ? si vous nous piquez, ne saignons-nous pas ? si vous nouschatouillez, ne rions-nous pas ? si vous nous empoisonnez, nemourons-nous pas ? et si vous nous outragez, ne nous vengerons-nous pas ? »
+
+— William Shakespeare, Le Marchand de Venise, Acte III, scène 1
+
+
+== Analyse ==
+
+
+=== Venise et Belmont ===
+La pièce développe deux intrigues parallèles dans deux décors radicalement différents. Le monde de Venise est celui où s'exercent le pouvoir politique (le doge) et économique (le marchand Antonio et le prêteur Shylock). C'est le décor citadin de la comédie urbaine satirique dont Thomas Middleton se fera une spécialité, et de la comédie bourgeoise des humeurs de Ben Jonson, avec son mélancolique (Antonio), et son avare (Shylock) stéréotypés. Venise est le monde des tensions entre communautés religieuses (Acte I, sc i, 54-80) ; les affaires sont soumises non aux lois immuables du beau, du bon et du vrai, mais aux caprices de la rumeur et de la fortune : « Toute ma fortune est en mer » (acte I, sc. 2, 177). L'activité principale est celle du négoce maritime, avec ses corollaires moralement ambigus : l'usure et la spéculation. Conformément aux théories d'Hippocrate sur l'influence plus ou moins bénéfique du climat sur l’équilibre des humeurs, celui de Venise exacerbe la « dyscrasie », rendant Antonio plus mélancolique, Gratiano plus gai et Shylock plus opiniâtre. C'est aussi un monde bruyant de consommation sexuelle (Acte II, sc ii, 176-185), le monde à l'envers du carnaval (acte II, sc. v, 30-36), avec ses fêtes, ses flambeaux et ses travestis (Acte II, sc. iv) : même la « sage, belle et sincère » Jessica s'y déguise en garçon et s'enfuit avec la cassette de son père (Acte II, sc. iv) tandis que Portia et Nerissa s'y rendent déguisées en avocat et en clerc (Acte III, sc. iv). La loi en vigueur, faite pour protéger le commerce international (Acte III, sc. iii, 25-35), n’est tempérée par aucune compassion.
+Le monde de Belmont, en revanche, est le lieu magique de la comédie romantique où règne la mesure (acte I, sc. 2, 5-11), le bon sens et la perfection que décrira Baudelaire dans L’Invitation au voyage : « Là, tout n’est qu'ordre et beauté, / Luxe, calme et volupté. » Pas de soucis d'argent (grâce à la façon avisée dont le père de Portia a arrangé ses affaires avant de mourir), pas de querelles religieuses (c'est là que filent le parfait amour la juive convertie Jessica et le chrétien Lorenzo), pas de mensonges ou de faux-semblants (l’épreuve des trois cassettes), pas de rébellion puisque tous se soumettent aux règles (Acte II, sc. ix, 17) ou quittent les lieux, pas d'injustice puisque l’épreuve des trois cassettes fait en sorte que chacun soit récompensé selon son mérite. L'harmonie entre le macrocosme et le microcosme est telle qu'on y entendrait presque résonner la musique des sphères célestes quand jouent les musiciens (Acte V, sc. i, 54-88). Contrairement à la rigidité qui régit la loi et les contrats à Venise, Belmont tolère une grande souplesse dans l'application des règles et s’il faut choisir entre la piété filiale et l’amour conjugal, Portia fait le choix de Cordelia (Le Roi Lear) et de Desdémone (Othello) en trichant pour que Bassanio choisisse le bon coffret[réf. nécessaire].
+Ces deux mondes ne sont pas séparés. De Venise remonte jusqu’à Belmont l'argent mal acquis de Shylock dérobé par Jessica. De Belmont redescend en échange l'argent de la charité pour sauver Antonio, et lorsque la charité n’y suffit pas, la raison qui en poussant jusqu'à l'absurde les conséquences du contrat passé entre Shylock et Antonio ramène ceux qui sont chargés d'exécuter la loi au bon sens. C’est l’esprit de la loi, non sa lettre, qu’il convient d’appliquer.
+
+
+=== Une œuvre judéophobe ? ===
+La pièce est toujours jouée aujourd'hui, mais elle pose un certain nombre de problèmes aux metteurs en scène en raison du conflit entre chrétiens et juifs qui figure au centre de son intrigue. Œuvre antisémite ou œuvre qui met en scène l'antisémitisme, elle continue de nourrir la division entre les critiques et spécialistes de Shakespeare.
+La société élisabéthaine n'était pas exempte de cette haine des juifs qui se manifestait depuis le XIIe siècle dans l'Europe du Nord et de l'Ouest. Les juifs anglais avaient été chassés au Moyen Âge et leur retour ne fut autorisé qu’avec l'avènement au pouvoir d'Oliver Cromwell. Les juifs présentés sur la scène élisabéthaine étaient des personnages caricaturaux, avec un nez crochu et une perruque rousse, dans le rôle d’usurier rapace. C’est notamment le cas de Barabas dans la pièce de Christopher Marlowe, Le Juif de Malte.
+Sur la couverture du quarto il est indiqué que la pièce était jouée sous le titre du Juif de Venise, ce qui suggère un parallèle avec celle de Marlowe. Une des interprétations possibles de la pièce est que Shakespeare voulait opposer la compassion des chrétiens au désir de vengeance du Juif auquel fait défaut la grâce qui permet de comprendre la nature du pardon. Il est également possible qu’à l'époque de Shakespeare la conversion forcée de Shylock soit apparue comme un heureux dénouement, puisqu’il se rachetait ainsi de son hérésie et de sa haine envers Antonio.
+L'universitaire Stephen Greenblatt, dans son ouvrage Will in the World, avance l'idée que Le Marchand de Venise est une réponse en négatif à l'antisémitisme manifeste de la pièce Le Juif de Malte de Christopher Marlowe. Le philosophe René Girard, dans Shakespeare, les feux de l'envie, insiste sur l'ambivalence de la pièce : « On recule devant l'idée que la structure du bouc-émissaire pourrait être simultanément subvertie et perpétuée par Shakespeare [...]. Si l'on examine de près la scène du procès, il ne fait plus de doute que Shakespeare casse les effets bouc-émissaire aussi habilement qu'il les produit ».
+
+
+=== Une œuvre ambiguë ===
+
+Comme d’autres lecteurs contemporains, Philippe Sollers note que le texte trouve quelques excuses au désir de vengeance qui anime Shylock, « poussé à bout par les insultes [...] des patriciens ». Le procès n’est qu’une parodie de justice puisque Portia n’a aucune autorité légale.
+
+
+=== Une réflexion sur le droit ===
+Le Marchand de Venise aborde une question de philosophie du droit liée à l'interprétation de la loi. Shylock promeut une lecture littérale de la loi afin de la tourner à son avantage. Portia conseille à Antonio d'utiliser le légalisme de Shylock contre lui afin de ne pas rembourser sa dette. Il pose également la question de l'intégrité du corps humain.
+
+
+== Postérité ==
+Le monologue de Shylock : Acte III, scène 1 ("...Si vous nous piquez, ne saignons-nous pas ?...") est cité dans plusieurs œuvres
+Il occupe une place importante dans le film To Be or Not to Be d'Ernst Lubitsch. Déclamé par un acteur juif devant un auditoire nazi, il constitue à la fois une dénonciation de l'antisémitisme du IIIe Reich, ainsi qu'un moyen de diversion permettant aux personnages principaux de s'enfuir en Angleterre.
+Il se retrouve dans le film de Roman Polanski, Le Pianiste, de la bouche du frère Henryk, avant que la famille ne soit déportée.
+Dans la série Le Retour de Sherlock Holmes, saison 2 épisode 05, L'homme à la lèvre tordue, (21 min 49 s) il est cité par Mr Boone.
+Dans Star Trek VI Terre Inconnue, le Général Chang, un Klingon dissident, cite à plusieurs reprises Shakespeare, dont une partie du monologue de Shylock : chatouillez-nous, ne rions-nous pas ? Blessez-nous, ne saignons-nous pas ? Lésez-nous, ne nous vengerons-nous pas ?
+Dans OSS 117 : Rio ne répond plus de Michel Hazanavicius, le nazi Von Zimmel reprend à sa façon le monologue de Shylock en remplaçant « Juif » par « Nazi », en clin d’œil "méta" au film To Be or Not to Be d'Ernst Lubitsch.
+L'une des citations de l'acte IV scène I est utilisée dans l'estampe The Reformer's Attack on the Old Rotten Tree, E. King (1832) : "you take my house when you do take the prop, That doth sustain our house. You take our lives, When you do take the means whereby we live". Elle est utilisée dans le cadre d'une opposition entre les réformateurs et les anti-réformateurs anglais du XIXe siècle.
+Un épisode de la série Moriarty : The patriot (ep 18, Le marchand de Londres), reprend l'intrigue de cette pièce de théâtre : l'orphelinat où ont vécu les frères Moriarty a prêté de l'argent à un noble qui signera une reconnaissance de dettes reprenant les termes de celle d'Antonio dans la pièce, et Moriarty usera de son ingéniosité pour obtenir le droit de prélever sa livre de chair malgré l'interdiction de verser le sang.
+
+
+=== Autres citations ===
+Gabriel Fauré écrivit une musique de scène pour une représentation de la pièce, donnée en 1889 au théâtre de l'Odéon. Il transforma par la suite cette dernière en une suite orchestrale intitulée Shylock.
+Reynaldo Hahn a composé un opéra sur cette pièce, créé à l'Opéra de Paris le 25 mars 1935.
+L'autrice américaine de romans policiers Faye Kellerman a placé l'intrigue d'un de ses romans dans le Londres des années 1590. Shakespeare y fait la rencontre de la belle Jessica Lopez, fille de Rodrigo Lopez, juif converti et médecin de la Reine Élisabeth. Selon l'auteur celui-ci était sans aucun doute connu du public au moment où la pièce fut écrite et aurait servi de prototype à Shylock. Lopez avait été accusé par Robert Devereux de conspirer avec les émissaires espagnols pour empoisonner la reine (dans le roman il aide des juifs espagnols à fuir). Il avait été arrêté le 1er janvier 1594, condamné en février, et exécuté le 7 juin.
+L'œuvre a été adaptée au cinéma par Michael Radford avec Al Pacino dans le rôle de Shylock, dans le film homonyme.
+Mel Gibson, passionné de Shakespeare (il a interprété le personnage d'Hamlet en 1990), a inclus cet extrait dans son premier film de réalisateur, L'Homme sans visage (1993). Un homme défiguré, ancien professeur, donne des cours particuliers à un jeune garçon. Il vit reclus dans sa propriété et les habitants de la ville le regardent toujours bizarrement quand il sort de chez lui. La mise en scène de l'extrait, quand le professeur fait découvrir le théâtre à son élève, nous fait clairement comparer la situation de cet homme exclu à celle des Juifs, autres exclus de la société.
+La citation concernant la livre de chair est exploitée dans le cas du péché d'avarice dans le film Seven de David Fincher. Elle est également exploitée dans le film The Gentlemen de Guy Ritchie lorsque Mickey Pearson joué par Matthew McConaughey s’adresse à Mathew (Jeremy Strong) : “Je veux 500 grammes de chair”.
+Le baryton et acteur David Serero joue le rôle de Shylock à New York dans une version séfarade qu'il adapte lui-même en 2015 et 2016.
+Dans le roman Buveurs de Vent de Franck Bouysse (2020), un des personnages se nomme Gobbo et a une conversation avec Double qui reprend des vers du Marchand de Venise, avant de l'exécuter.
+
+
+== Pièces inspirées ==
+Il existe deux autres pièces inspirées par le personnage principal du Marchand de Venise :
+
+(en)The Marchant: une pièce de 1976 en deux actes du dramaturge anglais Arnold Wesker, centrée sur le personnage juif de Shylock.
+(en)Shylock : une pièce primée de 1996 en un acte composé d'un monologue, écrite par le dramaturge canadien (en)Mark Leiren Young, où un acteur juif se trouve condamné par sa propre communauté pour son interprétation du célèbre personnage de Shakespeare.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Jacob Adler, A Life on the Stage: A Memoir, translated and with commentary by Lulla Rosenfeld, Knopf, New York, 1999  (ISBN 0-679-41351-0).
+Rob Smith, Cambridge Student Guide to The Merchant of Venice  (ISBN 0-521-00816-6)
+Philippe Zard, De Shylock à Cinoc. Essai sur les judaïsmes apocryphes, Classiques Garnier, 2018, 618 p.  (ISBN 978-2-406-06829-7)
+
+
+=== Articles connexes ===
+
+Le Marchand de Venise, opéra en trois actes, musique de Reynaldo Hahn, livret de Miguel Zamacoïs d'après William Shakespeare, créé à l'Opéra de Paris le 25 mars 1935 avec André Pernet dans le rôle de Shylock
+Shylock, film français de Henri Desfontaines, sorti en 1913
+Le Marchand de Venise, film français de Pierre Billon, sorti en 1953
+Le Marchand de Venise (The Merchant of Venice), téléfilm américain d'Orson Welles, diffusé en 1969
+Le Marchand de Venise, téléfilm français de Jean Manceau, diffusé en 1980
+Le Marchand de Venise (William Shakespeare's, The Merchant of Venice), film britannique de Michael Radford, sorti en 2004, avec Al Pacino, Joseph Fiennes, Jeremy Irons
+
+
+=== Liens externes ===
+
+Ressources relatives à la musique : Carnegie Hall MusicBrainz (œuvres) 
+Ressource relative au spectacle : Internet Broadway Database  
+
+Le Marchand de Venise Œuvre complète de Shakespeare, traduction de M. Guizot, Tome VI, 1862; chez Firmin Didot Frères, fils et cie, libraires.
+Le Marchand de Venise Œuvre complète de Shakespeare, traduction de Francisque Michel, Tome premier, 1869; à la Librairie académique Didier et Cie, libraires-éditeurs.
+The Merchant of Venice — texte original en format texte ASCII Project Gutenberg
+The Merchant of Venice — texte original en version HTML.
+CliffsNotes
+SparkNotes: Study Guide
+Filmschatten - Adaptation cinématographique de 1910 (lien mort au 17.05.2012)
+Venise: le marchand et l'usurier - À propos du Marchand de Venise de William Shakespeare
+
+ Portail du théâtre   Portail de la littérature britannique   Portail de Venise   Portail de l’humour

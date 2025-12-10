@@ -1,0 +1,53 @@
+The Monadology (French: La Monadologie, 1714) is one of Gottfried Leibniz's  best known works of his later philosophy. It is a short text which presents, in some 90 paragraphs, a metaphysics of simple substances, or monads.
+
+
+== Text ==
+
+During his last stay in Vienna from 1712 to September 1714, Leibniz wrote two short texts in French which were meant as concise expositions of his philosophy. After his death, Principes de la nature et de la grâce fondés en raison, which was intended for prince Eugene of Savoy, appeared in French in the Netherlands. Christian Wolff and collaborators published translations in German and Latin of the second text which came to be known as The Monadology. Without having seen the Dutch publication of the Principes they had assumed that it was the French original of the Monadology, which in fact remained unpublished until 1840.
+The German translation appeared in 1720 as Lehrsätze über die Monadologie and the following year the Acta Eruditorum printed the Latin version as Principia philosophiae. There are three original manuscripts of the text: the first written by Leibniz and glossed with corrections and two further emended copies with some corrections appearing in one but not the other. Leibniz himself inserted references to the paragraphs of his Théodicée ("Theodicy", i.e. a justification of God), sending the interested reader there for more details.
+
+
+== Metaphysics ==
+
+
+=== Context ===
+The monad, the word and the idea, belongs to the Western philosophical tradition and has been used by various authors. Leibniz, who was exceptionally well-read, could not have ignored this, but he did not use it himself until mid-1696 when he was sending for print his New System. Apparently he found with it a convenient way to expound his own philosophy as it was elaborated in this period. What he proposed can be seen as a modification of occasionalism developed by latter-day Cartesians. Leibniz surmised that there are indefinitely many substances individually 'programmed' to act in a predetermined way, each substance being coordinated with all the others. This is the pre-established harmony which solved the mind-body problem, but at the cost of declaring any interaction between substances a mere appearance.
+
+
+=== Summary ===
+The rhetorical strategy adopted by Leibniz in The Monadology is fairly obvious as the text
+
+begins with a description of monads (proceeding from simple to complicated instances),
+then it turns to their principle or creator and
+finishes by using both to explain the world.
+(I) As far as Leibniz allows just one type of element in the building of the universe his system is monistic. The unique element has been 'given the general name monad or entelechy' and described as 'a simple substance' (§§1, 19).  When Leibniz says that monads are 'simple,' he means that "which is one, has no parts and is therefore indivisible". Relying on the Greek etymology of the word entelechie
+(§18), Leibniz posits quantitative differences in perfection between monads which leads to a hierarchical ordering. The basic order is three-tiered: (1) entelechies or created monads (§48), (2) souls or entelechies with perception and memory (§19), and  (3) spirits or rational souls (§82). Whatever is said about the lower ones (entelechies) is valid for the higher (souls and spirits) but not vice versa. As none of them is without a body (§72), there is a corresponding hierarchy of (1) living beings and animals (2), the latter being either (2) non-reasonable or (3) reasonable. The degree of perfection in each case corresponds to cognitive abilities and only spirits or reasonable animals are able to grasp the ideas of both the world and its creator. Some monads have power over others because they can perceive with greater clarity, but primarily, one monad is said to dominate another if it contains the reasons for the actions of other(s). Leibniz believed that any body, such as the body of an animal or man, has one dominant monad which controls the others within it. This dominant monad is often referred to as the soul.
+(II) God is also said to be a simple substance (§47) but it is the only one necessary (§§38–9) and without a body attached (§72). Monads perceive others "with varying degrees of clarity, except for God, who perceives all monads with utter clarity". God could take any and all perspectives, knowing of both potentiality and actuality. As well as that God in all his power would know the universe from each of the infinite perspectives at the same time, and so his perspectives—his thoughts—"simply are monads". Creation is a permanent state, thus "[monads] are generated, so to speak, by continual fulgurations of the Divinity" (§47). Any perfection comes from being created while imperfection is a limitation of nature (§42). The monads are unaffected by each other, but each have a unique way of expressing themselves in the universe, in accordance with God's infinite will.
+(III) Composite substances or matter are "actually sub-divided without end" and have the properties of their infinitesimal parts (§65).  A notorious passage (§67) explains that "each portion of matter can be conceived as like a garden full of plants, or like a pond full of fish. But each branch of a plant, each organ of an animal, each drop of its bodily fluids is also a similar garden or a
+similar pond". There are no interactions between different monads nor between entelechies and their bodies but everything is regulated by the pre-established harmony (§§78–9). Much like how one clock may be in synchronicity with another, but the first clock is not caused by the second (or vice versa), rather they are only keeping the same time because the last person to wind them set them to the same time. So it is with monads; they may seem to cause each other, but rather they are, in a sense, "wound" by God's pre-established harmony, and thus appear to be in synchronicity. Leibniz concludes that  "if we could understand the order of the universe well enough, we would find that it surpasses all the wishes of the wisest people, and that it is impossible to make it better than it is—not merely in respect of the whole in general, but also in respect of ourselves in particular" (§90).
+In his day, atoms were proposed to be the smallest division of matter. Within Leibniz's theory, however, substances are not technically real, so monads are not the smallest part of matter, rather they are the only things which are, in fact, real. To Leibniz, space and time were an illusion, and likewise substance itself. The only things that could be called real were utterly simple beings of psychic activity "endowed with perception and appetite." The other objects, which we call matter, are merely phenomena of these simple perceivers. "Leibniz says, 'I don't really eliminate body, but reduce [revoco] it to what it is. For I show that corporeal mass [massa], which is thought to have something over and above simple substances, is not a substance, but a phenomenon resulting from simple substances, which alone have unity and absolute reality.' (G II 275/AG 181)" Leibniz's philosophy is sometimes called "'panpsychic idealism' because these substances are psychic rather than material". That is to say, they are mind-like substances, not possessing spatial reality. "In other words, in the Leibnizian monadology, simple substances are mind-like entities that do not, strictly speaking, exist in space but that represent the universe from a unique perspective." It is the harmony between the perceptions of the monads which creates what we call substances, but that does not mean the substances are real in and of themselves.
+(IV) Leibniz uses his theory of Monads to support his argument that we live in the best of all possible worlds. He uses his basis of perception but not interaction among monads to explain that all monads must draw their essence from one ultimate monad. He then claims that this ultimate monad would be God because a monad is a “simple substance” and God is simplest of all substances, He cannot be broken down any further. This means that all monads perceive “with varying degrees of perception, except for God, who perceives all monads with utter clarity”. This superior perception of God then would apply in much the same way that he says a dominant monad controls our soul, all other monads associated with it would, essentially, shade themselves towards Him. With all monads being created by the ultimate monad and shading themselves in the image of this ultimate monad, Leibniz argues that it would be impossible to conceive of a more perfect world because all things in the world are created by and imitating the best possible monad.
+
+
+== See also ==
+A priori and a posteriori
+Perspectivism
+
+
+== Notes ==
+
+
+== References ==
+Nicholas Rescher N., G. W. Leibniz's Monadology, University of Pittsburgh Press, 1991, ISBN 0-8229-5449-4, ISBN 978-0-8229-5449-1
+Savile A., Routledge Philosophy Guidebook to Leibniz and the Monadology, Routledge (2000), ISBN 0-415-17113-X,  ISBN 978-0-415-17113-7
+
+
+== External links ==
+
+The Monadology, English translation, links, scalable text and printable version. Downloadable as pdf, doc or djvu files.
+English translation (1898) by Robert Latta
+ Monadology public domain audiobook at LibriVox
+English translation and commentary (1999), by George MacDonald Ross
+A version of this work, lightly edited for easier reading
+French, Latin and Spanish edition (1981), with facsimile of Leibniz's manuscript, and introduction by Gustavo Bueno
+Herbermann, Charles, ed. (1913). "Monad" . Catholic Encyclopedia. New York: Robert Appleton Company.

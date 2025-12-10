@@ -1,0 +1,84 @@
+The Caigentan (Chinese: 菜根譚) is a circa 1590 text written by the Ming Dynasty scholar and philosopher Hong Zicheng (Chinese: 洪自誠; pinyin: Hóng Zì-Chéng). This compilation of aphorisms eclectically combines elements from the Three teachings (Confucianism, Daoism and Buddhism), and is comparable with Marcus Aurelius' Meditations or La Rochefoucauld's Maximes.
+
+
+== Title ==
+Chinese Caigentan combines cai (菜; "vegetables; greens; (non-staple) food; dish; course (in menu)"), gen (根; "roots (of plants); bottom (of mountains)"), and tán (譚; "talk; conversation; discourse"). This compound caigen (菜根; "inedible root of a vegetable; cabbage stalk") is a literary metaphor meaning "bare subsistence" (originating in Zhu Xi's 小學; Xiaoxue; "Minor Learning"). The Chinese proverb Jiao de caigen, baishi ke zuo (嚼得菜根, 百事可做) literally means "[One who has] chewed vegetable roots [for lack of anything better to eat] can accomplish anything", or figuratively "One who has gone through hardships can do anything". "By vegetable roots, food such as turnips, radish, carrots and sweet potatoes is meant", says Vos.
+English translations of the Caigentan title range from literal to figurative:
+
+"Musings of a Chinese Vegetarian"
+"Discourses on Vegetable Roots"
+"The Roots of Wisdom"
+"Discourses on a Simple Life"
+"Tending the Roots of Wisdom"
+"Zen of Vegetable Roots"
+"Vegetable Roots Discourse"
+Isobe clarifies the title as meaning "Talks by a man who lives on vegetable roots", or more freely "Talks by a man who lives a plain and humble life".
+
+
+== Textual history ==
+The history of Caigentan editions is convoluted. No original text is extant in China, and the earliest printed editions are preserved in Japan.
+Traditionally, the two received Caigentan versions are identified by whether they list the author Hong's given name Yingming 應明 or courtesy name Zicheng 自誠. These two texts have three early prefaces. The first "Zicheng version" preface is by Yu Kongjian 于孔兼, a contemporary friend who calls the author Hong Zicheng. The second and third "Yingming version" prefaces, dated 1768 and 1794, are by Suichutang zhuren (遂初堂主人; "Suichu Hall Master") and Sanshan bingfu Tongli (三山病夫通理; "Three Mountains Invalid Tongli").
+Both Caigentan versions are divided into two ce ("books; volumes").
+The Zicheng version has 360 (or 359) entries, and the Yingming version has 383. The first book is subdivided into four sections, titled Xiushen (修身; "Self-cultivation"), Yingchou (應酬; "Social Relations"), Pingyi (評議; "Critiques"), and Xianshi (閒適; "Leisure"); the second book is titled Gailun (概論; "General Comments"). Besides differing in number and ordering of entries, the Zicheng and Yingming editions also differ in content. "The Yingming version shows many more editorial changes and liberties", write Aitken and Kwok, and subsequent versions also exhibit "editorial excisions and additions". "Generally speaking ", say Goodrich and Fang, "the first part of his work counsels integrity in office, whereas the second part describes the joys of living in retirement. Its general spirit is that of the "Golden Mean"."
+Scholarship tentatively dates the Caigentan between 1588 and 1591. Yu Kongjian's undated preface to the Zicheng version( provides internal evidence. It begins, "Sending [uninvited] visitors away, I am leading a retired life all by myself in a thatched cottage." The preface further says, "One day my friend Hung Tzu-ch'eng appeared with his Ts'ai-ken t'an which he showed to me begging me for a preface." In 1588, the Wanli Emperor (r. 1572–1620) demoted many scholar-bureaucrats involved in a scandal, including Yu Kongjian who retired to the lower Yangzi River valley, where he and his fellow exile Hong Zicheng lived. In 1591, the Caigentan was first published as an appendix to Gao Lian's Zunsheng Bajian (遵生八笺; "Eight Treatises on Nurturing Life"). Thus, the Caigentan reasonably dates from 1588 to 1591.
+The classic Caigentan "Vegetable Roots Discourse" remains popular in the present day. Digital editions are freely available on the Internet, and comic book adaptations are offered in both Japanese manga and Chinese manhua.
+
+
+== Contents ==
+In terms of traditional Chinese literary genres, the Caigentan is a yulu (語錄; 'recorded sayings'; "quotations; aphorisms"), a subtype of shanshu (善書; 'good book'; "moral-instruction; morality") book category.
+The individual entries are predominantly written in pianwen (駢文; "parallel style"), an ornate rhythmical prose marked by parallelism or chiasmus. For instance,
+
+口乃心之門, 守口不密, 洩盡真機; 意乃心之足, 防意不嚴, 走盡邪蹊. (1:220)
+The mouth is the portal of the mind. If not carefully guarded, it leaks true intents and motives. Feelings are the feet of the mind. If not carefully watched, they will take you onto all kinds of wayward paths. 
+The Caigentan records life lessons from the decadent and corrupt late Ming society, many of which have universal appeal. Take, for example, this warning to partygoers.
+
+Those who pick up their coats to depart at the height of festivity are admired as adepts who can halt at the precipice. Those who pursue their night journey after their candle has burned out are ridiculed as ordinary persons awash in the bitter sea. (2:104) 
+Referring to the first of the Buddhist Four Noble Truths, Sanskrit dukkha (Chinese ku) "suffering; bitterness", this kuhai (苦海; "bitter sea") is the Chinese translation of dukkha-samudra "sea of bitterness; ocean of suffering".
+Retirement and old age are common themes in the Caigentan.
+
+The sun is setting and the evening clouds are more colorful than ever. The year is about to end and the oranges and tangerines are all the more fragrant. Thus noble persons in their old age should all the more enliven their spirits a hundredfold. (1:11)
+
+
+== Translations ==
+The Chinese Caigentan has been translated into many languages. Japanese Saikontan translations are the most numerous, with over 26 annotated editions published. English translations are available from Isobe Yaichiro, William Scott Wilson, Thomas Cleary, Paul White, and Robert Baker Aitken and Daniel W. Y. Kwok. In addition, there are partial translations by Chao Tze-Chiang and by Lee Siu-Leung and Fu Yiyao. Three annotated editions include parallel text Chinese.
+To illustrate the translational range in English, the Caigentan metaphorically compares two traditional Chinese artifacts, the qiqi (攲器; 'leaning/tilting vessel'; "a container designed to overturn when full") and the puman (撲滿; 'strike &#91', 'when&#93', 'full'; "clay coin bank; piggy bank"). Compare these translations of 欹器以滿覆, 撲滿以空全. 故君子寧居無不居有, 寧處缺不處完 (1.63):
+
+There is an ancient vessel which is so constructed that when it contains no water, it stands obliquely; when half filled, it stands upright; but when full, it will fall down. There is another antique vessel made of earth and used as a savings-box. It has a small opening, through which coins are dropped. Thus, the former falls when it is full, while the latter is useful because it is empty within. Such is the way of the supreme man. He prefers nothing to something; he is content with want rather than seeking after fullness. 
+When the water bottle is full, it overturns. When the piggy bank remains empty, it is whole. Therefore, the gentleman: Resides in vacuity rather than existence, and exists in the lacking rather than the complete. 
+There is a kind of vessel that tips over when it is full. A piggy bank is not broken as long as it is empty. So for enlightened people it is better to dwell in nonbeing than in being, better to be lacking than replete. 
+The qi vessel tips over when it is filled with water. The puman money stays whole so long as it is not filled up with money. Therefore, the accomplished man prefers to settle in a place where there is neither strife nor striving, and dwell in an incomplete placed, not a finished one. 
+A vessel topples because it is too full. A piggy bank is saved from being shattered for its emptiness. So a true person prefers "have-not" than "have". Rather be incomplete than to be complete. 
+The qiqi water vessel tips over when it is full. The puman money-saving vessel is perfect when it is empty. The noble person abides with nothing rather than with something, and is content with lack rather than with completeness. 
+This qiqi alludes to the ancient Xunzi (28.1), where it was a symbolic warning against complacency. When Confucius visited the ancestral temple of Duke Huan of Qi, he saw a "vessel that inclined to one side", which the caretaker called a you zuo zhi qi (宥坐之器; "warning vessel that sat on the right"). Confucius said: "I have heard of such a warning vessel; if empty, it inclines; if half full, it is upright, and if completely full, it overturns". After watching a demonstration of the vessel's operation, he sighed: "Alas! How indeed could there be complete fullness and no overturning!"
+
+
+== References ==
+Aitken, Robert; Kwok, D.W.Y. (2006). Vegetable Roots Discourse: Wisdom from Ming China on Life and Living: Caigentan by Hong Zicheng. Shoemaker & Hoard. ISBN 1-59376-091-4.
+Hong Yingming, 2020. The Art of Living: Chinese Proverbs and Wisdom. A modern reader of the Vegetable Roots Discourse. Tuttle (ann. by Wu Yansheng and Ding Liangyan; trans. Tony Blishen).
+Hong Zicheng, 1995, Propos sur la racine des légumes. Zulma (French trans. and ann. by Martine Vallette-Hémery).
+Hong Zicheng, 2016. Caigentan (Saikontan). Weisheiten eines Vegetariers. Angkor (German trans. Guido Keller and Taro Yamada).
+Hong Zicheng, 2020a. Wortels van Levenskunst. ISVW (Dutch trans. Carlo Hover).
+Hong Zicheng, 2020b. Wortels van Levenskunst. Verantwoording, verwijzingen en commentaren, samengesteld  door Carlo Hover. ISVW. (Only annotations and commentary)
+Hong Zi-Cheng, 2002. Roots of  Vegetables Table Talks (trans. Chung Hing Sin and Linda Elena Opyr) .
+Vos, Frits (1993). "The Ts'ai-ken T'an in Japan". In Leonard Blussé; Harriet Thelma (eds.). Conflict and Accommodation in Early Modern East Asia. pp. 169–188.
+The Roots of Wisdom Saikontan by Hung Ying-ming. Translated by Wilson, William Scott. Kodansha International. 1985.
+Wilson, William Scott, trans. 2012. Master of the Three Ways: Reflections of a Chinese Sage on Living a Satisfying Life. Shambhala.
+Footnotes
+
+
+== Further reading ==
+Huanshu Daoren, 1999. Zum Anfang zurück. Gedanken über das Tao. Aurum (German translation of Cleary 1990).
+Huanshu Daoren, 2001. Tao van eenvoud. Altamira-Becht (Dutch translation of Cleary 1990).
+Kitao, Yoshitaka. 2007. The SBI Group Vision and Strategy. John Wiley and Sons.
+Röser, Sabine A.M. Die Aphorismensammlung Ts'ai-ken t'an: Hung Ying-mings Werk als Spiegel seiner Zeit, der Wan-li-Ära der späten Ming-Zeit. (German dissertation), 1987.
+Vos, Frits, 1976. ‘Hung Ying-ming’. In: L.C. Goodrich en Fang, Chao-Ying, Dictionary of Ming Biography 1368-1644. Volume I. P. 678-679. Columbia University Press.
+Vos, Frits, 1986. ‘The Roots of Wisdom: Saikontan by Hung Ying-ming and William Scott Wilson (Review)’. The Journal of  Asian Studies, 45, 3, pp. 600-602.
+
+
+== External links ==
+
+"Unearthing proverbs, essential to life but hard to swallow", Mariko Kato, Japan Times
+菜根譚, Caigentan (in Chinese)
+菜根譚(上), Caigentan (Book 1) (in Chinese)
+菜根譚(下), Caigentan (Book 2) (in Chinese)
+Vegetable Root Discourse Blog, Caigentan

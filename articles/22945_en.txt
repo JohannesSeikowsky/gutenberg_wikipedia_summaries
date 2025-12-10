@@ -1,0 +1,349 @@
+The Book of Revelation, also known as the Book of the Apocalypse or the Apocalypse of John, is canonically the last book of the New Testament. Written in Greek, its title is derived from the first word of the text, apocalypse (Koine Greek: ἀποκάλυψις, romanized: apokálypsis), which means "revelation" or "unveiling". The Book of Revelation is the only apocalyptic book in the New Testament canon, and occupies a central place in Christian eschatology.
+The book spans three literary genres: the epistolary, the apocalyptic, and the prophetic. It begins with John, on the island of Patmos in the Aegean Sea, addressing letters to the "Seven Churches of Asia" with exhortations from Christ. He then describes a series of prophetic and symbolic visions, which would culminate in the Second Coming of Jesus Christ. These visions include figures such as a Woman clothed with the sun with the moon under her feet and a crown of twelve stars, the Serpent, the Seven-Headed Dragon, and the Beast.
+The author names himself as simply "John" in the text, but his precise identity remains a point of academic debate. The sometimes obscure and extravagant imagery of Revelation, with many allusions and numeric symbolism derived from the Old Testament, has allowed a wide variety of Christian interpretations throughout the history of Christianity.
+Modern biblical scholarship views Revelation as a first-century apocalyptic message warning early Christian communities not to assimilate into Roman imperial culture, interpreting its vivid symbolism through historical, literary, and cultural lenses.
+
+
+== Composition and setting ==
+
+
+=== Title, authorship, and date ===
+
+The book's most common English name is "[Book of] Revelation". It is also called "[Book of] the Apocalypse" (for example in the Roman Catholic Church), "Revelation to John", or "Apocalypse of St. John". Abbreviations of these are "Rev." (traditional), "Rv" (shorter), or "Apoc." These names are derived from the incipit to the text (Revelation 1:1):
+
+Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ Θεός, δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει, καὶ ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ, τῷ δούλῳ αὐτοῦ Ἰωάνῃ.
+The revelation of Jesus Christ, which God gave him to show his servants what must soon take place; he made it known by sending his angel to his servant John.
+
+"Revelation" and "Apocalypse" are respectively a translation and an anglicisation of the original Koinē Greek word ἀποκάλυψις, which can also mean "unveiling". In the original Greek, the word is singular, so the name "Revelations" sometimes found in English is often considered erroneous.
+The author names himself as simply "John" in the text, and states in Revelation 1:9 that he is on the island of Patmos, and so he is conventionally called "John of Patmos". He was a Jewish–Christian prophet, probably belonging to a group of such prophets, and was accepted by the congregations to whom he addressed his letter. The New Testament canon has four other "Johannine works" ascribed to authors named John, and a tradition dating from Irenaeus (c. 130 – c. 202 AD) identifies John the Apostle as the author of all five. The modern academic consensus is that a Johannine community produced the Gospel of John and the three Johannine epistles, while John of Patmos wrote the Book of Revelation separately.
+The Book of Revelation is commonly dated to about 95 AD, as suggested by clues in the visions pointing to the reign of the Roman Emperor Domitian (81–96), The Beast with seven heads and the number 666 seem to allude directly to the Emperor Nero (reigned 54–68), but this does not imply that the book was written in the 60s, as there was a widespread belief in later decades that Nero would return.
+
+
+=== Genre ===
+
+The Book of Revelation is an apocalyptic prophecy, with an epistolary introduction addressed to the "Seven Churches" of Asia Minor. The seven cities where these churches were located are close together, and the island of Patmos is near the western coast of the Anatolian Peninsula. The first word of the text, apocalypse (Koine Greek: ἀποκάλυψις, translit. apokálypsis), which means "revelation" or "unveiling", refers to the revealing of divine mysteries; John is to write down what is revealed (what he sees in his vision) and send it to the seven churches. The entire book constitutes the prophecy—the letters to the seven individual churches are introductions to the rest of the book, which is addressed to all seven. While the dominant genre is apocalyptic, the author sees himself as a Christian prophet: Revelation uses the word in various forms 21 times, more than any other New Testament book.
+
+
+=== Sources ===
+
+The predominant view is that Revelation alludes to the Old Testament, although it is difficult among scholars to agree on the exact number of allusions or the allusions themselves. Revelation rarely quotes directly from the Old Testament, yet its composition alludes to or echoes ideas in older Hebrew scriptures. Over half of the references stem from Daniel, Ezekiel, Psalms, Isaiah, and Zechariah, with Daniel providing the largest number in proportion to length and Ezekiel standing out as the most influential. Because these references appear as allusions rather than as quotes, it is difficult to know whether the author used the Hebrew or the Greek version of the Hebrew scriptures, but he was often influenced by the Greek.
+
+
+=== Setting ===
+
+Modern understanding has been that the Book of Revelation was written to comfort beleaguered Christians as they underwent religious persecution at the hands of a Roman Emperor. This is not the only interpretation, however; Domitian may not have been a cruel despot imposing the Roman imperial cult upon his subjects, and there may not have been any systematic empire-wide persecution of Christians in his time. Revelation may instead have been composed in the context of an existential conflict within the early Christian communities of Asia Minor over whether to engage with, or withdraw from, the far larger non-Christian world. Mark B. Stephens argues that the Book of Revelation chastised those Christians who wanted to reach an accommodation with the Roman State. This is not to say that Christians in Asia Minor were not suffering due to withdrawal from and defiance of the wider Roman society, which imposed very real penalties; Revelation offered a victory over this reality by offering an apocalyptic hope. In the words of professor Adela Yarbro Collins, "What ought to be was experienced as a present reality."
+
+
+=== Canonical history ===
+
+Revelation was among the last books accepted into the Christian biblical canon, and to the present day some churches that derive from the Church of the East reject it. Eastern Christians became skeptical of the book as doubts concerning its authorship and unusual style were reinforced by aversion to its acceptance by Montanists and other groups considered to be heretical. This distrust of the Book of Revelation persisted in the Christian East for a long time, through the 15th century.
+Dionysius (c. 248), bishop of Alexandria and disciple of Origen, wrote that the Book of Revelation could have been written by Cerinthus, although he himself did not adopt the view that Cerinthus was its writer. He regarded the Apocalypse as the work of an inspired Christian, but not of John the Apostle. Similarly, Eusebius of Caesarea in his Church History (c. 330) argues that the Book of Revelation was accepted as a canonical book by some early Church Fathers and rejected as spurious by others at the same time.
+The Book of Revelation is counted as both accepted and disputed, which has caused some confusion over what exactly Eusebius meant by doing so. The disputation can perhaps be attributed to Origen, who seems to have accepted it in his writings. Cyril of Jerusalem (c. 348) does not name it among the canonical books (Catechesis IV.33–36). Athanasius of Alexandria (c. 367) in his Letter 39, Augustine of Hippo (c. 397) in his book On Christian Doctrine (Book II, Chapter 8), Tyrannius Rufinus (c. 400) in his Commentary on the Apostles' Creed, Pope Innocent I (c. 405) in a letter to the bishop of Toulouse, and John of Damascus (c. 730) in his work An Exposition of the Orthodox Faith (Book IV:7) listed "the Revelation of John the Evangelist" as a canonical book.
+
+
+=== Synods ===
+The Council of Laodicea (363) omitted it as a canonical book.
+The Latin text Decretum Gelasianum, written by an anonymous scholar between 519 and 553, contains a list of books of scripture presented as having been reckoned as canonical by the Council of Rome (382). This list mentions it as a part of the New Testament canon.
+The Synod of Hippo (393), followed by the First Council of Carthage (397), the Second Council of Carthage (419), the Council of Florence (1442), and the Council of Trent (1546), classified it as a canonical book.
+The Apostolic Canons, approved by the Eastern Orthodox Council in Trullo in 692, but rejected by Pope Sergius I, omit it.
+
+
+=== Protestant Reformation ===
+Biblical criticism and doubts on the biblical canon resurfaced among Renaissance scholars and Christian theologians during the 16th-century Protestant Reformation. Former Augustinian friar and German reformer Martin Luther called Revelation "neither apostolic nor prophetic" in the 1522 preface to his translation of the New Testament (he revised his position with a much more favorable assessment in 1530); Swiss reformer Huldrych Zwingli labelled it "not a book of the Bible", and it was the only New Testament book on which John Calvin did not write a commentary. As of 2015, Revelation remains the only New Testament book not read in the Divine Liturgy of the Eastern Orthodox Church, although Roman Catholic and Protestant liturgies include it.
+
+
+=== Texts and manuscripts ===
+
+There are fewer manuscripts of the Book of Revelation than of any other text of the New Testament. As of 2020, in total, there are 310 manuscripts of Revelation. This number includes 7 papyri, 12 majuscules, and 291 minuscules. But, in fact, not all of them are available for research. Some of them have been burned, vanished, or been categorized wrongly. While it is not extant in the Codex Vaticanus (4th century), it is extant in the other great uncial codices: the Codex Sinaiticus (4th century), the Codex Alexandrinus (5th century), and the Codex Ephraemi Rescriptus (5th century). In addition, there are numerous papyri, especially 𝔓47 and 𝔓115 (both 3rd century); minuscules (8th to 10th century); and fragmentary quotations in the Church fathers of the 2nd to 5th centuries and the 6th-century Greek commentary on Revelation by Andreas.
+
+
+== Structure and content ==
+
+
+=== Literary structure ===
+Divisions in the book seem to be marked by the repetition of key phrases, by the arrangement of subject matter into blocks, and associated with its Christological passages, such as invocations of seven. Nevertheless, there is a "complete lack of consensus" among scholars about the structure of Revelation. The following is therefore an outline of the book's contents rather than of its structure.
+
+
+=== Symbolism ===
+Much use is made of significant numbers, especially the number seven, which represented perfection according to ancient numerology.
+
+A significant feature of apocalyptic writing is the use of symbolic colors, metals, garments, and numbers (four signifies the world, six imperfection, seven totality or perfection, twelve Israel’s tribes or the apostles, one thousand immensity). [...] One would find it difficult and repulsive to visualize a lamb with seven horns and seven eyes; yet Jesus Christ is described in precisely such words (Rev 5:6). The author used these images to suggest Christ’s universal (seven) power (horns) and knowledge (eyes). 
+
+
+=== Outline ===
+
+Outline of the book of Revelation:
+The Revelation of Jesus Christ
+The Revelation of Jesus Christ is communicated to John through prophetic visions. (1:1–9)
+John is instructed by the "one like a son of man" to write all that he hears and sees, from the prophetic visions, to the Seven Churches of Asia. (1:10–13)
+The appearance of the "one like a son of man" is given, and he reveals what the seven stars and seven lampstands represent. (1:14–20)
+Messages for seven churches of Asia. These take the literary form of Persian ruler letters: purported royal decrees inscribed at major pagan temples to establish their ancient bona fides by demonstrating royal management: this still-contemporary form typically had sentences of proclamation, knowledge, praise, admonition, and judgment.
+Ephesus: From this church, he "who overcomes is granted to eat from the tree of life, which is in the midst of the Paradise of God." (2:1–7)
+Praised for not bearing those who are evil, testing those who say they are apostles and are not, and finding them to be liars; hating the deeds of the Nicolaitans; having persevered and possessing patience.
+Admonished to "do the first works" and to repent for having left their "first love."
+Smyrna (modern İzmir): From this church, those who are faithful until death, will be given "the crown of life." He who overcomes shall not be hurt by the second death. (2:8–11)
+Praised for being "rich" while impoverished and in tribulation.
+Admonished not to fear the "synagogue of Satan", nor fear a ten-day tribulation of being thrown into prison.
+Pergamum: From this church, he who overcomes will be given the hidden manna to eat and a white stone with a secret name on it." (2:12–17)
+Praised for holding "fast to My name", not denying "My faith" even in the days of Antipas, "My faithful martyr."
+Admonished to repent for having held the doctrine of Balaam, who taught Balak to put a stumbling block before the children of Israel; eating things sacrificed to idols, committing sexual immorality, and holding the "doctrine of the Nicolaitans."
+Thyatira: From this church, he who overcomes until the end, will be given power over the nations in order to dash them to pieces with a rod of iron; he will also be given the "morning star." (2:18–29)
+Praised for their works, love, service, faith, and patience.
+Admonished to repent for allowing a "prophetess" to promote sexual immorality and to eat things sacrificed to idols.
+Sardis: From this church, he who overcomes will be clothed in white garments, and his name will not be blotted out from the Book of Life; his name will also be confessed before the Father and his angels. (3:1–6)
+Admonished to be watchful and to strengthen since their works have not been perfect before God.
+Philadelphia (modern Alaşehir): From this church, he who overcomes will be made a pillar in the temple of God having the name of God, the name of the city of God, "New Jerusalem", and the Son of God's new name. (3:7–13)
+Praised for having some strength, keeping "My word", and having not denied "My name."
+Reminded to hold fast what they have, that no one may take their crown.
+Laodicea: From this church, he who overcomes will be granted the opportunity to sit with the Son of God on his throne. (3:14–22)
+Admonished to be zealous and repent from being "lukewarm"; they are instructed to buy the "gold refined in the fire", that they may be rich; to buy "white garments", that they may be clothed, so that the shame of their nakedness would not be revealed; to anoint their eyes with eye salve, that they may see.
+Before the Throne of God
+The Throne of God appears, surrounded by twenty-four thrones with twenty-four elders seated in them. (4:1–5)
+The four living creatures are introduced. (4:6–11)
+A scroll, with seven seals, is presented and it is declared that the Lion of the tribe of Judah, from the "Root of David", is the only one worthy to open this scroll. (5:1–5)
+When the "Lamb having seven horns and seven eyes" took the scroll, the creatures of heaven fell down before the Lamb to give him praise, joined by myriads of angels and the creatures of the earth. (5:6–14)
+Seven Seals are opened
+First Seal: A white horse appears, whose crowned rider has a bow with which to conquer. (6:1–2)
+Second Seal: A red horse appears, whose rider is granted a "great sword" to take peace from the earth. (6:3–4)
+Third Seal: A black horse appears, whose rider has "a pair of balances in his hand", where a voice then says, "A measure of wheat for a penny, and three measures of barley for a penny; and [see] thou hurt not the oil and the wine." (6:5–6)
+Fourth Seal: A pale horse appears, whose rider is Death, and Hades follows him. Death is granted a fourth part of the earth, to kill with sword, with hunger, with death, and with the beasts of the earth. (6:7–8)
+Fifth Seal: "Under the altar", appeared the souls of martyrs for the "word of God", who cry out for vengeance. They are given white robes and told to rest until the martyrdom of their brothers is completed. (6:9–11)
+Sixth Seal: (6:12–17)
+There occurs a great earthquake where "the sun becomes black as sackcloth of hair, and the moon like blood" (6:12).
+The stars of heaven fall to the earth and the sky recedes like a scroll being rolled up (6:13–14).
+Every mountain and island is moved out of place (6:14).
+The people of earth retreat to caves in the mountains (6:15).
+The survivors call upon the mountains and the rocks to fall on them, so as to hide them from the "wrath of the Lamb" (6:16).
+Interlude: The 144,000 Hebrews are sealed.
+144,000 from the Twelve Tribes of Israel are sealed as servants of God on their foreheads (7:1–8)
+A great multitude stand before the Throne of God, who come out of the Great Tribulation, clothed with robes made "white in the blood of the Lamb" and having palm branches in their hands. (7:9–17)
+Seventh Seal: Introduces the seven trumpets (8:1–5)
+"Silence in heaven for about half an hour" (8:1).
+Seven angels are each given trumpets (8:2).
+An eighth angel takes a "golden censer", filled with fire from the heavenly altar, and throws it to the earth (8:3–5). What follows are "peals of thunder, rumblings, flashes of lightning, and an earthquake" (8:5).
+After the eighth angel has devastated the earth, the seven angels introduced in verse 2 prepare to sound their trumpets (8:6).
+Seven trumpets are sounded (Seen in Chapters 8, 9, and 11).
+First Trumpet: Hail and fire, mingled with blood, are thrown to the earth burning up a third of the trees and green grass. (8:6–7)
+Second Trumpet: Something that resembles a great mountain, burning with fire, falls from the sky and lands in the ocean. It kills a third of the sea creatures and destroys a third of the ships at sea. (8:8–9)
+Third Trumpet: A great star, named Wormwood, falls from heaven and poisons a third of the rivers and springs of water. (8:10–11)
+Fourth Trumpet: A third of the sun, the moon, and the stars are darkened creating complete darkness for a third of the day and the night. (8:12–13)
+Fifth Trumpet: The First Woe (9:1–12)
+A "star" falls from the sky (9:1).
+This "star" is given "the key to the bottomless pit" (9:1).
+The "star" then opens the bottomless pit. When this happens, "smoke [rises] from [the Abyss] like smoke from a gigantic furnace. The sun and sky [are] darkened by the smoke from the Abyss" (9:2).
+From out of the smoke, locusts who are "given power like that of scorpions of the earth" (9:3), who are commanded not to harm anyone or anything except for people who were not given the "seal of God" on their foreheads (from chapter 7) (9:4).
+The "locusts" are described as having a human appearance (faces and hair) but with lion's teeth, and wearing "breastplates of iron"; the sound of their wings resembles "the thundering of many horses and chariots rushing into battle" (9:7–9).
+Sixth Trumpet: The Second Woe (9:13–21)
+The four angels bound to the great river Euphrates are released to prepare two hundred million horsemen.
+These armies kill a third of mankind by plagues of fire, smoke, and brimstone.
+Interlude: The little scroll. (10:1–11)
+An angel appears, with one foot on the sea and one foot on the land, having an opened little book in his hand.
+Upon the cry of the angel, seven thunders utter mysteries and secrets that are not to be written down by John.
+John is instructed to eat the little scroll that happens to be sweet in his mouth, but bitter in his stomach, and to prophesy.
+John is given a measuring rod to measure the temple of God, the altar, and those who worship there.
+Outside the temple, at the court of the holy city, it is trod by the nations for forty-two months (3+1⁄2 years).
+Two witnesses prophesy for 1,260 days, clothed in sackcloth. (11:1–14)
+Seventh Trumpet: The Third Woe that leads into the seven bowls (11:15–19)
+The temple of God opens in heaven, where the ark of his covenant can be seen. There are lightnings, noises, thunderings, an earthquake, and great hail.
+The Seven Spiritual Figures. (Events leading into the Third Woe)
+A Woman "clothed with a white robe, with the sun at her back, with the moon under her feet, and on her head a crown of twelve stars" is in pregnancy with a male child. (12:1–2)
+A great Dragon (with seven heads, ten horns, and seven crowns on his heads) drags a third of the stars of Heaven with his tail, and throws them to the Earth. (12:3–4). The Dragon waits for the birth of the child so he can devour it. However, sometime after the child is born, he is caught up to God's throne while the Woman flees into the wilderness into her place prepared of God that they should feed her there for 1,260 days (3+1⁄2 years). (12:5–6). War breaks out in heaven between Michael and the Dragon, identified as that old Serpent, the Devil, or Satan (12:9). After a great fight, the Dragon and his angels are cast out of Heaven for good, followed by praises of victory for God's kingdom. (12:7–12). The Dragon engages to persecute the Woman, but she is given aid to evade him. Her evasiveness enrages the Dragon, prompting him to wage war against the rest of her offspring, who keep the commandments of God and have the testimony of Jesus Christ. (12:13–17)
+A Beast (with seven heads, ten horns, and ten crowns on his horns and on his heads names of blasphemy) emerges from the Sea, having one mortally wounded head that is then healed. The people of the world wonder and follow the Beast. The Dragon grants him power and authority for forty-two months. (13:1–5)
+The Beast of the Sea blasphemes God's name (along with God's tabernacle and his kingdom and all who dwell in Heaven), wages war against the Saints, and overcomes them. (13:6–10)
+Then, a Beast emerges from the Earth having two horns like a lamb, speaking like a dragon. He directs people to make an image of the Beast of the Sea who was wounded yet lives, breathing life into it, and forcing all people to bear "the mark of the Beast". The number of the beast the Bible says is "666". Events leading into the Third Woe:
+The Lamb stands on Mount Zion with the 144,000 "first fruits" who are redeemed from Earth and victorious over the Beast and his mark and image. (14:1–5)
+The proclamations of three angels. (14:6–13)
+One like the Son of Man reaps the earth. (14:14–16)
+A second angel reaps "the vine of the Earth" and throws it into "the great winepress of the wrath of God... and blood came out of the winepress... up to one thousand six hundred stadia." (14:17–20)
+The temple of the tabernacle, in Heaven, is opened (15:1–5), beginning the "Seven Bowls" revelation.
+Seven angels are given a golden bowl, from the Four Living Creatures, that contains the seven last plagues bearing the wrath of God. (15:6–8)
+Seven bowls are poured onto Earth:
+First Bowl: A "foul and malignant sore" afflicts the followers of the Beast. (16:1–2)
+Second Bowl: The Sea turns to blood and everything within it dies. (16:3)
+Third Bowl: All fresh water turns to blood. (16:4–7)
+Fourth Bowl: The Sun scorches the Earth with intense heat and even burns some people with fire. (16:8–9)
+Fifth Bowl: There is total darkness and great pain in the Beast's kingdom. (16:10–11)
+Sixth Bowl: The Great River Euphrates is dried up and preparations are made for the kings of the East and the final battle at Armageddon between the forces of good and evil. (16:12–16)
+Seventh Bowl: A great earthquake and heavy hailstorm: "every island fled away and the mountains were not found." (16:17–21)
+Aftermath: Vision of John given by "an angel who had the seven bowls"
+The great Harlot who sits on a scarlet Beast (with seven heads and ten horns and names of blasphemy all over its body) and by many waters: Babylon the Great. The angel showing John the vision of the Harlot and the scarlet Beast reveals their identities and fates (17:1–18)
+New Babylon is destroyed. (18:1–8)
+The people of the Earth (the kings, merchants, sailors, etc.) mourn New Babylon's destruction. (18:9–19)
+The permanence of New Babylon's destruction. (18:20–24)
+The Marriage Supper of the Lamb
+A great multitude praises God. (19:1–6)
+The marriage Supper of the Lamb. (19:7–10)
+The Judgment of the two Beasts, the Dragon, and the Dead (19:11–20:15)
+The Beast and the False Prophet are cast into the Lake of Fire. (19:11–21)
+The Dragon is imprisoned in the Bottomless Pit for a thousand years. (20:1–3)
+The resurrected martyrs live and reign with Christ for a thousand years. (20:4–6)
+After the Thousand Years
+The Dragon is released and goes out to deceive the nations in the four corners of the Earth—Gog and Magog—and gathers them for battle at the holy city. The Dragon makes war against the people of God, but is defeated. (20:7–9)
+The Dragon is cast into the Lake of Fire with the Beast and the False Prophet. (20:10)
+The Last Judgment: the wicked, along with Death and Hades, are cast into the Lake of Fire, which is the second death. (20:11–15)
+The New Heaven and Earth, and New Jerusalem
+A "new heaven" and "new earth" replace the old heaven and old earth. There is no more suffering or death. (21:1–8)
+God comes to dwell with humanity in the New Jerusalem. (21:2–8)
+Description of the New Jerusalem. (21:9–27)
+The River of Life and the Tree of Life appear for the healing of the nations and peoples. The curse of sin is ended. (22:1–5)
+Conclusion
+Christ's reassurance that his coming is imminent. Final admonitions. (22:6–21)
+
+
+== Interpretations ==
+Revelation has a wide variety of interpretations, ranging from the simple historical interpretation, to a prophetic view on what will happen in the future by way of God's will and the Woman's (traditionally believed to be the Virgin Mary) victory over Satan ("symbolic interpretation"), to different end time scenarios ("futurist interpretation"), to the views of critics who deny any spiritual value to Revelation at all, ascribing it to a human-inherited archetype.
+
+Liturgical interpretations concentrate on the vision of the divine liturgy which Christians participate in by their earthy liturgies.
+Historicist interpretations see Revelation as containing a broad view of history.
+Preterist interpretations treat Revelation as mostly referring to the events of the Apostolic Age (1st century), or, at the latest, the fall of the Western Roman Empire in the 5th century.
+Futurist interpretations see Revelation as describing future events with the seven churches growing into the body of believers throughout the age, and a reemergence or continuous rule of a Greco-Roman system with modern capabilities described by John in ways familiar to him.
+Idealist or symbolic interpretations consider that Revelation does not refer to actual people or events but is an allegory of the spiritual path and the ongoing struggle between good and evil.
+Early church fathers did not treat Revelation in any detail. The Western and Eastern theologians developed independent theological approaches: in the West, the Jerome reworked the c. 300 first Latin commentary of Victorinus of Pettau, downplaying millennialist/chilliast interpretations, while in the  East Andreas of Caesarea reworked the c.600 first Greek commentary of Oikoumenios, with the calm judgement that the end-times had not then arrived.
+
+
+=== Liturgical ===
+The visions of the book are "presented with a framework of liturgical activities, and toward the end of the book it is hardly possible to dissociate the acts of worship from the vision of the future," according to Protestant theologian Otto A. Piper. John was taken up in "on the Lord's day", perhaps during the primitive liturgy, presumably based on Jewish synagogue models: Piper suggests that the visions disclose "the divine purpose and heavenly realities behind them."
+
+
+==== Heavenly liturgy ====
+This interpretation draws out that John is seeing the liturgy of heaven: Lutheran historian Paul Westermeyer comments "It is a “revelation” about God's goodness, mercy, and power over evil in a cosmic view, not a secret code for our calendars. Revelation sings a new song of proclamation, praise, and rejoicing by voices of multitudes gathered around a great supper of the Lamb, punctuated by other sounds."
+Revelation mentions various objects of John's vision of the angelic  liturgy: an altar, robes, candles, incense, manna, chalices, the sign of the cross, references to the Lamb and to Mary, etc.
+Revelation sets an exemplar of the angelic liturgy which earthly liturgies should emulate, join and anticipate, in a view associated with Pseudo-Dionysius the Areopagite' Celestial Hierarchy. Otto A. Piper has suggested that Revelation discloses many Primitive Church theological and liturgical emphases or impulses, such as the church's participation in angelic worship, the worthiness of the interpreter of scripture, the liturgy as a spiritual battle, and the connection between Confession of Sins and the Eucharist, some being still current: "the description of the heavenly liturgy in Revelation was patterned after the actual liturgy of the Primitive Church."
+For Catholic theologian Joseph Ratzinger (later Pope Benedict XVI):
+
+With its vision of the cosmic liturgy, in the midst of which stands the Lamb who was sacrificed, the Apocalypse has presented the essential contents of the eucharistic sacrament in an impressive form that sets a standard for every local liturgy. From the point of view of the Apocalypse, the essential matter of all eucharistic liturgy is its participation in the heavenly liturgy; it is from thence that it necessarily derives its unity, its catholicity, and its universality.
+
+
+==== Paschal/eucharistic liturgy ====
+This interpretation, which has found expression among both Catholic and Protestant theologians, considers the liturgical worship, particularly the Easter rites, of early Christianity as background and context for understanding the Book of Revelation's structure and significance. For Marilyn Parry, "there is a large loose structure which focuses on the eucharistic liturgies of the early church."
+This perspective is explained in The Paschal Liturgy and the Apocalypse (new edition, 2004) by Massey H. Shepherd, an Episcopal scholar, and in Scott Hahn's The Lamb's Supper: The Mass as Heaven on Earth (1999), in which he states that Revelation in form is structured after creation, fall, judgment and redemption. Those who hold this view say that the Temple's destruction (AD 70) had a profound effect on the Jewish people, not only in Jerusalem but among the Greek-speaking Jews of the Mediterranean.
+They believe the Book of Revelation provides insight into the early Eucharist, saying that it is the new Temple worship in the New Heaven and Earth. The idea of the Eucharist as a foretaste of the heavenly banquet is also explored by British Methodist Geoffrey Wainwright in his book Eucharist and Eschatology (Oxford University Press, 1980).
+This view builds from scholarly insights that identify various hymns or liturgical sequences in Revelation that are likely derived from, as well as informing, early church liturgy: Holy Holy Holy/Sanctus/trisagion (Rev 4:8,11), "Amen. Come, Lord Jesus!” followed by “The grace of our Lord Jesus Christ be with you all. Amen" (Rev 20:20), "Worthy is the Lamb" (Rev 5:9-13), and many others. Some of the hymns may have had an anti-imperial theology.
+
+
+==== Oriental Orthodox ====
+
+In the Coptic Orthodox Church, Armenian Apostolic Church and Ethiopian Orthodox Tewahedo Church the whole Book of Revelation is read during Apocalypse Night after Good Friday. Biblically Ugo Vanni and other biblical scholars have argued that the Book of Revelation was written with the intention to be read entirely in one liturgical setting with dialogue-elements between the reader (singular) and the hearers (plural) based on Rev 1:3 and Rev 1:10. Beniamin Zakhary has recently shown that the structure of the reading the Book of Revelation within the Coptic rite of Apocalypse Night (this is the only biblical reading in the Coptic church with a dialogue in it, where the reader stops many times and the people respond; additionally the entire book is read in a liturgical setting that culminates with the Eucharist) shows great support for this biblical hypothesis, albeit with some notable difference.
+Additionally, the Book of Revelation permeates many liturgical prayers and iconography within the Coptic Church.
+
+
+=== Eschatological ===
+Most Christian interpretations fall into one or more of the following categories:
+
+Historicism, which sees in Revelation a broad view of history;
+Preterism, in which Revelation mostly refers to the events of the apostolic era (1st century) or the fall of Jerusalem or the Roman Empire;
+Futurism, which believes that Revelation describes future events (modern believers in this interpretation are often called "millennialists"); and
+Idealism/Allegoricalism, which holds that Revelation does not refer to actual people or events, but is an allegory of the spiritual path and the ongoing struggle between good and evil.
+Additionally, there are significant differences in interpretation of the thousand years (the "millennium") mentioned in Revelation 20:2.
+
+Premillennialism, which holds a literal interpretation of the "millennium" and generally prefers literal interpretations of the content of the book;
+Amillennialism, which rejects a literal interpretation of the "millennium" and generally prefers allegorical interpretations of the content of the book; and
+Postmillennialism, which includes both literal and allegorical interpretations of the "millennium" but views the Second Coming as following the conversion to Christianity of a gradually improving world.
+
+
+==== Catholic ====
+According to the United States Conference of Catholic Bishops the Book of Revelation contains an account of visions in symbolic and allegorical language borrowed extensively from the Old Testament. Symbolic descriptions are not to be taken as literal descriptions, nor is the symbolism meant to be pictured realistically.
+According to Pope Benedict XVI some of the images of Revelation should be understood in the context of the dramatic suffering and persecution of the churches of Asia in the 1st century. Accordingly, the Book of Revelation should not be read as an enigmatic warning, but as an encouraging vision of Christ's definitive victory over evil. Pope Benedict XVI taught that Revelation "should be understood against the backdrop of" the early church's persecutions and inner problems, that "the Lamb who is slain yet standing" symbolizes Jesus' paschal mystery and Jesus being the meaning of life, that the vision of the woman and child symbolizes both Mary and the Church, that the New Jerusalem symbolizes the Church in its glory on Judgment Day, and that the prayers in Revelation reflect 1st century Jewish-Christian liturgy and Jewish-Christian understanding of the heavenly liturgy.
+According to Catholic Answers, the author of Revelation identifies the beast as the Roman Empire, the dragon as Satan, and Babylon as Rome. The meaning is that Rome "cannot win. It will be completely overthrown, and the Church is sure to triumph. This prophecy is as it were the hub of the Apocalypse. Around it John gradually unfolds the plan God has for the future of his Church."
+
+
+==== Eastern Orthodox ====
+
+Eastern Orthodoxy treats the text as simultaneously describing contemporaneous events (events occurring at the same time) and as prophecy of events to come, for which the contemporaneous events were a form of foreshadowing. It rejects attempts to determine, before the fact, if the events of Revelation are occurring by mapping them onto present-day events, taking to heart the Scriptural warning against those who proclaim "He is here!" prematurely. Instead, the book is seen as a warning to be spiritually and morally ready for the end times, whenever they may come ("as a thief in the night"), but they will come at the time of God's choosing, not something that can be precipitated nor trivially deduced by mortals.
+Book of Revelation is the only book of the New Testament that is not read during services by the Byzantine Rite Churches, although it is read in the Western Rite Orthodox Parishes, which are under the same bishops as the Byzantine Rite.
+
+
+==== Protestant ====
+
+
+==== Seventh-day Adventist ====
+
+Similar to the early Protestants, Adventists maintain a historicist interpretation of the Bible's predictions of the apocalypse.
+Seventh-day Adventists believe the Book of Revelation is especially relevant to believers in the days preceding the second coming of Jesus Christ. "The universal church is composed of all who truly believe in Christ, but in the last days, a time of widespread apostasy, a remnant has been called out to keep the commandments of God and the faith of Jesus." "Here is the patience of the saints; here are those who keep the commandments of God and the faith of Jesus." As participatory agents in the work of salvation for all humankind, "This remnant announces the arrival of the judgment hour, proclaims salvation through Christ, and heralds the approach of His second advent." The three angels of Revelation 14 represent the people who accept the light of God's messages and go forth as his agents to sound the warning throughout the length and breadth of the earth.
+
+
+==== Bahá'í Faith ====
+By reasoning analogous with Millerite historicism, Bahá'u'lláh's doctrine of progressive revelation, a modified historicist method of interpreting prophecy, is identified in the teachings of the Bahá'í Faith.
+ʻAbdu'l-Bahá, the son and chosen successor of Bahá'u'lláh, has given some interpretations about the 11th and 12th chapters of Revelation in Some Answered Questions. The 1,260 days spoken of in the forms: one thousand two hundred and sixty days, forty-two months, refers to the 1,260 years in the Islamic Calendar (AH 1260 or AD 1844). The "two witnesses" spoken of are Muhammad and Ali. The red Dragon spoken of in Revelation 12:3 – "And there appeared a great wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads" – are interpreted as symbolic of the seven provinces dominated by the Umayyads: Damascus, Persia, Arabia, Egypt, Africa, Andalusia, and Transoxania. The ten horns represent the ten names of the leaders of the Umayyad dynasty: Abu Sufyan, Muawiya, Yazid, Marwan, Abd al-Malik, Walid, Sulayman, Umar, Hisham, and Ibrahim. Some names were re-used, as in the case of Yazid II and Yazid III and the like, which were not counted for this interpretation.
+
+
+==== The Church of Jesus Christ of Latter-day Saints ====
+The Book of Mormon states that John the Apostle is the author of Revelation and that he was foreordained by God to write it.
+Doctrine and Covenants, section 77, postulates answers to specific questions regarding the symbolism contained in the Book of Revelation. Topics include: the sea of glass, the four beasts and their appearance, the 24 elders, the book with seven seals, certain angels, the sealing of the 144,000, the little book eaten by John, and the two witnesses in Chapter 11.
+Members of The Church of Jesus Christ of Latter-day Saints believe that the warning contained in Revelation 22:18–19 does not refer to the biblical canon as a whole. Rather, an open and ongoing dialogue between God and the modern-day Prophet and Apostles of the LDS faith constitute an open canon of scripture.
+
+
+==== Esoteric ====
+Christian Gnostics are unlikely to be attracted to the teaching of Revelation because the doctrine of salvation through the sacrificed Lamb, which is central to Revelation, is repugnant to Gnostics. Christian Gnostics "believed in the Forgiveness of Sins, but in no vicarious sacrifice for sin ... they accepted Christ in the full realisation of the word; his life, not his death, was the keynote of their doctrine and their practice."
+James Morgan Pryse was an esoteric gnostic who saw Revelation as a western version of the Hindu theory of the Chakra. He began his work, "The purpose of this book is to show that the Apocalypse is a manual of spiritual development and not, as conventionally interpreted, a cryptic history or prophecy." Such diverse theories have failed to command widespread acceptance. However, Christopher Rowland argues: "there are always going to be loose threads which refuse to be woven into the fabric as a whole. The presence of the threads which stubbornly refuse to be incorporated into the neat tapestry of our world-view does not usually totally undermine that view."
+
+
+==== Radical discipleship ====
+The radical discipleship interpretation asserts that the Book of Revelation is best understood as a handbook for radical discipleship; i.e. how to remain faithful to the spirit and teachings of Jesus and avoid simply assimilating to surrounding society. In this interpretation the primary agenda of the book is to expose as impostors the worldly powers that seek to oppose the ways of God and God's Kingdom. The chief temptation for Christians in the 1st century, and today, is to fail to hold fast to the non-violent teachings and example of Jesus and instead be lured into unquestioning adoption and assimilation of worldly, national or cultural values – imperialism, nationalism, and civil religion being the most dangerous and insidious.
+This perspective (closely related to liberation theology) draws on the approach of Bible scholars such as Ched Myers, William Stringfellow, Richard Horsley, Daniel Berrigan, Wes Howard-Brook, and Joerg Rieger. Various Christian anarchists, such as Jacques Ellul, have identified the state and political power as the Beast and the events described, being their doings and results, the aforementioned 'wrath'.
+
+
+=== Aesthetic and literary ===
+
+Literary writers and theorists have contributed to a wide range of theories about the origins and purpose of the Book of Revelation.
+Victorian poet Christina Rossetti's The Face of the Deep is a meditation upon the Apocalypse in the form of a verse-by-verse commentary. In her view, what Revelation has to teach is patience. Patience is the closest to perfection the human condition allows. Her book, which is largely written in prose, frequently breaks into poetry or jubilation, much like Revelation itself. The relevance of John's visions belongs to Christians of all times as a continuous present meditation. Such matters are eternal and outside of normal human reckoning. "That winter which will be the death of Time has no promise of termination. Winter that returns not to spring ... – who can bear it?" She dealt deftly with the vengeful aspects of John's message. "A few are charged to do judgment; everyone without exception is charged to show mercy." Her conclusion is that Christians should see John as "representative of all his brethren" so they should "hope as he hoped, love as he loved".
+Charles Cutler Torrey taught Semitic languages at Yale University. He championed the view that prophets, such as the scribe of Revelation, are much more meaningful when treated as poets first and foremost. He thought this was a point often lost sight of because most English bibles render everything in prose. Torrey insisted Revelation had originally been written in Aramaic. However, Old Testament scholar Christopher R. North said of Torrey's earlier Isaiah theory, "Few scholars of any standing have accepted his theory." Torrey proposed that the three major songs in Revelation (the new song, the song of Moses and the Lamb and the chorus at 19:6–8) each fall naturally into four regular metrical lines plus a coda. Other dramatic moments in Revelation, such as 6:16 where the terrified people cry out to be hidden, behave in a similar way.
+D. H. Lawrence took an opposing (to, e.g., Rossetti), pessimistic view of Revelation in the final book he wrote, Apocalypse. He saw the language which Revelation used as being bleak and destructive; a 'death-product'. His specific aesthetic objections to Revelation were that its imagery was unnatural and that phrases like "the wrath of the Lamb" were "ridiculous". He saw Revelation as comprising two discordant halves. In the first, there was a scheme of cosmic renewal in "great Chaldean sky-spaces", which he quite liked. After that, Lawrence thought, the book became preoccupied with the birth of the baby messiah and "flamboyant hate and simple lust ... for the end of the world".
+Recently, aesthetic and literary modes of interpretation have developed, which focus on Revelation as a work of art and imagination, viewing the imagery as symbolic depictions of timeless truths and the victory of good over evil. Elisabeth Schüssler Fiorenza wrote Revelation: Vision of a Just World from the viewpoint of rhetoric. Accordingly, Revelation's meaning is partially determined by the way John goes about saying things, partially by the context in which readers receive the message and partially by its appeal to something beyond logic.
+Professor Schüssler Fiorenza believes that Revelation has particular relevance today as a liberating message to disadvantaged groups. John's book is a vision of a just world, not a vengeful threat of world-destruction. Her view that Revelation's message is not gender-based has caused dissent. She says humanity is to look behind the symbols rather than make a fetish out of them. In contrast, Tina Pippin states that John writes "horror literature" and "the misogyny which underlies the narrative is extreme."
+In recent years, theories have arisen which concentrate upon how readers and texts interact to create meaning and which are less interested in what the original author intended.
+
+
+=== Academic ===
+
+Modern biblical scholarship attempts to understand Revelation in its 1st-century historical context within the genre of Jewish and Christian apocalyptic literature. This approach considers the text as an address to seven historical communities in Asia Minor. Under this interpretation, assertions that "the time is near" are to be taken literally by those communities. Consequently, the work is viewed as a warning not to conform to contemporary Greco-Roman society which John "unveils" as beastly, demonic, and subject to divine judgment.
+New Testament narrative criticism also places Revelation in its first century historical context but approaches the book from a literary perspective. For example, narrative critics examine characters and characterization, literary devices, settings, plot, themes, point of view, implied reader, implied author, and other constitutive features of narratives in their analysis of the book.
+Although the acceptance of Revelation into the canon has, from the beginning, been controversial, it has been essentially similar to the career of other texts. The eventual exclusion of other contemporary apocalyptic literature from the canon may throw light on the unfolding historical processes of what was officially considered orthodox, what was heterodox, and what was even heretical. Interpretation of meanings and imagery are anchored in what the historical author intended and what his contemporary audience inferred; a message to Christians not to assimilate into the Roman imperial culture was John's central message. Thus, the letter (written in the apocalyptic genre) is pastoral in nature (its purpose is offering hope to the downtrodden), and the symbolism of Revelation is to be understood entirely within its historical, literary, and social context. Critics study the conventions of apocalyptic literature and events of the 1st century to make sense of what the author may have intended.
+
+
+== Old Testament origins ==
+Much of Revelation employs ancient sources, primarily but not exclusively from the Old Testament. For example, Howard-Brook and Gwyther regard the Book of Enoch as an equally significant but contextually different source. "Enoch's journey has no close parallel in the Hebrew scriptures."
+English-language academics showed little interest in this topic until recently. A Scottish commentary from 1871 prefaces Revelation 4 with the Little Apocalypse of Mark 13, places Malachi 4:5 ("Behold I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord") within Revelation 11 and writes Revelation 12:7 side by side with the role of "the Satan" in the Book of Job. The message is that everything in Revelation will happen in its previously appointed time.
+New Testament scholar Steve Moyise used the index of the United Bible Societies' Greek New Testament to show that "Revelation contains more Old Testament allusions than any other New Testament book, but it does not record a single quotation." Perhaps significantly, Revelation chooses different sources than other New Testament books. Revelation concentrates on Isaiah, Psalms, and Ezekiel, while neglecting, comparatively speaking, the books of the Pentateuch that are the dominant sources for other New Testament writers. 
+Yet, with Revelation, the problems might be judged more fundamental. The author seems to be using his sources in a completely different way to the originals. For example, the author borrows the 'new temple' imagery of Ezekiel 40–48 but uses it to describe a New Jerusalem which, quite pointedly, no longer needs a temple because it is God's dwelling. New Testament scholar Ian Boxall writes that Revelation "is no montage of biblical quotations (that is not John's way) but a wealth of allusions and evocations rewoven into something new and creative." In trying to identify this "something new", Boxall argues that Ezekiel provides the 'backbone' for Revelation. He sets out a comparative table listing the chapters of Revelation in sequence and linking most of them to the structurally corresponding chapter in Ezekiel. The interesting point is that the order is not the same. John, on this theory, rearranges Ezekiel to suit his own purposes.
+Some commentators argue that it is these purposes – and not the structure – that really matter. New Testament scholar G. K. Beale believes that, however much John makes use of Ezekiel, his ultimate purpose is to present Revelation as a fulfillment of Daniel 7. New Testament scholar Richard Bauckham has argued that John presents an early view of the Trinity through his descriptions of the visions and his identifying Jesus and the Holy Spirit with YHWH. New Testament scholar Brandon Smith has expanded on both of their proposals while proposing a "trinitarian reading" of Revelation, arguing that John uses Old Testament language and allusions from various sources to describe a multiplicity of persons in YHWH without sacrificing monotheism, which would later be codified in the trinitarian doctrine of Nicene Christianity.
+
+
+== Olivet discourse ==
+According to James Stuart Russell, the book is an exposition of Olivet Discourse found in the Synoptic Gospels in Matthew 24 and 25, Mark 13, and Luke 21. Russell suggests there are parallels between the prophecy told by Jesus to the disciples and the prophecy recorded in the Book of Revelation, such as wars, famines, pestilence, earthquakes, false prophets, the darkening of the sun and moon, and stars falling from heaven.
+
+
+== Liturgical usage ==
+The Revised Common Lectionary draws its readings for the Sundays of the Easter season in Year C from the Book of Revelation.
+
+
+== Figures in Revelation ==
+
+In order of appearance:
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+
+Early Christian Writings: Apocalypse of John: text, introduction, context
+"Revelation to John." Encyclopædia Britannica Online.
+Understanding the Book of Revelation – Article by L. Michael White from PBS Frontline program "Apocalypse!"
+The Marvelous Address: The Revelation of the Beloved (Disciple) is an 18th-century manuscript about the book of Revelation written in Garshuni (Arabic written in Syriac script).
+Jewish Encyclopedia
+ Bible: Revelation public domain audiobook at LibriVox Various versions
+ Texts on Wikisource:
+Biesen, C. van den (1913). "Apocalypse". Catholic Encyclopedia.
+Charles, Robert Henry (1911). "Revelation, Book of". Encyclopædia Britannica (11th ed.).
+Schem, A. J. (1879). "Apocalypse". The American Cyclopædia.
+The Apocalypse, BBC Radio 4 discussion with Martin Palmer, Marina Benjamin & Justin Champion (In Our Time, 17 July 2003)

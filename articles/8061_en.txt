@@ -1,0 +1,141 @@
+2 Peter, also known as the Second Epistle of Peter and abbreviated as 2 Pet., is an epistle of the New Testament written in Koine Greek.  It identifies the author as "Simon Peter" (in some translations, 'Simeon' or 'Shimon'), a bondservant and apostle of Jesus Christ" (2 Peter 1:1). The epistle is traditionally attributed to Peter the Apostle, but most critical scholars consider the epistle pseudepigraphical (i.e., authored by one or more of Peter's followers, using Peter as a pseudonym). Scholars estimate the date of authorship anywhere from AD 60 to 150.
+
+
+== Authorship and date ==
+
+According to the Epistle itself, it was composed by the Apostle Peter, an eyewitness to Jesus' ministry. 2 Peter 3:1 says "This is now the second letter I have written to you"; if this is an allusion to 1 Peter, then the audience of the epistle may have been the same as it was for 1 Peter, namely, various churches in Asia Minor (see 1 Peter 1:1).
+The date of composition has proven to be difficult to determine.  Taken literally, it would have been written around AD 64–68, as Christian tradition holds Peter was martyred in the 60s by Nero, and also because Peter references his approaching death in 2 Peter 1:14 ("since I know that the putting off of my body will be soon, as our Lord Jesus Christ made clear to me").
+The questions of authorship and date are closely related. Scholars consider the epistle to have been written anywhere between c. AD 60–150, with "some reason to favour" a date between 80 and 90. Dates suggested by various authors include:
+
+c. 60 (Charles Bigg)
+63 (Giese, Wohlenberg)
+64 – 110 (Davids)
+Mid 60s (Harvey and Towner, M. Green, Moo, Mounce)
+c. 70 or 80 (Chaine)
+75 – 100 (Bauckham, perhaps about 80–90)
+80 – 90 (Duff)
+c. 90 (Reicke, Spicq)
+Late first or early second century (Perkins, Harrington, Werse)
+c. 100 (Schelkle)
+100 – 110 (Knoch, Kelly)
+100 – 125 (James, Vogtle, Paulsen)
+100 – 140 (Callan, perhaps about 125)
+130 (Raymond E. Brown, Sidebottom)
+150 (L. Harris)
+The scholarly debate can be divided into two parts: external and internal evidence. The external evidence for its authenticity, although feasible, remains open to criticism. (There is debate as to whether 2 Peter is being quoted or the other way around.) Much of this debate derives from Professor Robert E. Picirilli's article "Allusion to 2 Peter in the Apostolic Fathers," which compiles many of the allusions by the Apostolic Fathers of the late first and early second centuries, thus demonstrating that 2 Peter is not to be considered a second-century document. Despite this effort, scholars such as Michael J. Gilmour, who consider Picirilli's evidences to be correct, disagree with classifying the work as authentic but rather as a pseudepigrapha, arguing among many other things that Paul (2 Thessalonians 2:1–2) had to warn against contemporary pseudo-Pauline writers.
+The internal debate focuses more on its style, its ideology, and its relationship to the other works and stories. Some of the internal arguments against the authenticity of 2 Peter have gained significant popularity since the 1980s. One such argument is the argument that the scholar Bo Reicke first formulated in 1964, where he argued that 2 Peter is clearly an example of an ancient literary genre known as a 'testament', which originally arose from Moses' farewell discourse in Deuteronomy. Richard J. Bauckham, who popularized this argument, wrote that the 'testament' genre contains two main elements: ethical warnings to be followed after the death of the writer and revelations of the future. The significant fact about the 'testament' genre was not in its markers but in its nature; it is argued that a piece of 'testament' literature is meant to "be a completely transparent fiction." This argument has its detractors, who classify it as a syllogism. Others characterize the writing as a 'farewell speech' because it lacks any semblance of final greetings or ties with recipients.
+One of the questions to be resolved is 2 Peter's relationship with the Pauline letters since it refers to the Pauline epistles and so must postdate at least some of them, regardless of authorship. Thus, a date before AD 60 is improbable. Further, it goes as far as to name the Pauline epistles as "scripture"—one of only two times a New Testament work refers to another New Testament work in this way—implying that it postdates them by some time. Various hypotheses have been put forward to improve or resolve this issue; one notable hypothesis is that the First Epistle of Clement (c. AD 96), by citing as Scripture several of the Pauline letters, was inspired by 2 Peter because it was considered authentic. This would mean that even the recipients of 1 Clement, the inhabitants of Corinth, would have also considered it authentic, which would indicate that the letter must have been in circulation long before that time. The earliest reference to a Pauline collection is probably found in Ignatius of Antioch around AD 108.
+Another debate is about its linguistic complexity and its relationship with 1 Peter. According to the scholar Bart D. Ehrman, the historical Peter could not have written any works, either because he was "unlettered" (Acts 4:13) or because he was a fisherman from Capernaum, a comparatively small and probably monolingual town, in a time and province where there was little literacy. Bauckham addresses the statistical differences in the vocabulary of the two writings, using the data given by U. Holzmeister's 1949 study; 38.6 percent of the words are common to 1 and 2 Peter. 61.4 percent peculiar to 2 Peter, while of the words used in 1 Peter, 28.4 percent are common to 1 and 2 Peter, 71.6 percent are peculiar to 1 Peter. However, these figures can be compared with other epistles considered authentic, showing that pure statistical analysis of this type is a weak way of showing literary relationship. Bauckham also notes that "the Greek style of Second Peter is not to the taste of many modern readers, at times pretentiously elaborate, with an effort at pompous phrasing, a somewhat artificial piece of rhetoric, and 'slimy Greek'"; contrary to the style of the first epistle, "2 Peter must relate to the 'Asiatic Greek.'" The crux of the matter is how these differences are explained. Those who deny the Petrine authorship of the epistle, such as, for example, Kelly, insist that the differences show that First and Second Peter were not written by the same person. Others add that 2 Peter was a specific type of pseudepigraphy common and morally accepted at the time, either because it was a testamentary genre or because the works of the disciples could bear the names of their masters without any inconvenience.
+Those who defend Petrine authorship often appeal to the different amanuenses or secretaries Peter used to write each letter, as first suggested by Jerome. Thomas R. Schreiner criticizes people who regard arguments in favor of the authenticity of 2 Peter as mere arguments of religious conservatives who impotently try to invent arguments to support authenticity. People of this mindset, according to Schreiner, object to the claim that different secretaries may have been used but then claim that the corpus of the two letters is too small to establish stylistic variation. Schreiner states: 
+
+When we examine historical documents, we are not granted exhaustive knowledge of the circumstances in which the document came into being. Therefore, we must postulate probabilities, and in some cases, of course, more than one scenario is likely. Moreover, in some cases the likely scenarios are not internally contradictory, but both constitute plausible answers to the problem posed. Suggesting more than one solution is not necessarily an appeal to despair, but can be a sign of humility.
+The scholar Simon J. Kistemaker believes that linguistically "the material presented in both documents provides substantial evidence to indicate that these letters are the product of a single author." However, this view is very much in the minority. Most biblical scholars have concluded Peter is not the author, considering the epistle pseudepigraphal. Reasons for this include its linguistic differences from 1 Peter, its apparent use of Jude, possible allusions to second-century gnosticism, encouragement in the wake of a delayed parousia, and weak external support.
+
+
+== Early surviving manuscripts ==
+Some early manuscripts containing the text of this chapter are:
+
+
+=== Greek ===
+Papyrus 72 (3rd/4th century)
+Codex Vaticanus (B or 03; 325–50)
+Codex Sinaiticus (א or 01; 330–60)
+Codex Alexandrinus (A or 02; 400–40)
+Codex Ephraemi Rescriptus (C or 04; c. 450; partial)
+Papyrus 74 (7th century; extant verses 3:4, 3:11, 3:16)
+
+
+=== Latin ===
+Codex Floriacensis (h; 6th century Old-Latin; partial)
+
+
+== Relationship with the Epistle of Jude ==
+There is an obvious relationship between the texts of 2 Peter and the Epistle of Jude, to the degree that one of them clearly had read the other and copied phrases, or both had read some lost common source. The shared passages are:
+
+In general, most scholars believe that Jude was written first, and 2 Peter shows signs of adapting phrases from Jude for its specific situation.
+
+
+== Canonical acceptance ==
+
+The earliest undisputed mention of 2 Peter is by the theologian Origen (c. 185–254) in his Commentary on the Gospel of John, in which he states:  
+
+Peter, on whom the Church of Christ was built, against which the gates of Hades shall not prevail, left only one epistle of aknowledged genuinenness. Suppose we allow that he left a second, which is doubtful.
+Origen mentioned no explanation for the doubts, nor did he give any indication concerning the extent or location. According to Donald Guthrie this means that Origen "saw no reason to treat these doubts as serious, and this would mean to imply that in his time the epistle was widely regarded as canonical."  Acceptance of the letter into the canon did not occur without some difficulty; however, "nowhere did doubts about the letter's authorship take the form of definitive rejection."
+Origen, in another passage, has been interpreted as considering the letter to be Petrine in authorship.  Before Origen's time, the evidence is inconclusive; there is a lack of definite early quotations from the letter in the writings of the Apostolic Fathers, though possible use or influence has been located in the works of Clement of Alexandria (d. c. 211), Theophilius (d. c. 183), Aristides (d. c. 134), Polycarp (d. 155), and Justin (d. 165).
+Robert E. Picirilli observed that Clement of Rome linked James 1:8, 2 Peter 3:4, and Mark 4:26 in 1 Clement 23:3. Richard Bauckham and Peter H. Davids also noted the reference to “Scripture” in 1 Clement 23:3 matched 2 Peter 3:4, but make it dependent on a common apocalyptic source, which was also used in 2 Clement 11:2.
+Carsten Peter Thiede adds to Picirilli's work authors such as Justin and Minucius Felix who would use 2 Peter directly and a new reference in Clement of Rome (1 Clem. 9.2 = 2 Pet. 1.17).
+2 Peter seems to be quoted amongst apocryphal literature in Shepherd of Hermas (AD 95–160), Apocalypse of Peter (c. AD 125–135), the Gospel of Truth (AD 140–170), and the Apocryphon of John (AD 120–180).
+Eusebius (c. 275–339) professed his own doubts (see also Antilegomena), and is the earliest direct testimony of such, though he stated that the majority supported the text, and by the time of Jerome (c. 346–420) it had been mostly accepted as canonical.
+The Peshitta, the standard version of the Bible for churches in the Syriac tradition, does not contain the Second Epistle of Peter and thus rejects its canonical status.
+
+
+== Content ==
+In both content and style this letter is very different from 1 Peter. Its author, like the author of the Gospel of Luke and the Acts of the Apostles, is familiar with literary conventions, writing in a more elevated Koine Greek than, for example, Paul's writings or the Gospel of Mark. Gorgianic figures are used which are characteristic of Asian rhetoric (Asianism), with style similar to that of Ignatius and the Epistle to Diognetus. This leads some scholars to think that, like 1 Peter, the letter is addressed to Gentile Christians in Asia Minor.
+The epistle presciently declares that it is written shortly before the apostle's death (1:14), an assertion that may not have been part of the original text. Arguments for and against the assertion being original are based largely on the acceptance or rejection of supernatural intervention in the life of the writer.
+The epistle contains eleven references to the Old Testament. In 3:15-16 a reference is made to one of Paul's epistles, which some have identified as 3:10a with 1 Thess. 5:2; 3:14 with 1 Thess. 5:23.
+The author of 2 Peter had a relationship with the Gospel tradition, mainly in the Transfiguration of Jesus, 1:4 with Mark 9:1; 1:11 with Mark 9:1; 1:16,18 with Mark 9:2-10; 1:17 with Matthew 17:5; 1:19 with Mark 9:4; and in the promise of the Second Coming, 3:10b with Mark 13:31 or Luke 21:33.
+The book also shares a number of passages with the Epistle of Jude, 1:5 with Jude 3; 1:12 with Jude 5; 2:1 with Jude 4; 2:4 with Jude 6; 2:5 with Jude 5; 2:6 with Jude 7; 2:10–11 with Jude 8–9; 2:12 with Jude 10; 2:13–17 with Jude 11–13; 2:18 with Jude 16; 3:2f with Jude 17f; 3:3 with Jude 18; 3:14 with Jude 24; and 3:18 with Jude 25. Because the Epistle of Jude is much shorter than 2 Peter, and due to various stylistic details, the scholarly consensus is that Jude was the source for the similar passages of 2 Peter.
+Tartarus is mentioned in 2 Peter 2:4 as devoted to the holding of certain fallen angels. It is elaborated on in Jude 6. Jude 6, however, is a clear reference to the Book of Enoch. Bauckham suggests that 2 Peter 2:4 is partially dependent on Jude 6 but is independently drawing on paraenetic tradition that also lies behind Jude 5–7. The paraenetic traditions are found in Sirach 16:7–10, Damascus Document 2:17–3:12, 3 Maccabees 2:4–7, Testament of Naphtali 3:4–5, and Mishna Sanhedrin 10:3.
+
+
+== Outline ==
+
+
+=== Chapter 1 ===
+
+The chapters of this epistle show a triangular relationship between Christology (chapter 1), ethics (chapter 2) and eschatology (chapter 3).
+At the beginning of chapter 1, the author calls himself "Simeon Peter" (see Acts 15:14). This detail, for the scholar Rob. van Houwelingen, is evidence of the authenticity of the letter. The letter gives a list of seven virtues in the form of a ladder: Love, Brotherly affection, Godliness, Steadfastness, Self-control, Knowledge, and Excellence. Through the memory of Peter (1:12–15), the author encourages the addressees to lead holy and godly lives (11b); in verse 13 the author speaks of righteousness (being just) in a moral sense, and in verse 14 his line of argument reaches a climax as the addressees are encouraged to do all they can to be found blameless (1 Thess 5:23). In short, the author's concern is to encourage his addressees to behave ethically without reproach (1:5–7; 3:12–14), probably because of the impending parousia (Second Coming), which will come like a thief in the night (3:10; 1 Thess 5:2).
+
+
+=== Chapter 2 ===
+
+In this chapter, the author affirms that false teachers have arisen among the faithful to lead them astray with "destructive heresies" and "exploit people with false words" (2:1–2). Just as there were false prophets in ancient times, so there would be false teachers, false prophets and sheep's clothing were one of the prophecies of Jesus [Matt. 7:15], to which the author of this letter together with the author of 1 John refers [1 John 4:1]. False teachers are accused of "denying the Lord who bought them" and promoting licentiousness (2:1–2). The author classifies false teachers as "irrational animals, instinctive creatures, born to be caught and destroyed" (2:12). They are "spots and stains, delighting in their dissipation" with "eyes full of adultery, insatiable for sin… hearts trained in covetousness" (2:13–14). As a solution, 2 Peter proposes in the following chapter tools such as penance, aimed at purging sins, and the reactualization of the eschatological hope, to be expected with attention, service and perseverance. This chapter in all likelihood adapts significant portions of the Epistle of Jude.
+The ethical goal is not to fall into that debauchery, and errors, and to have hope. This is promoted with many stories of how God rescues the righteous while holding back the unrighteous for the day of judgment, and the stories of Noah, the story of Lot in Sodom and Gomorrah (2:6–8) and the story Balaam, son of Bosor (2:15–16) are used as a warning.
+2 Peter 2:22 quotes Proverbs 26:11: "As a dog returns to his vomit, so a fool repeats his folly."
+
+
+=== Chapter 3 ===
+
+The fundamental of this chapter is the authoritative Christian revelation. The revelation is found in a two-part source (3:2). There is little doubt that the "words spoken beforehand by the holy prophets" refers to the OT writings, either in part or in whole. Then the author mentions the second source of revelation, the "commandment of the Lord" spoken by "your apostles." It is remarkable that this two-part authority includes an obvious older means "words spoken beforehand" as well as an obvious newer half, the apostolically mediated words (words about Jesus). One could be forgiven if he sees here a precursor to a future "old" and "new" Testament. This juxtaposition of prophet and apostle as a two-part revelatory source is not first found in 3:1–2, but in 1:16–21.
+Another remarkable feature of this chapter is that the author presupposes that his audience is familiar with a plurality of apostles ("how many" is unclear), and, moreover, that they have had (and perhaps still have) access to the teaching of these apostles. One cannot "remember" teaching that they have not received. Of course, this raises difficult questions about the precise medium (oral or written) by which the public received this apostolic teaching. However, near the end of this chapter, the means by which the audience at least received the apostle Paul's teaching is expressly stated. We are told that the audience knew the teachings of "our beloved brother Paul" (3:15) and that they knew them in written form: "Paul also wrote to you according to wisdom as he does in all his letters" (3:16), the "also" being the key word since in the first verse of the chapter the author referred to another written apostolic text, namely his first epistle (1 Peter): considering part of the "Scriptures" not only the OT prophets, but also Paul and the author himself, from the Pauline corpus the author may have known 1 and 2 Thessalonians, Romans, Galatians, and possibly Ephesians and Colossians.  Thought on Christian revelation is also located in other early authors, namely Clement of Rome, Ignatius, Polycarp, Justin Martyr, and in the work 2 Clement.
+In the middle of the chapter is the explanation for the delay in Jesus' return (3:9); Jesus' delay is only to facilitate the salvation of the "already faithful" who may at times waver in their faith or have been led astray by false teachers (2:2–3). God is delaying to make sure that "all" have had sufficient time to secure their commitment (or return) to the gospel, including the false teachers. The remaining verses provide details about the coming day of the Lord along with the exhortation that flows seamlessly into the conclusion of the letter. The instruction offered here (3:11–13) echoes that of Jesus who called his disciples to await the consummation of his kingdom with attention, service and perseverance (Mt 24–25; Mk 13:3–13, 32–37; Lk 18:1–30; 21:1–38). Taken together with the final verses (3:14–18), here again the author expresses the concern that believers secure their eternal place in God's new creation by embracing lives that foster blessing and even hasten God's coming day.
+2 Peter 3:6 quotes Genesis 7:11–12.
+2 Peter 3:8 quotes Psalm 90, specifically 90:4.
+
+
+== See also ==
+First Epistle of Peter
+Textual variants in the Second Epistle of Peter
+Universal destination of goods
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Adams, Thomas B, 1990. "A Commentary on the Second Epistle General of Second Peter" Soli Deo Gloria Ministries. ISBN 978-1-877611-24-7
+Callan, Terrance (2004). "Use of the Letter of Jude by the Second Letter of Peter". Biblica. 85: 42–64.
+Duff, Jeremy (2007). "78. 2 Peter". In Barton, John; Muddiman, John (eds.). The Oxford Bible Commentary (first (paperback) ed.). Oxford University Press. pp. 1270–1274. ISBN 978-0199277186. Retrieved February 6, 2019.
+Green, Michael, 2007. "The Second Epistle of Peter and The Epistle of Jude: An Introduction and Commentary" Wm. B. Eerdmans Publishing Company. ISBN 978-0-8308-2997-2
+Leithart, Peter J, 2004. "The Promise of His Appearing: An Exposition of Second Peter" Canon Press. ISBN 978-1-59128-026-2
+Lillie, John, 1978. "Lectures on the First and Second Epistles of Peter" Klock & Klock. ISBN 978-0-86524-116-9
+Robinson, Alexandra (2017). Jude on the Attack: A Comparative Analysis of the Epistle of Jude, Jewish Judgement Oracles, and Greco-Roman Invective. The Library of New Testament Studies. Bloomsbury Publishing. ISBN 978-0567678799.
+Seton, Bernard E, 1985. "Meet Pastor Peter: Studies in Peter's second epistle" Review & Herald. ISBN 978-0-8280-0290-5
+
+
+== External links ==
+ 
+
+
+=== Online translations of the epistle ===
+Book of 2 Peter (NLT) at BibleGateway.com
+Online Bible at GospelHall.org
+ Bible: 2 Peter public domain audiobook at LibriVox Various versions
+
+
+=== Other ===
+Herbermann, Charles, ed. (1913). "Epistles of Saint Peter" . Catholic Encyclopedia. New York: Robert Appleton Company.
+BibleProject Animated Overview (Evangelical Perspective)

@@ -1,0 +1,77 @@
+Auf der Galerie ist eine Parabel von Franz Kafka, die 1919 im Rahmen des Bandes Ein Landarzt erschien. Der Text besteht aus zwei Teilen, die den scheinbar gleichen Vorgang umschreiben, jedoch ganz unterschiedlich wiedergeben. Ähnlich wie in Kafkas Erzählungen Ein Hungerkünstler, Erstes Leid oder Ein Bericht für eine Akademie wird in dem vorliegenden Prosastück die Varieté- und Zirkuswelt als Schauplatz für die Künstlerproblematik gewählt.
+
+
+== Inhalt ==
+Anstelle einer Geschichte bietet der Text Auf der Galerie nur zwei lange aufzählende Satzperioden, die zwei sich kontrastierende Varianten ein und derselben (Künstler-)Existenz aus der Sicht eines auktorialen Beobachters beschreiben.
+Der erste (konditionale) Satz entwirft das irreale Bild einer kranken, bedauernswerten, kindlichen Kunstreiterin im Zirkus, die monatelang vor „einem unermüdlichen Publikum“ von ihrem „peitschenschwingenden erbarmungslosen Chef“ zu immer weiteren, endlosen Höchstleistungen getrieben wird – „vielleicht eilte dann ein junger Galeriebesucher die lange Treppe durch alle Ränge hinab, stürzte in die Manege, riefe das Halt! durch die Fanfaren des sich immer anpassenden Orchesters.“
+Der zweite (kausale) Satz dagegen zeigt das scheinbar realistische Bild einer vitalen, schönen Dame als Reiterin voller Würde, glücklich mit ihrem Beruf und von ihrem Direktor hofiert und liebevoll umsorgt – „da dies so ist, legt der Galeriebesucher das Gesicht auf die Brüstung und, im Schlußmarsch wie in einem schweren Traum versinkend, weint er, ohne es zu wissen.“
+
+
+== Form ==
+
+
+=== Grammatikalische Betrachtung ===
+Den ersten Absatz mit der Negativdarstellung füllt eine lange Wenn-dann-Periode, die aus zwei konditionalen Gliedsätzen mit einem sich anschließenden Hauptsatz besteht und deren Umfang und Komplexität hauptsächlich dadurch entsteht, dass in die beiden Konditionalsätze eine Reihe von lokalen und modalen Adverbialen eingeschlossen sind, während der durch Gedankenstrich abgetrennte Hauptsatz drei asyndetisch gereihte Prädikate aufzählt.
+Der noch längere zweite Absatz enthält wiederum nur ein einziges Satzgefüge, das aus zwei kausalen, durch Gedankenstrich getrennten Gliedsätzen mit abschließendem Hauptsatz besteht und dessen Umfang und Komplexität vor allem dadurch entsteht, dass der erste Kausalsatz nicht nur verschiedene Subjekte und Prädikate aufzählt, sondern obendrein von weiteren Gliedsätzen unterbrochen wird und auch der Hauptsatz ein doppeltes Prädikat und ein modales Adverbiale mit Infinitkonstruktion enthält.
+
+
+=== Sprachliche Darstellung ===
+Der erste Absatz ist im Konjunktiv, also in der Möglichkeitsform geschrieben. So erscheint die entschlossene Reaktion des Galeriebesuchers im ersten – als Möglichkeit dargestellten Teil – logisch nachvollziehbar: Wenn es so wäre, dann würde der junge Galeriebesucher  einschreiten.
+Der zweite Absatz ist im Indikativ, also in der Ausdrucksform abgefasst. Daher neigt man beim ersten Lesen dazu, die erste Darstellung als Möglichkeit und die zweite als Realität aufzufassen. Dies wird aber durch das Weinen des Galeriebesuchers am Ende in Frage gestellt. Erst recht fraglich wird die optimistische Variante, wenn man die Realität des Zirkusalltags mit der ständigen Routine der Wiederholungen und dem dort normalerweise herrschenden Gefälle zwischen Chef und untergebenem Zirkusvolk bedenkt.
+Insgesamt wirkt die Sprache des kurzen Prosastücks in beiden Teilen durch die Reihung der Satzglieder unruhig und getrieben. Im ersten Teil scheint die sprachliche Gestaltung das böse Voranpeitschen der Künstlerin auszudrücken. Im zweiten Teil verdeutlicht sie die Euphorie.
+Beide Absätze drücken also inhaltlich völlig unterschiedliche Sichtweisen aus. Auf der sprachlichen Ebene jedoch sind beide Absätze ähnlich aufgebaut und unterscheiden sich nur in Nuancen.
+
+
+=== Erzählperspektive ===
+Die Erzählerposition dieser Parabel ist schwer zu greifen, denn die Parabel stellt weniger eine Erzählung als eine literarische Versuchsanordnung dar. Zwar ist es der Galeriebesucher, der mit beiden Varianten konfrontiert wird, aber er ist nicht der Erzähler, da auch er von außen betrachtet wird, von einer auktorialen Instanz, die sich nicht in einer linearen Erzählung ausdrückt, sondern vielmehr in einem zyklischen Gedankenspiel, also nicht so sehr auktorialer „Erzähler“ als vielmehr auktoriales Reflexionsmedium ist.
+
+
+== Deutungsansätze ==
+
+
+=== Ambivalente Künstlerwelt und allgemeines Wahrheitsproblem ===
+Auf der Galerie zeigt die konträren Seiten eines Künstlerdaseins, das im Licht der Öffentlichkeit steht, aus dem Blickwinkel eines Galeriebesuchers. Stellt man die Frage, welche Variante realer ist, muss auch der Empfängerhorizont gesehen werden. Welche eigene Sicht auf die Dinge ist für einen Betrachter oder Künstler überhaupt möglich? Welche Sichtweise er grundsätzlich einnimmt, dürfte kaum seiner willentlichen Kontrolle unterliegen. Er kann sich zwanghaft die Welt quälend und „ausweglos denken“ und wird sie dann auch so darstellen. Oder er kann das positive Gegenteil betonen. Beide Varianten überbetonen pathetisch die plakativ beschriebene Ambivalenz von Gut und Böse, freudig und deprimiert.
+Beide Abschnitte zeigen konkurrierende Formen der Zirkusrealität, indem sie deren Charakteristik überzeichnen, und liefern so eine Studie über die Problematik der Wahrnehmung, die unterschiedliche Entwürfe der Wirklichkeit präsentiert, die den Betrachter zu divergierenden Reaktionen zwingt.
+Kafka inszeniert hier ein Verwirrspiel um Schein und Sein. Er entwickelt beides in seiner Wirkung auf einen bestimmten Zuschauer auf der Galerie, der keine Verbindung zum sonstigen Publikum zu haben scheint und gerade aufgrund seiner Isolation und Einsamkeit das künstliche, brüchige Glück durchschaut. Angesichts des erbarmungswürdigen Schicksals der Reiterin kann er eine Heldenrolle einnehmen und sie retten. Eine latente Konkurrenz zwischen ihm und dem Direktor steht unausgesprochen im Raum.
+In der anderen Variante weint dieser Zuschauer. Sind es Glückstränen oder trauert er, weil er weiß, dass alles nur Fassade ist und sich die Reiterin in Wirklichkeit so fühlt, wie im ersten Fall beschrieben? Dass er „wie in einem schweren Traum versinkend, weint, ohne es zu wissen“, unterstreicht die Fragwürdigkeit der Entscheidung zwischen wahrer und falscher Realität.
+So wird das Wahrheitsproblem selbst Thema des Gedankenspiels. Erkenntnissuche führt ins tragische Dilemma, endet in weinender Vergeblichkeit – und in der schmerzlichen Absonderung vom gutgläubig dahinlebenden und sich oberflächlich vergnügenden Durchschnittsmenschen.
+
+
+=== Biografische Bezüge ===
+Die Manege ist nicht nur die Bühne, sondern auch der Arbeitsplatz der jungen Kunstreiterin. Mit unzulänglichen Verhältnissen an Arbeitsplätzen war Kafka bei seiner Tätigkeit in der damaligen Prager Arbeiter-Unfall-Versicherungs-Anstalt (die in Österreich heute noch besteht) immer wieder konfrontiert und davon berührt. Es ist daher anzunehmen, dass Kafka diese Erzählung u. a. auch unter dem Eindruck seiner Berufserfahrungen als visionäre Sicht auf Erscheinungsformen des Arbeitslebens und der Unterhaltungsbranche niederschrieb, die erst in der heutigen Medienwelt sehr stark hervortreten. (Vgl. hierzu Sudau, s. u. „Rezeption“.)
+Bereits in der Tagebucheintragung vom 9. November 1911 beschreibt Kafka einen Traum: Er sei auf der Galerie und ein erschrockenes junges Mädchen unten auf der Bühne.
+Ein anderer Hintergrund bzw. eine Anregung könnten zwei Bilder aus dem 19. Jahrhundert gewesen sein, nämlich Der Zirkus Fernando von Henri de Toulouse-Lautrec und Der Zirkus von Georges Seurat (siehe das oben abgebildete Gemälde). Sie behandeln dasselbe Thema, nämlich die Darstellung einer jungen Kunstreiterin in der Manege mit einem Direktor. Aufgrund der Ähnlichkeit ist es recht wahrscheinlich, dass Kafka diese Bilder kannte.
+
+
+== Rezeption ==
+Alt (S. 498) nennt hier den Bezug zum Traum und zur Macht der psychischen Kräfte, die auf das Individuum wirken. Mit seinem unbewussten Weinen kehrt der Galeriebesucher in die Welt des Imaginären, Unbewußten zurück.
+Sudau (S. 10): Kafkas Parabel auf ein Weltgetriebe, das dem falschen Schein erlegen ist, lässt sich unschwer in viele konkrete Sektoren zerlegen, in denen Glitzerwelten oder ein fauler Zauber sich entfalten: angefangen vom Laufsteg bis hin zur politischen Bühne. Das jetzige Zeitalter mit seinem den ganzen Tag laufenden Fernsehzirkus hat einen verräterisch-paradoxen Begriff gefunden, der Kafkas Vexierspiel genauestens und bitter entspricht: die „Reality-Show“. Die medialen Kunst- oder besser Kitsch- und Trashwelten nach dem Muster von „Big Brother“ müssen einem verdummten und vor den Schirm gebannten Publikum mehr und mehr als die wirkliche Welt erscheinen. Das „Halt“ ist fern, das Leid unerkannt und stumm.
+v. Jagow/Liska (S. 67): Indem Kafka die Erzählperspektive problematisiert und damit zeigt, dass es sich in jedem Fall nur um subjektive Wahrnehmungsweisen handelt, entzieht er dem Leser die Möglichkeit, festzulegen, was nun die wirkliche Zirkusszene ist. Damit setzt er sich von den im Text vorgestellten männlichen Positionen ab und erstattet der Kunstreiterin ihre unvereinnahmbare Eigenständigkeit zurück.
+
+
+== Ausgaben ==
+Paul Raabe (Hrsg.): Sämtliche Erzählungen. Fischer Taschenbuch Verlag, Frankfurt am Main und Hamburg 1970, ISBN 3-596-21078-X.
+Roger Hermes (Hrsg.): Die Erzählungen. Originalfassung . Fischer Verlag, 1997, ISBN 3-596-13270-3.
+Wolf Kittler, Hans-Gerd Koch, Gerhard Neumann (Hrsg.): Drucke zu Lebzeiten. Fischer Verlag, Frankfurt/Main 1996, S. 262/263.
+
+
+== Sekundärliteratur ==
+Ralf Sudau: Franz Kafka: Kurze Prosa/Erzählungen. Klett Verlag, 2007, ISBN 978-3-12-922637-7.
+Peter-André Alt: Franz Kafka: Der ewige Sohn. Verlag C.H. Beck, München 2005, ISBN 3-406-53441-4.
+Cerstin Urban: Franz Kafka: Erzählungen II. Königs Erläuterungen und Materialien (Bd. 344). Bange Verlag, Hollfeld 2004, ISBN 978-3-8044-1756-4.
+Carsten Schlingmann: Franz Kafka. Reclam Verlag, ISBN 3-15-015204-6.
+Reiner Stach: Kafka: Die Jahre der Erkenntnis. S. Fischer, Frankfurt am Main 2008, ISBN 978-3-10-075119-5.
+Bettina von Jagow und Oliver Jahraus Kafka-Handbuch. Leben-Werk-Wirkung. Vandenhoeck & Ruprecht, 2008, ISBN 978-3-525-20852-6, Beitrag Vivian Lisa.
+Rainer von Kügelgen: Kafkas Parabel „Auf der Galerie“: Das Verraten der Sprache oder Wie man einen Verdacht ausräumt. Vortrag auf der 6. internationalen Tagung Funktionale Pragmatik, 29. November–1. Dezember 2001 in Köln ([1]).
+Gerhard Oberlin: Kafka verstehen – Text und Deutung. Königshausen & Neumann, Würzburg 2021, ISBN 978-3-8260-7500-1
+
+
+== Weblinks ==
+
+Text der Erzählung bei zeno.org
+Franz Kafka: Auf der Galerie im Projekt Gutenberg-DE
+Hörbuch gelesen von Thorsten Herbold (MP3) auf librivox
+Auf der Galerie – Text der Erzählung gesprochen von Hans-Jörg Große
+
+
+== Einzelnachweise ==

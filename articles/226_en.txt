@@ -1,0 +1,83 @@
+The Catilinarian orations (Latin: Marci Tullii Ciceronis orationes in Catilinam; also simply the Catilinarians) are four speeches given in 63 BC by Marcus Tullius Cicero, one of the year's consuls. The speeches are all related to the discovery, investigation, and suppression of the Catilinarian conspiracy, a plot that year to overthrow the republic. All of the speeches in the form available today were published, probably around 60, as part of Cicero's attempt to justify his actions during the consulship; whether they are accurate reflections of the original speeches in 63 is debated.
+The first speech was given in the senate, where Cicero accused a senator, Catiline, of leading a plot to overthrow the republic; in response, Catiline withdrew from the city and joined an uprising in Etruria. The next two speeches were given before the people, with Cicero justifying his actions as well as relating further news of the conspiracy in Rome itself and the arrest of four conspirators. The fourth speech, supposedly delivered before the Senate, was an intervention in an on-going debate as to the fate of the urban conspirators; Cicero argued in favour of their illegal execution without trial.
+Some modern historians suggest that Catiline was a more complex character than Cicero's writings declare, and that Cicero was heavily influenced by a desire to establish a lasting reputation as a great Roman patriot and statesman. The Catilinarian orations, along with Sallust's monograph Bellum Catilinae, make the conspiracy one of the best-documented events from the ancient world; for centuries after their delivery, the Catilinarians were praised as model speeches and taught as part of the standard Latin rhetorical curriculum.
+
+
+== Background ==
+
+The Catilinarian conspiracy was a plot by the patrician senator Lucius Sergius Catilina (known in English as Catiline) to overthrow the Roman republic. He started this plot in 63 BC after being repulsed at elections for consul for the third time, after failing to be elected to the consulships of 65, 63, and 62 BC. The conspirators included various disaffected groups. The aristocrats who joined were largely men who were similarly unsuccessful in elections for high office or were otherwise bankrupt. They were joined by many disaffected Italian farmers – concentrated in Etruria – in two broad groups: farmers dispossessed by Sulla's proscriptions or colonisation programmes and Sulla's landed veterans who had fallen into debt after poor harvests.
+The first indications of a plot in 63 BC were in autumn, handed over by Marcus Licinius Crassus on 18 or 19 October. Crassus' letters were corroborated by reports of armed men gathering in support of the conspiracy. In response, the senate passed a decree declaring a tumultus (a state of emergency) and, after receipt of the reports of armed men gathering in Etruria, carried the senatus consultum ultimum instructing the consuls to do whatever it took to respond to the crisis. By 27 October, the senate had received reports that Gaius Manlius, a former centurion and leader of an army there, had taken up arms near Faesulae. 
+Catiline remained in the city. While named in the anonymous letters sent to Crassus, this was insufficient evidence for incrimination. But after messages from Etruria connected him directly to the uprising, he was indicted under the lex Plautia de vi (public violence) in early November. The conspirators met, probably on 6 November, and found two volunteers to make an attempt on Cicero's life. After the attempts on Cicero's life failed on 7 November 63 BC, he assembled the senate and delivered the First Catilinarian, revealing Catiline's involvement in the plot; Catiline promptly left the city and joined Manlius' men in Etruria shortly thereafter.
+At this time, Cicero then discovered a plot led by one of the sitting praetors, to bring in the Allobroges, a Gallic tribe, to support the Catilinarians. Using the Allobroges' envoys as double agents, Cicero used them to identify conspirators in the city. After intercepting incriminating letters between the conspirators and the Allobroges, five conspirators were arrested on 2 or 3 December. With the Gallic envoys divulging all they knew and confessions from the five men, there was no doubt of their guilt. After an attempt to rescue the five men from house arrest, the senate debated their fate on 5 December. After a prolonged debate, the Senate, after momentarily being convinced to sentence the men to life imprisonment without trial by Julius Caesar, advised Cicero to have the urban conspirators summarily executed. After the execution of the urban conspirators, most of Catiline's forces melted away; Catiline was eventually defeated and killed in early January 62 BC at the Battle of Pistoria.
+At the close of the consular year, Cicero's valedictory speech was vetoed by two tribunes of the plebs. One of the tribunes, Quintus Caecilius Metellus Nepos, also unsuccessfully sought to have Cicero prosecuted for executing the conspirators without a trial. Although popular among large portions of the people for having taken decisive action to avoid civil war and suppress the coup attempt, Cicero's legal position came under attack in the coming years. In response, Cicero attempted to shore up his reputation and justify his actions by publishing his consular speeches: the Catilinarian orations were published after some editing in 60 BC as part of this effort.
+
+
+== First Catilinarian ==
+
+ 
+The First Catilinarian is the most famous speech in Latin literature. Its first sentence in particular is carefully crafted so as to have its form support its content. In consequence, it is still widely remembered and used after more than 2000 years:
+
+Also remembered is the famous exasperated exclamation, O tempora, o mores!, used as an exclamation of outrage or indignation as to the state of the republic in Cicero's days.
+
+
+=== Structure and context ===
+The First Catilinarian is a denunciation of Catiline, delivered before the Senate in the Temple of Jupiter Stator on 7 or 8 November 63 BC. The Senate met to discuss an attempt on Cicero's life. Whether the speech is entirely historical is not entirely clear: the Second Catilinarian depicts Cicero's first speech as a simple interrogatory rather than the extended denunciation that survives. Unlike the other speeches, most of the speech is directed to Catiline personally with concluding remarks addressed to the Senate.
+Categorisation of the speech into one of the genres of ancient rhetoric is difficult. The denunciatory aspects of the speech are couched in the framework of a senatorial address while also largely being delivered to Catiline's person. Scholars disagree as to whether it should be seen as a speech in the genre of the law courts (forensic or prosecutorial) or otherwise in the genre of senatorial rhetoric (deliberative). This difficulty may be due to its original extemporaneous nature, delivered not as part of a structured meeting but rather on Catiline's arrival to the senate.
+The oration's arguments, somewhat cloudy and meandering, are intended more to influence senatorial opinion than argue in favour of any specific course of action or actually advise Catiline. Cicero, in a letter, later described it as a farewell; Berry, in Cicero's Catilinarians, argues that Cicero had to dress up inaction since, within the bounds of the law, he had limited authority to act against Catiline proactively. A more retrospective interpretation of how it would have played c. 60 BC would instead emphasise how Cicero chose to act slowly and deliberatively rather than, as alleged by his political enemies, cruelly and autocratically.
+
+
+=== Content ===
+Cicero starts the speech by informing Catiline that the conspiracy is revealed and that Cicero would be within his rights as consul and justified by precedent to have Catiline killed as a threat to the state. Cicero then connects Catiline to the rebels in Etruria, against which the Senate had already mobilised men; Cicero also disclaims any intention to have Catiline killed since it would be controversial, something possibly inserted in 60 BC to paint Cicero as merciful and rebut allegations of cruelty. Cicero then describes at length the conspiracy before urging Catiline to leave the city with his followers to take command of the Etrurian rebels, something which Cicero asserts Catiline was to do shortly regardless. Catiline likely asked whether Cicero's advice was a command for him to go into exile—the power to exile citizens, relegatio, was within consular authority—but Cicero in the speech insists that he is merely advising Catiline to leave.
+Insisting that Catiline is not detained by any business in Rome due to his poor reputation, Cicero then engages in invective, indirectly accusing Catiline of a variety of sexual crimes, imminent bankruptcy, and past plots against the state. Drawing attention to how other senators moved away from Catiline when he entered the senate, Cicero argues then that no formal senatorial vote on Catiline's exile—which Catiline demanded—was necessary due to the senate's obvious displeasure; if it had passed it would have cast Catiline as a victim of senatorial overreach; if it had failed it would have undermined Cicero's position in the senate. This political isolation is then emphasised when Cicero relates that Catiline sought to place himself into voluntary custody to service his reputation but found nobody willing to take him. Such isolation is further illustrated noting how the Senate's did not voice any immediate objections to the idea of exiling Catiline.
+Changing tack, Cicero then tells Catiline that if he leaves the city but, contrary to Catiline's existing plans, does not join the rebels in Etruria, Cicero would be seen as having forced an innocent man to go into exile. This argument was meant to paint Cicero in an unselfish light. An outburst of invective against Catiline and his followers, who Cicero brands as corrupt and bankrupt political failures, then follows. The conclusion of the speech notes that Cicero intends to do nothing compulsory at the moment, justified by rejection of arguments to have Catiline summarily executed (placed in the mouth of an abstract personification of Rome). Cicero instead seeks a longer term goals of ensuring that—by allowing Catiline to join the Etrurian rebels—the whole Senate is convinced of Catiline's guilt and that, when the rebels are defeated with Catiline and followers among them, the body politic is improved by their absence. The speech finally concludes with a prayer to Jupiter Stator that Catiline and his followers be defeated.
+
+
+== Second Catilinarian ==
+
+Cicero informed the citizens of Rome that Catiline had left the city not into exile, as Catiline had said, but to join with his illegal army. He described the conspirators as rich men who were in debt, men eager for power and wealth, Sulla's veterans, ruined men who hoped for any change, criminals, profligates and other men of Catiline's ilk. He assured the people of Rome that they had nothing to fear because he, as consul, and the gods would protect the state. This speech was delivered with the intention of convincing the lower class, or common man, that Catiline would not represent their interests and they should not support him.
+Meanwhile, Catiline joined up with Gaius Manlius, commander of the rebel force. When the Senate was informed of the developments, they declared the two of them public enemies. Antonius Hybrida (Cicero's fellow consul), with troops loyal to Rome, followed Catiline while Cicero remained at home to guard the city.
+
+
+== Third Catilinarian ==
+
+Cicero claimed that the city should rejoice because it had been saved from a bloody rebellion. He presented evidence that all of Catiline's accomplices confessed to their crimes. He asked for nothing for himself but the grateful remembrance of the city and acknowledged that the victory was more difficult than one in foreign lands because the enemies were citizens of Rome.
+
+
+== Fourth Catilinarian ==
+
+In his fourth and final published argument, which took place in the Temple of Concordia, Cicero establishes a basis for other orators (primarily Cato the Younger) to argue for the execution of the conspirators. As consul, Cicero was formally not allowed to voice any opinion in the matter, but he circumvented the rule with subtle oratory. Although very little is known about the actual debate (except for Cicero's argument, which has probably been altered from its original), the Senate majority probably opposed the death sentence for various reasons, one of which was the nobility of the accused. For example, Julius Caesar argued that exile and disenfranchisement would be sufficient punishment for the conspirators, and one of the accused, Lentulus, was a praetor. However, after the combined efforts of Cicero and Cato, the vote shifted in favor of execution, and the sentence was carried out shortly afterwards.
+While some historians agree that Cicero's actions, in particular the final speeches before the Senate, may have saved the Republic, they also reflect his self-aggrandisement and, to a certain extent envy, probably born out of the fact that he was considered a novus homo, a Roman citizen without noble or ancient lineage.
+
+
+== Translations ==
+The Conspiracy of Catiline (63 B.C.)
+ Cicero's Orations by Marcus Tullius Cicero at Project Gutenberg
+At Perseus Project (Latin text, translation and analysis):
+Yonge, C.D., ed. (1856). The Orations of Marcus Tullius Cicero. London: Henry G. Bohn – via Perseus Digital Library.:
+Cicero, M.T. "First Oration Against Lucius Catilina: Delivered in the Senate". In Yonge (1856).
+——. "Second Oration Against Lucius Catilina: Addressed to the People". In Yonge (1856).
+——. "Third Oration Against Lucius Catilina: Addressed to the People". In Yonge (1856).
+——. "Fourth Oration Against Lucius Catilina: Delivered in the Senate". In Yonge (1856).
+Clark, Albert Curtis, ed. (1908). M. Tulli Ciceronis Orationes (in Latin). Scriptorum Classicorum Bibliotheca Oxoniensis – via Perseus Digital Library.
+Cicero, M.T. "Oratio qua L. Catilinam Emisit in Senatu Habita". In Clark (1908).
+——. "In L. Catilinam Oratio Secunda Habita ad Populum". In Clark (1908).
+——. "In L. Catilinam Oratio Tertia Habita ad Populum". In Clark (1908).
+——. "In L. Catilinam Oratio Quarta Habita in Senatu". In Clark (1908).
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+=== Modern sources ===
+
+
+=== Ancient sources ===
+
+
+== External links ==
+ Latin Wikisource has original text related to this article: In L. Catilinam orationes
+All Cicero’s Catilinarian speeches entirely and fully read in Latin (mp3)
+Cicero, In Catilinam, 1-4, English translation at attalus.org

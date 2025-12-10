@@ -1,0 +1,81 @@
+Lectures on Aesthetics or Lectures on Fine Art (German: Vorlesungen über die Ästhetik) is a compilation of notes from university lectures on aesthetics given by Georg Wilhelm Friedrich Hegel in Heidelberg in 1818 and in Berlin in 1820/21, 1823, 1826 and 1828/29. It was compiled in 1835 by his student Heinrich Gustav Hotho, using Hegel's own hand-written notes and notes his students took during the lectures, but Hotho's work may render some of Hegel's thought more systematic than Hegel's initial presentation.
+
+
+== Content ==
+Hegel develops his account of art as a mode of absolute spirit that he calls "the beautiful ideal," which he defines most generally as Now when truth in this its external existence [Dasein] is present to consciousness immediately, and with the concept remains immediately in unity with its external appearance, the Idea is not only true but beautiful. Beauty is determined as the sensible shining of the Idea.     This ideal is developed throughout the Lectures in accordance to Hegel's Logic:
+The first universal part is devoted to the concept of the artistic ideal.
+The second particular part examines this ideal as it actualizes itself in three stages:
+Symbolic art, understood to encompass everything before Classical Greek art
+Classical art
+Romantic art, understood to emerge with the advent of Christianity on the world stage
+The third singular part concerns itself with an examination of each of the five major arts in ascending order of "inwardness":
+architecture
+sculpture
+painting
+music
+poetry
+
+In these second two parts of the Lectures, Hegel documents the development of art from the paradigmatically symbolic architecture to the paradigmatically classical sculpture to the romantic arts of painting, music, and poetry. At the time it was noted for the wealth of pictures included with it.
+Contrary to once-common belief, Hegel nowhere declares art to be "dead." What he says, in a representative statement is, "For us art counts no longer as the highest mode in which truth procures existence for itself." He speaks frequently of its "dissolution" [Auflösung], not its end [Ende], despite Hotho's use of the latter for the heading of the final moment of the Romantic art form.
+
+
+== Transcripts ==
+
+Lydia Moland states that understanding Hegel's theory of aesthetics presents a significant challenge with Hegel scholarship due to the nature of the surviving materials on aesthetics. Although Hegel lectured on art several times , he died before he was able to publish the handbook that he intended to use to accompany the lectures. Apart from his treatment of the "Art Religion" in the Phenomenology of Spirit, he only published a brief section on art in the Encyclopedia. 
+After his death, one of his former Berlin students, Heinrich Gustav Hotho, gathered the lecture notes that Hegel had intended to adapt for publication and combined them with a significant number of student notes. While this work has been the standard text for almost 200 years, more recent studies by Annemarie Gethmann-Siefert have shown that there is a significant amount of material in Hotho's text that is not represented in the student notes, and it is unclear how much of the material is originally based on manuscripts that have been lost. Additionally, the student notes show that Hegel's views on aesthetics evolved over time, while Hotho's text only presents a compiled, synthesized version of Hegel's thought.
+A resolution of these interpretative challenges may come from the discovery in 2022 made by Hegel's biographer Klaus Vieweg. More than 4,000 pages of notes from Hegel's lectures at Heidelberg University have been discovered in the library of the Archdiocese of Munich and Freising. These notes mainly deal with aesthetics and were written by Friedrich Wilhelm Carové between 1816 and 1818. Vieweg argues that this material will help scholars resolve the issue relating to the authenticity of Hotho's transcriptions, which are so far the only source on Hegel's philosophy of art. These new notes are the only ones available dating back to Hegel's teaching period in Heidelberg and will be of use reconstructing the genesis of Hegelian thought on art and its relationship with religion and philosophy.
+
+
+== Influence ==
+Hegel's Aesthetics is regarded by many as one of the greatest aesthetic theories to have been produced since Aristotle. Hegel's thesis about the historical dissolution of art has been the subject of much scholarly debate and influenced such thinkers like Theodor W. Adorno, Martin Heidegger, György Lukács, Jacques Derrida, and Arthur Danto. Hegel was himself influenced by Johann Joachim Winckelmann, Immanuel Kant, Friedrich Schiller, and Friedrich Wilhelm Joseph Schelling. Heidegger calls Hegel's Lectures on Aesthetics "the most comprehensive reflection on the essence of art that the West possesses".
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+=== Lecture Trancripts ===
+Vorlesung über Ästhetik. Berlin 1820/21. Eine Nachschrift, ed. H. Schneider. Frankfurt am Main: Peter Lang, 1995.
+Vorlesungen über die Philosophie der Kunst, ed. A. Gethmann-Siefert. Hamburg: Felix Meiner Verlag, 2003.
+Philosophie der Kunst oder Ästhetik. Nach Hegel. Im Sommer 1826. Mitschrift Friedrich Carl Hermann Victor von Kehler, eds. A. Gethmann-Siefert and B. Collenberg-Plotnikov. Munich: Wilhelm Fink Verlag, 2004.
+Philosophie der Kunst. Vorlesung von 1826, eds. A Gethmann-Siefert, J.-I. Kwon and K. Berr. Frankfurt am Main: Suhrkamp Verlag, 2004.
+
+
+==== Translations ====
+Hegel, Georg Wilhelm Friedrich (1998). Aesthetics: Lectures on Fine Art. Translated by T.M. Knox. Clarendon Press, Oxford University Press. ISBN 978-0-19-823816-4. Retrieved 4 December 2022.
+Hegel, G.W.F. (29 July 2004). Introductory Lectures on Aesthetics. Penguin UK. ISBN 978-0-14-191561-6. Retrieved 9 April 2022.
+
+
+=== Sources ===
+Houlgate, Stephen (ed.), 2007, Hegel and the Arts. Evanston, Ill.: Northwestern University Press.
+Desmond, William (1 January 1986). Art and the Absolute: A Study of Hegel's Aesthetics. SUNY Press. ISBN 978-0-88706-150-9. Retrieved 9 April 2022.
+Houlgate, Stephen. "Hegel's Aesthetics". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+James, David (3 November 2011). Art, Myth and Society in Hegel's Aesthetics. A&C Black. ISBN 978-1-4411-6471-1. Retrieved 9 April 2022.
+Moland, Lydia L. (15 May 2017). "Hegel's Philosophy of Art". In Moyar, Dean (ed.). The Oxford Handbook of Hegel. Oxford University Press. ISBN 978-0-19-935523-5. Retrieved 24 March 2022.
+Moland, Lydia L. (2019). Hegel's Aesthetics: The Art of Idealism. Oxford University Press. ISBN 978-0-19-084732-6. Retrieved 9 April 2022.
+Peters, Julia (20 November 2014). Hegel on Beauty. Routledge. ISBN 978-1-317-63523-9. Retrieved 9 April 2022.
+Rutter, Benjamin (29 July 2010). Hegel on the Modern Arts. Cambridge University Press. ISBN 978-1-139-48978-2.
+Robert Wicks (29 January 1993). "Hegel's aesthetics: An overview". In Beiser, Frederick C. (ed.). The Cambridge Companion to Hegel. Cambridge University Press. doi:10.1093/oxfordhb/9780199355228.013.26. ISBN 978-1-139-82495-8. Retrieved 24 March 2022.
+
+
+=== Further reading ===
+Bungay, Stephen, 1984, Beauty and Truth. A Study of Hegel's Aesthetics. Oxford: Oxford University Press.
+Desmond, William, 1986, Art and the Absolute. A Study of Hegel's Aesthetics. Albany: SUNY Press.
+Geulen, Eva, 2006, The End of Art. Readings in a Rumor after Hegel, trans. J. McFarland. Stanford: Stanford University Press.
+Lukács, György, 2002, Hegel's Aesthetics, Graduate Faculty Philosophy Journal, vol. 23, Nr 2, 87-124.
+Maker, W. (ed.), 2000. Hegel and Aesthetics. New York.
+Pippin, Robert, 2009. "The Absence of Aesthetics in Hegel’s Aesthetics", The Cambridge Companion to Hegel and Nineteenth-Century Philosophy , New York [1].
+Roche, Mark-William, 1998. Tragedy and Comedy. A Systematic Study and a Critique of Hegel. Albany. New York.
+Rutter, Benjamin (2010), Hegel on the Modern Arts, Cambridge: Cambridge University Press
+Winfield, Richard Dien, 1995.  Systematic Aesthetics. Gainesville, FL, University Press of Florida.
+Wyss, Beat, 1999, Hegel's Art History and the Critique of Modernity. Cambridge: Cambridge University Press.
+
+
+== External links ==
+Hegel’s Lectures on Aesthetics web version of Selections from Hegel's Lectures on Aesthetics, by Bernard Bosanquet & W.M. Bryant, "The Journal of Speculative Philosophy", 1886; published by Marxists Internet Archive
+[2] German text in .pdf format.

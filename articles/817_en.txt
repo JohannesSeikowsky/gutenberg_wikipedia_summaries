@@ -1,0 +1,87 @@
+The Jargon File is a glossary and usage dictionary of slang used by computer programmers. The original Jargon File was a collection of terms from technical cultures such as the MIT AI Lab, the Stanford AI Lab (SAIL) and others of the old ARPANET AI/LISP/PDP-10 communities, including Bolt, Beranek and Newman (BBN), Carnegie Mellon University, and Worcester Polytechnic Institute. It was published in paperback form in 1983 as The Hacker's Dictionary (edited by Guy Steele) and revised in 1991 as The New Hacker's Dictionary (ed. Eric S. Raymond; third edition published 1996).
+The concept of the file began with the Tech Model Railroad Club (TMRC) that came out of early TX-0 and PDP-1 hackers in the 1950s, where the term hacker emerged and the ethic, philosophies and some of the nomenclature emerged.
+
+
+== 1975 to 1983 ==
+The Jargon File (referred to here as "Jargon-1" or "the File") was made by Raphael Finkel at Stanford in 1975. From that time until the plug was finally pulled on the SAIL computer in 1991, the File was named "AIWORD.RF[UP,DOC]" ("[UP,DOC]" was a system directory for "User Program DOCumentation" on the WAITS operating system). Some terms, such as frob, foo and mung are believed to date back to the early 1950s from the Tech Model Railroad Club at MIT and documented in the 1959  Dictionary of the TMRC Language compiled by Peter Samson. The revisions of Jargon-1 were all unnumbered and may be collectively considered "version 1". Note that it was always called "AIWORD" or "the Jargon file", never "the File"; the last term was coined by Eric Raymond.
+In 1976, Mark Crispin, having seen an announcement about the File on the SAIL computer, FTPed a copy of the File to the MIT AI Lab. He noticed that it was hardly restricted to "AI words", and so stored the file on his directory, named as "AI:MRC;SAIL JARGON" ("AI" lab computer, directory "MRC", file "SAIL JARGON").
+Raphael Finkel dropped out of active participation shortly thereafter and Don Woods became the SAIL contact for the File (which was subsequently kept in duplicate at SAIL and MIT, with periodic resynchronizations).
+The File expanded by fits and starts until 1983. Richard Stallman was prominent among the contributors, adding many MIT and ITS-related coinages. The Incompatible Timesharing System (ITS) was named to distinguish it from another early MIT computer operating system, Compatible Time-Sharing System (CTSS).
+In 1981, a hacker named Charles Spurgeon got a large chunk of the File published in Stewart Brand's CoEvolution Quarterly (issue 29, pages 26–35) with illustrations by Phil Wadler and Guy Steele (including a couple of Steele's Crunchly cartoons). This appears to have been the File's first paper publication.
+A late version of Jargon-1, expanded with commentary for the mass market, was edited by Guy Steele into a book published in 1983 as The Hacker's Dictionary (Harper & Row CN 1082, ISBN 0-06-091082-8). It included all of Steele's Crunchly cartoons. The other Jargon-1 editors (Raphael Finkel, Don Woods, and Mark Crispin) contributed to this revision, as did Stallman and Geoff Goodfellow. This book (now out of print) is hereafter referred to as "Steele-1983" and those six as the Steele-1983 coauthors.
+
+
+== 1983 to 1990 ==
+Shortly after the publication of Steele-1983, the File effectively stopped growing and changing. Originally, this was due to a desire to freeze the file temporarily to ease the production of Steele-1983, but external conditions caused the "temporary" freeze to become permanent.
+The AI Lab culture had been hit hard in the late 1970s, by funding cuts and the resulting administrative decision to use vendor-supported hardware and associated proprietary software instead of homebrew whenever possible. At MIT, most AI work had turned to dedicated Lisp machines. At the same time, the commercialization of AI technology lured some of the AI Lab's best and brightest away to startups along the Route 128 strip in Massachusetts and out west in Silicon Valley. The startups built Lisp machines for MIT; the central MIT-AI computer became a TWENEX system rather than a host for the AI hackers' ITS.
+The Stanford AI Lab had effectively ceased to exist by 1980, although the SAIL computer continued as a computer science department resource until 1991. Stanford became a major TWENEX site, at one point operating more than a dozen TOPS-20 systems, but by the mid-1980s, most of the interesting software work was being done on the emerging BSD Unix standard.
+In April 1983, the PDP-10-centered cultures that had nourished the File were dealt a death-blow by the cancellation of the Jupiter project at DEC. The File's compilers, already dispersed, moved on to other things. Steele-1983 was partly a monument to what its authors thought was a dying tradition; no one involved realized at the time just how wide its influence was to be.
+As mentioned in some editions:
+
+By the mid-1980s, the File's content was dated, but the legend that had grown up around it never quite died out.  The book, and softcopies obtained off the ARPANET, circulated even in cultures far removed from MIT's; the content exerted a strong and continuing influence on hackish slang and humor.  Even as the advent of the microcomputer and other trends fueled a tremendous expansion of hackerdom, the File (and related materials like the AI Koans in Appendix A) came to be seen as a sort of sacred epic, a hacker-culture Matter of Britain chronicling the heroic exploits of the Knights of the Lab.  The pace of change in hackerdom at large accelerated tremendously, but the Jargon File passed from living document to icon and remained essentially untouched for seven years.
+
+
+== 1990 and later ==
+A new revision was begun in 1990, which contained nearly the entire text of a late version of Jargon-1 (a few obsolete PDP-10-related entries were dropped after consultation with the editors of Steele-1983). It merged in about 80% of the Steele-1983 text, omitting some framing material and a very few entries introduced in Steele-1983 that are now only of historical interest.
+The new version cast a wider net than the old Jargon File; its aim was to cover not just AI or PDP-10 hacker culture but all of the technical computing cultures in which the true hacker-nature is manifested. More than half of the entries derived from Usenet and represented jargon then current in the C and Unix communities, but special efforts were made to collect jargon from other cultures including IBM PC programmers, Amiga fans, Mac enthusiasts, and even the IBM mainframe world.
+Eric Raymond maintained the new File with assistance from Guy Steele, and is the credited editor of the print version of it, The New Hacker's Dictionary (published by MIT Press in 1991); hereafter Raymond-1991. Some of the changes made under his watch were controversial; early critics accused Raymond of unfairly changing the file's focus to the Unix hacker culture instead of the older hacker cultures where the Jargon File originated. Raymond has responded by saying that the nature of hacking had changed and the Jargon File should report on hacker culture, and not attempt to enshrine it. After the second edition of NHD (MIT Press, 1993; hereafter Raymond-1993), Raymond was accused of adding terms reflecting his own politics and vocabulary, even though he says that entries to be added are checked to make sure that they are in live use, not "just the private coinage of one or two people".
+The Raymond version was revised again, to include terminology from the nascent subculture of the public Internet and the World Wide Web, and published by MIT Press as The New Hacker's Dictionary, Third Edition, in 1996.
+As of January 2016, no updates have been made to the official Jargon File since 2003. A volunteer editor produced two updates, reflecting later influences (mostly excoriated) from text messaging language, LOLspeak, and Internet slang in general; the last was produced in January 2012.
+
+
+== Impact and reception ==
+
+
+=== Influence ===
+Despite its tongue-in-cheek approach, multiple other style guides and similar works have cited The New Hacker's Dictionary as a reference, and even recommended following some of its "hackish" best practices. The Oxford English Dictionary has used the NHD as a source for computer-related neologisms.  The Chicago Manual of Style, the leading American academic and book-publishing style guide, beginning with its 15th edition (2003) explicitly defers, for "computer writing", to the quotation punctuation style –  logical quotation –  recommended by the essay "Hacker Writing Style" in The New Hacker's Dictionary (and cites NHD for nothing else).  The 16th edition (2010, and the current issue as of 2016) does likewise. The National Geographic Style Manual lists NHD among only 8 specialized dictionaries, out of 22 total sources, on which it is based. That manual is the house style of NGS publications, and has been available online for public browsing since 1995. The NGSM does not specify what, in particular, it drew from the NHD or any other source.
+Aside from these guides and the Encyclopedia of New Media, the Jargon file, especially in print form, is frequently cited for both its definitions and its essays, by books and other works on hacker history, cyberpunk subculture, computer jargon and online style, and the rise of the Internet as a public medium, in works as diverse as the 20th edition of A Bibliography of Literary Theory, Criticism and Philology edited by José Ángel García Landa (2015); Wired Style: Principles of English Usage in the Digital Age by Constance Hale and Jessie Scanlon of Wired magazine (1999); Transhumanism: The History of a Dangerous Idea by David Livingstone (2015); Mark Dery's Flame Wars: The Discourse of Cyberculture (1994) and Escape Velocity: Cyberculture at the End of the Century (2007); Beyond Cyberpunk! A Do-it-yourself Guide to the Future by Gareth Branwyn and Peter Sugarman (1991); and numerous others.
+Time magazine used The New Hacker's Dictionary (Raymond-1993) as the basis for an article about online culture in the November 1995 inaugural edition of the "Time Digital" department. NHD was cited by name on the front page of The Wall Street Journal.  Upon the release of the second edition, Newsweek used it as a primary source, and quoted entries in a sidebar, for a major article on the Internet and its history.  The MTV show This Week in Rock used excerpts from the Jargon File in its "CyberStuff" segments. Computing Reviews used one of the Jargon File's definitions on its December 1991 cover.
+On October 23, 2003, The New Hacker's Dictionary was used in a legal case. SCO Group cited the 1996 edition definition of "FUD" (fear, uncertainty and doubt), which dwelt on questionable IBM business practices, in a legal filing in the civil lawsuit SCO Group, Inc. v. International Business Machines Corp.  (In response, Raymond added SCO to the entry in a revised copy of the Jargon File, feeling that SCO's own practices deserved similar criticism.)
+
+
+=== Defense of the term hacker ===
+The book is particularly noted for helping (or at least trying) to preserve the distinction between a hacker (a consummate programmer) and a cracker (a computer criminal); even though not reviewing the book in detail, both the London Review of Books and MIT Technology Review remarked on it in this regard.  In a substantial entry on the work, the Encyclopedia of New Media by Steve Jones (2002) observed that this defense of the term hacker was a motivating factor for both Steele's and Raymond's print editions:
+
+The Hacker's Dictionary and The New Hacker's Dictionary sought to celebrate hacker culture, provide a repository of hacking history for younger and future hackers, and perhaps most importantly, to represent hacker culture in a positive light to the general public. In the early 1990s in particular, many news stories emerged portraying hackers as law-breakers with no respect for the personal privacy or property of others. Raymond wanted to show some of the positive values of hacker culture, particularly the hacker sense of humor. Because love of humorous wordplay is a strong element of hacker culture, a slang dictionary works quite well for such purposes.
+
+
+=== -P Convention ===
+
+The "-P Convention" or "P Question" refers to the act of making a statement into a question by appending "P." When spoken aloud, the "P" is literally pronounced as a separate syllable "Pee." This usage was immortalized in the Jargon File and from there the use spread to some younger users seeking to be part of the classical Internet community.
+This practice originated among users of the Lisp programming language, in which there is the convention of appending the letter "P" on elements to denote a predicate (a yes or no question). It is most commonly used at MIT and the University of California, Berkeley, or among computer scientists working in Artificial intelligence (which frequently uses Lisp). M-expression and S-expression were other new information representations introduced in a related context.
+The typical example of use is:
+
+   Q: "Foodp?" (Do you want food?)
+   A: "T!" (Literally, True: yes)
+   A: "Nil." (Also Null; no, I don't want food).
+
+
+=== Reviews and reactions ===
+PC Magazine in 1984, stated that The Hacker's Dictionary was superior to most other computer-humor books, and noted its authenticity to "hard-core programmers' conversations", especially slang from MIT and Stanford.  Reviews quoted by the publisher include: William Safire of The New York Times referring to the Raymond-1991 NHD as a "sprightly lexicon" and recommending it as a nerdy gift that holiday season (this reappeared in his "On Language" column again in mid-October 1992); Hugh Kenner in Byte suggesting that it was so engaging that one's reading of it should be "severely timed if you hope to get any work done"; and Mondo 2000 describing it as "slippery, elastic fun with language", as well as "not only a useful guidebook to very much un-official technical terms and street tech slang, but also a de facto ethnography of the early years of the hacker culture".  Positive reviews were also published in academic as well as computer-industry publications, including IEEE Spectrum, New Scientist, PC Magazine, PC World, Science, and (repeatedly) Wired.
+US game designer Steve Jackson, writing for Boing Boing magazine in its pre-blog, print days, described NHD's essay "A Portrait of J. Random Hacker" as "a wonderfully accurate pseudo-demographic description of the people who make up the hacker culture". He was nevertheless critical of Raymond's tendency to editorialize, even "flame", and of the Steele cartoons, which Jackson described as "sophomoric, and embarrassingly out of place beside the dry and sophisticated humor of the text". He wound down his review with some rhetorical questions:
+
+[W]here else will you find, for instance, that one attoparsec per microfortnight is approximately equal to one inch per second? Or an example of the canonical use of canonical? Or a definition like "A cuspy but bogus raving story about N random broken people"?
+The third print edition garnered additional coverage, in the usual places like Wired (August 1996), and even in mainstream venues, including People magazine (October 21, 1996).
+
+
+== References ==
+
+
+== Further reading ==
+Himanen, Pekka (2001). The Hacker Ethic and the Spirit of the Information Age. New York: Random House. ISBN 0375505660. OCLC 1110947691.
+Levy, Steven (2001). Hackers: Heroes of the Computer Revolution (Updated afterword ed.). New York: Penguin Books. ISBN 9780141000510. OCLC 1154543275.
+McHugh, Heather (May 11, 2009). "Hackers Can Sidejack Cookies". Poems. The New Yorker. Retrieved 17 February 2021.
+Raymond, Eric S. (January 1999). "The Revenge of the Hackers". In DiBona, Chris; Ockman, Sam; Stone, Mark (eds.). Open Sources: Voices from the Open Source Revolution. Sebastopol, Calif.: O'Reilly & Associates. pp. 207–219. ISBN 978-1-56592-582-3. OCLC 865247040. Retrieved 17 February 2021.
+
+
+== External links ==
+Official website (2004)
+Jargon File Text Archive (1981–2003); Steven Ehrbar's:
+Steele (1981). "Ver. 1.0.3". oldest recovered version
+Steele; et al. (1983). "Ver. 1.5.0". The Hacker's Dictionary; Steele's last
+Raymond (1990). "Ver. 2.1.1". His first
+Raymond (1991). "Ver. 2.9.6" (1st ed.). The New Hacker's Dictionary
+Raymond (1993). "Ver. 3.0.0" (2nd ed.).
+Raymond (1996). "Ver. 4.0.0" (3rd ed.).
+Raymond (2003). "Ver. 4.4.7". His last
+Ver. 5.0.1 (2012) at the Wayback Machine (archived August 27, 2013) post-Raymond; last major revision

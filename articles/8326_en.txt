@@ -1,0 +1,153 @@
+The Book of Sirach (), also known as The Wisdom of Jesus the Son of Sirach, The Wisdom of Jesus son of Eleazar, or Ecclesiasticus (), is a Jewish literary work originally written in Biblical Hebrew. The longest extant wisdom book from antiquity, it consists of ethical teachings, written by Yeshua ben Eleazar ben Sira (Ben Sira), a Hellenistic Jewish scribe of the Second Temple period.
+The text was written sometime between 196 and 175 BCE, and Ben Sira's grandson translated the text into Koine Greek and added a prologue sometime around 117 BCE. The prologue is generally considered to be the earliest witness to a tripartite canon of the books of the Hebrew Bible. The fact that the text and its prologue can be so precisely dated has profound implications for the development of the Hebrew Bible canon.
+Although the Book of Sirach is not included in the Hebrew Bible, and therefore not considered scripture in Judaism, it is included in the Septuagint and the Old Testament of the Catholic and Orthodox churches. In the Protestant traditions, historically, and still in continuation today in Lutheranism and Anglicanism, the Book of Sirach is an intertestamental text found in the Apocrypha, though it is regarded as noncanonical.
+
+
+== Authorship ==
+
+Yeshua ben Eleazar ben Sira (Ben Sira, or—according to the Greek text—"Joshua the son of Sirach of Jerusalem") was a Hellenistic Jewish scribe of the Second Temple period. He wrote the Book of Sirach in Biblical Hebrew around 180 BCE. Among all Hebrew Biblical and apocryphal writers, Ben Sira is unique in that he is the only one to have signed his work.
+
+
+=== Date and historical setting ===
+The Book of Sirach is generally dated to the first quarter of the 2nd century BCE. The text refers in the past tense to "the high priest, Simon son of Onias" in 50:1. This passage almost certainly refers to Simon the High Priest, the son of Onias II, who died in 196 BCE. Because the struggles between Simon's successors (Onias III, Jason, and Menelaus) are not alluded to in the book, nor is the Seleucid king Antiochus IV Epiphanes (who acceded to the throne in 175 BCE), the book must therefore have been written between 196 and 175 BCE.
+
+
+=== Translation into Koine Greek ===
+The person who translated the Book of Sirach into Koine Greek states in his prologue that he was the grandson of the author, and that he came to Egypt (most likely Alexandria) in the thirty-eighth year of the reign of "Euergetes". This epithet was borne by only two of the Ptolemaic kings. Of these, Ptolemy III Euergetes reigned only twenty-five years (247–222 BCE), and thus Ptolemy VIII Euergetes II must be intended. Since this king dated his reign from the date of his first ascension to the throne in the year 170 BCE, the translator must therefore have gone to Egypt in 132 BCE. Ben Sira's grandson completed his translation and added the prologue circa 117 BCE, around the time of the death of Ptolemy VIII. At that time, the usurping Hasmonean dynasty had ousted the heirs of Simon II after long struggles and was finally in control of the High Priesthood. A comparison of the Hebrew and Greek versions shows that he altered the prayer for Simon and broadened its application ("may He entrust to us his mercy") to avoid closing a work praising God's covenanted faithfulness on an unanswered prayer.
+The Greek version of the Book of Sirach is found in many codices of the Septuagint.
+
+
+== Alternative titles ==
+The Koine Greek translation was accepted in the Septuagint under the abbreviated name of the author: Sirakh (Σιραχ). Some Greek manuscripts give as the title the "Wisdom of Iēsous Son of Sirakh" or in short the "Wisdom of Sirakh". The Vetus Latina Bible was based on the Septuagint, and simply transliterated the Greek title into Latin letters: Sirach. In the Latin Vulgate, the book is called Sapientia Jesu Filii Sirach ("The Wisdom of Jesus the Son of Sirach").
+The Greek Church Fathers also called it the "All-Virtuous Wisdom", while the Latin Church Fathers, beginning with Cyprian, termed it Ecclesiasticus because it was frequently read in churches, leading the Latin Church Fathers to call it Liber Ecclesiasticus ("Church Book"). Similarly, the New Latin Vulgate and many modern English translations of the Apocrypha use the title Ecclesiasticus, literally "of the Church" because of its frequent use in Christian teaching and worship.
+
+
+== Structure ==
+As with other wisdom books, there is no easily recognizable structure in Sirach; in many parts it is difficult to discover a logical progression of thought or to discern the principles of arrangement. However, a series of six poems about the search for and attainment of wisdom (1:1–10, 4:11–19; 6:18–37; 14:20–15:10; 24:1–33; and 38:24–39:11) divide the book into something resembling chapters, although the divisions are not thematically based. The exceptions are the first two chapters, whose reflections on wisdom and fear of God provide the theological framework for what follows, and the last nine chapters, which function as a sort of climax, first in an extended praise of God's glory as manifested through creation (42:15–43:33) and second in the celebration of the heroes of ancient Israel's history dating back to before the Great Flood through contemporary times (see previous section).
+Despite the lack of structure, there are certain themes running through the book which reappear at various points. The New Oxford Annotated Apocrypha identifies ten major recurring topics:
+
+The Creation: 16:24–17:24; 18:1–14; 33:7–15; 39:12–35; and 42:15–43:33
+Death: 11:26–28; 22:11–12; 38:16–23; and 41:1–13
+Friendship: 6:5–17; 9:10–16; 19:13–17; 22:19–26; 27:16–21; and 36:23–37:15
+Happiness: 25:1–11; 30:14–25; and 40:1–30
+Honor and shame: 4:20–6:4; 10:19–11:6; and 41:14–42:8
+Money matters: 3:30–4:10; 11:7–28; 13:1–14:19; 29:1–28; and 31:1–11
+Sin: 7:1–17; 15:11–20; 16:1–17:32; 18:30–19:3; 21:1–10; 22:27–23:27; and 26:28–28:7
+Social justice: 4:1–10; 34:21–27; and 35:14–26
+Speech: 5:6, 9–15; 18:15–29; 19:4–17; 20:1–31; 23:7–15; 27:4–7, 11–15; and 28:8–26
+Women: 9:1–9; 23:22–27; 25:13–26:27; 36:26–31; and 42:9–14.
+Some scholars contend that verse 50:1 seems to have formed the original ending of the text, and that Chapters 50 (from verse 2) and 51 are later interpolations.
+
+
+== Content ==
+
+The Book of Sirach is a collection of ethical teachings that closely resembles Proverbs, except that—unlike the latter—it is presented as the work of a single author and not as an anthology of maxims or aphorisms drawn from various sources. The teachings of the Book of Sirach are intended to apply to all people regardless of circumstances. Many of them are rules of courtesy and politeness, and they contain advice and instruction as to the duties of man toward himself and others, especially the poor and the oppressed, as well as toward society and the state and, most of all, toward God. Wisdom, in Ben Sira's view, is synonymous with fear of God and sometimes is identified in the text with adherence to the Law of Moses. The question of which sayings originated with the Book of Sirach is open to debate, although scholars tend to regard Ben Sira as a compiler or anthologist.
+By contrast, the author exhibits little compassion for women and slaves. He advocates distrust of and possessiveness over women, and the harsh treatment of slaves (which presupposes the validity of slavery as an institution), positions which are not only difficult for modern readers, but cannot be completely reconciled with the social milieu at the time of its composition.
+The Book of Sirach contains the only instance in a biblical text of explicit praise for physicians, though other biblical passages take for granted that medical treatment should be used when necessary. This is a direct challenge against the idea that illness and disease were seen as penalties for sin, to be cured only by repentance.
+As in Ecclesiastes, the author exhibits two opposing tendencies: the faith and the morality of earlier times and an Epicureanism of modern date. Occasionally, Ben Sira digresses to attack theories that he considers dangerous; for example, that man has no freedom of will and that God is indifferent to the actions of humankind and does not reward virtue. Some of the refutations of these views are developed at considerable length.
+Throughout the text runs the prayer of Israel imploring God to gather together his scattered children, to fulfill the Prophets' predictions, and to have mercy upon his Temple and his people. The book concludes with a justification of God, whose wisdom and greatness are said to be revealed in all God's works and in the history of Israel. The book ends with the author's attestation, followed by two hymns, the latter a sort of alphabetical acrostic.
+Of particular interest to biblical scholars are chapters 44–50, in which Ben Sira praises "famous men, our ancestors in their generations", starting from the antediluvian Enoch and continuing through to Simon, son of Onias (300–270 BCE). Within the text of these chapters, Ben Sira identifies, either directly or indirectly, each of the books of the Hebrew Bible that would eventually become canonical (all of the five books of the Torah, the eight books of the Nevi'im, and six of the eleven books of the Ketuvim). The only books that are not referenced are Ezra, Daniel, Ruth, Esther, and perhaps Chronicles. The ability to date the composition of Sirach within a few years, given the autobiographical hints of Ben Sira and his grandson (author of the introduction to the work), provides great insight regarding the historical development and evolution of the Jewish canon.
+
+
+== Canonical status ==
+
+
+=== Judaism ===
+Despite containing the oldest known list of Jewish canonical texts, the Book of Sirach itself is not part of the Jewish canon. Some authors suggest this is due to its late authorship, although the canon was not yet closed at the time of Ben Sira. For example, the Book of Daniel was included in the canon even though its date of composition (between 168 and 164 BCE as some scholars claim) was later than that of the Book of Sirach. Others have suggested that Ben Sira's self-identification as the author precluded it from attaining canonical status, which was reserved for works that were attributed (or could be attributed) to the prophets, or that it was denied entry to the canon as a rabbinic counter-reaction to its embrace by the Jewish Christians.
+
+
+=== Christianity ===
+The Book of Sirach is accepted as part of the canon by Catholics, Eastern Orthodox, and Oriental Orthodox Christians. It was cited in some writings in early Christianity. Clement of Alexandria and Origen quote from it repeatedly, as from a γραφή (Scripture).
+Augustine of Hippo (c. 397), John Chrysostom, Pope Innocent I (405), the Council of Rome (382 AD), the Synod of Hippo (in 393), followed by the Council of Carthage (397), the Council of Carthage (419) Quinisext Council (692), and the Council of Florence (1442) all regarded it as a canonical book, although Jerome, Rufinus of Aquileia and the Council of Laodicea ranked it instead as an ecclesiastical book. In the 4th and 5th centuries, the Church Fathers recommended the Book of Sirach, among other deuterocanonical books, for edification and instruction. The Apostolic Canons (recognized by the Eastern Orthodox Church during the 5th and 6th centuries) also described "the Wisdom of the very learned Sirach" as a recommended text for teaching young people. The Catholic Church then reaffirmed the Book of Sirach and the other deuterocanonical books in 1546 during the fourth session of the Council of Trent, and attached an excommunication to the denial of their scriptural status. Catholic canonical recognition only extends to the Greek text.
+Because it was excluded from the Jewish canon, the Book of Sirach was not counted as being canonical in Christian denominations originating from the Protestant Reformation, although some retained the book in an appendix to the Bible called "Apocrypha". The Anglican tradition considers the book (which was published with other Greek Jewish books in a separate section of the King James Bible) among the biblical apocrypha as deuterocanonical books and reads them "for example of life and instruction of manners; but yet [does] not apply them to establish any doctrine". The Lutheran churches take a similar position.
+
+
+== Manuscripts ==
+
+The Book of Sirach was originally written in Biblical Hebrew and was also known as the "Proverbs of ben Sira" (משלי בן סירא, Mišlē ben Sirā) or the "Wisdom of ben Sira" (חכמת בן סירא, Ḥokhmat ben Sirā). The book was not accepted into the Hebrew Bible and the original Hebrew text was not preserved by the Masoretes. However, in 1896, several scroll fragments of the original Hebrew texts of the Book of Sirach, copied in the 11th and 12th centuries, were found in the Cairo Geniza (a synagogue storage room for damaged manuscripts). Although none of these manuscripts are complete, together they provide the text for about two-thirds of the Book of Sirach. According to scholars including Solomon Schechter and Frederic G. Kenyon, these findings support the assertion that the book was originally written in Hebrew.
+In the 1950s and 1960s, three fragments of parchment scrolls of the Book of Sirach written in Hebrew were discovered near the Dead Sea. The largest scroll, Mas1H (MasSir), was discovered in casemate room 1109 at Masada, the Jewish fortress destroyed by the Romans in 73 CE. This scroll contains Sirach 39:27–44:17. The other two scroll fragments were found at Qumran. One of these, the Great Psalms Scroll (11Q5 or 11QPsa), contains Sirach chapter 51 (verses 13-20, and 30). The other fragment, 2Q18 (2QSir), contains Sirach 6:14–15, 20–31. These early Hebrew texts are in substantial agreement with the Hebrew texts discovered in Cairo, although there are numerous minor textual variants. With these findings, scholars are now more confident that the Cairo texts are reliable witnesses to the Hebrew original.
+
+
+== Theological significance ==
+
+
+=== Influence in Jewish doctrine and liturgy ===
+
+Although excluded from the Jewish canon, the Book of Sirach was well known among Jews during the late Second Temple period. The Greek translation made by Ben Sira's grandson was included in the Septuagint (the 2nd-century BCE Greek version of the Hebrew Bible), which became the foundation of the early Christian canon. Furthermore, the many manuscript fragments discovered in the Cairo Genizah evince its authoritative status among Egyptian Jewry until well into the Middle Ages.
+The Book of Sirach was read and quoted as authoritative from the beginning of the rabbinic period. The Babylonian Talmud and other works of rabbinic literature occasionally paraphrase Ben Sira (e.g., Sanhedrin 100b, Hagigah 13a, Bava Batra 98b, Niddah 16b, etc.), but it does not mention his name. These quotes found in the Talmud correspond very closely to those found in the three scroll fragments of the Hebrew version of the Book of Sirach found at Qumran. Tractate Sanhedrin 100b records an unresolved debate between R'Joseph and Abaye as to whether it is forbidden to read the Book of Sirach, wherein Abaye repeatedly draws parallels between statements in Sirach cited by R'Joseph as objectionable and similar statements appearing in canonical books.
+The Book of Sirach may have been used as a basis for two important parts of the Jewish liturgy. In the Mahzor (High Holiday prayer book), a medieval Jewish poet may have used the Book of Sirach as the basis for a poem, Mar'e Kohen, in the Yom Kippur musaf ("additional") service for the High Holidays. Yosef Tabori questioned whether this passage in the Book of Sirach is referring at all to Yom Kippur, and thus argued it cannot form the basis of this poem. Some early 20th-century scholars also argued that the vocabulary and framework used by the Book of Sirach formed the basis of the most important of all Jewish prayers, the Amidah, but that conclusion is disputed as well.
+Current scholarship takes a more conservative approach. On one hand, scholars find that "Ben Sira links Torah and wisdom with prayer in a manner that calls to mind the later views of the Rabbis", and that the Jewish liturgy echoes the Book of Sirach in the "use of hymns of praise, supplicatory prayers and benedictions, as well as the occurrence of [Biblical] words and phrases [that] take on special forms and meanings." However, they stop short of concluding a direct relationship existed; rather, what "seems likely is that the Rabbis ultimately borrowed extensively from the kinds of circles which produced Ben Sira and the Dead Sea Scrolls ....".
+
+
+=== Influence in Christian doctrine ===
+Some of the earliest Christian writings, including those of the Apostolic Fathers, reference the Book of Sirach. For example, Didache 4:7 and Barnabas 19:9 both appear to reference Sirach 4:31. Although the Book of Sirach is not quoted directly, there are many apparent references to it in the New Testament. For example:
+
+in Matthew 6:7, Jesus said "But when you pray, do not use vain repetitions", where Sirach has "Do not babble in the assembly of the elders, and do not repeat yourself when you pray." (Sirach 7:14)
+Matthew 6:12 has "And forgive us our debts, as we forgive our debtors," where Sirach has "Forgive your neighbor a wrong, and then, when you petition, your sins will be pardoned" (Sirach 28:2)
+in Matthew 7:16, Jesus said "You shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?" where Sirach has "Its fruit discloses the cultivation of a tree" (Sirach 27:6) 
+in Matthew 11:28, Jesus said "Come to me, all you who are weary and burdened, and I will give you rest," where Sirach has "See with your own eyes that I have laboured but little and found for myself much serenity." (Sirach 51:27)
+Mark 4:5 has "Other seed fell on shallow soil with underlying rock. The seed sprouted quickly because the soil was shallow,"  where Sirach has "The children of the ungodly won't grow many branches, and are as unhealthy roots on a sheer rock." (Sirach 40:15)
+Luke 1:52 has "He has put down the mighty from their thrones, and exalted the lowly," where Sirach has "The Lord overthrows the thrones of rulers, and enthrones the lowly in their place." (Sirach 10:14)
+in John 6:35, Jesus said "I am the bread of life: he that cometh to me shall not hunger: and he that believeth in me shall never thirst." where Sirach has "They that eat me, shall yet hunger: and they that drink me, shall yet thirst." (Sirach 24:29)
+in John 14:23, Jesus said "If any one love me, he will keep my word, and my Father will love him, and we will come to him, and will make our abode with him." where Sirach has "They that fear the Lord, will not be incredulous to his word: and they that love him, will keep his way." (Sirach 2:18)
+in Acts 20:35, Paul the Apostle remembering the words the Lord Jesus himself said: "It is more blessed to give than to receive", whereas Sirach has "Do not let your hand be stretched out to receive and closed when it is time to give" (Sirach 4:31)
+Colossians 1:15 has: "Who is the image of the invisible God, the firstborn of every creature:..", whereas Sirach has: "I came out of the mouth of the most High, the firstborn before all creatures:.." (Sirach 24:5)
+James 1:19 has "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath," where Sirach has "Be quick to hear, but deliberate in answering." (Sirach 5:11)
+
+
+=== Messianic interpretation by Christians ===
+
+Some Christians regard the chapter where Wisdom praises itself as containing Messianic prophecy. Sirach 24:34-35 reads "He appointed to David his servant to raise up of him a most mighty king, and sitting on the throne of glory for ever. Who filleth up wisdom as the Phison, and as the Tigris in the days of the new fruits" which Catholic scholars have seen as a prophecy about Jesus.
+Some Christians also see the catalogue of famous men in the Book of Sirach as containing several messianic references. The first occurs during the verses on David. Sirach 47:11 reads "The Lord took away his sins, and exalted his power for ever; he gave him the covenant of kings and a throne of glory in Israel." This references the covenant of 2 Samuel 7, which pointed toward the Messiah. "Power" (Hebrew qeren) is literally translated as 'horn'. This word is often used in a messianic and Davidic sense (e.g. Ezekiel 29:21, Psalms 132:17, Zechariah 6:12, Jeremiah 33:15). It is also used in the Benedictus to refer to Jesus ("and has raised up a horn of salvation for us in the house of his servant David").
+Another verse (47:22) that Christians interpret messianically begins by again referencing 2 Samuel 7. This verse speaks of Solomon and goes on to say that David's line will continue forever. The verse ends stating that "he gave a remnant to Jacob, and to David a root of his stock". This references Isaiah's prophecy of the Messiah: "There shall come forth a shoot from the stump of Jesse, and a branch shall grow out of his roots"; and "In that day the root of Jesse shall stand as an ensign to the peoples; him shall the nations seek…" (Isaiah 11:1, 10).
+
+
+== References in the Book of Sirach and pre-modern texts ==
+Note: verse numbers may vary slightly between versions.
+
+Aesop's fable of The Two Pots is referenced at Sirach 13:2–3
+The Egyptian Satire of the Trades (written during the Middle Kingdom of Egypt, between 2025 and 1700 BCE), or another work in that tradition referenced at Sirach 38:24–39:11
+The treatises of Zara Yaqob, Emperor of Ethiopia, on the nature and power of the Virgin Mary quotes Sirach 3:30, "Water extinguishes a burning fire and almsgiving atones for sin."
+The Kebra Nagast chapter 88 quotes Sirach 15:16–17.
+Bede quotes Ecclesiasticus 32:1 in the Lives of the Abbots of Wearmouth and Jarrow.
+The third song, O Tod, wie bitter bist du, in Johannes Brahms' Vier ernste Gesänge (four serious songs) quotes Sirach 41:1–3.
+Saint Alphonsus Liguori in The Glories of Mary quotes Ecclesiasticus 24 for the Blessed Virgin Mary
+
+
+== References in culture ==
+
+The opening lines of Chariots of Fire, Best Picture at the 1982 Academy Awards, is from Sirach 44:1: "Let us now praise famous men, and our fathers that begat us."
+In "Canon Alberic's Scrap-Book", the first ghost story in his first published collection, M. R. James has his protagonist, Dennistoun, quote lines from Ecclesiasticus 39:28: "Some spirits there be that are created for vengeance, and in their fury lay on sore strokes."
+"Their name liveth for evermore" is a phrase from the King James Bible, forming the second half of a line in Sirach 44:14, widely inscribed on war memorials.
+The title of James Agee and Walker Evans's book Let Us Now Praise Famous Men is taken from Sirach 44:1.
+Ecclesiasticus 43:11–26 was recited at the 2021 funeral of Prince Philip by the Dean of Windsor.
+
+
+== See also ==
+Alphabet of Sirach
+Roy Kinneer Patteson Jr.
+David Kohn
+Ecclesiasticus from the Douay-Rheims Bible, a translation of the Bible from the Latin Vulgate into English, at WikiSource: [1]
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+Askin, Lindsey A. (2018) Scribal Culture in Ben Sira E.J. Brill, Leiden ISBN 978-9004372863
+Beentjes, Pancratius C. (1997) The Book of Ben Sira in Hebrew: A Text Edition of All Extant Hebrew Manuscripts and a Synopsis of All Parallel Hebrew Ben Sira Texts E.J. Brill, Leiden, ISBN 9004107673
+Toy, Crawford Howell and Lévi, Israel (1906) "Sirach, The Wisdom of Jesus the Son of" entry in the Jewish Encyclopedia
+Amidah, entry in (1972) Encyclopedia Judaica Jerusalem, Keter Publishing, Jerusalem, OCLC 10955972
+
+
+== External links ==
+
+Sirach (Ecclesiasticus) – Latin Vulgate with Douay-Rheims version side-by-side
+BenSira.org, original Hebrew manuscripts
+Sirach – Bibledex video overview
+Sirach 2012 Translation with Audio
+The Wisdom of Jesus the Son of Sirach, Jewish Encyclopedia (1906 ed.).
+ Sirach public domain audiobook at LibriVox

@@ -1,0 +1,237 @@
+Tibullus book 2 is a collection of six Latin poems written in elegiac couplets by the poet Albius Tibullus. They are thought to have been written in the years shortly before Tibullus's death in c. 19 BC.
+The six poems have various themes: Tibullus's ideal depiction of life in the countryside; a birthday poem in honour of a young friend; and his inability to shake off his love for an expensive courtesan called Nemesis. The longest poem (2.5) is a celebration of the appointment of Messalinus, son of Tibullus's patron Messalla, to an important religious post. It contains a prophecy of the future greatness of Rome, with many echoes of Virgil's Aeneid.
+Although the shortness of the book compared with Tibullus book 1 has led some scholars to suppose that it was left unfinished on Tibullus's death, yet the careful arrangement and length of the poems appear to indicate that it is complete in its present form.
+All the poems of the book are built according to a chiastic pattern (also known as ring composition), as Paul Murgatroyd demonstrates in his commentary. Some of the poems also have smaller inner rings contained within the overall pattern.
+
+
+== Structure ==
+The book has a symmetrical or chiastic structure, as follows:
+
+1 – The farmer's life
+2 – In honour of Cornutus
+3 – Complaint about Nemesis
+4 – Complaint about Nemesis
+5 – In honour of Messalinus
+6 – The lover's life
+The poems are of differing lengths: 90, 22, 84, 60, 122, and 54 lines respectively. (Some lines are missing from poem 3; 80 lines of it survive.) If the length of each poem is added to its opposite, the following pattern emerges:
+
+1 + 6 = 144 lines
+2 + 5 = 144 lines
+3 + 4 = 144 lines
+For this reason, although some scholars have conjectured that the book was left unfinished, or that part of poem 6 was lost, it is argued by Helena Dettmer that the book is complete as it is.
+
+
+== Characters ==
+
+
+=== Nemesis and Phryne ===
+By the time Tibullus wrote these poems, Delia (Tibullus's girlfriend in book 1) had disappeared, and another woman called Nemesis had taken her place. Tibullus says he has been in love with her for a year (2.5.119). She is named after Nemesis, the goddess of divine retribution.
+Like Delia, Nemesis appears to have been a high-class courtesan. Before she will sleep with anyone, she requires gifts (2.4.33). These include, for example, clothes made of Coan silk interwoven with gold threads; a retinue of black slaves; fabrics dyed with north African and Tyrian purple (2.3.50–78). Green emeralds and pearls are also welcome (2.4.27–30). Nemesis has a lena (a procuress) called Phryne who arranges encounters with other wealthier lovers and keeps Tibullus waiting outside (2.6.43–54). So rapacious is Nemesis that at one point Tibullus even contemplates selling his ancestral estate to pay for her (2.4.53). (According to Horace (Satires 1.2.55–56) a person called Marsaeus was notorious for doing exactly this.)
+Nemesis had a sister, of whom Tibullus had been very fond, but it seems that the sister had died after falling out of a high window (2.6.39).
+
+
+=== Cornutus ===
+Poems 2 and 3 are both addressed to a certain Cornutus, who in poem 2 is celebrating his birthday and not yet married. The identity of Cornutus is not certain, but may well be the M. Caecilius Cornutus who, according to an inscription of 21 BC (CIL VI 32338), was a member with Messalla of the Arval college, or possibly his son, mentioned in another inscription (CIL VI 2023a) as an Arval in AD 14.
+Several scholars have suggested that he is the same as the person mentioned under the pseudonym "Cerinthus" in the poems of Sulpicia and in the Garland of Sulpicia preserved in book 3 of the Tibullan collection: the phonetic similarity of the names, the false etymology linking "Cerinthus" to Greek κέρας (keras) 'horn', the equivalent of Latin cornu, as well as the similarity of the situation described in 3.11 and 3.12, in which it appears that "Cerinthus" is about to marry Sulpicia, make this plausible but not certain.
+A complication is the similarity of his situation to that of "Cerinthus" addressed in Horace's Satire 1.2.81 (dated about 35 BC), to whom Horace gives the advice that it is better to have sex with a freedwoman than a rich aristocratic woman. It is not known if this is the same person. For Maltby, however, who argues that the Sulpicia poems and the Garland were not written in the time of Tibullus but much later, the persona of "Cerinthus" is a literary construct invented on the basis of Tibullus 2.2 and Horace.
+
+
+=== Macer ===
+Poem 6 begins by mentioning a certain Macer who is going 'to the camp'. It is generally thought that probably this is the same Macer that Ovid writes to in Amores 2.18, who is a poet engaged in writing an epic about the Trojan war, and who is mentioned again in Ovid's Ex Ponto 2.10.13 as writing a poem in Homeric style. However, the Macer mentioned here is not thought to be the same poet as Aemilius Macer of Verona (mentioned in Ovid's Tristia 4.10.43–44) or the same as Pompeius Macer, another poet who is said to have written tragedies and epigrams in Greek.
+According to a suggestion made by Leah Kronenberg, Macer ('the thin one') might be a pen-name for the poet Valgius Rufus, a friend of Messalla and a member of his circle. In the Panegyricus Messallae 180, it is said that 'no one is nearer to Homer than Valgius' in language similar to that used by Ovid of Macer. Whether the phrase castra sequitur 'he is following the camp' means that Macer was really departing on a military campaign or whether it refers metaphorically to a change to writing epic poetry is unknown.
+
+
+== Poem 1 – Quisquis adest faveat ==
+
+
+=== Summary of poem 1 ===
+1 Tibullus calls on those present to bless the crops and fields in the traditional manner. He invokes Bacchus (god of wine) and Ceres (goddess of corn) and declares that no one must work on this day. No one who has had sexual relations the night before should approach the altars.
+15 A sacred lamb is going to the altars, followed by worshippers wearing wreaths of olive leaves. He prays to the ancestral gods to bless the farm and the farmers, and keep the crops and livestock safe. Then the farmer will heap logs on the fire and a crowd of home-born slaves will play in front of it.
+25 Tibullus declares that the omens of the sacrifice are good. He calls for fine wine: it is no shame to get drunk on such a day. Every one should drink to Messalla and celebrate his triumph over the Aquitanians. He calls on Messalla to be present.
+37 He sings of the gods of the countryside, who taught people how to build houses, plough, construct wagons, plant fruit, water their gardens, make wine, harvest corn, and collect honey.
+51 It was in the country that farmers first sang rustic songs and held dances for Bacchus, and boys first decorated the Lares with flowers. It was in the country also that women learnt how to spin and weave wool.
+67 Cupid himself is said to have been born among the herds; now he has grown more skilled and aims his bow at humans! Young men lose their wealth, old men make fools of themselves, girls walk at night to visit their lovers. Happy is he for whom Love is gentle! Tibullus calls on people to pray to the god for their flocks, and for themselves.
+87 Now Night is coming, and after her the stars. Sleep, silent on dark wings, and dreams follow.
+
+
+=== Notes on poem 1 ===
+
+
+==== A rural festival ====
+The poet sings a hymn celebrating a rural festival, probably the lustratio agri ("blessing of the farm"), taking on the role of a priest or vates ("seer"). The festival is sometimes said to be the Ambarvalia. However, there appears to be insufficient evidence to link Tibullus's description to any particular festival.
+The Messalla mentioned in this poem is Tibullus's patron Marcus Valerius Messalla Corvinus, who at this period was the "most important literary patron after Maecenas". Among other people in his circle were the young Ovid. Messalla himself wrote memoires, philosophical and grammatical works, and, it seems, bucolic poetry in Greek.
+Spyridon Tzounakas (2013) argues that this poem is more than a simple description of country life but sets forth Tibullus's poetic ideals as well. There are multiple allusions to Hellenistic epigram, Vergil's Eclogues, Lucretius' De Rerum Natura and Vergil's Georgics and even reference to stock themes of comedy in lines 2.1.73-74, as if Tibullus is seeking to place his poetry in the poetic tradition. There are also references to Horace's Satires; for example, in Satires 1.10.23–24, Horace compares the earlier satirist Lucilius's habit of using Greek words to mixing Falernian and Chian wine (one being Italian, the other Greek); in this poem Tibullus calls for both Falernian and Chian wine (2.1.27–28), as if to say that his poetry will take inspiration from both Latin and Greek sources. In lines 2.1.67–71, Tibullus defends his preference to make the countryside a major part of his book of love-poetry by arguing that Cupid first began his activities in a rural setting.
+In terms of subject matter and verbal echoes, this poem also has a lot in common with the first poem of book 1, which is also about a rural festival. Helena Dettmer writes:
+
+"Both 1.1 and 2.1 present an idyllic picture of country life. In each poem gods associated with the country are invoked (1.1.15–20; 2.1.3–4, 17, and 55), a lamb is to be sacrificed (1.1.23; 2.1.15), Messalla and his military exploits are mentioned (1.1.53–54; 2.1.31–36), contentment with a simple way of life is stated or implied, and in the final section of each poem Tibullus turns to the topic of love (1.1.55–76; 2.1.67–82)."
+
+
+==== Structure ====
+The poem as a whole is chiastically patterned, as Murgatroyd shows. For example, in the first section (lines 1–16) the words Bacche veni, procul, deo, post, nocte, Venus, turba and others are echoed by the same or similar words in the last section (lines 81–90), and there are similar verbal echoes linking lines 17–36 with lines 67–80.
+The song celebrating the countryside in lines 37–66 itself has a chiastic structure, in that the words cano, pellere, compositis, primum, rura, rure, verno, flores, agricola, primum, satiatus, cantavit in the first half are echoed by the same or similar words in reverse order in the second half, making a pleasing balance.
+The phrase certo ... pede 'with sure foot' (line 52) which ends the first half of the poem is echoed by incerto ... pede 'with unsure foot' (line 90) which ends the second half.
+
+
+== Poem 2 – Dicamus bona verba ==
+
+
+=== Summary of poem 2 ===
+1 The poet, acting as priest or vates as in 2.1, calls on the people to be silent and join in a sacrifice to celebrate a birthday; the "Genius" (guardian god) is invited to be present to receive the offerings of perfumed oil, honeyed cake, and wine.
+9 He tells Cornutus that the god is nodding favourably, and that he should now make a wish. Tibullus predicts that Cornutus has prayed for a faithful love, and that he will prefer this to any amount of land or jewels.
+17 Tibullus prays that the god of Love will bind Cornutus in the golden chains of marriage, and that these will last till he and his wife are old; and may a crowd of small children play around their feet.
+
+
+=== Notes on poem 2 ===
+This poem is of the type called genethliakon or birthday poem. Other examples are Tibullus 1.7, poems 3.11 and 3.12 in the Garland of Sulpicia and 3.14 and 3.15 in Sulpicia's poems in book 3 of the Tibullan collection.
+On the identity of Cornutus, see above.
+The poem as a whole is a ring composition, beginning and ending with the birthday god Natalis and the words venit, veniat 'he comes, may it come'. The central section of the poem (lines 11–16) is Tibullus's prediction that Cornutus will pray for a faithful wife who is to be preferred to vast estates and rubies and pearls.
+Helena Dettmer argues that this poem has several points of contact with poem 5, despite being much shorter, and appears to be an example of parallel writing (see below for details).
+
+
+== Poem 3 – Rura meam, Cornute ==
+
+
+=== Summary of poem 3 ===
+1 Tibullus complains to Cornutus that his girlfriend has gone to the country. Venus and Love (Cupid) have both gone to the country with her. He says he would be prepared to go and be a slave on her farm in order to have a chance to see her. He would not complain about the hot sun or about blisters on his hands.
+11 Even the god Apollo, when he was in love with Admetus, became a cowherd and learnt how to make cheese. His sister (Diana) was embarrassed to meet him; people consulted his oracle in vain; even his mother (Latona) was saddened to see his beautiful hair in disarray. But if a god is in love, it is better to be talked about than to lack love.
+33 He addresses the rival lover (...). The current age of iron is ruled by desire for booty, which causes people to go to war and even to fight on the sea. Booty-hunters care only for seizing extensive estates for sheep, importing huge columns of foreign stone into the city, and building fish-ponds in the sea.
+47 Tibullus himself would be content to eat off pottery dishes. But alas, girls like costly things. Let his Nemesis make her way through the city adorned with Tibullus's gifts: clothes of Coan silk, dark skinned Indian slaves, and fabrics dyed with Tyrian purple!
+61 He prays that the corn may fail, which has taken away his Nemesis. May Bacchus also abandon the wine vats. People who hide beautiful girls in the countryside deserve to be punished. Let people eat acorns and drink water, like they did in the past. In those days love was free, and there were no guards or doors to shut the lover out. (...) Let them wear skins as clothing.
+77 But if he has no opportunity to see her, what is the point of wearing an elegant toga? He decides to go to the country and submit to the rule of his mistress.
+
+
+=== Notes on poem 3 ===
+
+
+==== Tibullus and Virgil ====
+Julia Gaisser (1977) points out that line 11:
+
+pavit et Admeti tauros formosus Apollo
+'Even the beautiful Apollo pastured the bulls of Admetus'
+is an imitation of the following line in Virgil's 10th eclogue (Ec. 10.18.):
+
+et formosus oves ad flumina pavit Adonis
+'even the beautiful Adonis pastured sheep near rivers'
+In Eclogue 10 Virgil depicts the poet Gallus as grieving for his girlfriend Lycoris, who has gone off with a rich soldier. With this imitation Tibullus puts himself in the same situation as Gallus in that poem.
+The fact that this poem is addressed to Cornutus perhaps indicates that Tibullus is warning his friend of the ruinous expense of keeping a courtesan, and reinforcing his advice in 2.2 to get married.
+
+
+==== Structure ====
+As with other poems in this book, the structure is chiastic: the first 32 lines and the last 20 (61–80) speak of the countryside, framing the central part (33–60), which speaks of non-rustic matters, namely a denunciation of the poet's wealthy rival and Tibullus's despair that Nemesis demands such expensive gifts.
+In both the first ten lines and the last four Tibullus speaks of his willingness to work as a slave in the fields, provided that he can get a glimpse of Nemesis. The words meam, heu, agros, and dominam are common to both sections.
+In the second section Tibullus recounts Apollo's sufferings in the countryside, and addresses the god Phoebus Apollo; in the corresponding section in the second half of the poem Tibullus curses the countryside and addresses the god Bacchus. The words formosus (11, 65), valle (19, 72), and Amor, Veneri, aperte (28–29, 71–72) link these parts.
+There are two central sections, one dealing with the wealth desired by men (estates, palaces, fish farms) and the other with the wealth desired by women (Coan silk, black slaves, purple fabrics). Each of these sections has an anaphoric passage: praeda ... praeda ... praeda ... praedator in the first and illa ... illi ... illi in the second. Similar anaphoric patterns are also found in the central sections of other Tibullan elegies, such as the repeated spes ... spes ... spes ... spes of poem 2.6 or pax ... pax ... pax ... pace of poem 1.10.
+Within the overall chiastic structure, the Apollo section (11–32) is itself chiastic, with the words comae, curas, amor, deus occurring at beginning and end, the blushing sister (18) matching the grieving mother (23), the anaphora of o quotiens ... o quotiens (17, 19) matching that of saepe ... saepe (21, 23), and Apollo's learned songs (20) matching his oracles (21).
+
+
+== Poem 4 – Hic mihi servitium ==
+
+
+=== Summary of poem 4 ===
+1 Tibullus laments his status as a slave of love. He is burning so much with love that he wishes he was a rock on the cold mountains or a cliff battered by the waves.
+13 His poems are doing no good. If they can't give him access to his mistress, he has no need of the Muses.
+21 The only way open to him is to get money by murder and crime; or to steal the offerings in Venus's temple. Emeralds, wool dyed with purple, Coan silk, pearls from the Red Sea have created his problems and caused the door of his mistress to be shut. But if you bring a valuable gift, the door is opened and even the dog stops barking.
+39 Tibullus warns his mistress that in view of her greed for expensive gifts her house might burn down, and no one will help her; or she may die, and no one will mourn her.
+45 But a good girl who is not greedy, even if she lives a hundred years, will have plenty of mourners.
+51 As things are, however, he is forced to submit to her rule, and even sell his ancestral estate if need be.
+55 Whatever magical potion she prepares for him to enslave him, if only Nemesis will look on him kindly, he will drink it.
+
+
+=== Notes on poem 4 ===
+
+
+==== Links with poem 3 ====
+Helena Dettmer points out the parallel arrangement of words and ideas in this poem and poem 3. For example, Tibullus is burnt by the sun in 3.9, but by Love in 4.5; the ineffectiveness of poetry and song in winning over one's lover occurs in 3.12 and 4.13; money is obtained by fighting wars in 3.36–46 or through murder and crime in 4.21–26; Coan silk and Tyrian purple are mentioned in 3.53–58 and in 4.27–30; both poems end with Tibullus agreeing to submit to whatever his mistress wishes. The name Nemesis itself is not mentioned until line 3.61 and line 4.59; but the name Amor is found at the end of line 4 of both poems.
+
+
+==== Structure ====
+Again the poem is chiastic. Murgatroyd proposes a simple ABCDC'B'A' structure, noting various verbal echoes tying the corresponding sections together: for example, in section A, in lines 1–5 the words video, illa, Amor, seu are reflected in lines 57–60 by amores, si, videat, illa; in section B, lines 15–20, the words ite, si, prodestis, colo are reflected in lines 51–54 by prosunt, colendus, si, ite; and in section C, lines 21–26, the words at, flebilis ante, dat are reflected in lines 45–50 by at, flebitur ante, dabit.
+The centre of the poem according to this scheme is lines 39–44, in which Tibullus warns Nemesis that she will be punished bitterly in future if she only gives love in return for presents.
+
+
+== Poem 5 – Phoebe, fave ==
+
+
+=== Summary of poem 5 ===
+1 Tibullus calls on Phoebus (Apollo) to be present while a new priest is installed in Apollo's temple. He asks the god to come in his finest clothes and with his long hair well combed. Apollo has the power of prophecy, and guides augurs and diviners and sibyls to make their predictions. Tibullus prays that Apollo may allow Messalinus to touch the sacred document and teach him to understand it.
+19 A sibyl gave a prophecy to Aeneas, after Aeneas fled from Troy carrying his father and his gods. – At that time Romulus had not yet founded Rome; cows grazed on the Palatine Hill; shepherds hung their votive offerings on trees; boats used to pass through the Velabrum often carrying girls, who, after pleasing their young men, would return to the city with some cheese or a lamb. –
+39 The sibyl told Aeneas that Jupiter was assigning him the farmland of Laurentum. She predicted that one day Aeneas would be worshipped as a god; that the Trojans would have victory over the Rutulians; and that the Rutulian leader Turnus would be killed. She also predicted the founding of Alba Longa by Aeneas's son Ascanius, that Ilia, the mother of Romulus, would be raped by Mars, and that a great city called Rome would grow up on the seven hills and have an empire stretching across the world from East to West.
+65 This was the Sibyl's prophecy, inspired by Phoebus. Four other sibyls prophesied a comet and other signs of a terrible war: the noise of weapons and trumpets in the sky, the dimming of the sun, statues of the gods weeping, and oxen bellowing.
+79 But all this is now in the past. May the bayleaves crackle on the sacred flames as a good omen for the year. Whenever the bayleaves have given a good sign, the barns will be full of corn and the vats full of wine; and shepherds also will celebrate their festival to Pales. Wives will give birth, grandparents will never tire of playing with their little grandchildren.
+95 After the sacrifice, the young people will lie in the shade of trees or awnings and make a feast lying on the turf. Then a drunk young man will quarrel with his girlfriend and say things he will regret.
+105 May Love wander in the world unarmed! Tibullus himself has been wounded by Love's arrows for a year now, singing songs of Nemesis. He begs his girlfriend to spare him so that he can sing of Messalinus when in future he celebrates his triumph; and may Messalinus's father Messalla give entertainments to the crowd and applaud as his son's chariot passes by. Tibullus prays that Phoebus may allow this to happen.
+
+
+=== Notes on poem 5 ===
+
+
+==== Messalinus ====
+Poem 2.5 honours Messalinus, eldest son of Tibullus's patron Messalla, on the occasion of his appointment to the Quindecimviri sacris faciundis, a college of priests whose main function was to guard the prophetic Sibylline books. The year of this appointment is not known for certain but was argued by Syme to be 21 BC. Messalinus is also addressed in a poem written by Ovid in exile after Messalla's death (Ex Ponto 1.7). Messalinus was eventually to receive triumphal honours, but not until AD 12, after his father's death. At the time this poem was written, he was only about 16 or 17.
+
+
+==== Imitation of Virgil ====
+In the poem there are many references to Virgil's Aeneid, especially in the sibyl's prophecy (2.5.39–64) but also elsewhere in the poem. (A full list of these is given in Ball.) It would seem that, although the Aeneid was only officially published after Virgil's death in 19 BC (which was also the year of Tibullus's death), yet Tibullus must have got knowledge of its contents earlier, possibly from Virgil's own recitations, which Aelius Donatus informs us he often gave. Unlike Virgil, Horace, Propertius, and Ovid, Tibullus nowhere mentions or praises Augustus either in this poem or elsewhere, which has been taken by some as indicating that he was not a supporter of Augustus.
+
+
+==== Links with poem 2 ====
+The beginning of poem 5 has much in common with poem 2 and is another example of Tibullus's practice of parallel composition. Both poems in the first couplet have the word fave 'be gracious'. In 2.2 the birthday spirit (Natalis) comes to the altar, while in 2.5 Apollo is invited to come. Both Cornutus's Genius and Apollo are to wear garlands (2.2.5–6, 2.7.5–6). In 2.2.11 Tibullus acts as augur 'diviner'; in 2.5.11 this role is taken by Apollo. The prayer for children in 2.2.22 is matched by the prediction of children in 2.5.91–92.
+
+
+==== Tibullus's style ====
+Also typically Tibullan are the smooth transitions between one topic to another. Erika Damer (2014) writes of Tibullus's style of composition: "Although the syntax and word order are straightforward, the dreamy quality of the transitions between Tibullus' verses obscures the movement from one scene to the next and from one theme to another."
+
+
+==== Acrostics ====
+As Leah Kronenberg (2018) points out, there are two acrostics hidden in the poem. The words AVDI ME 'hear me!' are picked out by the first letters of the pentameters from 2.5.16 to 2.5.26; and the word AMES 'may you love!' in the first letters of the last four pentameters of the poem (2.5.116–122). The first acrostic begins with the word abdita 'hidden things' just after the Sibyl has been described as prophesying; the second (which appears to be a message to Nemesis herself) begins just after Tibullus has referred to himself as 
+vates 'seer' in line 2.5.114. As Cicero points out in his book de Divinatione (2.111–112), acrostics were a regular feature of Sibylline oracles.
+
+
+==== Structure ====
+In Murgatroyd's (1994) analysis the poem, like others in this book, has a chiastic ring structure, as follows:
+
+A 1–18 – Prayer to Phoebus to bless the installation of Messalinus
+B 19–64 – The early days of Rome and the Sibyl's prophecy
+C 65–78 – Other sibylline prophecies and omens of civil war
+B' 79–104 – An omen at the present rite for a prosperous year ahead
+A' 105–122 – Prayer to Phoebus to help him in his amatory troubles with Nemesis, so that he can one day celebrate Messalinus's triumph
+His scheme thus differs from that of Ball (1975), who also considers the poem to be chiastic, but puts the Sibyl's prophecy at the centre. Murgatroyd's solution is based on the numerous verbal links which connect the corresponding sections before and after the centre.
+For example, in Murgatroyd's section A (lines 1–18) the words Phoebe (2x), fave, vocales, meas, triumphali, devinctus ... lauro, sacra/sacras, victori, canit/canat, Messalinum are all matched by the same or similar words in the last 18 lines (105–122); Apollo's long hair (longas ...comas) in line 8 is matched by the phrase intonsi ... capilli 'unshorn locks' in line 121; the vocative Phoebe 'Phoebus (Apollo)' is repeated at the beginning and end of each of sections A and A'.
+Further verbal echoes are found linking sections B and B', for example iuvenem ... puella in line 36 matches iuvenis ... puellae in line 101, and dedit ... parentem ... raptos in 19–20 matches dabit ... parenti ... eripiet in 92–3. There are also verbal links on either side of the central section which frame it, for example (herbas, herba (55, 95), Ceres, Ceres (58, 84), sacras ... laurus, sacris ... laurea, sacer ... laurus (63, 81, 82–3), incendia, flammas (47, 90)).
+Ball points out that Tibullus 1.7, written in honour of Messalinus's father, has a similar ring structure (see Tibullus book 1).
+
+
+== Poem 6 – Castra Macer sequitur ==
+
+
+=== Summary of poem 6 ===
+1 Macer is off to war. What about the god of Love? Should the god follow along as an armour-bearer? Tibullus calls on the god to recall Macer to his own camp. Or if being a soldier means being spared by Love, Tibullus would like to be a soldier too!
+11 But the closed door of his girlfriend has made that idea impossible for him. Although he has often sworn never to go again, he finds he keeps returning to her doorstep. He addresses the god Love, and wishes he could see the god's arrows broken and his torches extinguished! He chides the god for making him pray for terrible things.
+19 Tibullus would already have ended his life were it not for the hope that things might improve tomorrow. Hope encourages farmers to sow, causes birds and fish to be captured, and consoles chained slaves. Hope promises Nemesis to him, but she keeps refusing.
+29 Tibullus addresses Nemesis and begs her to spare him, for the sake of her sister who died young. Tibullus reveres the sister and says he will bring her gifts and flee as a suppliant to her tomb. The sister, who protects Tibullus, would not wish Nemesis to cause him to weep! He prays that the sister may come and haunt Nemesis in her dreams, looking as she did when she fell to her death from a high window. But he does not wish to make Nemesis unhappy. He says it is the procuress who is causing him grief: Nemesis herself is good.
+45 It is the procuress Phryne who is killing Tibullus, by arranging assignations for Nemesis with other men. Often the procuress pretends that Nemesis is not at home when Tibullus can plainly hear Nemesis' voice inside; or when Tibullus has been promised a night with Nemesis, the procuress tells him she is ill or makes some other excuse. Then Tibullus is tormented by the thought of what the rival is doing inside. He curses the procuress and wishes her a miserable life.
+
+
+=== Notes on poem 6 ===
+
+
+==== General ====
+This poem belongs to the type known as a paraclausithyron (a complaint made by a lover outside a mistress's locked door), which was common in ancient love-poetry. Another example in Tibullus is poem 1.2.
+The opening words of the poem (castra Macer sequitur "Macer is following a camp") are taken by Murgatroyd literally: Macer, a friend of Tibullus, is about to depart to the army. Most scholars, however, think that Tibullus is talking metaphorically, and saying that Macer has decided to abandon love-poetry for epic.
+Helena Dettmer points out a similarity between this poem and poem 2.4 in the descriptions of the mourning which is given to a "good, not greedy" girl in 2.4.45–50 and to Nemesis's sister in 2.6.29–34. There are also several thematic connections to poem 1.10, for example, the theme of military warfare contrasted with amatory warfare.
+
+
+==== Structure ====
+As with all Tibullus's poems, the poem is chiastic. The central section of the poem in Murgatroyd's analysis is 19–28, a hymn to the goddess Hope, with an anaphora of the word Spes 'Hope', repeated five times. As often, this central section contains general truths, while the passages on either side mention personal concerns, with an appeal to Love in section 2 balanced by an appeal to Nemesis in section 4. The first and last sections balance the actions of Macer against those of Phryne the lena ('procuress'), and describe Tibullus's reactions.
+Overall the poem has fewer chiastic verbal echoes than poems 1 to 5, although there are some, for example portat (line 8) vs portans (46), loquor (11) vs loquaces (43). Within the overall scheme there are other echoes making smaller rings: for example, castra at the beginning and end of section 1, loquor/loqui at the beginning and end of section 2, spes at the beginning and end of section 3, lacrimis near the beginning and end of section 4, and lena at the beginning and end of section 5.
+
+
+== See also ==
+Tibullus
+Tibullus book 1
+Garland of Sulpicia
+
+
+== Notes ==
+
+
+== References ==

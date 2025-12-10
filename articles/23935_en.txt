@@ -1,0 +1,67 @@
+Sonnet 23 is one of a sequence of 154 sonnets written by the English playwright and poet William Shakespeare, and is a part of the Fair Youth sequence.
+In the sonnet, the speaker is not able to adequately speak of his love, because of the intensity of his feelings. He compares himself to an actor onstage who is struck by fear and cannot perform his part, or like a ferocious beast or a passionate human filled with rage, and whose over-abundant emotion defeats the expressing of it. He forgets the correct words that the rituals of love deserve. The passion of his love seems to fall apart, as it is over-burdened with emotion. So he encourages his young friend to read and then respond to the poet's written expressions of his love. The sonnet ends with the paradoxes — books that cannot speak will speak, if eyes will hear.
+The metaphor of the actor has drawn biographical interest and comment. Shakespeare uses a metaphor from the theatre to express the idea of the speaker's impotence in performing the "ceremony of love’s right" (line 6). Instead, the lover must read beyond such a performance, and read “between the lines” to understand the poet's love, as it is expressed in the silences between the words. This sonnet seems to suggest the limits of language.
+
+
+== Context ==
+Sonnet 23 is part of what is known as the "Fair Youth" sonnet sequence, poems 1-126. It was first published, along with the other sonnets, by Thomas Thorpe in the 1609 Quarto. The date that Shakespeare wrote this sonnet is not known for certain. 
+One scholar, Brents Stirling, in his revised ordering of the sonnets, argues that Sonnet 23 takes place in a "later phase" in the "poet-friendship relationship". In the timeline that Stirling describes, Sonnet 23 "celebrates renewal and rededication" of the relationship. In relation to Sonnet 107, Sonnet 23 is placed within the same "group" that Stirling creates.
+As for the subject of Sonnet 23, most scholars have narrowed the identity of the "Fair Youth" down to two contenders: William Herbert, Earl of Pembroke, and Henry Wriothesley, Earl of Southampton. One scholar, Katherine Duncan-Jones, argues that William Herbert is both the "Mr. W.H." of the dedication and the subject of sonnets 1-126. She cites Shakespeare's financial incentive for dedicating the Quarto to Herbert; the Earl's "reluctance to marry" and references to Sonnet 116 in his own writing are a few of her reasons for believing that he is also the fair youth. Scholar Kenneth Larsen also argues for Herbert, on the grounds of parallels between Sonnet 125 and events at the coronation of James I. Despite this, it has been noted that in the early 1590s, Wriothesley refused to marry as well, and Duncan-Jones acknowledges that sonnets written around the time of 1592-95 may have been originally addressed to Henry Wriothesley.
+Although the sonnet tells the subject to read his poems and understand his love rather than rely on a performance, this directly contradicts Shakespeare's writing style within his plays, where he "presents the writing of love poetry in general, and sonnets in-particular, as ridiculous". Patrick Cheney also notes that Shakespeare's plays tends to emphasize "the superior effectiveness of performing an emotion rather than speaking about it." Within Sonnet 23, this is further complicated by the comparisons Shakespeare makes, first comparing himself to an actor and then his collection of poems to a play.
+
+
+== Structure ==
+Sonnet 23 is considered an English or Shakespearean Sonnet. It contains 14  iambic pentameter lines. The rhyme scheme is ABAB CDCD EFEF GG. The form consists of three quatrains and a couplet.
+All of the lines, including the fifth line are examples of iambic pentameter:
+
+ ×  /   ×   /   ×   /     ×   /  ×  / 
+So I, for fear of trust, forget to say (23.5)
+
+/ = ictus, a metrically strong syllabic position. × = nonictus.
+After the octave (the first two quatrains) there is often a change referred to as a volta. In Sonnet 23 the volta is line nine's suggestion.
+
+
+== Source and analysis ==
+
+"For fear of trust" has drawn different, though not necessarily contradictory, glosses. Nicolaus Delius has it "from want of self-confidence," with which Edward Dowden substantially agrees; Thomas Tyler adds "for fear that I shall not be trusted," and Beeching agrees that "the trust is active."
+"Dumb presagers" is sometimes seen as a continuation of the acting metaphor; a dumb show often preceded each act of Elizabethan plays. Fleay suggests a more specific indebtedness to Daniel's Complaint of Rosamond, 19.
+The principal interpretive issue relates to "books" in line 9. George Sewell and Edward Capell, among others, supported emendation to "looks," principally because the syntactical connection with "presagers" seems to require a word in line 9 that can evoke future time. Both words fit into the trope of the lover struck dumb by his love, and hoping to use his books (or looks) to make himself understood. Editors from Malone to Booth and William Kerrigan have defended the quarto reading, and most modern editors generally retain "books."
+
+
+== Exegesis ==
+According to Joel Fineman, Shakespeare's sonnets portray language as "corruptingly linguistic rather than something ideally specular." He cites 23's conclusion — "To hear with eyes belongs to love's fine wit" — to illuminate Shakespeare's fixation on the shortcomings of words, stating that many sonnets "speak against a strong tradition, not only poetic, of linguistic idealization for which words in some sense are the things of which they speak."
+Vendler writes that in sonnet 23, "the (inevitable) distance between composing author and fictive speaker narrows to the vanishing point." She says that the sonnet gets at the "stranglehold" of both the poem and Shakespeare's prolific literary mind—both the author and the "character" of 23 desire to express too many things at once. Vendler states that language is not the only barrier to expression in 23 though, continuing to say that when the poem recognizes "that tongue" in line 12 as a rival to the "character", Shakespeare intends "the tongue-tiedness rather as a fear of trusting the audience--the potentially faithless beloved."
+Manfred Pfister argues that each sonnet has a "speaker" that, like a character in a play, delivers the sonnet with an awareness of the present moment, what has happened in the immediate past, and the audience hearing the text.
+Heather Dubrow writes that the sonnets are "plotted" too often. She argues that narrativizing them and applying a biographical lens to them is unwise because of how little we know about their original form.
+Patrick Cheney writes that the poem's focus on both the theater and "books" is useful. "The complication helps make its own point: Shakespeare's ingrained thinking process both separates and intertwines the two modes of his professional career...Perhaps we can see Shakespeare presenting Will as a (clowning) man of the theatre who nonetheless has managed to write poetry of educational value -- and is saying so in a Petrarchan sonnet." Cheney goes on to say that Sonnet 23's purpose is to make a statement about the uses of theater and poetry. 23 illuminates live performance's inability to capture the "integrity" of timid infatuation.
+Helen Vendler says, "the octave seems to imply that the cause of the tongue-tiedness lies in the psychology of the speaker-poet." This analysis points to a shift in the tone of the poem, in other words, a volta. The overall framing of the sonnet shines a light on the volta as well. Pairs of lines in the octave are parallel thematically: according to Vendler, "[c]areful parallels are drawn between [lines 1 & 2] and [ll 5 & 6] by fear and perfect (unperfect), between [ll 3 & 4] and [ll 7 & 8] by strength and own (his/mine)." She says when Shakespeare frames a sonnet this intentionally, "something is about to burst loose."
+In Duncan-Jones' edition of this poem, in line 6 the word "right" is used, which supports a double meaning of the word.
+
+
+== Interpretations ==
+John Gielgud, for the 2002 compilation album, When Love Speaks (EMI Classics)
+Rufus Wainwright, in his 2016 album, Take All My Loves: 9 Shakespeare Sonnets
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Sources ===
+Baldwin, T. W. (1950). On the Literary Genetics of Shakspeare's Sonnets. University of Illinois Press, Urbana.
+Hubler, Edwin (1952). The Sense of Shakespeare's Sonnets. Princeton University Press, Princeton.
+Schoenfeldt, Michael (2007). The Sonnets: The Cambridge Companion to Shakespeare's Poetry. Patrick Cheney, Cambridge University Press, Cambridge.
+First edition and facsimile
+
+Variorum editions
+
+Modern critical editions
+
+
+== External links ==
+ Works related to Sonnet 23 (Shakespeare) at Wikisource
+Paraphrase and analysis (Shakespeare-online)
+Facsimile of Sonnet 23 from 1609 Quarto
+Analysis

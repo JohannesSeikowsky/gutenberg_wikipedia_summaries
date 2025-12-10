@@ -1,0 +1,174 @@
+On the Soul (Greek: Περὶ Ψυχῆς, Peri Psychēs; Latin: De Anima) is a major treatise written by Aristotle c. 350 BC.  His discussion centres on the kinds of souls possessed by different kinds of living things, distinguished by their different operations. Thus plants have the capacity for nourishment and reproduction, the minimum that must be possessed by any kind of living organism.  Lower animals have, in addition, the powers of sense-perception and self-motion (action).  Humans have all these as well as intellect.
+Aristotle holds that the soul (psyche, ψυχή) is the form, or essence of any living thing; it is not a distinct substance from the body that it is in. It is the possession of a soul (of a specific kind) that makes an organism an organism at all, and thus the notion of a body without a soul, or of a soul in the wrong kind of body, is simply unintelligible. (He argues that some parts of the soul — the intellect — can exist without the body, but most cannot.)
+In 1855, Charles Collier published a translation titled On the Vital Principle. George Henry Lewes, however, found this description also wanting.
+
+
+== Division of chapters ==
+The treatise is divided into three books, and each of the books is divided into chapters (five, twelve, and thirteen, respectively). The treatise is near-universally abbreviated "DA", for "De anima", and books and chapters generally referred to by Roman and Arabic numerals, respectively, along with corresponding Bekker numbers. (Thus, "DA I.1, 402a1" means "De anima, book I, chapter 1, Bekker page 402, Bekker column a [the column on the left side of the page], line number 1.)
+
+
+=== Book I ===
+DA I.1 introduces the theme of the treatise; DA I.2–5 provide a survey of Aristotle’s predecessors’ views about the soul
+
+
+=== Book II ===
+DA II.1–3 gives Aristotle's definition of soul and outlines his own study of it, which is then pursued as follows: DA II.4 discusses nutrition and reproduction; DA II.5–6 discuss sensation in general; DA II.7–11 discuss each of the five senses (in the following order: sight, sound, smell, taste, and touch—one chapter for each); DA II.12 again takes up the general question of sensation;
+
+
+=== Book III ===
+DA III.1 argues there are no other senses than the five already mentioned; DA III.2 discusses the problem of what it means to "sense sensing" (i.e., to "be aware" of sensation); DA III.3 investigates the nature of imagination; DA III.4–7 discuss thinking and the intellect, or mind; DA III.8 articulates the definition and nature of soul; DA III.9–10 discuss the movement of animals possessing all the senses; DA III.11 discusses the movement of animals possessing only touch; DA III.12–13 take up the question of what are the minimal constituents of having a soul and being alive.
+
+
+=== Summary ===
+Book I contains a summary of Aristotle's method of investigation and a dialectical determination of the nature of the soul. He begins by conceding that attempting to define the soul is one of the most difficult questions in the world. But he proposes an ingenious method to tackle the question:
+Just as we can come to know the properties and operations of something through scientific demonstration, i.e. a geometrical proof that a triangle has its interior angles equal to two right angles, since the principle of all scientific demonstration is the essence of the object, so too we can come to know the nature of a thing if we already know its properties and operations. It is like finding the middle term to a syllogism with a known conclusion.
+Therefore, we must seek out such operations of the soul to determine what kind of nature it has. From a consideration of the opinions of his predecessors, a soul, he concludes, will be that in virtue of which living things have life.
+Book II contains his scientific determination of the nature of the soul, an element of his biology. By dividing substance into its three meanings (matter, form, and what is composed of both), he shows that the soul must be the first actuality of a natural, organized body. This is its form or essence. It cannot be matter because the soul is that in virtue of which things have life, and matter is only being in potency. The rest of the book is divided into a determination of the nature of the nutritive and sensitive souls.
+
+(1) All species of living things, plant or animal, must be able to nourish themselves, and reproduce others of the same kind.
+(2) All animals have, in addition to the nutritive power, sense-perception, and thus they all have at least the sense of touch, which he argues is presupposed by all other senses, and the ability to feel pleasure and pain, which is the simplest kind of perception. If they can feel pleasure and pain they also have desire.
+Some animals in addition have other senses (sight, hearing, taste), and some have more subtle versions of each (the ability to distinguish objects in a complex way, beyond mere pleasure and pain.) He discusses how these function. Some animals have in addition the powers of memory, imagination, and self-motion.
+
+Book III discusses the mind or rational soul, which belongs to humans alone. He argues that thinking is different from both sense-perception and imagination because the senses can never lie and imagination is a power to make something sensed appear again, while thinking can sometimes be false. And since the mind is able to think when it wishes, it must be divided into two faculties: One which contains all the mind's ideas which are able to be considered, and another which brings them into action, i.e. to be actually thinking about them.
+These are called the possible and agent intellect. The possible intellect is an "unscribed tablet" and the store-house of all concepts, i.e. universal ideas like "triangle", "tree", "man", "red", etc. When the mind wishes to think, the agent intellect recalls these ideas from the possible intellect and combines them to form thoughts. The agent intellect is also the faculty which abstracts the "whatness" or intelligibility of all sensed objects and stores them in the possible intellect.
+For example, when a student learns a proof for the Pythagorean theorem, his agent intellect abstracts the intelligibility of all the images his eye senses (and that are a result of the translation by imagination of sense perceptions into immaterial phantasmata), i.e. the triangles and squares in the diagrams, and stores the concepts that make up the proof in his possible intellect. When he wishes to recall the proof, say, for demonstration in class the next day, his agent intellect recalls the concepts and their relations from the possible intellect and formulates the statements that make up the arguments in the proof.
+The argument for the existence of the agent intellect in Chapter V perhaps due to its concision has been interpreted in a variety of ways. One standard scholastic interpretation is given in the Commentary on De anima begun by Thomas Aquinas. Some scholars believe that Aquinas' commentary is based on the new translation of the text from the Greek completed by Aquinas' Dominican associate William of Moerbeke at Viterbo in 1267.
+The argument, as interpreted by Thomas Aquinas, runs something like this: In every nature which is sometimes in potency and act, it is necessary to posit an agent or cause within that genus that, just like art in relation to its suffering matter, brings the object into act. But the soul is sometimes in potency and act. Therefore, the soul must have this difference. In other words, since the mind can move from not understanding to understanding and from knowing to thinking, there must be something to cause the mind to go from knowing nothing to knowing something, and from knowing something but not thinking about it to actually thinking about it.
+Aristotle also argues that the mind (only the agent intellect) is immaterial, able to exist without the body, and immortal. His arguments are notoriously concise. This has caused much confusion over the centuries, causing a rivalry between different schools of interpretation, most notably, between the Arabian commentator Averroes and Thomas Aquinas. One argument for its immaterial existence runs like this: if the mind were material, then it would have to possess a corresponding thinking-organ. And since all the senses have their corresponding sense-organs, thinking would then be like sensing. But sensing can never be false, and therefore thinking could never be false. And this is of course untrue. Therefore, Aristotle concludes, the mind is immaterial.
+Perhaps the most important but obscure argument in the whole book is Aristotle's demonstration of the immortality of the thinking part of the human soul, also in Chapter V. Taking a premise from his Physics, that as a thing acts, so it is, he argues that since the active principle in our mind acts with no bodily organ, it can exist without the body. And if it exists apart from matter, it therefore cannot be corrupted. And therefore there exists a mind which is immortal. As to what mind Aristotle is referring to in Chapter V (i.e. divine, human, or a kind of world soul), has represented a hot topic of discussion for centuries. The most likely is probably the interpretation of Alexander of Aphrodisias, likening Aristotle's immortal mind to an impersonal activity, ultimately represented by God.
+
+
+== Arabic paraphrase ==
+In Late Antiquity, Aristotelian texts became re-interpreted in terms of Neoplatonism. There is a paraphrase of De Anima which survives in the Arabic tradition which reflects such a Neoplatonic synthesis. The text was translated into Persian in the 13th century. It is likely based on a Greek original which is no longer extant, and which was further syncretised in the heterogeneous process of adoption into early Arabic literature.
+A later Arabic translation of De Anima into Arabic is due to Ishaq ibn Hunayn (d. 910). Ibn Zura (d. 1008) made a translation into Arabic from Syriac. The Arabic versions show a complicated history of mutual influence.  Avicenna (d. 1037) wrote a commentary on De Anima, which was translated into Latin by Michael Scotus. Averroes (d. 1198) used two Arabic translations, mostly relying on the one by Ishaq ibn Hunayn, but occasionally quoting the older one as an alternative.  Zerahiah ben Shealtiel Ḥen translated Aristotle's De anima from Arabic into Hebrew in 1284. Both Averroes and Zerahiah used the translation by Ibn Zura.
+
+
+== Some manuscripts ==
+
+
+=== Codex Vaticanus 253 ===
+Codex Vaticanus 253 is one of the most important manuscripts of the treatise. It is designated by the symbol L. Paleographically it has been assigned to the 13th century. It is written in Greek minuscule letters. The manuscript is not complete; it contains only Book III. It belongs to the textual family λ, together with the manuscripts E, Fc, Lc, Kd, and P.
+The manuscript was cited by Trendelenburg, Torstrik, Biehl, Apelt, and Ross in their critical editions of the treatise On the Soul. Currently it is housed at the Vatican Library (gr. 253) in Rome.
+
+
+=== Codex Vaticanus 260 ===
+Codex Vaticanus 260 is one of the most important manuscripts of the treatise. It is designated by the symbol U. Paleographically it has been assigned to the 11th century. It is written in Greek minuscule letters. The manuscript contains the complete text of the treatise. It belongs to the textual family ν, together with the manuscripts X, v, Ud, Ad, and Q.
+The manuscript was cited by Trendelenburg, Torstrik, Biehl, Apelt, and Ross in their critical editions of the treatise On the Soul. Currently it is housed at the Vatican Library (Vat. gr. 260) in Rome.
+
+
+=== Codex Vaticanus 266 ===
+Codex Vaticanus 266 is one of the most important manuscripts of the treatise. It is designated by the symbol V. Paleographically it had been assigned to the 14th century. It is written in Greek minuscule letters. The manuscript contains a complete text of the treatise. It belongs to the textual family κ, but only to Chapter 8. of II book.
+Another member of the family κ: Gc W Hc Nc Jd Oc Zc Vc Wc f Nd Td.
+The manuscript was cited by Trendelenburg, Torstrik, Biehl, and Apelt in his critical editions of the treatise On the Soul. David Ross did not use the manuscript in his own edition. Currently it is housed at the Vatican Library (gr. 266) in Rome.
+
+
+=== Codex Vaticanus 1026 ===
+Codex Vaticanus 1026 is a manuscript of the treatise. It is designated by symbol W. Paleographically it had been assigned to the 13th century. It is written in Greek minuscule letters. The manuscript contains a complete text of the treatise.
+The Greek text of the manuscript is eclectic. It belongs to the textual family μ to II book, 7 chapter, 419 a 27. Since 419 a 27 it is a representative of the family κ.
+The manuscript was not cited by Trendelenburg, Torstrik, Biehl, Apelt, and Ross in his critical editions of the treatise On the Soul. It means the manuscript has not high value. Currently it is housed at the Vatican Library (gr. 1026) at Rome.
+
+
+=== Codex Vaticanus 1339 ===
+Codex Vaticanus 1339 is a manuscript of the treatise. It is designated by symbol P. Paleographically it has been assigned to the 14th or 15th century. It is written in Greek minuscule letters. The manuscript contains a complete text of the treatise.
+The text of the manuscript is eclectic. It represents the textual family σ in book II of the treatise, from II, 2, 314b11, to II, 8, 420a2. After book II, chapter 9, 429b16, it belongs to the family λ.
+The manuscript was not cited by Tiendelenburg, Torstrik, Biehl, Apelt, and Ross in rheir critical editions of the treatise On the Soul. This means the manuscript is not of high value. Currently it is housed at the Vatican Library (gr. 1339) at Rome.
+
+
+=== Codex Ambrosianus 435 ===
+Codex Ambrosianus 435 is one of the most important manuscripts of the treatise. It is designated by the symbol X. Paleographically it had been assigned to the 12th or 13th century. It is written in Greek minuscule letters. The manuscript contains the complete text of the treatise. It belongs to the textual family ν, together with the manuscripts v Ud Ad U Q.
+The manuscript is one of nine manuscripts that was cited by Trendelenburg, Torstrik, Biehl, Apelt, and one of five cited by Ross in their critical editions of the treatise On the Soul. Currently it is housed at the Biblioteca Ambrosiana (435 (H. 50)) in Milan.
+
+
+=== Codex Ambrosianus 837 ===
+Codex Ambrosianus 837 is a manuscript of the treatise. It is designated by the symbol Dc. Paleographically it had been assigned to the 13th century. It is written in Greek minuscule letters. The manuscript contains a complete text of the treatise.
+The text of the manuscript is eclectic. It represents to the textual family σ, in I-II books of the treatise. In III book of the treatise it belongs to the family τ.
+The manuscript was not cited by Tiendelenburg, Torstrik, Biehl, Apelt, or Ross in their critical editions of the treatise On the Soul. Currently it is housed at the Biblioteca Ambrosiana (837 (B 7 Inf.)) in Milan.
+
+
+=== Codex Coislinianus 386 ===
+Codex Coislinianus 386 is one of the important manuscripts of the treatise. It is designated by the symbol C. Paleographically it had been assigned to the 11th century. It is written in Greek minuscule letters. The manuscript contains the complete text of the treatise. It belongs to the textual family ξ, together with the manuscripts T Ec Xd Pd Hd.
+The manuscript was cited by David Ross in his critical edition of the treatise On the Soul. Currently it is housed at the Bibliothèque nationale de France (Coislin 386) in Paris.
+
+
+=== Codex Vindobonensis Philos. 2 ===
+Codex Vindobonensis Philos. 2 is a manuscript of the treatise. It is designated by symbol Td. Dated by a Colophon to the year 1496. It is written in Greek minuscule letters. The manuscript contains a complete text of the treatise.
+The text of the manuscript represents the textual family κ.
+The manuscript was not cited by Tiendelenburg, Torstrik, Biehl, Apelt, and Ross in his critical editions of the treatise On the Soul. It means the manuscript has not high value. Currently it is housed at the Austrian National Library (Philos. 2) at Vienna.
+
+
+=== Codex Vindobonensis Philos. 75 ===
+Codex Vindobonensis Philos. 75 is a manuscript of the treatise. It is designated by symbol Sd. Dated by a Colophon to the year 1446. It is written in Greek minuscule letters. The manuscript contains a complete text of the treatise.
+The text of the manuscript represents to the textual family ρ.
+The manuscript was not cited by Tiendelenburg, Torstrik, Biehl, Apelt, and Ross in his critical editions of the treatise On the Soul. It means the manuscript has not high value. Currently it is housed at the Austrian National Library (Philos. 75) at Vienna.
+
+
+=== Codex Vindobonensis Philos. 157 ===
+Codex Vindobonensis Philos. 157 is a manuscript of the treatise. It is designated by symbol Rd. Paleographically it had been assigned to the 15th century. It is written in Greek minuscule letters. The manuscript contains a complete text of the treatise.
+The text of the manuscript represents the textual family π.
+The manuscript was not cited by Tiendelenburg, Torstrik, Biehl, Apelt, and Ross in his critical editions of the treatise On the Soul. It means the manuscript has not high value. Currently it is housed at the Austrian National Library (Philos. 157) at Vienna.
+
+
+=== Codex Marcianus CCXXVIII (406) ===
+Codex Marcianus GR. Z. 228 (=406) contains a partial manuscript of the treatise. It is designated by symbol Oc. Paleographically, it has been assigned to the 14th century. It is written in Greek minuscule letters. The manuscript contains the incomplete text of the treatise. The text of Book II ends at 419 a 27. It has not Book III of the treatise. The codex includes commentary on the treatise by Simplicius of Cilicia and Sophonias and paraphrases by Themistius (fourteenth century).
+The text of the manuscript represents the textual family κ.
+The manuscript was not cited by Tiendelenburg, Torstrik, Biehl, Apelt, and Ross in his critical editions of the treatise On the Soul. It means the manuscript does not have high value.
+The codex also has commentary by Pseudo-Diadochus on Plato's Timaeus, commentary by Simplicius of Cilicia on Aristotle's On the Heavens, commentary by Ammonius Hermiae’s on Plato's Phaedrus, and commentary by Proclus on Plato's Parmenides.
+Currently, it is housed at the Biblioteca Marciana (BNM Gr. Z. 228 (=406)) in Venice.
+
+
+== Influence ==
+
+
+=== Modern era ===
+In the introduction to the third part of his Encyclopaedia of the Philosophical Sciences in Basic Outline, Hegel affirmed:
+
+Among the men of old, [Aristotle is] the one that most deserves to be studied. [...] Aristotle’s books on the soul as well as his treatises on its specific aspects and conditions are for this reason still the most outstanding work—or the only one of speculative interest—on this subject matter. The essential purpose of a philosophy of the spirit can only be to reintroduce the concept into the cognition of the spirit and thereby also to reopen the meaning of these Aristotelian books.
+In his Lectures on the History of Philosophy, Hegel continues:
+
+“in recent times no other philosophy has been so much offended against as this [sc. the Aristotelian], and to no other ancient philosopher so many apologies are owed as to Aristotle.
+
+
+== English translations ==
+Mark Shiffman, De Anima: On the Soul, (Newburyport, MA: Focus Publishing/R. Pullins Co, 2011). ISBN 978-1585102488
+Joe Sachs, Aristotle's On the Soul and On Memory and Recollection (Green Lion Press, 2001). ISBN 1-888009-17-9
+Hugh Lawson-Tancred, De Anima (On the Soul) (Penguin Classics, 1986). ISBN 978-0140444711
+Hippocrates Apostle, Aristotle's On the Soul, (Grinell, Iowa: Peripatetic Press, 1981). ISBN 0-9602870-8-6
+D.W. Hamlyn, Aristotle De Anima, Books II and III (with passages from Book I), translated with Introduction and Notes by D.W. Hamlyn, with a Report on Recent Work and a Revised Bibliography by Christopher Shields (Oxford: Clarendon Press, 1968).
+Walter Stanley Hett, On the Soul (Cambridge, Mass. : Harvard University Press "Loeb Classical Library", 1957).
+John Alexander Smith, On the Soul (1931)
+MIT Internet Classics Archive
+Adelaide
+Google Books
+Classics in the History of Psychology
+UVa EText Center
+Georgetown
+R. D. Hicks, Aristotle De Anima with Translation, Introduction, and Notes (Cambridge University Press, 1907).
+Archive.org
+Free Audiobook (Public Domain) of De Anima at Archive.org
+Edwin Wallace, Aristotle's Psychology in Greek and English, with Introduction and Notes by Edwin Wallace (Cambridge University Press, 1882).
+Archive.org
+Thomas Taylor, On the Soul (Prometheus Trust, 2003, 1808). ISBN 1-898910-23-5
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== Further reading ==
+Rüdiger Arnzen, Aristoteles' De anima : eine verlorene spätantike Paraphrase in arabischer und persischer Überlieferung, Leiden, Brill, 1998 ISBN 90-04-10699-5.
+J. Barnes, M. Schofield, & R. Sorabji, Articles on Aristotle, vol. 4, 'Psychology and Aesthetics'. London, 1979.
+M. Durrant, Aristotle's De Anima in Focus. London, 1993.
+M. Nussbaum & A. O. Rorty, Essays on Aristotle's De Anima. Oxford, 1992.
+F. Nuyens, L'évolution de la psychologie d'Aristote. Louvain, 1973.
+Paweł Siwek, Aristotelis tractatus De anima graece et latine, Desclée, Romae 1965.
+* Watson, Gerard (1982). "ΦAnta∑ia In Aristotle, De Anima 3.3". The Classical Quarterly. 32 (1). Cambridge University Press: 100–113. doi:10.1017/S0009838800022849. ISSN 0009-8388. Retrieved 31 January 2025.
+
+
+== External links ==
+
+Greek text: Mikros Apoplous (HTML)
+English text: Electronic Text Center, University of Virginia Library (HTML)
+ De Anima public domain audiobook at LibriVox
+BNM Gr. Z. 228 (=406) on-line

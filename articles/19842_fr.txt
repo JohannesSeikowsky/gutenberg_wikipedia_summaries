@@ -1,0 +1,252 @@
+L’Évangile selon Jean (en grec ancien : τὸ κατὰ Ἰωάννην εὐαγγέλιον / tò katà Iōánnēn euangélion), dit aussi le quatrième Évangile, est le dernier des évangiles canoniques du Nouveau Testament.
+Ce texte est rédigé en grec de la koinè, tout comme les trois autres évangiles canoniques, dits « synoptiques », mais il s'en démarque par sa composition, son style poétique, sa théologie, et probablement par ses sources, ainsi que par quelques épisodes singuliers, à l'instar des noces de Cana ou encore de la « femme adultère ».
+L'Évangile selon Jean est un de ceux qui exposent de la manière la plus explicite la doctrine trinitaire et la christologie du christianisme, car il énonce la divinité de Jésus, qu'il décrit comme le « Verbe de Dieu » incarné. Suivant un plan nettement théologique et kérygmatique, cet évangile recherche « dans chaque incident particulier la signification du tout », selon l’expression de Charles Harold Dodd. Plus encore : de même que les disciples n’ont parfaitement compris les paroles et les œuvres de Jésus qu’après l’effusion de l’Esprit saint, de même l’évangile obéit au principe johannique des « deux temps d’intelligence », les paroles de Jésus rapportées par Jean étant destinées à germer dans l’esprit pour n’être pleinement comprises que plus tard.
+La tradition chrétienne a attribué cet évangile à l'un des disciples de Jésus, l'apôtre Jean, fils de Zébédée. Cette hypothèse est aujourd'hui rejetée par la plupart des exégètes, qui voient dans ce texte l'œuvre d'une « communauté johannique », à la fin du Ier siècle.
+
+
+== Datation, attribution et origine du texte ==
+
+
+=== Attribution du texte ===
+
+Ni le nom de l'auteur, ni celui de l'apôtre Jean — un des principaux disciples dans les évangiles synoptiques et dans les Actes des Apôtres — n'apparaissent dans le quatrième évangile. Du chapitre 1 au chapitre 20, il n'y a d'ailleurs aucune mention d'auteur. C'est seulement dans l'épilogue du texte, au chapitre 21, qu'il est question d'un « disciple bien-aimé » qui en serait l'auteur. Les exégètes modernes ont posé le problème de l'attribution du texte qui s'inscrit dans le cadre plus large de l'attribution des différents écrits johanniques, dans un débat qui reste nourri.
+Dans la seconde moitié du IIe siècle, le quatrième évangile se répand sous le titre d'« évangile selon Jean ». Depuis cette époque, pour la tradition chrétienne, l'auteur en est l'apôtre Jean, fils de Zébédée : déjà attestée chez Marcion († 160), cette identification est unanime chez les premiers Pères de l'Église — en particulier, Irénée de Lyon († 210), Clément d'Alexandrie († 211) ou encore Origène († 245) — qui affirment en outre que cet évangile est le dernier des quatre dans le temps.
+Pour la plupart des chercheurs modernes, l'auteur — ou les auteurs — est un inconnu, non contemporain de Jésus, relevant de la tradition du « disciple bien-aimé » et appartenant à un groupe d'écrivains johanniques, ou « école johannique », dont les contours et l'histoire sont objet de débats.
+L'incompatibilité de ce texte avec les synoptiques ainsi que la date tardive de sa rédaction amène Geza Vermes et d'autres exégètes comme Hans Conzelmann à rejeter l'attribution de ce texte à un témoin oculaire de la vie de Jésus de Nazareth. Vermes conclut de sa comparaison de cet évangile avec les synoptiques que le texte ne saurait être reçu que par un auditoire n'ayant connu ni Jésus, ni ses disciples immédiats. Pendant longtemps une majorité des exégètes contemporains ont ainsi renoncé à attribuer cet évangile à un témoin oculaire - et particulièrement à Jean de Zébédée.
+Cependant, un nombre croissant d'exégètes défendent l'hypothèse d'un lien entre le milieu de la rédaction de l'évangile et un ou plusieurs témoins oculaires des événements rapportés par le texte. L'historien Paul Veyne estime pour sa part « qu'il est […] difficile de ne pas ressentir l’authenticité brûlante du témoignage oculaire de Jean, qui donne le sentiment de la réalité, du vécu », notamment par des différences factuelles qui le distinguent des trois synoptiques.
+L'identification de l'auteur a longtemps cristallisé l'essentiel de la question johannique — attribuer la rédaction à l'apôtre Jean devait assurer le crédit du texte —. Cette question aurait perdu son caractère central selon Zumstein depuis la fin du XXe siècle car selon lui « le critère de l'apostolicité n'est plus déterminant dans l'évaluation de l'autorité théologique d'un récit néotestamentaire ».
+
+
+==== « Disciple bien-aimé » ====
+
+L'expression « le disciple que Jésus aimait » ou « le disciple bien-aimé », est utilisée à plusieurs reprises dans l’Évangile selon Jean pour désigner un disciple anonyme de Jésus de Nazareth. Lors de la Cène, c'est le disciple bien-aimé, qui, « couché sur le sein de Jésus », lui demande qui va le trahir. Lors de la crucifixion, Jésus confie sa mère Marie au disciple bien-aimé, en disant : « Femme, voici ton fils », puis au disciple « Voici ta mère ». Quand Marie-Madeleine découvre le tombeau vide, elle court le dire au « disciple bien-aimé » et à Pierre. C'est le premier à atteindre le tombeau. C'est encore lui qui le premier reconnaît Jésus au lac de Tibériade après sa résurrection.
+Enfin, l'évangile s'achève sur deux versets qui identifient ce « disciple bien-aimé » à l'auteur dans ce qui constitue l'épilogue de l'évangile. L'interprétation traditionnelle voit dans le passage à la première personne l'opportunité d'identifier l'auteur de l'évangile avec « le disciple que Jésus aimait ».
+En attribuant le texte à une personne nommée « Jean », un ajout secondaire mais relativement ancien, il est vraisemblable que le cercle des éditeurs johanniques, à l'instar de la tradition, envisageait l'apôtre Jean, mettant ainsi le « disciple bien-aimé » en relation avec le cercle des disciples proches de Jésus et garantissant de la sorte son autorité.
+
+Trois approches prédominent en ce qui concerne l'identité de ce « disciple bien-aimé » d'après Brown.
+Une première approche consiste à l'assimiler à un personnage connu des textes du Nouveau Testament, à l'instar de ce que suit la tradition chrétienne avec Jean, fils de Zébédée — ou « Jean le Zébédaïde » — ou encore, quoiqu'assez rarement, avec Lazare
+, Jean-Marc, Thomas ou encore Marie-Madeleine ;
+Dans une autre approche, des exégètes ont considéré ce « disciple bien-aimé » comme un personnage symbolique incarnant une manière de disciple parfait ;
+Une troisième approche défendue par Brown envisage le « disciple bien-aimé » comme un personnage secondaire du ministère de Jésus qui, de ce fait, n'aurait pas été évoqué par les synoptiques mais qui aurait pris de l'importance à travers la communauté johannique — qu'il a pu fonder — laissant à travers le quatrième évangile le portrait d'un personnage idéal, plus proche de Jésus par l'amour que Pierre lui-même. Selon Brown, ce « disciple bien-aimé », qui serait le témoin oculaire sur lequel l'évangile attire l'attention au pied de la croix de Jésus , pourrait être la source de la tradition du quatrième évangile, dont l'évangéliste — qui parle de lui à la troisième personne — serait un disciple, le ou les rédacteurs ultérieurs étant peut-être d'autres disciples relevant de l'« école johannique ». Par ailleurs, l'ajout du chapitre 21 par quelqu'un qui n'est pas l'auteur du corps du texte semble témoigner d'une tentative pour identifier Jean, fils de Zébédée au « disciple bien-aimé ». Dans ce chapitre, le dialogue entre Jésus et Pierre présuppose la mort du « disciple bien-aimé »  qui ne peut de la sorte être l'auteur de l'intégralité du quatrième évangile.
+Le « disciple bien-aimé » a souvent lui-même été identifié à Jean, fils de Zébédée, l'un des Douze apôtres. Mais des historiens comme Oscar Cullmann ont distingué deux Jean, l'apôtre et l'évangéliste, ce dernier étant identifié dans ce cas au « disciple bien-aimé ». L'attribution de l'évangile à un Jean le Presbytre, cité par Papias et distinct du fils de Zébédée, a été défendue par plusieurs exégètes comme Jean Colson, Oscar Cullmann, François Le Quéré, Joseph A. Grassi, James H. Charlesworth, ou Xavier Léon-Dufour.
+Tenant de la réhabilitation de la théorie de témoins oculaires ayant directement connu Jésus, Richard Bauckham reprend l'hypothèse de la rédaction du quatrième évangile par le « disciple favori » mais, bien qu'il ne lie pas ce dernier à l'apôtre Jean, ses hypothèses exégétiques et textuelles, qui soulèvent certaines difficultés dont l'absence totale de mention de ce disciple dans les synoptiques, sont vivement débattues.
+
+
+==== Jean, fils de Zébédée ====
+
+C'est de la fin du IIe siècle que datent les premières traces de la tradition qui identifie le « disciple bien-aimé » avec le disciple Jean, l'un des Douze, frère de Jacques et fils de Zébédée ainsi que son rattachement à Éphèse où, suivant cette tradition, il aurait vécu jusqu'à l'époque de l'empereur romain Trajan et rédigé son évangile.
+On retrouve le témoignage d'une telle attribution dans le Papyrus 66 datant de la fin du IIe siècle. Le premier auteur connu de l’Église ancienne à professer cette opinion est Irénée de Lyon, vers 180, qui aura une influence fondamentale sur la définition du canon des quatre évangiles et l'affirmation de son inspiration divine. Selon ce qu'en rapporte Eusèbe de Césarée un siècle et demi plus tard, Irénée se réclame du témoignage de plusieurs presbytres dont Papias de Hiérapolis et Polycarpe, évêque de Smyrne mort en 155, qu'il aurait connu enfant et entendu mentionner sa relation avec le disciple Jean. L'unique écrit de Polycarpe dont nous disposons est « muet(s) concernant sa prétendue connaissance du Zébédaïde ». De la même manière, nous ne possédons pas d'éléments de Papias confirmant le rapport d'Eusèbe, que Papias aurait connu à la fois Jean l'apôtre et Jean le Presbytre. Ces éléments rendent impossibles l'authentification et la reconstruction de la tradition dont Irénée se fait le porteur.
+Au IVe siècle, Épiphane de Salamine (~315 - 403) rapporte que la secte des aloges attribuait le quatrième évangile au gnostique du IIe siècle Cérinthe et refusait de l'attribuer à Jean tout comme l’Apocalypse. Concernant ce dernier texte, selon Eusèbe de Césarée, Denys d'Alexandrie (évêque de 247 à 264) affirme que l'Apocalypse de Jean - mais non son évangile -, frappé de suspicion pour son incohérence et son inintelligibilité, était attribué au même Cérinthe par certains de ses aînés. Cette discussion sur les aloges est le seul exemple connu d'une attribution primitive divergente de la tradition ultérieure.
+En ce qui concerne la datation, selon Clément d'Alexandrie, cité dans l’Histoire ecclésiastique d'Eusèbe, Jean aurait écrit son évangile comme un supplément aux trois autres évangiles, ce qui explique sa place classique dans le Nouveau Testament.
+Cependant, l'attribution traditionnelle à Jean, fils de Zébédée, se voit opposer deux arguments. Premièrement, mais sans que l'on puisse le déduire avec certitude, d'après l'évangile de Marc, Jean ne serait pas mort à Éphèse à un âge avancé mais précocement en martyr, peut-être avec son frère Jacques sous le règne d'Hérode Antipas. Mais ce postulat n'est pas démontrable. En tout état de cause, Jean, fils de Zébédée, disparaît après la réunion de Jérusalem et la distance temporelle qui sépare le compagnon de Jésus et le rédacteur de la fin du Ier siècle semble difficilement franchissable. Deuxièmement, une comparaison avec les évangiles synoptiques met en évidence une théologie et un langage qui ont évolué depuis la période de Jésus de Nazareth et ses proches, que sépare une tradition de plusieurs dizaines d'années avant la reprise de l'enseignement de Jésus par le rédacteur du quatrième évangile.
+
+
+==== Communauté johannique ====
+
+À partir du XIXe siècle, l'exégèse historico-critique questionne plus avant la paternité johannique, soulignant que le texte a été rédigé plusieurs décennies après les événements qu'il décrit. Ces doutes se fondent sur les différences linguistiques du grec à l'intérieur même de l'évangile, sur les ruptures et les incohérences constatées dans certains passages, sur les répétitions du discours aussi bien que l'insertion de séquences hors de leur contexte, ce qui suggère plusieurs auteurs. Nombre d'historiens considèrent que l'évangile de Jean a été composé par couches, la datation de la première restant difficile (vers 80 apr. J.-C.) et s'achevant pour la dernière vers 95-110. Cette dernière date correspondrait à la deuxième ou troisième génération de disciples après la mort de Jésus (vers 30), au sein d'un groupe de chrétiens appelé communauté johannique.
+Raymond E. Brown propose l'hypothèse d'une reconstruction couvrant la rédaction du quatrième évangile ainsi que les épîtres johanniques en quatre phases hypothétiques, au sein d'une communauté johannique traversée par différentes ruptures :
+
+Une phase préliminaire qui s'étend jusqu'aux années 70-80 et où le « disciple bien-aimé » - un disciple de moindre importance de Jésus - appartient à un groupe accusé de quitter le monothéisme juif en faisant de Jésus un second Dieu et se fait expulser des synagogues. Ce groupe rompt publiquement avec celles-ci ainsi qu'avec les disciples de Jésus qui leur restent liés et se reporte sur la réalisation des promesses eschatologiques en Jésus. C'est cette période qui assure la maturation de la pensée de l'évangile à venir.
+La phase de la rédaction initiale par l'évangéliste, peut-être un disciple du disciple bien-aimé, plus hellénisé que ce dernier, vivant peut-être dans la diaspora.
+Une phase au cours de laquelle sont rédigées les première et deuxième épître de Jean par un rédacteur distinct de l'évangéliste, vers 100.
+Une dernière phase, vers 100-110, au cours de laquelle le chapitre 21 et la troisième épître sont composés par un nouveau rédacteur.
+Cette présentation de la composition de l'évangile - qui ne répond pas à l'identification précise de l'auteur - propose ainsi une théorie de l’« évangile primitif » et fait partie du triptyque de modèles de composition littéraire du quatrième évangile qui partagent les chercheurs. Les deux autres ne répondent pas davantage à la question de l'identité de l'évangéliste mais proposent des modèles de composition différents.
+L'une, appelée le « modèle des sources », suivant Rudolf Bultmann, s'articule en deux affirmations complémentaires, l'une étant que l'évangéliste aurait disposé pour sa rédaction d'un récit de la Passion, d'une série de récits de miracles (signes) ainsi que de paroles préexistants, l'autre étant que le travail rédactionnel initial a été retravaillé, augmenté et approfondi par l'« école johannique »<.
+La troisième, propose un modèle d'« unité de la composition » et affirme, s'appuyant sur une analyse stylistique, que le texte serait le fait d'un seul auteur qui aurait retravaillé à diverses reprises son texte initial.
+
+
+=== Formation de l’Évangile selon Jean ===
+
+
+==== Manuscrits ====
+
+Le plus ancien manuscrit connu du Nouveau Testament est un fragment de l'évangile selon Jean. Ce fragment de papyrus, de la taille d'une carte de crédit, a été découvert en Égypte en 1920 et est maintenant conservé à la bibliothèque John Rylands de Manchester, sous la référence P52. Il contient des morceaux du procès de Jésus par Pilate (Jn 18,31-33 du côté recto et de Jn 18,37-38 du côté verso). Il est généralement daté d'environ 125. La difficulté de dater précisément un fragment par les méthodes paléographiques autorise cependant une fourchette de 100 à 175. La petite taille du fragment P52 fait que, bien qu'une restitution plausible puisse être faite pour la plupart des quatorze lignes présentes, il n'est guère utilisable pour l'analyse textuelle.
+La plus ancienne version à peu près complète est celle du Papyrus 66, de la fondation Bodmer à Genève. Les papyrus Bodmer ont été trouvés en Égypte en 1952. Le texte est daté du milieu des années 200, mention la plus ancienne de l'attribution à Jean du quatrième évangile, attribution remontant vraisemblablement au milieu du IIe siècle. Il y manque notamment le passage de Jésus et la femme adultère.
+
+
+==== Datation ====
+Le quatrième évangile est certainement plus tardif que les synoptiques : les datations habituellement retenues par la recherche contemporaine oscillent donc entre 80 et 110. Pour les chercheurs qui optent pour des retouches à un corpus original, la datation se situe vers 90 et les modifications vers 110. La plupart des spécialistes du Nouveau Testament s'accordent pour situer sa publication au début du IIe siècle, d'autant que l'épisode qui semble marquer une rupture entre judaïsme et christianisme est difficilement envisageable avant la fin du Ier siècle. Certains chercheurs, plus rares, proposent toutefois une datation plus tardive allant jusqu'au milieu du IIe siècle.
+
+
+==== Premières attestations de l'Évangile ====
+Les plus anciennes attestations d'une connaissance du texte johannique, au IIe siècle, n'émanent étonnamment pas de milieux chrétiens ou paléo-chrétiens mais bien de cercles gnostiques, particulièrement de cercles valentiniens : le texte est commenté par Héracléon aux alentours de 175 et on en trouve auparavant la trace dans l’évangile de Vérité et celui de Philippe, vers le milieu du siècle.
+Les premières citations chez des auteurs chrétiens sont relevées autour de 180 : la première chez Théophile d'Antioche, qui dans le Traité à Autolycus cite le prologue de l'Évangile, puis chez Irénée de Lyon.
+À partir du canon de Muratori, vers 200, le quatrième évangile est constamment présent dans les listes canoniques des Écritures établies notamment par les divers synodes ou pères et docteurs de l’Église et dans le Codex Claromontanus.
+
+
+==== Rédaction ====
+Pour Irénée de Lyon (vers 180), le rédacteur de l'évangile est l'apôtre Jean, identifié au « disciple bien-aimé », lors de son séjour à Éphèse du temps de Trajan. Clément d'Alexandrie (fin du IIe ou début du IIIe siècle) dans l'extrait des Hypotyposes transmis par Eusèbe de Césarée, précise l'objet du quatrième évangile : « Quant à Jean, le dernier, voyant que le côté matériel avait été mis en lumière dans les évangiles, poussé par les disciples et divinement inspiré par l'Esprit, fit un évangile spirituel ».
+Le Fragment de Muratori (fin du IIe siècle) explique les conditions dans lesquelles, « Jean, l'un des disciples », conçut son texte : « À ses co-disciples et aux évêques qui l’exhortaient, il dit : « Jeûnez avec moi un triduum, et ce qui sera révélé à chacun, nous le narrerons les uns aux autres. La même nuit, il fut révélé à André, l’un des apôtres, que Jean, avec l’assentiment de tous, en leur nom décrirait toutes choses. […] Ainsi, en effet, il ne se confesse pas seulement voyant et auditeur, mais aussi écrivain, dans l’ordre, de toutes les choses merveilleuses du Seigneur ».
+Comme l'indique Raymond E. Brown, il est désormais généralement admis que d'une part, ces hypothèses posées à partir de la fin du IIe siècle concernant des personnages qui ont vécu un siècle plus tôt sont simplifiées et que, d'autre part, les traditions relatives aux auteurs sont avant tout soucieuses de l’« autorité » qui fonde le texte plutôt que de la personne physique de ceux-ci. Ainsi, comme pour les synoptiques, la majorité des chercheurs pensent — au contraire de ce que proposait l'approche ancienne — que le texte n'a pas été rédigé par un témoin oculaire du ministère de Jésus de Nazareth. Néanmoins, comme il apparaît plus haut, des chercheurs comme Martin Hengel ou Richard Bauckham réhabilitent cette thèse de diverses manières depuis la fin du XXe siècle.
+
+
+==== Lieu de rédaction ====
+Peu d'indices permettent de localiser la rédaction du texte. Nombre de chercheurs, en raison des rapprochements étudiés par les Pères de l’Église entre le quatrième évangile et les traditions liées à Jean fils de Zébédée, optent pour une composition dans la région d'Éphèse, en province romaine d'Asie, comme le laisse entendre la tradition. D'autres, en se fondant sur la parenté formelle avec l’évangile de Thomas et le texte gnostique connu sous le nom de Dialogue du Sauveur, penchent pour la région syrienne d'Antioche, mais la plupart des chercheurs doutent que le rédacteur johannique ait emprunté au gnosticisme. Il se peut qu'il y ait eu un déplacement de l'école johannique de la Syrie vers l'ouest et la région d'Éphèse. Dans cette optique, la localisation syrienne ne vaudrait que pour la rédaction du corpus initial, les ajouts — ainsi que les épîtres johanniques — étant dès lors à situer dans la région d'Éphèse.
+
+
+=== Sources et influences ===
+
+
+==== Ancien Testament ====
+L'Évangile selon Jean entend montrer que Jésus est annoncé par l'Ancien Testament et le compare aux grandes figures bibliques de la tradition juive, parfois de manière avantageuse, par exemple quand il est comparé à Abraham ou à Jacob. Si Isaac n'est pas cité nommément, le parallèle est évident avec ce « Fils unique aimé du Père », notamment quand l'« agneau de Dieu » est évoqué en écho à l'interprétation juive de la parole d'Abraham.
+Jésus est aussi, peut-être essentiellement, un prophète semblable à Moïse auquel le quatrième évangile fait régulièrement allusion à travers l’évocation de la prophétie deutéronomique : « Je mettrai mes paroles dans sa bouche et il dira tout ce que je lui ordonnerai ». Le « nouveau Moïse » apparaît même supérieur, qui affirme : « C'est de moi qu'il [Moïse] a écrit ». Enfin on note également la présence d'Isaïe, cité au commencement et à la fin du ministère de Jésus.
+
+
+==== Comparaison avec les synoptiques ====
+Fruit d'une vraisemblable élaboration en milieux johanniques mais écrit pour toute la communauté chrétienne (et non pas simplement pour la communauté johannique), le quatrième évangile se distingue singulièrement des évangiles synoptiques, proposant une structure, une vision et un objet propres qui ont souvent été étudiés. Les évangiles selon Matthieu, Marc et Luc suivent peu ou prou le même canevas événementiel et ne se distinguent que concernant le début et la fin de la vie de Jésus de Nazareth. D'une manière générale, l’Évangile selon Jean se distingue par l'importance qu'il met sur l'Esprit saint. Il insiste sur la mission de Jésus de rédemption de l'humanité plutôt que sur son ministère terrestre d'enseignement, d'expulsion des démons et de réconfort des pauvres ; il se distingue également sur près de 90 % du matériel narratif.
+Il est communément admis que l'évangile johannique, contrairement aux synoptiques, ne contient pas de paraboles  . Les rares passages où Jésus s'y exprime par images sont plutôt qualifiés d'allégories ou de métaphores par les exégètes.
+On peut ainsi relever une série de particularités propres à l'évangile johannique, mais aussi un certain nombre de similarités avec les synoptiques.
+
+
+===== Similarités =====
+Il existe également des points de ressemblance avec les synoptiques qui figurent essentiellement dans les récits concernant le début du ministère et la rencontre avec Jean le Baptiste, ainsi que dans ceux mettant en scène la Passion et la découverte du tombeau vide.
+S'il existe assez peu de similitudes avec l'évangile de Matthieu, on en trouve davantage avec l'évangile de Luc bien qu'il s'agisse plutôt de thèmes que de formulations : par exemple, les personnages de Marthe de Béthanie et sa sœur Marie de Béthanie, de leur frère Lazare ou de Anne, les trois « non coupables » de Pilate lors du procès, les apparitions à Jérusalem du Jésus ressuscité ou encore la pêche miraculeuse.
+Mais les ressemblances les plus significatives sont avec l'évangile de Marc, notamment dans une série d’événements du sixième chapitre de Jean et des détails textuels similaires tels ceux qui évoquent « un parfum de nard pur, de grand prix », « 300 deniers » et « 200 deniers ».
+Ces analogies ont soulevé la question des rapports entre les textes. Trois types de solutions ont été avancées : l'une soutient que la rédaction johannique avait connaissance de Marc voire des trois synoptiques. À l'opposé, une autre postule que Jean n'en avait aucune connaissance et que les ressemblances sont dues au fait que tant les synoptiques que le texte johannique rapportent les mêmes paroles et les mêmes actes mais de manière indépendante. Enfin, la troisième hypothèse affirme que le quatrième évangile partage une tradition préévangélique avec Marc et que, vis-à-vis de Luc, soit il connaissait ce texte, soit il était familier de traditions rapportées plus tardivement dans le texte de Luc.
+
+
+===== Différences =====
+À la différence des synoptiques qui s'accordent sur une vie publique de Jésus se déroulant sur une année et essentiellement en Galilée, le quatrième évangile l'étale sur deux ou trois ans, mentionnant trois fêtes de Pâque qui ponctuent un ministère de Jésus exercé régulièrement à Jérusalem et presque exclusivement en Judée.
+
+Dans cet évangile, Jésus paraît conscient d'avoir préexisté aux côtés de Dieu avant son ministère terrestre ; ses discours, centrés sur lui-même, tournent autour de sa personne et de sa relation personnelle à Dieu et à ses disciples là ou dans les trois autres évangiles, les paroles de Jésus, centrées sur Dieu, portent sur le Père et l'arrivée imminente du « Royaume de Dieu ». Ce thème du « Royaume de Dieu » — thème clef des synoptiques — est significativement absent également, avec une seule mention qui ne joue aucun rôle dans la théologie de l'évangile.
+Là où les synoptiques fourmillent d'anecdotes et de personnages, le dernier évangile affiche une certaine sobriété. Le texte johannique ne mentionne aucun exorcisme et présente un faible nombre de miracles dont la majorité lui sont propres : ainsi l'eau changée en vin à Cana, la guérison à la piscine de Béthesda, la guérison d'un aveugle-né et la résurrection de Lazare. Il offre plutôt des dialogues, des histoires à portée métaphorique — comme celle du bon berger — plutôt que des paraboles, et de longs discours de révélation souvent décousus et répétitifs — qui présentent les grands thèmes théologiques johanniques. De grands discours des évangiles synoptiques sont cependant absents, comme le sermon sur la montagne et celui du mont des Oliviers.
+En outre, le quatrième évangile ne mentionne pas le baptême de Jésus dans sa rencontre avec Jean le Baptiste, ni la Transfiguration, pas plus que le procès au Sanhédrin. Le regard que Jean porte sur la « mère de Jésus » - qu'il ne nomme jamais Marie - est positif quand, dans les synoptiques, Jésus manifeste une réserve qui confine parfois à l'hostilité à l'égard de sa famille, y compris sa mère. Enfin, la date donnée par le dernier évangile pour la crucifixion se situe la veille de la fête de la Pâque, soit le 14 nisân, ce qui contredit les synoptiques qui présentent la cène comme un repas pascal et posent le jour de l'exécution de jésus le 15 nizân. En posant le repas « avant la fête de Pâque », et avançant les événements de vingt-quatre heures, le récit johannique « détruit le symbolisme sacrificiel proprement pascal ».
+En revanche, l'évangile de Jean est le seul à contenir l'épisode de Jésus et la femme adultère, ce qui a conduit certains auteurs à se demander si ce texte n'était pas un ajout tardif. Cet évangile est également le seul à contenir l'épisode de la Samaritaine.
+On retrouve nombre de passages des synoptiques dans le quatrième évangile mais le contexte et la visée y sont souvent tout autres. Ainsi, l'épisode des marchands du Temple se déroule, dans les synoptiques, quelques jours avant la crucifixion qu'il semble précipiter, tandis que le texte johannique l'évoque au début de son récit pour lui donner une dimension prophétique et théologique.
+Autre particularité, cet évangile ne contient pas de référence explicite à la parousie, à la différence de l'Apocalypse, qui est consacrée à ce thème. Certains universitaires ont même suggéré que, pour l'auteur, le Christ est déjà revenu spirituellement.
+
+
+==== Rapports avec le gnosticisme ====
+Il existe des parallèles stylistiques occasionnels et des ressemblances entre Jean et le gnosticisme mais la plupart des spécialistes actuels doutent que le quatrième évangile ait emprunté à ce dernier ; en effet, comme le souligne Raymond E. Brown, « tous les indices d'un gnosticisme développé datent d'après la composition de Jean ».
+Certains chercheurs continuent cependant à voir une proximité entre le récit johannique et les productions issues de la gnose et expliquent, pour certains, cette proximité par l'hypothèse de sources communes d'inspiration de Jean et des gnostiques dans la littérature apocalyptique juive.
+L'opposition johannique de la chair et de l'esprit, présente également chez Paul, est aussi un thème fort du gnosticisme. Cependant, ici, elle se trouve dépassée, « puisque la chair elle-même, réceptacle et symbole du mal, est comme spiritualisée par l'incarnation du Verbe ».
+
+
+=== Valeur historique ===
+Depuis la fin du XIXe siècle, la fiabilité de l’Évangile selon Jean comme source d'informations historiques est contestée. Son rédacteur, ou son groupe de rédacteurs, propose une version en partie autonome par rapport aux synoptiques, en reprenant quelques passages pour les éclairer d'un nouveau jour, écrivant lui-même certains discours et illustrant certains concepts par des images qui lui sont propres. Pour Geza Vermes, le récit, la chronologie et la structure de l’Évangile selon Jean sont sui generis. Les spécialistes actuels considèrent que le quatrième évangile représente une tradition historique indépendante des synoptiques et reflète des développements ultérieurs : ainsi, les longs discours que cet évangile attribue à Jésus résulteraient d'une lente réflexion au sein de l'école johannique sur la théologie du christianisme naissant et sur les liens entre le Christ et son Église.
+Cependant, malgré des doutes sur l'historicité de l'évangile johannique, celui-ci reste une source réévaluée par les exégètes. Sa valeur documentaire dans la quête du Jésus historique, longtemps dépréciée, a été revue à la hausse par l'exégèse historico-critique moderne. Entre autres, la recherche estime plausibles les indications données par Jean sur la durée de l'activité publique de Jésus (trois ans), sur le fait que ses premiers disciples viennent du cercle de Jean le Baptiste ou encore sur la date de sa mort à la veille de la Pâque.
+Tout en rappelant que les évangiles canoniques intègrent des événements locaux afin de favoriser « la continuité entre le passé réel et le récit », Marie-Françoise Baslez considère que l'évangile de Jean apparaît « finalement », dans ce cadre, comme « le plus riche en informations historiques, […] le plus crédible et le plus cohérent dans l'articulation des faits », tandis qu'elle souligne le paradoxe que cela constitue avec le fait que ce soit également le plus théologique des évangiles. C'est ainsi bien essentiellement la communication d'un contenu théologique pertinent qui préoccupe le rédacteur plutôt qu'une plausibilité narrative.
+
+
+== Structure et plan ==
+Le quatrième évangile a suscité parmi les exégètes une grande variété de découpages ou de plans. Néanmoins, une majorité de ceux-ci s'accordent sur un découpage en deux temps, introduit par le Prologue et terminé par un épilogue. Dans ses grandes lignes, le plan de Charles Harold Dodd semble s’imposer : il divise tout l’évangile en deux parties, le « Livre des Signes » (chap. 2-12) et le « Livre de la Passion » (chap. 13-20 ou 21). Selon André Feuillet, « sa structure littéraire est déterminée par une double progression : progression du point de vue de la révélation que fait Jésus de sa gloire jusqu’à "son heure" qui en est la manifestation suprême ; progression également du point de vue des réactions : foi et incrédulité que provoque cette révélation ».
+Le Prologue (1:1-18), qui commence par « Au commencement était le Verbe, et le Verbe était avec Dieu, et le Verbe était Dieu », annonce le récit proprement dit, composé de deux grandes parties : la révélation du Christ devant le monde et la révélation du Christ devant ses disciples, que Raymond E. Brown appelle respectivement le « livre des Signes » (1:19-12:50) et le « livre de la Gloire » (13-20).
+La première partie va du baptême de Jésus par Jean le Baptiste jusqu'à l'arrivée à Jérusalem, en insistant sur sept miracles (« signes ») de Jésus. La deuxième partie présente les dialogues de Jésus avec ses principaux disciples (13-17) et décrit sa passion, sa crucifixion et ses apparitions aux disciples après sa résurrection (18-20). Enfin, l'épilogue évoque les apparitions du ressuscité, puis s'achève par une deuxième conclusion (21).
+
+
+== Contenu, style et théologie ==
+
+
+=== Christologie ===
+
+
+==== Jésus, Logos de Dieu ====
+
+Le titre grec de logos (en grec ancien : λόγος) — « Verbe/Parole » — qui scande le prologue pour ne plus apparaître ensuite dans l'évangile, est une notion qui traverse les cultures de l’Antiquité, présente par exemple tant dans la philosophie grecque classique que dans le stoïcisme. L'allusion claire au premier verset de la Genèse puis les différentes allusions à la tradition sapientiale de l'Ancien Testament montrent que l'auteur a puisé dans la théologie juive telle qu'elle était présente dans le monde gréco-romain, de même que dans plusieurs Targoumim, où la « Parole de Dieu » apparaît près de 600 fois sous une forme personnelle qui n'exclut pas pour autant l'unité divine.
+
+Le choix du terme « logos » permet d'insister sur une expression de Dieu qui, dans le quatrième évangile, se manifeste comme une parole incarnée et intelligible : « Au commencement était le Verbe, et le Verbe était tourné vers Dieu, et le Verbe était Dieu ». C'est Jésus qui va incarner ce « Verbe divin » à la suite d'un prologue qui a pour objet de révéler la véritable identité du héros du récit qui va suivre. Ainsi, pour le quatrième évangile, l'histoire de Jésus dans son intégralité doit être lue à partir de l'affirmation selon laquelle il est la Parole de Dieu faite chair.
+
+Il s'agit ainsi d'une christologie de l'incarnation dans laquelle le Fils préexistant, vivant en unité avec le Père et jouant un rôle de médiateur de la création, s'incarne pour que Dieu soit présent au sein de cette création et de l’humanité.
+D'un point de vue christologique, la conception de Jésus en tant que Logos a joué un rôle important dans l'établissement de la doctrine de la divinité de Jésus-Christ. Jésus en tant que « Verbe incarné », détermine la place du Christ en tant que Dieu le Fils dans la Trinité, de la manière indiquée par le concile de Chalcédoine.
+Jésus est appelé deux fois μονογενής / monogenếs dans le Prologue (1, 14 et 18) que l'on transcrit monogène et l'on traduit par « unique engendré ». Or, Marteen Menken a réalisé une analyse numérique du terme en assignant respectivement les nombres 200 à sigma (ς), 70 à omicron (ο), 50 à nu (ν), 40 à mu (μ), 8 à êta (η), 5 à epsilon (ε) et 3 à gamma (γ) selon la numération grecque. En additionnant les chiffres correspondant aux différentes lettres, il obtint le nombre 496. Or, il a trouvé 496 syllabes dans le prologue de l’Évangile (Jean 1, 1-18), et 496 mots dans son épilogue (Jean 20, 30 -21, 25). L’Évangile de Jean se donnerait ainsi à travers ce jeu numérique comme la révélation complète sur Jésus.
+
+
+==== Christologie ====
+Stephen L. Harris affirme que Jean décrit Jésus comme « une brève manifestation du Verbe éternel, dont l'esprit immortel reste toujours présent auprès du chrétien fidèle ». Une autre théorie, issue de l'école anglo-saxonne, enracine le caractère hypostatique du Logos de Jean dans la tradition juive issue de Philon d'Alexandrie et de l'école néo-platonicienne d'Alexandrie. Pourtant, l’Évangile selon Jean le montre aussi comme un être profondément humain qui éprouve des émotions telles que la tristesse et la joie, la lassitude et l'élan, la compassion et la colère.
+L'évangile selon Jean se concentre beaucoup plus que les autres sur la relation mystique qui unit le Père et le Fils. On affirme souvent que c'est en s'appuyant sur celui-ci qu'a été produite la doctrine de la Trinité. En effet, selon le Dictionnaire Jésus, s'appuyant sur plusieurs passages de l'Évangile de Jean, la clef de la doctrine chrétienne de la Trinité reposerait sur les deux façons dont Jésus se rapporte au monothéisme de la Bible, l'une négative, ou Jésus parle de Dieu comme étant l'Un transcendant, et l'autre positive où Jésus laisse entrevoir par ses actions sa divinité.
+L'évangile de Jean traite plus spécifiquement que les autres de la relation du rédempteur aux croyants, de l'annonce du Paraclet, assimilé à l'Esprit, comme réconfort et comme défenseur. Ce qui marque avant tout les esprits est le développement du thème johannique par excellence de la primauté de l'amour dans la doctrine chrétienne.
+
+
+==== Jésus, nouveau Moïse ====
+Jésus est celui dont Moïse a parlé : Philippe dit à Nathanaël parlant de Jésus : « Celui dont parlent la loi de Moïse et des prophètes nous l'avons trouvé » (Jean 1, 45). De même, Jésus s'adressant à ses interlocuteurs leur dit : « Si vous croyiez Moïse, vous me croiriez aussi » (Jean 5, 46).
+- Jésus est le nouveau Moïse, le prophète par excellence. De lui, la foule s'écrie : « C'est vraiment lui le Prophète » (Jean 6, 14), ce qu'elle reprend plus loin (Jean 7, 40). L'évangéliste place sur les lèvres de Jésus des paroles qui concernent Moïse dans les Écritures. Respectivement Jean 7, 16-17; 8, 28-29; 12, 48-50 et Exode 4, 12, Nombres 16, 28 et Deutéronome 18, 18-19.
+- Jésus comme Moïse sauve et guide son peuple dans le prolongement de l'exode mosaïque : Il est l'agneau immolé à Pâques (Jean, 18 et Exode 12, 3-11); il est lors de la fête des tentes le rocher qui, frappé par Moïse, fit jaillir l'eau vive (Jean 7, 37-38 et Nombres 20, 1-3). Il est lors du discours sur le pain de vie la manne tombée du ciel que Moïse distribua dans le désert (Jean 6, 5-13 et Exode 16, 12-16). Il sera sur la croix le serpent que Moïse a élevé dans le désert (Jean 3, 14 et Nombres 21, 9).
+- Jésus enseigne transmet à ses disciples les paroles de Dieu (Jean 3, 34), tandis que Moïse a redit à Israël ce que Dieu lui avait révélé au mont Sinaï (Deutéronome 18, 15).
+- Moïse, lors de l’épisode du Buisson ardent, a reçu par révélation de Dieu le nom divin qui est « Je suis celui qui est » et il l'a transmis à Israël (Exode 3, 13-15). Jésus reprend à son compte le « je suis » divin en affirmant : « Avant même qu'Abraham ne fut, je suis » (Jean 8, 58), ce qui suscitera de la part de ceux qui l'entourent une tentative de le lapider pour sacrilège. Jésus reprendra plusieurs fois à son compte le « je suis » divin, par exemple lorsqu'il le dit et que les soldats chargés de l'arrêter à Gethsémani tombèrent à la renverse (Jean 18, 5-6).
+- La parole de Moïse reçue de Dieu est donatrice de vie (Deutéronome 8,3), une vie que l'on obtient si on l'écoute (Deutéronome 18, 15-19). La parole de Jésus est bien plus : elle est parole de vie éternelle (Jean 6, 63-68 et 12, 50), elle ressuscite celui qui la reçoit (Jean 5, 24). Bien plus encore, elle est lui-même (Jean 1, 1-17).
+- Jésus fait entrer dans l'intimité divine, mieux que Moïse qui était le seul à converser avec Dieu face à face comme un ami. En effet, engendré de Dieu, il le révèle comme un fils révèle son père.
+
+
+=== Style et langage ===
+
+
+==== Terminologie ====
+La comparaison avec les trois autres évangiles canoniques met en relief la singularité du langage johannique. Il développe un vocabulaire qui lui est propre en usant d'une terminologie — « aimer », « connaître », « témoigner », « juger », « le Père », « la vie », « le monde », « les juifs » — qu'on ne retrouve guère dans les synoptiques, qui développent d'autres thèmes — le Royaume /le Règne, le baptême, l'évangile, la parabole, la prière — qu'on ne retrouve quasiment pas dans le dernier évangile. Apparemment simple, le quatrième évangile est en fait d'une grande subtilité et plusieurs autres traits stylistiques le caractérisent encore.
+
+
+==== Forme poétique ====
+Le quatrième évangile propose quelques passages, notamment le Prologue, dans lesquels une partie des exégètes décèlent un style poétique formel dont la caractéristique est le rythme, qui se traduit par des lignes de longueur relativement comparable constituant chacune une clausule. Indépendamment des débats sur cette forme poétique, son existence ou son originalité, il demeure clair que Jésus emploie un ton bien plus solennel dans le texte johannique que dans les synoptiques. On peut y voir une influence du discours divin de l'Ancien Testament, transmis à travers les prophètes de manière poétique, se singularisant par rapport à l'expression humaine plus prosaïque. Cette solennité dans le discours est naturelle pour le Jésus johannique, elle vient de Dieu.
+Le récit johannique propose un style simple, mais empreint de solennité, voire de majesté : Jésus — le « Verbe fait chair » — doit utiliser le langage commun pour présenter son message mais s'exprime souvent de manière elliptique, figurative ou métaphorique. Il s'ensuit souvent une incompréhension de l'interlocuteur qui permet à Jésus de préciser sa pensée et, de là, de développer sa doctrine. Les disciples eux-mêmes trouvent le discours dur et difficile à comprendre, ce qui peut provoquer l'agacement de Jésus. Ce procédé stylistique johannique « de l'incompréhension » est devenu une technique littéraire étudiée.
+
+
+==== Double sens et double discours ====
+Participants en partie de « l'incompréhension », on relève une série de doubles sens dans le discours de Jésus qui peuvent traduire l'aspect multiforme de la révélation.
+Le texte laisse la possibilité de lectures multiples de certains propos de Jésus, n'hésitant pas à jouer sur les mots avec un sens parfois fondé sur l'hébreu, parfois sur le grec, ou qui ont des doubles significations. La scène de Nicodème, usant de nombreux jeux de mots et de ce fait difficile à restituer, est significative de ce procédé.
+L'auteur du quatrième évangile propose souvent dans un même récit, voire dans une même métaphore, plusieurs niveaux de sens. Celui-ci peut correspondre aux différentes strates de composition du texte : celui-ci, tout en exposant le contexte propre au ministère public de Jésus, peut, dans un deuxième sens, témoigner de la situation de la communauté de ses disciples. Un exemple assez connu est l'annonce de la destruction du Temple de Jérusalem et de sa reconstruction, qui prend un autre sens, orienté vers la crucifixion puis la résurrection du corps de Jésus.
+Le texte est considéré comme le résultat du travail successif d'un premier évangéliste auteur du corps du texte puis d'un autre auteur — ou réviseur — (peut-être plusieurs) qui y a fait des ajouts mais avant que l'évangile soit mis en circulation. Ainsi, après la conclusion du chapitre 20, un chapitre 21 et une autre fin ont été ajoutés. Certains des ajouts du second éditeur donnent l'impression d'un double discours : on retrouve — parfois mot pour mot — des propos de Jésus déjà rapportés : le réviseur a pu trouver dans la tradition des versions différentes des discours qu'il a ajoutées à des endroits appropriés afin qu'elles ne se perdent pas et bien que ce matériel soit redondant avec les versions du premier rédacteur, même si l'on trouve parfois un autre ton dans ce matériel répété.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+=== Références bibliques ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Études bibliques
+Évangile selon Matthieu
+Évangile selon Marc
+Évangile selon Luc
+Prologue de l'évangile selon Jean
+Variantes du texte de l'Évangile de Jean
+
+
+=== Bibliographie ===
+Ouvrages généralistes
+Régis Burnet, Le Nouveau Testament, PUF, coll. « Que sais-je ? », 2004
+Claudio Moreschini, Enrico Norelli, Histoire de la littérature chrétienne ancienne grecque et latine, Labor et Fides, 2000
+Raymond Edward Brown (trad. de l'anglais), Que sait-on du Nouveau Testament ?, Montrouge, Bayard, 2011 (1re éd. 1997), 921 p. (ISBN 978-2-227-48252-4).
+Ouvrages et articles sur l'Évangile selon Jean
+Paul N. Anderson, The Riddles of the Fourth Gospel. An Introduction to John, Minneapolis, Fortress Press, 2011
+(en) Barton, Stephen C., 2008, The Gospel of John and Christian Theology, in Richard Bauckham ; Carl Mosser, (eds.), The Gospel of John and Christian Theology, Eerdmans.
+(en) Richard Bauckham, Testimony of the Beloved Disciple, The Narrative History and Theology in the Gospel of John, 2007.
+Johannes Beutler, L’Évangile de Jean. Commentaire (2013), Paris, Éditions jésuites, 2023
+Raymond E. Brown, La Communauté du disciple bien-aimé, Cerf, collection Lectio Divina, 1983
+Gérald Caron, Qui sont les Juifs de l'évangile de Jean ?, Bellarmin, 1997
+James Charlesworth, « The Historical Jesus in the Fourth Gospel : A Paradigm shift? », Journal for the Study of the Historical Jesus 8 (2010), 3-46
+Édouard Cothenet, La Chaîne des témoins dans l'évangile de Jean, éditions du Cerf, 2005
+(en) Charles Harold Dodd, The Interpretation of the fourth gospel, Cambridge University Press, 2008 (1re éd. 1953), 492 p. (ISBN 978-0521095174)
+Pierre Grelot, Les Juifs dans l'Évangile de Jean. Enquête historique et réflexion théologique, Gabalda et Cie, 1995
+Jean-Paul Michaud, « Le signe de Cana dans son contexte johannique (II) », Laval théologique et philosophique, vol. 19, no 2,‎ 1963, p. 257-283 (lire en ligne)
+Ignace de La Potterie, s.j., La Vérité dans saint Jean, vol. I : Le Christ et la vérité. L'Esprit et la vérité; vol. II : Le croyant et la vérité, coll. 'Analecta Biblica' no 73 et 74, Rome, P.I.B., 1977. Seconde édition revue en 1999.
+Xavier Léon-Dufour, sj, Lecture de l'évangile selon Jean, 4 volumes, Paris, Seuil, 1988, 1990, 1993 et 1996
+Rudolf Pesch, L'Évangile n'est pas antisémite. Saint Jean soumis à l'examen, Traduit de l'allemand par C. Lanfranchi-Veyret et G. r. Veyret, Paris, Desclée de Brouwer, 2007
+Yves Simoens, « L'évangile selon Jean et les juifs. Un paradigme d'interprétation en dialogue », dans David Meyer (dir.), Yves Simoens et Soheib Bencheikh, Les Versets douloureux. Bible, Évangile et Coran entre conflit et dialogue, Bruxelles, éd. Lessius, coll. L'autre et les autres, no 9, 2007, p. 63-116..
+Yves Simoens, s.j., « La réévaluation historique du quatrième évangile », Nouvelle Revue théologique, vol. 136, no 2,‎ 2014, p. 177-195 (lire en ligne).
+Yves Simoens, sj, Selon Jean, Une traduction. Une interprétation, collection de l’Institut d’études théologiques 19, Bruxelles, Lessius, 2004
+Yves Simoens, sj, Évangile selon Jean, éditions Facultés jésuites de Paris, 2016
+Yves Simoens, sj, Croire en Jésus selon Jean. Redécouvrir la foi de l'Évangile, éditions Salvator, 2021
+Geza Vermes, Enquête sur l'identité de Jésus. Nouvelles interprétations, Bayard, 2003.
+Jean Zumstein, L'Évangile selon saint Jean (1-12), Labor et Fides, 2014
+Jean Zumstein, L'Évangile selon saint Jean (13-21), Labor et Fides, 2008.
+Jean Zumstein, « L'Évangile selon Jean », dans Daniel Marguerat, Introduction au Nouveau Testament : son histoire, son écriture, sa théologie, Labor et Fides, 2008.
+Jean Zumstein, « L'Évangile selon Jean », dans Camille Focant et Daniel Marguerat, Le Nouveau Testament commenté, Bayard/Labor et Fides, 2012.
+
+
+=== Liens externes ===
+
+Ressource relative à la musique : MusicBrainz (œuvres)  
+
+Thomas d'Aquin, Chaîne d'or sur l’Évangile selon saint Jean, sur Wikisource
+Évangile selon saint Jean, éd. Gabalda, 1936, Marie-Joseph Lagrange sur Gallica
+
+ Portail du christianisme   Portail de la Bible

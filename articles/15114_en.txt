@@ -1,0 +1,50 @@
+An Investigation of the Laws of Thought: on Which are Founded the Mathematical Theories of Logic and Probabilities  by George Boole, published in 1854, is the second of Boole's two monographs on algebraic logic. Boole was a professor of mathematics at what was then Queen's College, Cork, now University College Cork, in Ireland.
+
+
+== Review of the contents ==
+The historian of logic John Corcoran wrote an accessible introduction to Laws of Thought and a point by point comparison of Prior Analytics and Laws of Thought. According to Corcoran, Boole fully accepted and endorsed Aristotle's logic. Boole's goals were “to go under, over, and beyond” Aristotle's logic by: 
+
+Providing it with mathematical foundations involving equations;
+Extending the class of problems it could treat from assessing validity to solving equations, and;
+Expanding the range of applications it could handle — e.g. from propositions having only two terms to those having arbitrarily many.
+More specifically, Boole agreed with what Aristotle said; Boole's ‘disagreements’, if they might be called that, concern what Aristotle did not say. First, in the realm of foundations, Boole reduced the four  propositional forms of Aristotle's logic to formulas in the form of equations—by itself a revolutionary idea. Second, in the realm of logic's problems, Boole's addition of equation solving to logic—another revolutionary idea—involved Boole's doctrine that Aristotle's rules of inference (the “perfect syllogisms”) must be supplemented by rules for equation solving. Third, in the realm of applications, Boole's system could handle multi-term propositions and arguments whereas Aristotle could handle only two-termed subject-predicate propositions and arguments. For example, Aristotle's system could not deduce “No quadrangle that is a square is a rectangle that is a rhombus” from “No square that is a quadrangle is a rhombus that is a rectangle” or from “No rhombus that is a rectangle is a square that is a quadrangle”.
+Boole's work founded the discipline of algebraic logic. It is often, but mistakenly, credited as being the source of what we know today as Boolean algebra.  In fact, however, Boole's algebra differs from modern Boolean algebra: in Boole's algebra A+B cannot be interpreted by set union, due to the permissibility of uninterpretable terms in Boole's calculus. Therefore, algebras on Boole's account cannot be interpreted by sets under the operations of union, intersection and complement, as is the case with modern Boolean algebra.  The task of developing the modern account of Boolean algebra fell to Boole's successors in the tradition of algebraic logic (Jevons 1869, Peirce 1880, Jevons 1890, Schröder 1890, Huntington 1904).
+
+
+== Uninterpretable terms ==
+In Boole's account of his algebra, terms are reasoned about equationally, without a systematic interpretation being assigned to them.  In places, Boole talks of terms being interpreted by sets, but he also recognises terms that cannot always be so interpreted, such as the term 2AB, which arises in equational manipulations.  Such terms he classes uninterpretable terms; although elsewhere he has some instances of such terms being interpreted by integers.
+The coherences of the whole enterprise is justified by Boole in what Stanley Burris has later called the "rule of 0s and 1s", which justifies the claim that uninterpretable terms cannot be the ultimate result of equational manipulations from meaningful starting formulae (Burris 2000).  Boole provided no proof of this rule, but the coherence of his system was proved by Theodore Hailperin, who provided an interpretation based on a fairly simple construction of rings from the integers to provide an interpretation of Boole's theory (Hailperin 1976).
+
+
+== Boole’s 1854 definition of the universe of discourse ==
+In every discourse, whether of the mind conversing with its own thoughts, or of the individual in his intercourse with others, there is an assumed or expressed limit within which the subjects of its operation are confined. The most unfettered discourse is that in which the words we use are understood in the widest possible application, and for them the limits of discourse are co-extensive with those of the universe itself. But more usually we confine ourselves to a less spacious field. Sometimes, in discoursing of men we imply (without expressing the limitation) that it is of men only under certain circumstances and conditions that we speak, as of civilized men, or of men in the vigour of life, or of men under some other condition or relation. Now, whatever may be the extent of the field within which all the objects of our discourse are found, that field may properly be termed the universe of discourse. Furthermore, this universe of discourse is in the strictest sense the ultimate subject of the discourse.
+
+
+== Editions ==
+Boole (1854). An Investigation of the Laws of Thought. Walton & Maberly.
+Boole, George (1958[1854]). An Investigation of the Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities. Macmillan.  Reprinted with corrections, Dover Publications, New York, NY (reissued by Cambridge University Press, 2009, ISBN 978-1-108-00153-3).
+
+
+== See also ==
+Algebra of concepts
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+Burris, S. (2000). The Laws of Boole's Thought.  Manuscript.
+Hailperin, T. (1976/1986). Boole's Logic and Probability. North Holland.
+Hailperin, T, (1981). Boole's algebra isn't Boolean algebra. Mathematics Magazine 54(4): 172–184. Reprinted in A Boole Anthology (2000), ed. James Gasser. Synthese Library volume 291, Spring-Verlag.
+Huntington, E.V. (1904). Sets of independent postulates for the algebra of logic. Transactions of the American Mathematical Society 5:288–309.
+Jevons, W.S. (1869). The Substitution of Similars. Macmillan and Co.
+Jevons, W.S. (1990).  Pure Logic and Other Minor Works. Ed. by Robert Adamson and Harriet A. Jevons. Lennox Hill Pub. & Dist. Co.
+Peirce, C.S. (1880). On the algebra of logic.  In American Journal of Mathematics 3 (1880).
+Schröder, E. (1890-1905). Algebra der Logik. Three volumes, B.G. Teubner.
+
+
+== External links ==
+Full text at Project Gutenberg

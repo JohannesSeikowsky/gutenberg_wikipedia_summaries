@@ -1,0 +1,58 @@
+The Zhoubi Suanjing, also known by many other names, is an ancient Chinese astronomical and mathematical work. The Zhoubi is most famous for its presentation of Chinese cosmology and a form of the Pythagorean theorem. It claims to present 246 problems worked out by the Duke of Zhou as well as members of his court, placing its composition during the 11th century BC. However, the present form of the book does not seem to be earlier than the Eastern Han (25–220 AD), with some additions and commentaries continuing to be added for several more centuries.
+The book was included as part of the Ten Computational Canons.
+
+
+== Names ==
+The work's original title was simply the Zhoubi: the character 髀 is a literary term for the femur or thighbone but in context only refers to one or more gnomons, large sticks whose shadows were used for Chinese calendrical and astronomical calculations. Because of the ambiguous nature of the character 周, it has been alternately understood and translated as 'On the gnomon and the circular paths of Heaven', the 'Zhou shadow gauge manual', the 'Gnomon of the Zhou sundial', and 'Gnomon of the Zhou dynasty'. The honorific Suanjing—'Arithmetical classic', 'Sacred book of arithmetic', 'Mathematical canon', 'Classic of computations',—was added later.
+
+
+== Dating ==
+Examples of the gnomon described in the work have been found from as early as 2300 BC and the Duke of Zhou, was an 11th-century BC regent and noble during the first generation of the Zhou dynasty. The Zhoubi was traditionally dated to the Duke of Zhou's own life and considered to be the oldest Chinese mathematical treatise. However, although some passages seem to come from the Warring States period or earlier, the current text of the work mentions Lü Buwei and is believed to have received its current form no earlier than the Eastern Han, during the 1st or 2nd century. The earliest known mention of the text is from a memorial dedicated to the astronomer Cai Yong in 178 AD. It does not appear at all in the Book of Han's account of calendrical, astronomical, and mathematical works, although Joseph Needham allows that this may have been from its current contents having previously been provided in several different works listed in the Han history which are otherwise unknown.
+
+
+== Contents ==
+
+The Zhoubi is an anonymous collection of 246 problems encountered by the Duke of Zhou and figures in his court, including the astrologer Shang Gao. Each problem includes an answer and a corresponding arithmetic algorithm.
+It is an important source on early Chinese cosmology, glossing the ancient idea of a round heaven over a square earth (天圆地方, tiānyuán dìfāng) as similar to the round parasol suspended over some ancient Chinese chariots or a Chinese chessboard. All things measurable were considered variants of the square, while the expansion of a polygon to infinite sides approaches the immeasurable circle. This concept of a 'canopy heaven' (蓋天, gàitiān) had earlier produced the jade bi (璧) and cong objects and myths about Gonggong, Mount Buzhou, Nüwa, and repairing the sky. Although this eventually developed into an idea of a 'spherical heaven' (渾天, hùntiān), the Zhoubi offers numerous explorations of the geometric relationships of simple circles circumscribed by squares and squares circumscribed by circles. A large part of this involves analysis of solar declination in the Northern Hemisphere at various points throughout the year.
+At one point during its discussion of the shadows cast by gnomons, the work presents a form of the Pythagorean theorem known as the gougu theorem (勾股定理) from the Chinese names—lit. 'hook' and 'thigh'—of the two sides of the carpenter or try square. In the 3rd century, Zhao Shuang's commentary on the Zhoubi included a diagram effectively proving the theorem for the case of a 3-4-5 triangle, whence it can be generalized to all right triangles. The original text being ambiguous on its own, there is disagreement as to whether this proof was established by Zhao or merely represented an illustration of a previously understood concept earlier than Pythagoras. Shang Gao concludes the gougu problem saying "He who understands the earth is a wise man, and he who understands the heavens is a sage. Knowledge is derived from the shadow [straight line], and the shadow is derived from the gnomon [right angle]. The combination of the gnomon with numbers is what guides and rules the ten thousand things."
+
+
+== Commentaries ==
+The Zhoubi has had a prominent place in Chinese mathematics and was the subject of specific commentaries by Zhao Shuang in the 3rd century, Liu Hui in 263, by Zu Gengzhi in the early 6th century, Li Chunfeng in the 7th century, and Yang Hui in 1270.
+
+
+== Translation ==
+A translation to English was published in 1996 by Christopher Cullen, through the Cambridge University Press, entitled Astronomy and mathematics in ancient China: the Zhou bi suan jing. The work includes a preface attributed to Zhao Shuang, as well as his discussions and diagrams for the gougu theorem, the height of the sun, the seven heng and his gnomon shadow table, restored.
+
+
+== See also ==
+Xuan tu
+Tsinghua Bamboo Slips
+Dunhuang Star Chart
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Works cited ===
+"Chinese", Encyclopaedia Britannica, vol. II (1st ed.), Edinburgh: Colin Macfarquhar, 1771, pp. 184–192.
+Chemla, Karine (2005), Geometrical Figures and Generality in Ancient China and Beyond, Science in Context, ISBN 0-521-55089-0.
+Cullen, Christopher (1996), Astronomy and Mathematics in Ancient China, Cambridge University Press, ISBN 0-521-55089-0.
+Cullen, Christopher (2018), "Chinese Astronomy in the Early Imperial Age", The Cambridge History of Science, Vol. I:  Ancient Science, Cambridge University Press, ISBN 978-110868262-6.
+Davis, Philip J.; et al., eds. (1995), "Brief Chronological Table to 1910", The Mathematical Experience, Modern Birkhäuser Classics, Boston: Birkhäuser, pp. 26–29, ISBN 978-081768294-1.
+Ding, D.X. Daniel (2020), The Historical Roots of Technical Communication in the Chinese Tradition, Newcastle-upon-Tyne: Cambridge Scholars, ISBN 978-152755989-9.
+Elman, Benjamin (2015), "Early Modern or Late Imperial? The Crisis of Classical Philology in Eighteenth-Century China", World Philology, Cambridge: Harvard University Press, pp. 225–244.
+Gamwell, Lynn (2016), Mathematics + Art: A Cultural History, Princeton University Press, ISBN 978-069116528-8.
+Needham, Joseph; et al. (1959), Science & Civilisation in China, Vol. III:  Mathematics and the Sciences of the Heavens and the Earth, Cambridge University Press, ISBN 978-052105801-8 {{citation}}: ISBN / Date incompatibility (help).
+Pang-White, A. Ann (2018), The Confucian Four Books for Women, Oxford University Press, ISBN 978-0-19-046091-4.
+Tseng, L.Y. Lillian (2011), Picturing Heaven in Early China, East Asian Monographs, Cambridge: Harvard University Asia Center, ISBN 978-0-674-06069-2.
+Zou Hui (2011), A Jesuit Garden in Beijing and Early Modern Chinese Culture, West Lafayette: Purdue University Press, ISBN 978-155753583-2.
+
+
+== Further reading ==
+周髀算經 (in Chinese), Chinese Text Project.
+周髀算經 (in Chinese), Project Gutenberg.
+Boyer, Carl B. (1991), A History of Mathematics, John Wiley & Sons, ISBN 0-471-54397-7.

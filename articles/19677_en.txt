@@ -1,0 +1,99 @@
+Cædmon's Hymn is a short Old English poem attributed to Cædmon, a supposedly illiterate and unmusical cow-herder who was, according to the Northumbrian monk Bede (d. 735), miraculously empowered to sing in honour of God the Creator. The poem is Cædmon's only surviving composition.
+The poem has a claim to being the oldest surviving English poem: if Bede's account is correct, the poem was composed between 658 and 680, in the early stages of the Christianization of Anglo-Saxon England; even on the basis of the surviving manuscripts, the poem is the earliest securely dateable example of Old English verse. Correspondingly, it is one of the oldest surviving samples of Germanic alliterative verse, constituting a prominent landmark for the study of Old English literature and for the early use of traditional poetic form for Christian themes following the conversion of early medieval England to Christianity. Indeed, one scholar has argued that Bede perceived it as a continuation of Germanic praise poetry, which led him to include a Latin translation but not the original poem.
+The poem is also the Old English poem attested in the second largest number of manuscripts — twenty-one — after Bede's Death Song. These are all manuscripts of Bede's Ecclesiastical History of the English People. These manuscripts show significant variation in the form of the text, making it an important case-study for the scribal transmission of Old English verse.
+
+
+== Text and translation ==
+Cædmon's Hymn survives in Old English in twenty-one manuscripts, originally as marginal annotations to Bede's Latin account of the poem. Some of these manuscripts reflect the Northumbrian dialect of Bede and (putatively) of Cædmon, and some reflect the transfer of the poem into the West Saxon dialect. Whether due to change in oral tradition or scribal transmission, the text varies in different manuscripts. There is some debate as to the best translation of some of these variants.
+The following Old English text is a normalized reading of the oldest or second-oldest manuscript of the poem, the mid-eighth-century Northumbrian Moore Bede (Cambridge, University Library, MS Kk. 5. 16). The translation notes key points of debate as to meaning, and variation in other manuscripts.
+
+Although the different Old English versions do not diverge from one another enormously, they vary enough that researchers have been able to reconstruct five substantively different variants of the poem, witnessed by different groups of the twenty-one manuscripts. The following list links to critical editions of each by Daniel O'Donnell:
+
+A Northumbrian recension characterised by the word aelda in line 5b.
+A Northumbrian recension characterised by the word eordu in line 5b.
+A West-Saxon recension characterised by the word ylda in line 5b (which accounts for all the texts of the Old English translation of the Historia ecclesiastica).
+A West-Saxon recension characterised by the word eorðan in line 5b.
+A late, West-Saxon recension characterised by the word eorðe in line 5b and extensive textual corruption.
+One example of an attempted literary translation of Cædmon's Hymn (in this case of the eorðan recension) is Harvey Shapiro's 2011 rendering:
+
+Guardian of heaven     whom we come to praise
+who mapped creation     in His thought's sinews
+Glory-Father      who worked out each wonder
+began with broad earth     a gift for His children
+first roofed it with heaven     the Holy Shaper
+established it forever     as in the beginning
+called it middle kingdom     fenced it with angels
+created a habitation     for man to praise His splendor
+
+
+== Origins ==
+
+
+=== Bede's story ===
+Cædmon's Hymn survives only in manuscripts of Bede's Historia ecclesiastica gentis Anglorum, which recounts the poem as part of an elaborate miracle-story. Bede's chronology suggests that these events took place under the abbacy of Hild of Whitby (658–80), or in the decade after her death. Whether Bede had this story directly from oral sources or whether he had access to a written account is a matter of debate, but although world literature attests to many stories of poetic inspiration that recall Bede's, none is similar enough to be a likely source.
+According to Bede, Cædmon was an illiterate cow-herder employed at the monastery of Whitby who miraculously recited a Christian song of praise in Old English verse. In the story, Cædmon is attending a feast; when the revellers pass a harp around for all to sing a song, he leaves the hall, because he cannot contribute a song and feels ashamed. He falls asleep, and in a dream a man appears to him, and asks him to sing a song. Cædmon responds that he cannot sing, yet the man tells him to "Sing to me the beginning of all things". Cædmon is then able to sing verses and words that he had not heard of before. On waking, Cædmon reported his experience first to a steward then to Hild, the abbess of Whitby. She invites scholars to evaluate Cædmon's gift, and he is tasked with turning more divine doctrine into song. Hild is so impressed with Cædmon's poetic gift that she encourages him to become a monk. He learns the history of the Christian church and creates more poems, such as the story of Genesis and many other biblical stories. This impresses his teachers. Bede says that Cædmon, in composing verse, wanted to turn man from the love of sin to a love of good deeds. Cædmon is said to have died peacefully in his sleep after asking for the Eucharist and making sure he was at peace with his fellow men.
+
+The following Latin text is the prose paraphrase of Cædmon's poem which Bede presents in his Historia ecclesiastica gentis Anglorum; Bede did not give the text in Old English:"Nunc laudare debemus auctorem regni caelestis, potentiam creatoris, et consilium illius facta Patris gloriae: quomodo ille, cum sit aeternus Deus, omnium  miraculorum auctor exstitit; qui primo filiis hominum caelum pro culmine tecti dehinc terram custos humani generis omnipotens creavit." Hic est sensus, non autem orde ipse uerborum, quae dormiens ille canebat; neque enim possunt carmina, quamuis optime conposita, ex alia in aliam linguam ad uerbum sine detrimento sui decoris ac dignitatis transferri.
+"Now we must praise the Maker of the heavenly kingdom, the power of the Creator and his counsel, the deeds of the Father of glory and how he, since he is the eternal God, was the Author of all marvels and first created the heavens as a roof for the children of men and then, the almightly Guardian of the human race, created the Earth." This is the sense but not the order of the words which he sang as he slept. For it is not possible to translate verse, however well composed, literally from one language to another without some loss of beauty and dignity.
+
+
+=== Scholarly debate ===
+Many scholars have more or less accepted Bede's story, supposing that Cædmon existed and did compose Cædmon's Hymn. They infer that Cædmon's poem then circulated in oral tradition, that Bede knew it as an oral poem, and that his Latin paraphrase of the poem was a close rendering of this text. They then infer that other members of Bede's community also knew this orally transmitted Old English poem by heart, and that the text added into the margins of manuscripts of his Historia ecclesiastica shortly after his death is essentially the same poem that Cædmon composed and Bede knew.
+However, it is also possible that although the Old English poem was indeed in oral tradition prior to Bede, the story of its composition is a fabrication.
+Meanwhile, the content of Bede's Latin paraphrase is somewhat different from all the surviving Old English texts. Scholars have debated why this might be. Most scholars think that Bede was translating from a (probably oral) version of the Old English poem like one of the surviving versions, but doing so loosely. The earliest Old English version of the Hymn might have been the one that is most similar to Bede's text, in which case other Old English versions diverged from it in oral or scribal transmission. On the other hand, the earliest version might have been the one that is least similar to Bede's text, and Old English versions that are more similar to Bede's text might have been adapted by scribes to make them more similar to Bede's Latin.
+Some have even argued that the Old English text does not predate Bede's Latin at all, but originated as a (somewhat loose) verse translation of Bede's Latin text.
+
+
+== Manuscripts ==
+
+All copies of the Cædmon's Hymn are found in manuscripts of Bede's Latin Historia ecclesiastica gentis Anglorum or the Old English translation of that text; twenty-one manuscripts of the Old English poem, dating from the eighth century to the sixteenth, are known to have existed.
+
+
+=== List of manuscripts ===
+This list is based on the survey by Paul Cavill. Hyperlinks to O'Donnell's descriptions of each manuscript are provided from the shelf-marks, and to his facsimiles and transcriptions from folio numbers.
+
+
+=== Scribal transmission ===
+In the Latin copies, Cædmon's Hymn appears as a gloss to Bede's Latin translation of the Old English poem. Despite its close connection with Bede's work, the Old English Hymn does not appear to have been transmitted with the Latin Historia ecclesiastica regularly until relatively late in its textual history: where the Old English text appears in a Latin manuscript, it was often added by a scribe other than the one responsible for the main text. In three manuscript (Oxford, Bodleian Library, Laud Misc. 243; Oxford, Bodleian Library, Hatton 43; and Winchester, Cathedral I) the poem was copied by scribes working a quarter-century or more after the main text was first set down. Even when the poem is in the same hand as the manuscript's main text, there is little evidence to suggest that it was copied from the same exemplar as the Latin Historia: nearly identical versions of the Old English poem are found in manuscripts belonging to different recensions of the Latin text; closely related copies of the Latin Historia sometimes contain very different versions of the Old English poem.
+
+
+== Style ==
+Despite the name, it is not a hymn in the narrow sense of the formal and structural criteria of hymnody. It is, instead, a piece of traditional Old English alliterative poetry, which seems to have been composed as an oral piece to be sung aloud; it is characterised by formulaic diction shared by much other Old English poetry, and has been seen as a case-study for the application of oral-formulaic theory to Old English verse.
+Notwithstanding Bede's praise of Cædmon's Hymn in his Historia ecclesiastica, modern critics have not generally regarded the poem as a great aesthetic success. The poem is, however, metrically regular; like other Old English verse, the nine lines of the Hymn are divided into half-lines by a caesura, with the first most heavily stressed syllable in the first half alliterating with the first most heavily stressed syllable in the second. Although Bede presents the poem as innovative in handling Christian subject matter, its language and style is consistent with traditional Old English poetic style. It is generally acknowledged that the text can be separated into two rhetorical sections (although some scholars believe it could be divided into three), based on theme, syntax and pacing, the first being lines one to four and the second being lines five to nine. In the assessment of Daniel O'Donnell, 'stylistically, Cædmon's Hymn is probably most remarkable for its heavy use of ornamental poetic variation, particularly in the poem's last five lines'. 
+There has been much scholarly debate and speculation as to whether or not there existed pre-Cædmonian Christian composers by whom Cædmon may have been influenced, but the mainstream opinion appears to be that it is "reasonably clear that Cædmon coined the Christian poetic formulas that we find in the Hymn". Cædmon's work "had a newness that it lost in the course of time", but it has been asserted by many that his poetic innovations "entitle him to be reckoned a genius";
+inasmuch as the content of the hymn might strike us as conventional or "banal", according to Malone (1961), "we are led astray by our knowledge of later poetry".
+
+
+== Editions, translations, and recordings ==
+Smith, A.H., ed. (1978). Three Northumbrian Poems: Cædmon's Hymn, Bede's Death Song and the Leiden Riddle. With a bibliography compiled by M.J. Swanton (revised ed.). London: University of Exeter. ISBN 978-0-85989-078-6. [first publ. as Three Northumbrian Poems: Cædmon's Hymn, Bede's Death Song and the Leiden Riddle, ed. by A. H. Smith (London, 1933)].
+Cædmon's Hymn: A Multimedia Study, Edition and Archive. 1.1, ed. by Daniel Paul O'Donnell, SEENET Series A — Editions, 8 (Charlottesville, Virginia: SEENET, 2018) [first published as O'Donnell, Daniel P. (2005). Cædmon's Hymn: A Multimedia Study, Edition and Archive. Cambridge: Brewer. ISBN 978-1-84384-044-2.].
+"Cædmon's Hymn": The Seven West Saxon Versions, ed. by Martin Foys (Wisconsin, Madison: The Center for the History of Print and Digital Culture, University of Wisconsin-Madison, 2019) [repr. in the Old English Poetry in Facsimile project].
+
+
+=== Translations ===
+Foreman, A.Z. (October 2010). "Caedmon's Hymn (From Old English)". Poems Found in Translation.
+Hagan, Harry, Cædmon's Hymn and Translations for Singing', The Downside Review, 127 [446] (2009), 13–22, doi:10.1177/001258060912744602
+'Cædmon's Hymn', trans. by Harvey Shapiro, in The Word Exchange: Anglo-Saxon Poems in Translation, ed. by Greg Delanty and Michael Matto (New York: Norton, 2011), p. 421.
+'Cædmon's hymn', trans. by Miller Wolf Oberman, in The Unstill Ones (Princeton: Princeton University Press, 2017), p. 3 ISBN 978-1-4008-8877-1.
+
+
+=== Recordings ===
+West-Saxon version by R. D. Fulk
+Northumbrian version, sung, by Lukas Papenfusscline
+Several versions by Michael D. C. Drout
+ Caedmon's Hymn public domain audiobook at LibriVox
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+=== Further reading ===

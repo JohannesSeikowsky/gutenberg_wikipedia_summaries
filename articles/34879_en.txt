@@ -1,0 +1,111 @@
+Cratylus ( KRAT-il-əs; Ancient Greek: Κρατύλος, Kratylos) is the name of a dialogue by Plato. Most modern scholars agree that it was written mostly during Plato's so-called middle period. In the dialogue, Socrates is asked by two men, Cratylus and Hermogenes, whether names are "conventional" or "natural", that is, whether language is a system of arbitrary signs or whether words have an intrinsic relation to the things they signify.
+Cratylus was Plato's first known intellectual influence. Aristotle states that Cratylus influenced Plato by introducing him to the teachings of Heraclitus.
+
+
+== Summary ==
+The subject of Cratylus is on the correctness of names (περὶ ὀνομάτων ὀρθότητος), in other words, it is a critique on the subject of naming (Baxter).
+When discussing an ὄνομα (onoma) and how it would relate to its subject, Socrates compares the original creation of a word to the work of an artist. An artist uses color to express the essence of his subject in a painting. In much the same way, the creator of words uses letters containing certain sounds to express the essence of a word's subject. There is a letter that is best for soft things, one for liquid things, and so on. He comments:
+
+The best possible way to speak consists in using names all (or most) of which are like the things they name (that is, are appropriate to them), while the worst is to use the opposite kind of names.
+One countering position, held by Hermogenes, is that names have come about due to custom and convention. They do not express the essence of their subject, so they can be swapped with something unrelated by the individuals or communities who use them.
+The line between the two perspectives is often blurred. During more than half of the dialogue, Socrates makes guesses at Hermogenes's request as to where names and words have come from. These include the names of the Olympian gods, personified deities, and many words that describe abstract concepts. He examines whether, for example, giving names of "streams" to Cronus and Rhea (Ροή – 'flow' or 'space') are purely accidental.
+
+Don't you think he who gave to the ancestors of the other gods the names "Rhea" and "Cronus" had the same thought as Heracleitus? Do you think he gave both of them the names of streams (ῥευμάτων ὀνόματα) merely by chance?
+The Greek term "ῥεῦμα" may refer to the flow of any medium and is not restricted to the flow of water or liquids. Many of the words which Socrates uses as examples may have come from an idea originally linked to the name, but have changed over time. Those of which he cannot find a link, he often assumes have come from foreign origins or have changed so much as to lose all resemblance to the original word. He states, "names have been so twisted in all manner of ways, that I should not be surprised if the old language when compared with that now in use would appear to us to be a barbarous tongue."
+The final theory of relations between name and object named is posited by Cratylus, a disciple of Heraclitus, who believes that names arrive from divine origins, making them necessarily correct. Socrates rebukes this theory by reminding Cratylus of the imperfection of certain names in capturing the objects they seek to signify. From this point, Socrates ultimately rejects the study of language, believing it to be philosophically inferior to a study of things themselves.
+
+
+== Name of Hades ==
+
+An extended section of Cratylus is devoted to the origin of the name of Hades. This etymology, through the lens of modern comparative linguistics, is unknown, but has carried a folk etymology since antiquity as meaning "The Unseen One". Modern linguists have proposed a Proto-Greek form of *Awides, literally 'unseen'. The earliest attested form is Aḯdēs (Ἀΐδης), which lacks the proposed digamma. In Cratylus, Socrates jocularly argues for a folk etymology not from 'unseen' but from 'his knowledge (eidenai) of all noble things".
+
+
+=== Hades's name in classical Greek ===
+The /w/ sound was lost at various times in various dialects, mostly before the classical period.
+In Ionic, /w/ had probably disappeared before Homer's epics were written down (7th century BC), but its former presence can be detected in many cases because its omission left the meter defective. For example, the words ἄναξ (/ánaks/; 'tribal king', 'lord', '(military) leader') and οἶνος (/óînos/; 'wine') are sometimes found in the Iliad in the meter where a word starting with a consonant would be expected. Cognate-analysis and earlier written evidence shows that earlier these words would have been ϝάναξ (/wánaks/, attested to in this form in Mycenaean Greek) and ϝοῖνος (/wóînos/; cf. Cretan Doric ibêna, cf. Latin vīnum and English 'wine').
+
+
+== Appropriate sounds ==
+ρ ('r') is a "tool for copying every sort of motion (κίνησις)".
+ι ('i') for imitating "all the small things that can most easily penetrate everything".
+φ ('phi'), ψ ('psi'). σ ('s'), and ζ ('z') as "all these letters are pronounced with an expulsion of breath", they are most appropriate for imitating "blowing or hard breathing".
+δ ('d') and τ ('t') as both involve "compression and [the] stopping of the power of the tongue" when pronounced, they are most appropriate for words indicating a lack or stopping of motion.
+λ ('l'), as "the tongue glides most of all" when pronounced, it is most appropriate for words denoting a sort of gliding.
+γ ('g') best used when imitating "something cloying", as the gliding of the tongue is stopped when pronounced.
+ν ('n') best used when imitating inward things, as it is "sounded inwardly".
+α ('a'), η ('long e') best used when imitating large things, as they are both "pronounced long".
+ο ('o') best used when imitating roundness.
+Although these are clear examples of onomatopoeia, Socrates's statement that words are not musical imitations of nature suggests that Plato did not believe that language itself generates from sound words.
+
+
+== Platonic theory of forms ==
+Plato's theory of forms also makes an appearance. For example, no matter what a hammer is made out of, it is still called a "hammer", and thus is the form of a hammer:
+
+Socrates: So mustn't a rule-setter also know how to embody in sounds and syllables the name naturally suited to each thing? And if he is to be an authentic giver of names, mustn't he, in making and giving each name, look to what a name itself is? And if different rule-setters do not make each name out of the same syllables, we mustn't forget that different blacksmiths, who are making the same tool for the same type of work, don't all make it out of the same iron. But as long as they give it the same form--even if that form is embodied in different iron--the tool will be correct, whether it is made in Greece or abroad. Isn't that so?
+Plato's theory of forms again appears at 439c, when Cratylus concedes the existence of "a beautiful itself, and a good itself, and the same for each one of the things that are".
+
+
+== Influence and legacy ==
+German psychologist Karl Ludwig Bühler used the Cratylus dialogue as the basis for his organon model of communication, published in 1934.
+Gérard Genette, in the work 'Mimologie. Voyage en Cratilie' (1976), starts from Plato's speech to argue the idea of arbitrariness of the sign: according to this thesis, already supported by the great linguist Ferdinand de Saussure, the connection between language and objects is not natural, but culturally determined. The ideas developed in the Cratylus, although sometimes dated, have historically been an important point of reference in the development of Linguistics.
+On the basis of the Craylus Gaetano Licata has reconstructed in the essay 'Plato's theory of language. Perspectives on the concept of truth' (2007, Il Melangolo), the platonic conception of semantics, according to which names have a natural link (an essential foundation) with their "nominatum".
+
+
+== Texts and translations ==
+An early translation was made by Thomas Taylor in 1804.
+Benjamin Jowett (1892). The Dialogues of Plato, in 5 vols 3rd edition revised and corrected. Oxford University Press.
+Plato: Cratylus, Parmenides, Greater Hippias, Lesser Hippias. With translation by Harold N. Fowler. Loeb Classical Library 167. Harvard Univ. Press (originally published 1926). ISBN 978-0-674-99185-9 HUP listing
+Plato: Opera, Volume I. Oxford Classical Texts. ISBN 978-0-19-814569-1
+Plato: Complete Works. Hackett, 1997. ISBN 978-0-87220-349-5
+Dalimier, C., 1998, Platon, Cratyle, Paris: Flammarion.
+Méridier, L., 1931, Platon, Cratyle, Paris: Les belles lettres.
+Reeve, C. D. C., 1997, Plato, Cratylus: translated with introduction and notes, Indianapolis and Cambridge: Hackett; reprinted in J. M. Cooper. (ed.) Plato, Complete Works, Indianapolis and Cambridge: Hackett.
+Gören, E., 2016, Platon, Kratylos Cilt 1: Giriş, Metin, Çeviri ve Dizinler, Istanbul, Dergâh Yayınları.
+
+
+== See also ==
+Conceptual metaphor
+Cratylism
+Map–territory relation
+Nirukta
+Orthotes onomaton
+Sound symbolism
+True name
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== Further reading ==
+Ackrill, J. L., 1994, 'Language and reality in Plato's Cratylus', in A. Alberti (ed.) Realtà e ragione, Florence: Olschki: 9–28; repr. in Ackrill, Essays on Plato and Aristotle, Oxford: Oxford University Press, 1997: 33–52.
+Ademollo, F., 2011, The 'Cratylus' of Plato: a Commentary, Cambridge: Cambridge University Press
+Annas, J., 1982, 'Knowledge and language: the Theaetetus and Cratylus', in Schofield and Nussbaum 1982: 95–114.
+Barney, R., 2001, Names and Nature in Plato's Cratylus, New York and London: Routledge.
+Baxter, T. M. S., 1992, The Cratylus: Plato's Critique of Naming, Leiden: Brill.
+Calvert, B., 1970, 'Forms and flux in Plato's Cratylus', Phronesis, 15: 26–47.
+Grote, G., 1865, Plato and the Other Companions of Sokrates, 3 vols., London: John Murray.
+Kahn, C. H., 1973, 'Language and ontology in the Cratylus', in E. N. Lee, A. P. D. Mourelatos, R. M. Rorty (ed.), Exegesis and Argument, New York: Humanities Press, 152–76.
+Ketchum, R. J., 1979, 'Names, Forms and conventionalism: Cratylus 383–395', Phronesis, 24: 133–47
+Kretzmann, N., 1971, 'Plato on the correctness of names', American Philosophical Quarterly, 8: 126–38
+Levin, S. B., 2001, The Ancient Quarrel between Philosophy and Poetry Revisited. Plato and the Literary Tradition, Oxford: Oxford University Press.
+Mackenzie, M. M., 1986, 'Putting the Cratylus in its place', Classical Quarterly, 36: 124–50.
+Robinson, R., 1969, 'The theory of names in Plato's Cratylus' and 'A criticism of Plato's Cratylus', in Essays in Greek Philosophy, Oxford: Clarendon Press, 100–38.
+Schofield, M., 1982, 'The dénouement of the Cratylus', in Schofield and Nussbaum 1982: 61–81.
+Schofield, M., and Nussbaum, M. (ed.), 1982, Language and Logos, Cambridge: Cambridge University Press.
+Silverman, A., 2001, 'The end of the Cratylus: limning the world', Ancient Philosophy, 21: 1–18.
+Williams, B., 1982, 'Cratylus' theory of names and its refutation', in Schofield and Nussbaum 1982: 83–93.
+Allan, D. J., 1954, 'The problem of Cratylus', American Journal of Philology, 75: 271–87.
+Kirk, G. S., 1951, 'The problem of Cratylus', American Journal of Philology, 72: 225–53.
+Luce, J. V., 1964, 'The date of the Cratylus', American Journal of Philology, 85: 136–54.
+Ross, W. D., 1955, 'The date of Plato's Cratylus', Revue Internationale de Philosophie, 32: 187–96.
+
+
+== External links ==
+
+Cratylus, in a collection of Plato's Dialogues at Standard Ebooks
+Bibliography on Plato's Cratylus (PDF)
+Cratylus translation by Benjamin Jowett (1892) starting at Page 323
+ Cratylus public domain audiobook at LibriVox

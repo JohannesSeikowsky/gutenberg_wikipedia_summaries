@@ -1,0 +1,14 @@
+The Right to Read is a short story by Richard Stallman, the founder of the Free Software Foundation, which was first published in 1997 in Communications of the ACM. It is a cautionary tale set in the year 2047, when copy protection technologies are employed to restrict the readership of books, and the sharing of books and written material is a crime punishable by imprisonment.
+In particular, the story touches on the impact of such a system on university students, due to their need for materials, one (Dan Halbert) of whom is forced into a dilemma in which he must decide whether to loan his computer to a fellow student (Lissa Lenz), who would then have the ability to illegally access his purchased documents.
+It is notable for being written before the use of Digital Rights Management (DRM) technology was widespread (although DVD video discs which used DRM had appeared the year before, and various proprietary software since the 1970s had made use of some form of copy protection), and for predicting later hardware-based attempts to restrict how users could use content, such as Trusted Computing.
+
+
+== See also ==
+The Digital Imprimatur
+
+
+== References ==
+
+
+== External links ==
+The Right to Read

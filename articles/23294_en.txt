@@ -1,0 +1,66 @@
+This article lists the poems of Catullus and their various properties.
+Catullus' poems can be divided into three groups:
+
+the polymetrics (poems 1–60)
+the long poems (poems 61–68)
+the epigrams (poems 69–116)
+
+
+== Historical context ==
+Catullus (c. 84 BC – c. 54 BC) lived in the waning days of the Roman Republic, just before the Imperial era that began with Augustus. Catullus is the chief representative of a school of poets known as the poetae novi or neoteroi, both terms meaning "the new poets". Their poems were a bold departure from traditional models, being relatively short and describing everyday occurrences and intense personal feelings; by contrast, traditional poetry was generally large and epic, describing titanic battles among heroes and gods. These avant-garde poets drew inspiration from earlier Greek authors, especially Sappho and Callimachus; Catullus himself used Sapphic meter in two poems, Catullus 11 and 51, the second of which is almost a translation. His poems are written in a variety of meters, with hendecasyllabic verse and elegiac couplets being the most common by far.
+Catullus is renowned for his love poems, particularly the 25 poems addressed to a woman named Lesbia, of which Catullus 5 is perhaps the most famous. Scholars generally believe that Lesbia was a pseudonym for Clodia and that the name Lesbia is likely an homage to Sappho, who came from the isle of Lesbos. Catullus is also admired for his elegies, especially Catullus 101 and Catullus 96, for his hymn to his homeland, Sirmio, in Catullus 31, and for his many depictions of everyday life in ancient Rome, such as Catullus 4, Catullus 10, and Catullus 13. Finally, he was well-nigh infamous even in his own time for his fierce, sometimes obscene, invectives against faithless friends (e.g., Catullus 12, Catullus 16, and Catullus 116), faithless lovers (Catullus 8, Catullus 30, Catullus 58, and Catullus 70), corrupt politicians (Catullus 28, Catullus 29), and bad poets (Catullus 14 and Catullus 44).
+Catullus was admired in ancient times for his elegantly crafted poems, and inspired many of the next generation of poets, especially Ovid, Tibullus, and Sextus Propertius. Even Virgil and Horace are also known to have adopted some elements of his poetry, although the latter was also critical of his work. Martial seems to be the only later Latin poet to be influenced significantly by Catullus. Catullus is mentioned by a few other Roman scholars, such as Pliny the Younger and Quintilian, and by St. Jerome. Since Catullus' work was not adopted as part of a classical curriculum, it was gradually forgotten over time, although one Bishop Rather of Verona is said to have delighted in reading his poems c. 965 AD. That changed c. 1300 AD, with the discovery of a manuscript that contained 116 poems by Catullus.
+
+
+== Main list ==
+The table below lists all of Catullus' extant poems, with links to the full text, the poetic meter, the number of lines, and other data. The entire table can be sorted according to any column by clicking on the arrows in the topmost cell. The "Type" column is color-coded, with a green font indicating poems for or about friends, a magenta font marking his famous poems about his Lesbia, and a red font indicating invective poems. The "Addressee(s)" column cites the person to whom Catullus addresses the poem, which ranges from friends, enemies, targets of political satire, and even a sparrow.
+
+
+== References ==
+
+
+== Bibliography ==
+Forsyth PY (1986). The Poems of Catullus: A Teaching Text. Lanham, MD: University Press of America. ISBN 978-0-8191-5151-3.
+Green P (2005). The Poems of Catullus: A Bilingual Edition. Berkeley, CA: University of California Press. ISBN 978-0-520-24264-7.
+
+
+== Further reading ==
+
+The following is merely a listing of a few sources that English-speaking readers may find useful in pursuing further research on Catullus.
+Critical edition/textual criticism
+
+Trappes-Lomax JM (2007). Catullus: A Textual Reappraisal. Swansea: The Classical Press of Wales. ISBN 978-1-905125-15-9.
+Thomson DFS (1997). Catullus. Toronto: University of Toronto Press. ISBN 978-0-80200-676-9.
+Latin editions
+
+Fordyce, C. J. (1961). Catullus: A Commentary by C. J. Fordyce. Oxford.
+Garrison DH (2004). The Student's Catullus (3rd ed.). Norman, OK: University of Oklahoma Press. ISBN 978-0-8061-3635-6.
+Ancona R (2004). Writing Passion: A Catullus Reader. Wauconda, IL: Bolchazy-Carducci. ISBN 978-0-86516-482-6.
+Quinn K (1976). Catullus: The Poems. New York: Macmillan; St. Martin's Press. ASIN B000K1UE9G.
+English translations
+
+Balmer J (2004). Catullus: Poems of Love and Hate. Highgreen, Tarset, Northumberland: Bloodaxe Books. ISBN 978-1-85224-645-7.
+Mulroy D (2002). The Complete Poetry of Catullus. Madison, WI: University of Wisconsin Press. ISBN 978-0-299-17770-6.
+Martin C (1990). The Poems of Catullus. Baltimore: Johns Hopkins University Press. ISBN 978-0-8018-3925-2.
+Raphael F, McLeish K (1978). The Poems of Catullus. London: Jonathan Cape. ISBN 978-0-224-01599-8.
+Sisson CH (1966). Catullus. London: MacGibbon and Kee. ASIN B000PHOUEU.
+Copley FO (1957). Gaius Valerius Catullus: The Complete Poetry. Ann Arbor, MI: The University of Michigan Press. LCCN 57010149.
+Bilingual editions
+
+Green P (2005). The Poems of Catullus: A Bilingual Edition. Berkeley, CA: University of California Press. ISBN 978-0-520-24264-7.
+Sesar C (1974). Selected Poems of Catullus. New York: Mason and Lipscomb. ISBN 978-0-88405-077-3.
+The Poems of Catullus. Translated by Gregory H. New York: Covici-Friede. 1931. ASIN B000NXJ7IU.
+Catullus' vocabulary
+
+Wetmore MN (1961). Index Verborum Catullianus (reprint of the 1912 edition published by Yale University Press and by Oxford University Press ed.). Hildesheim: Georg Olms Verlagsbuchhandlung. ASIN B0007ITYOI.  A concordance specifying the poem, line and case in which each word appears, e.g., hortulus appears in the ablative case hortulo in line 88 of Catullus' poem 61. Definitions for the words are not given.
+Mulroy DD (1986). Comites Catulli: Structured Vocabulary Lists for Catullus 1–60. Lanham, MD: University Press of America. ISBN 978-0-8191-5448-4. This book lists the vocabulary, with definitions, needed to read Catullus' polymetric poems. After a general introduction to Catullus' vocabulary, a separate vocabulary list is given for subsets of 2–3 poems, e.g., poems 6–8 and 9–10. The words in each list is grouped by  declension and gender for nouns and by conjugation for verbs.
+Scholarship
+
+Burl A (2004). Catullus: A Poet in the Rome of Julius Caesar. New York: Carroll and Graf Publishers. ISBN 978-0-7867-1472-8.
+Hurley AK (2004). Catullus. London: Bristol Classical Press. ISBN 978-1-85399-669-6.
+Claes CC (2002). Concatenatio Catulliana. Amsterdam: Gieben. ISBN 90-5063-288-2.
+Dettmer H (1997). Love by the Numbers: Form and the Meaning in the Poetry of Catullus. New York: Peter Lang. ISBN 978-0-8204-3663-0.
+Gaisser JH (1993). Catullus and his Renaissance Readers. Oxford: Clarendon Press. ISBN 978-0-19-814882-1.
+Wiseman TP (1985). Catullus and his World: A Reappraisal. New York: Cambridge University Press. ISBN 978-0-521-26606-2.
+Harrington KP (1963). Catullus and His Influence. Cooper Square. LCCN 63010267.
+Wheeler AL (1934). Catullus and the Traditions of Ancient Poetry. Berkeley, CA: University of California Press. ASIN B000QY4290.

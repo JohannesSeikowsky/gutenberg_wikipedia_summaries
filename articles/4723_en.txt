@@ -1,0 +1,184 @@
+A Treatise Concerning the Principles of Human Knowledge (commonly called the Principles of Human Knowledge, or simply the Treatise) is a 1710 work, in English, by Irish Empiricist philosopher George Berkeley.  This book largely seeks to refute the claims made by Berkeley's contemporary John Locke about the nature of human perception.  Whilst, like all the Empiricist philosophers, both Locke and Berkeley agreed that we are having experiences, regardless of whether material objects exist, Berkeley sought to prove that the outside world (the world which causes the ideas one has within one's mind) is also composed solely of ideas. Berkeley did this by suggesting that "Ideas can only resemble Ideas" – the mental ideas that we possess can only resemble other ideas (not material objects) and thus the external world consists not of physical form, but rather of ideas.  This world is (or, at least, was) given logic and regularity by some other force, which Berkeley concludes is God.
+
+
+== Content ==
+
+
+=== Introduction ===
+Berkeley declared that his intention was to make an inquiry into the First Principles of Human Knowledge in order to discover the principles that have led to doubt, uncertainty, absurdity, and contradiction in philosophy.  In order to prepare the reader, he discussed two topics that lead to errors. First, he claimed that the mind cannot conceive abstract ideas. We cannot have an idea of some abstract thing that is common to many particular ideas and therefore has, at the same time, many different predicates and no predicates. Second, Berkeley declared that words, such as names, do not signify abstract ideas. With regard to ideas, he asserted that we can only think of particular things that have been perceived. Names, he wrote, signify general ideas, not abstract ideas. General ideas represent any one of several particular ideas. Berkeley criticized Locke for saying that words signify general, but abstract, ideas. At the end of his Introduction, he advised the reader to let his words engender clear, particular ideas instead of trying to associate them with no-–existent abstractions.
+
+
+=== Part I ===
+The following is a summary of Part I (Part II was never published).
+
+
+==== "To be" means "to be perceived" ====
+Berkeley began his treatise by asserting that existence is the state of being perceived by a perceiver. Human minds know ideas, not objects. The three kinds of ideas are those of sensation, thought, and imagination. When several ideas are associated together, they are thought to be ideas of one distinct thing, which is then signified by one name.
+Ideas are known and perceived by a knowing perceiver. This active perceiver is designated by the names mind, spirit, soul, or self. Ideas exist by virtue of a perceiver. The existence of an idea consists in being perceived.
+What is meant by the term "exist" when it is applied to a thing that is known through the senses? To say that something exists is to say that it is perceived by a perceiver (Esse is percipi). This is the main principle of human knowledge.
+External objects are things that are perceived through our senses. We perceive only our own sensations or ideas. Ideas and sensations cannot exist unperceived.
+To say that an object exists without being perceived is to attempt to abstract that which cannot be abstracted. We cannot separate or abstract objects and their qualities from our perception of them.
+If an object exists or is perceived, it must be perceived by me or some other perceiver. It is impossible to separate the being of a sensible thing from its existence as a perception of a perceiver.
+There can be no unthinking substance or substratum of ideas. Therefore, the perceiving mind or spirit is the only substance of ideas. Ideas inhere in or belong to a perceiver.
+Are there things that exist in an unthinking substance outside of the perceiver's mind? Can they be the originals that the ideas copy or resemble? An idea can only be like an idea, not something undetectable. It is impossible for us to conceive of a copy or resemblance unless it is between two ideas.
+
+
+==== Locke's primary and secondary qualities ====
+According to Locke, a thing's primary qualities, such as its extension, shape, motion, solidity, and number, exist unperceived, apart from any perceiver's mind, in an inert, senseless substance called matter. Berkeley opposed Locke's assertion. Qualities that are called primary are, according to Berkeley, ideas that exist in a perceiver's mind. These ideas can only be like other ideas. They cannot exist in an unperceiving, corporeal substance or matter.
+The primary qualities of figure, motion, etc., cannot be conceived as being separate from the secondary qualities, which are related to sensations. Therefore, primary qualities, like secondary qualities, exist only in the mind. The properties of primary qualities are relative and change according to the observer's perspective. The greatness  and smallness of figure, the swiftness and slowness of motion, exist in the mind and depend on point of view or position.
+
+
+==== Number ====
+Number exists only in the mind. The same thing is described by different numbers according to the mind's viewpoint. An object can have an extension of one, three, and thirty six, according to its measurement in yards, feet, and inches. Number is relative and does not exist separately from a mind.
+
+
+==== Sensed qualities are mental ====
+Unity is merely an abstract idea. Primary qualities, such as figure, extension, and motion, are relative, as are secondary qualities such as red, bitter, and soft. They all depend on the observer's frame of reference, position, or point of view. Berkeley's "...method of arguing does not so much prove that there is no extension or colour in an outward object, as that we do not know by sense which is the true extension or colour of the object." Idealism, here, is epistemological, not ontological. Berkeley declared that it is "...impossible that any colour or extension at all, or other sensible quality whatsoever, should exist in an unthinking subject without the mind, or in truth, that there should be any such thing as an outward object." Any quality that depends on sensation for its existence requires that a sense organ and a mind is conscious of it. By "unthinking subject," he means "mindless matter" or "substance, substratum, or support that is not a thinking mind." By "without the mind," he means "not in the mind."
+
+
+==== Meaning of material substance ====
+Matter is material substance. What does this mean? "Material substance" has two meanings: "being in general" and "support of accidents." (The word accident is used here to mean an unessential quality.) "Being in general" is incomprehensible because it is extremely abstract. To speak of supporting accidents such as extension, figure, and motion is to speak of being a substance, substratum, or support in an unusual, figurative, senseless manner. Sensible qualities, such as extension, figure, or motion, do not have an existence outside of a mind.
+
+
+==== Knowledge of external objects ====
+Comparing ontology with epistemology, Berkeley asked, "But, though it were possible that solid, figured, moveable substances may exist without the mind, corresponding to the ideas we have of bodies, yet how is it possible for us to know this?" Knowledge through our senses only gives us knowledge of our senses, not of any unperceived things. Knowledge through reason does not guarantee that there are, necessarily, unperceived objects. In dreams and frenzies, we have ideas that do not correspond to external objects. "...[T]he supposition of external bodies is not necessary for the producing our ideas...." Materialists do not know how bodies affect spirit. We cannot suppose that there is matter because we do not know how ideas occur in our minds. "In short, if there were external bodies, it is impossible we should ever come to know it...." Suppose that there were an intelligence that was not affected by external bodies. If that intelligence had orderly and vivid sensations and ideas, what reason would it have to believe that bodies external to the mind were exciting those sensations and ideas? None.
+
+
+==== Berkeley's challenge ====
+Through reflection or introspection it is possible to attempt to know if a sound, shape, movement, or color can exist unperceived by a mind. Berkeley declared that he will surrender and admit the unperceived existence of material objects, even though this doctrine is unprovable and useless,  if "...you can conceive it possible for one extended moveable substance or, in general, for any one idea, or anything like an idea, to exist otherwise than in a mind perceiving it...." In answer to Berkeley's summons, it might be said that it is easy to imagine objects that are not perceived by anyone. But, he asked, "...what is all this, I beseech you, more than framing in your mind certain ideas which you call books and trees, and at the same time omitting to frame the idea of any one that may perceive them? But do not you yourself perceive or think of them all the while?" The mind had merely forgotten to include itself as the imaginer of those imagined objects.
+
+
+==== Absolute existence ====
+It is impossible to understand what is meant by the words absolute existence of sensible objects in themselves.  To speak of perceived objects that are not perceived is to use words that have no meaning or to utter a contradiction.
+
+
+==== What causes ideas? ====
+Ideas exist only in a mind and have no power to cause any effects. Ideas of extension, figure, and motion cannot cause sensations. "To say, therefore, that these [sensations] are the effects of powers resulting from the configuration, number, motion, and size of corpuscles must certainly be false." Some non–idea must produce the succession of ideas in our minds. Since the cause can't be another idea, it must be a substance. If there are no material substances, then it must be an immaterial substance. Such an incorporeal, active substance is called a Spirit. A Spirit is that which acts. A Spirit is one simple, undivided, active being. It cannot be perceived. Only its effects can be perceived. The two principal powers of Spirit are Understanding and Will. Understanding is a Spirit that perceives ideas. Will is a Spirit that operates with or produces ideas. The words will, soul, or spirit designate something that is active but cannot be represented by an idea. Berkeley claimed that a person's active mind can imaginatively generate ideas at will. Ideas that are sensually perceived, however, are not dependent on the observer's will. The ideas that are imprinted on the mind when observing the external world are not the result of willing.  "There is therefore some other Will or Spirit that produces them."
+
+
+==== Natural laws ====
+Ideas that are perceived through our senses are lively and distinct, unlike imagined ideas. Their orderly connection and coherence reflects the wisdom and benevolence of the mind that made them. The ideas of sense occur according to rules. We call these connections and associations laws of nature. Necessary connections are not discovered by us. We only observe settled laws of nature and use them to manage our affairs. Erroneously, we attribute power and agency to ideas of sense, which are mere secondary causes. Ideas, we think, can cause other ideas. The primary cause, the "Governing Spirit whose Will constitutes the laws of nature" is ignored.
+
+
+==== Strong and faint ideas ====
+There are strong ideas and there are faint ideas. We call strong ideas real things. They are regular, vivid, constant, distinct, orderly,  and coherent. These strong ideas of sense are less dependent on the perceiver.  Ideas of imagination, however, are less vivid and distinct. They are copies or images of strong ideas and are more the creation of a perceiver. Nevertheless, both strong and faint ideas are ideas and therefore exist only in a perceiver's mind.
+
+
+==== 13 objections ====
+
+
+===== Objection 1 =====
+Objection: [A]ll that is real and substantial in nature is banished out of the world, and instead thereof a chimerical scheme of ideas takes place. Answer: Real things and chimeras are both ideas and therefore exist in the mind.  Real things are more strongly affecting, steady, orderly, distinct, and independent of the perceiver than imaginary chimeras, but both are ideas. If, by substance is meant that which supports accidents or qualities outside of the mind, then substance has no existence. "The only thing whose existence we deny is that which Philosophers call Matter or corporeal substance." All of our experiences are of things (ideas) which we perceive immediately by our senses. These things, or ideas, exist only in the mind that perceives them. "That what I see, hear, and feel doth exist, that is to say, is perceived by me, I no more doubt than I do of my own being."
+
+
+===== Objection 2 =====
+Objection: [T]here is a great difference betwixt real fire for instance, and the idea of fire, ...if you suspect it to be only the idea of fire which you see, do but put your hand into it....  Answer: Real fire and the real pain that it causes are both ideas. They are known only by some mind that perceives them.
+
+
+===== Objection 3 =====
+Objection: [W]e "see" things... at a distance from us, and which consequently do not exist in the mind.... Answer: Distant things in a dream are actually in the mind. Also, we do not directly perceive distance while we are awake. We infer distance from a combination of sensations, such as sight and touch. Distant ideas are ideas that we could perceive through touch if we were to move our bodies.
+
+
+===== Objection 4 =====
+Objection: It would follow from Berkeley's principles that ...things are every moment annihilated and created anew... .  When no one perceives them, objects become nothing. When a perceiver opens his eyes, the objects are created again. Answer: Berkeley requests that the reader...consider whether he means anything by the actual existence of an idea distinct from its being perceived." "[I]t is the mind that frames all that variety of bodies which compose the visible world, any one whereof does not exist longer than it is perceived." If one perceiver closes his eyes, though, the objects that he had been perceiving could still exist in the mind of another perceiver.
+
+
+===== Objection 5 =====
+Objection: "[I]f extension and figure exist only in the mind, it follows that the mind is extended and figured...." Extension would be an attribute that is predicated of the subject, the mind, in which it exists. Answer: Extension and figure are in the mind because they are ideas that are perceived by the mind. They are not in the mind as attributes that are predicated of the mind, which is the subject. The color red may be an idea in the mind, but that does not mean that the mind is red.
+
+
+===== Objection 6 =====
+Objection: "[A] great many things have been explained by matter and motion...." Natural science ("Natural Philosophy" in the text) has made much progress by assuming the existence of matter and mechanical motion. Answer: Scientists ("they who attempt to account of things", the term "scientist" being introduced in the nineteenth century by W. Whewell), do not need to assume that matter and motion exist and that they have effects on an observer's mind. All scientists need to do is to explain why we are affected by certain ideas on certain occasions.
+
+
+===== Objection 7 =====
+Objection: It is absurd to ascribe everything to Spirits instead of natural causes. Answer: Using common language, we can speak of natural causes. We do this in order to communicate. However, in actuality we must know that we are speaking only of ideas in a perceiver's mind. We should "think with the learned and speak with the vulgar."
+
+
+===== Objection 8 =====
+Objection: Humans universally agree that there are external things and that matter exists. Is everyone wrong? Answer: Universal assent does not guarantee the truth of a statement. Many false notions are believed by many people. Also, humans may act as if matter is the cause of their sensations. They cannot, however, really understand any meaning in the words "matter exists."
+
+
+===== Objection 9 =====
+Objection: Then why does everyone think that matter and an external world exist? Answer: People notice that some ideas appear in their minds independently of their wishes or desires. They then conclude that those ideas or perceived objects exist outside of the mind. This judgment, however, is a contradiction. Some philosophers, who know that ideas exist only in the mind, assume that there are external objects that resemble the ideas. They think that external objects cause internal, mental ideas. The most important reason why philosophers do not consider God ("Supreme Spirit) as the only possible cause of our perceptions, is "because His operations are regular and uniform". Order and concatenation of things are "an argument of the greatest wisdom, power and goodness in their Creator".
+
+
+===== Objection 10 =====
+Objection: Berkeley's principles are not consistent with science and mathematics. The motion of the Earth is considered to be true. But, according to Berkeley, motion is only an idea and does not exist if it is not perceived. Answer: To ask if the Earth moves is really to ask if we could view the Earth's  movement if we were in a position to perceive the relation between the Earth and the Sun. In accordance with our knowledge of the way that ideas have appeared in our minds in the past, we can make reasonable predictions about how ideas will appear to us in the future.
+
+
+===== Objection 11 =====
+Objection: Ideas appear in a causal sequence. If ideas are mere superficial appearances without internal parts, what is the purpose of the complicated causal sequence in which they appear? It would be less effort for objects to appear as ideas with simple exterior surfaces, without so many internal connections. Answer: Scientists should not explain things as though they are effects of causes. The connection of ideas is a relationship between signs and the things that are signified. We should study our ideas as though they are informative signs in a language of nature. If we understand the language in which these idea–signs are used, then we understand how we can produce connections of ideas.
+
+
+===== Objection 12 =====
+Objection: Matter may possibly exist as an inert, thoughtless substance, or occasion, of ideas. Answer: If matter is an unknown support for qualities such as figure, motion and color, then it does not concern us.  Such qualities are sensations or ideas in a perceiving mind.
+
+
+===== Objection 13 =====
+Objection: Holy Scripture speaks of real things such as mountains, cities, and human bodies. Holy Writ also describes miracles, such as the marriage feast at Cana, in which things are changed into other things. Are these nothing but appearances or ideas? Answer: Real things are strong, distinct, vivid ideas. Imaginary things are weak, indistinct, faint ideas. Things that people are able to see, smell, and taste are real things.
+
+
+==== Consequences ====
+As a result of these principles, the following consequences follow:
+
+
+===== Banished questions =====
+Because the following inquiries depend on the assumption of the existence of matter, these questions can no longer be asked:
+
+Can material substance think?
+Is matter infinitely divisible?
+What is the relationship between matter and spirit?
+
+
+===== We can know only ideas and spirits =====
+"Human Knowledge may naturally be reduced to two heads — that of IDEAS and that of SPIRITS".
+
+
+===== Ideas, or unthinking things =====
+It is an error to think that objects of sense, or real things, exist in two ways: in the mind and not in the mind (apart from the mind). Scepticism results because we cannot know if the perceived objects are like the unperceived objects.
+Sensed ideas are real, existing things. They cannot exist without a perceiving mind. They cannot resemble anything that exists apart from a mind. This is because the existence of a sensation or idea consists in being perceived, and an idea cannot be like anything that is not an idea. If things originate or persist when I do not perceive them, it is because another mind perceives them.
+Sceptics, fatalists, idolators, and atheists believe that matter exists unperceived.
+Another source of errors is the attempt to think about abstract ideas. Particular ideas are known as being real. Abstractions, made by subtracting all particularity from ideas, lead to errors and difficulties.
+Sceptics say that we can never know the true, real nature of things. There is no way, they say, that we can compare the ideas in our mind to what is in the external, material world. We are ignorant of the real essence (internal qualities and constitution) of any object. They say that the cause of an object's properties is its unknown essence, occult qualities, or mechanical causes. But,  motion, color, sound, figure, magnitude, etc., are ideas and one idea or quality cannot cause another. The skeptics are wrong because only a spirit can cause an idea.
+The mechanical principle of attraction is used to explain the tendency of bodies to move toward each other. But attraction is merely a general name that describes an effect. It does not signify the cause of the observed motion. All efficient causes are produced by the will of a mind or spirit (mind or spirit being that which thinks, wills, and perceives). Gravitation (mutual attraction) is said to be universal. We, however, do not know if gravitation is necessary or essential everywhere in the universe. Gravitation depends only on the will of the mind or spirit that governs the universe.
+Four conclusions result from these premisses: (1) Mind or spirit is the efficient cause in nature; (2) We should investigate the final causes or purposes of things; (3) We should study the history of nature and make observations and experiments in order to draw useful general conclusions; (4) We should observe the phenomena that we see in order to discover general laws of nature in order to deduce other phenomena from them. These four conclusions are based on the wisdom, goodness, and kindness of God.
+Newton asserted that time, space, and motion can be distinguished into absolute/relative, true/apparent, mathematical/vulgar. In so doing, he assumed that time, space, and motion are usually thought of as being related to sensible things. But they also, he assumed, have an inner nature that exists apart from a spectator's mind and has no relation to sensible things. He described an absolute time, space, and motion that are distinguished from relative or apparent time, space, and motion. Berkeley disagreed. To him, all motion is relative because the idea that Berkeley had of motion necessarily included relation. 
+By pure space, I mean that I conceive that I can move my arms and legs without anything resisting them. Space is less pure when there is more resistance by other bodies. Space, therefore, is an idea that is relative to body and motion.
+Errors made by mathematicians occur because of (1) their reliance on general abstract ideas and (2) their belief that an object exists as such without being an idea in a spectator's mind. In arithmetic, those things which pass for abstract truths and theorems concerning numbers are, in reality, concerned with particular things that can be counted. In geometry, a source of confusion is the assumption that a finite extension is infinitely divisible or contains an infinite number of parts. Every particular finite line, surface, or solid which may possibly be the object of our thought is an idea existing only in the mind, and consequently each part of it must be perceived. Any line, surface, or solid that I perceive is an idea in my mind. I can't divide my idea into an infinite number of other ideas. We can't conceive of an inch–long line being divided into a thousand parts, much less infinities of infinities. There is no such thing as an infinite number of parts contained in a finite quantity. In order to use mathematics, it is not necessary to assume that there are infinite parts of finite lines or any quantities smaller than the smallest that can be sensed.
+
+
+===== Spirits, or thinking things =====
+A spirit or mind is that which thinks, wills, or perceives. It is thought that we are ignorant of the nature of mind or spirit because we have no idea of it. But it was demonstrated in § 27 that ideas exist in spirits or minds. It is absurd to expect that the spirit or mind that supports an idea should itself also be an idea. In § 27, it was shown that the soul is indivisible. Therefore, it is naturally immortal. I know that spirits or minds other than myself exist because I perceive the ideas that they cause. When I perceive the order and harmony of nature, I know that God, as infinitely wise spirit or mind, is the cause. We can't see God because He is a spirit or mind, not an idea. We see Him in the same way that we see a man, when actually we are seeing only the ideas, such as color, size, and motion that the man causes.  Following a line of thought which can be traced back to Augustine's Theodicy, Berkeley argues that imperfections in nature, such as floods, blights, monstrous births, etc., are absolutely necessary. They are not the result of God's direct influence. They are the result of the working of the system of simple, general, consistent rules that God has established in nature in order that living things can survive. Such natural defects are useful in that they act as an agreeable variety and accentuate the beauty of the rest of nature by their contrast. The pain that exists in the world is indispensably necessary to our well–being. When seen from a higher, broader perspective, particular evils are known to be good when they are comprehended as parts of a beautiful, orderly whole system.
+
+
+==== Main purpose ====
+Berkeley claimed that the main design of his efforts in writing this book was to promote the "Consideration of GOD, and our DUTY" (Berkeley's emphasis). If we are clearly convinced of God's existence, then we will fill our hearts with awful circumspection and holy fear. Berkeley claimed that the world exists as it does, when no one is looking at it, because it consists of ideas that are perceived by the mind of God. If we think that the eyes of the Lord are everywhere, beholding the evil and the good, knowing our innermost thoughts, then we will realize our total dependence on Him. In this way, we will have an incentive to be virtuous and to avoid vice.
+
+
+== See also ==
+A priori and a posteriori
+If a tree falls in a forest
+
+
+== References ==
+
+
+== Sources ==
+Berkeley, George; Turbayne, Colin Murray (2007) [1957]. A Treatise Concerning the Principles of Human Knowledge. Forgotten Books. ISBN 978-1-60506-970-8.
+
+
+== Further reading ==
+Luce, Arthur (1968) [1945]. Berkeley's Immaterialism. A Commentary on His "A Treatise Concerning the Principles of Human Knowledge". New York: Russell and Russell.
+Engle, Gale; Taylor, Gabriele, eds. (1968). Berkeley's Principles of Human Knowledge: Critical Studies. Belmont, Cal.: Wadsworth.
+Turbayne, Colin Murray, ed. (1970). Berkeley: Principles of Human Knowledge, Text and Critical Essays. Indianapolis: Bobbs-Merrill.
+
+
+== External links ==
+
+A Treatise Concerning the Principles of Human Knowledge at the Indiana Philosophy Ontology Project
+A Treatise Concerning the Principles of Human Knowledge at PhilPapers
+Zalta, Edward N. (ed.). "George Berkeley". Stanford Encyclopedia of Philosophy.
+Fieser, James; Dowden, Bradley (eds.). "A Treatise Concerning the Principles of Human Knowledge". Internet Encyclopedia of Philosophy. ISSN 2161-0002. OCLC 37741658.
+EarlyModernTexts.com contains this work of Berkeley's in several formats, including PDF, EPUB and Mobipocket
+ A Treatise Concerning the Principles of Human Knowledge public domain audiobook at LibriVox

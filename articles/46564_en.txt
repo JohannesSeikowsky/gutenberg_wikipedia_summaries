@@ -1,0 +1,55 @@
+De iure belli ac pacis (English: On the Law of War and Peace) is a 1625 work by Dutch jurist and philosopher Hugo Grotius, which is widely regarded as a foundational text in the development of international law. First published in Paris, the work sets out to establish a legal framework for war and peace based on natural law, reason, and customary norms among nations (jus gentium).
+Several editions of the work appeared during Grotius’s lifetime; the final, published in Amsterdam in 1642, is widely regarded by scholars as the version most faithful to his authorial intentions, reflecting his mature legal and philosophical views.
+De iure belli ac pacis enjoyed enduring influence and widespread circulation across Europe. It was reprinted in numerous editions—over 70 identified in major bibliographies, including translations into several European languages—demonstrating its importance across confessional and national boundaries. The work remained a central reference in the study of law and political theory, taught in academic institutions for centuries, and continues to be cited in debates surrounding just war theory, state sovereignty, and the principles of international law.
+The work builds upon earlier ideas, particularly those of Alberico Gentili in De iure belli of 1598 as demonstrated by Thomas Erskine Holland and was influenced by Spanish scholastics such as Francisco de Vitoria and Francisco Suárez. Grotius composed much of the text while imprisoned in the Netherlands and completed it in 1623 at Senlis, with the assistance of Dirck Graswinckel.
+
+
+== Historical context and purpose ==
+Grotius wrote De jure belli ac pacis against the backdrop of the Thirty Years' War (1618–1648), a period of religious and political upheaval that witnessed extreme violence across Europe. Grotius, then living in exile in France after escaping imprisonment for his involvement in religious-political controversies in the Dutch Republic, sought to create a rational legal order to restrain the conduct of war and minimize bloodshed.
+
+In the Prolegomena to the treatise, Grotius famously observed the absence of restraint in warfare:“Throughout the Christian world I observed a lack of restraint in relation to war, such as even barbarous nations should be ashamed of.” (Prolegomena, 29)Grotius believed that even in a world of independent sovereigns with no higher adjudicating authority, shared principles of justice and law could regulate behavior between states. Drawing from Stoic philosophy, Roman law, and Christian theology, he sought to construct a body of international norms grounded in natural reason and universally applicable principles.
+
+
+== Structure and philosophical foundations ==
+Grotius structured his work around a multi-layered system of norms:
+
+Natural law, derived from human reason and inherent sociability
+Law of nations, based on customary practice among states
+Divine law, drawing from Christian scripture
+Utility-based arguments, used pragmatically when moral arguments failed
+This structure allowed Grotius to address multiple audiences—religious and secular, Catholic and Protestant—and to advocate for a system of legal restraint that could be universally acknowledged, even in the absence of shared faith.
+
+One of the most famous and controversial claims in the book is found in Prolegomena, section 11:“Et haec quidem quae iam diximus, locum aliquem haberent etiamsi daremus, quod sine summo scelere dari nequit, non esse Deum, aut non curari ab eo negotia humana.”Translated:“What we have been saying would have a degree of validity even if we should concede that which cannot be conceded without the utmost wickedness: that there is no God, or that the affairs of men are of no concern to Him.”This statement is often summarized by the phrase etsi Deus non daretur (“as if God did not exist”). While some scholars have interpreted this as an attempt to secularize law, others argue that Grotius's secularization was hypothetical rather than absolute. In practice, Grotius regularly appealed to religious norms to support his arguments when purely rational justifications proved inadequate.
+
+
+== Just war theory and legal innovations ==
+Grotius's work integrated elements of just war theory into a legal structure. He distinguished between:
+
+Just causes for war (e.g., self-defense, recovery of property, punishment of wrongdoing)
+Just conduct during war (proportionality, discrimination between combatants and non-combatants)
+Because there was no international judge to resolve disputes, Grotius argued that war must sometimes be tolerated as a means of enforcement, but only within strict legal and moral bounds. He also developed an early theory of criminal responsibility of states, claiming that states could be punished for acts of aggression, much like individuals for crimes.
+
+
+== Legacy and influence ==
+De jure belli ac pacis had an enormous influence on the development of modern international law. Grotius is often referred to as the “father of international law,” though this title is sometimes shared with or contested by other figures such as Gentili and Suárez.
+Grotius's ideas were influential for later legal thinkers such as Samuel Pufendorf, Emer de Vattel, and Jean-Jacques Burlamaqui, and laid foundational concepts later enshrined in the Geneva Conventions, UN Charter, and other instruments of international law.
+Modern scholars have debated Grotius's legacy. Michael Walzer praised him for embedding just war principles into legal norms, while Richard Tuck pointed out Grotius’s continued acceptance of imperial and commercial warfare, suggesting he remained an “enthusiast for war around the globe.”
+
+
+== References ==
+
+
+== Further reading ==
+Cornelis van Vollenhoven. On the Genesis of De Iure Belli ac Pacis. Amsterdam: Koninklijke Akademie van Wetenschappen, 1924.
+
+Translations :
+Francis W. Kelsey, with the collaboration of Arthur E. R. Boak, trans. De iure belli ac pacis libri tres. Washington, D.C.: Carnegie Institution of Washington, 1913–1925 (reprint: Buffalo, NY: William H. Hein, 1995).
+Stephen C. Neff, trans. Hugo Grotius: On the Law of War and Peace. Student edn. Cambridge: Cambridge University Press, 2012.
+
+
+== External links ==
+ Media related to De iure belli ac pacis at Wikimedia Commons
+Online text (English text, abridged, PDF) Archived 2016-03-03 at the Wayback Machine
+Online text (English text, abridged, HTML and TXT)
+Online Text (English text, unabridged, HTML and PDF)
+Online text (Original Latin text)

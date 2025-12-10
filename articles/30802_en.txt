@@ -1,0 +1,124 @@
+The Commentaries on the Laws of England (commonly, but informally known as Blackstone's Commentaries) are an influential 18th-century treatise on the common law of England by Sir William Blackstone, originally published by the Clarendon Press at Oxford between 1765 and 1769. The work is divided into four volumes, on the rights of persons, the rights of things, of private wrongs and of public wrongs.
+The Commentaries were long regarded as the leading work on the development of English law and played a role in the development of the American legal system.  They were in fact the first methodical treatise on the common law suitable for a lay readership since at least the Middle Ages.  The common law of England has relied on precedent more than statute and codifications and has been far less amenable than the civil law, developed from the Roman law, to the needs of a treatise.  The Commentaries were influential largely because they were in fact readable, and because they met a need. As such, they were used in the training of American and British lawyers long after the death of Blackstone.
+The Commentaries are often quoted as the definitive pre-Revolutionary source of common law by United States courts. Opinions of the Supreme Court of the United States quote from Blackstone's work whenever they wish to engage in historical discussion that goes back that far, or farther (for example, when discussing the intent of the Framers of the Constitution). The book was famously used as the key in Benedict Arnold's Arnold cipher, which he used to communicate secretly with his conspirator John André during their plot to betray the Continental Army during the American Revolution.
+
+
+== Publication history ==
+In 1765 Blackstone announced his resignation from the Vinerian Chair, effective after his 1766 lectures. These were divided into two 14-lecture series, on "private wrongs" and "public wrongs" delivered between 12 February and 24 April. At this point Blackstone had published nothing new since A Treatise on the Law of Descents in Fee Simple in 1759. The decision to resign was most likely due to the increasing demands of his legal practice and the reduced profit from the lectures, which, after peaking at £340 in 1762, dropped to £239 a year later and to £203 for the final round of lectures in 1765–66.
+In response, Blackstone decided to publish a new book Commentaries on the Laws of England. The first volume was published in November 1765, bringing the author £1,600; the full work would eventually bring in over £14,000. Owen Ruffhead described Volume I as "masterly", noting that "Mr Blackstone is perhaps the first who has treated the body of the law in a liberal, elegant and constitutional manner. A vein of good sense and moderation runs through every page". Every copy was sold within six months, and the second and third volumes, published in October 1766 and June 1768, received a similar reception. The fourth and final volume appeared in 1769, dealing with criminal law. With the financial success of the Commentaries, Blackstone moved in 1768 from his London property in Carey Fields to No. 55 Lincoln's Inn Fields. Neighbours included the Sardinian ambassador, Sir Walter Rawlinson, Lord Northington, John Morton and the Third Earl of Abingdon, making it an appropriate house for a "great and able Lawyer".
+Blackstone's treatise was republished in 1770, 1773, 1774, 1775, 1778 and in a posthumous edition in 1783. Reprints of the first edition, intended for practical use rather than antiquary interest, were published until the 1870s in England and Wales, and a working version by Henry John Stephen, first published in 1841, was reprinted until after the Second World War. The first American edition was produced in 1772; prior to this, over 1,000 copies had already been sold in the Thirteen Colonies.
+
+
+== Contents ==
+
+
+=== The Rights of Persons ===
+The Rights of Persons is the first volume in the four part series that is the Commentaries. Divided into 18 chapters, it is largely concerned with the rights of individuals; the rights of Parliament; the rights and title of the King; the royal family; the councils belonging to the King; kingly duties; the royal prerogative; the King's revenue; subordinate magistrates; the people (aliens, denizens, and natives); the rights of the clergy; the civil state; the military and maritime states; the relationship between master and servant (in modern-day terminology, employer and employee), husband and wife, parent and child, guardian and ward; and finally corporates.
+
+
+=== The Rights of Things ===
+The Rights of Things, Blackstone's longest volume, deals with property.  The vast majority of the text is devoted to real property, this being the most valuable sort in the feudal law upon which the English law of land was founded.  Property in chattels was already beginning to overshadow property in land, but its law lacked the complex feudal background of the common law of land, and was not dealt with nearly as extensively by Blackstone.
+
+
+=== Of Private Wrongs ===
+Of Private Wrongs dealt with torts as they existed in Blackstone's time.  The various methods of trial that existed at civil law were also dealt with in this volume, as were the jurisdictions of the several courts, from the lowest to the highest.  Almost as an afterthought, Blackstone also adds a brief chapter on equity, the parallel legal system that existed in English law at the time, seeking to address wrongs that the common law did not handle.
+
+
+=== Of Public Wrongs ===
+Of Public Wrongs is Blackstone's treatise on criminal law.  Here, Blackstone seeks to explain how the criminal laws of England were just and merciful, despite becoming later known as the Bloody Code for their severity. He does however accept that "It is a melancholy truth, that among the variety of actions which men are daily liable to commit, no less than an hundred and sixty have been declared by Act of Parliament to be felonious without benefit of clergy; or, in other words, to be worthy of instant death". Blackstone frequently resorted to assuring his reader that the laws as written were not always enforced, and that the King's power of pardon could be exercised to correct any hardships or injustices.
+
+
+== Legacy ==
+Blackstone for the first time made the common law readable and understandable by non-lawyers. At first, his Commentaries were hotly contested, some seeing in them an evil or covert attempt to reduce or codify the common law which was anathema to common law purists.
+For decades, a study of the Commentaries was required reading for all first year law students. Lord Avonmore said of Blackstone: "He it was who first gave to the law the air of a science. He found it a skeleton and clothed it with life, colour and complexion. He embraced the cold statue and by his touch, it grew into youth, health and beauty." Jeremy Bentham, who had been a critic of the Commentaries when they were first published, credits Blackstone with having "taught jurisprudence to speak the language of the scholar and the gentleman; put a polish upon that rugged science, cleansed her from the dust and cobwebs of the office and, if he has not enriched her with that precision which is drawn only from the sterling treasury of the sciences, has decked her out to advantage from the toilet of classical erudition, enlivened her with metaphors and allusions and sent her abroad in some measure to instruct."
+While there is much valuable historical information in the Commentaries, later historians have tended to be somewhat critical of the uses Blackstone made of history. There is a lot of what would later be called "Whig history" in the Commentaries: the easy and contradictory assurance that England's current political settlement represented the optimal state of rational and just government, while claiming simultaneously that this optimal state was an ideal that had always existed in the past, despite the many struggles in England's history between overreaching kings and wayward parliaments.
+But Blackstone's chief contribution was to create a succinct, readable, and above all handy epitome of the common law tradition.  While useful in England, Blackstone's text answered an urgent need in the developing United States and Canada. In the United States, the common law tradition was being spread into frontier areas, but it was not feasible for lawyers and judges to carry around the large libraries that contained the common law precedents. The four volumes of Blackstone put the gist of that tradition in portable form. (A modern paperback printing of the four volumes total about 1500 pages.) They were required reading for most lawyers in the Colonies, and for many, they were the only reading.  Blackstone's Whiggish but conservative vision of English law as a force to protect people, their liberty, and their property, had a deep impact on the ideologies that were cited in support of the American Revolution, and ultimately, the United States Constitution.
+Two decades after their publication, Blackstone's Commentaries were the focus of a mocking polemic by Jeremy Bentham, called Fragment on Government. This dissection of Blackstone's first book made Bentham's name notorious, though it was originally published anonymously. 
+In 1841–1845, Henry John Stephen published New Commentaries on the Laws of England (Partly Founded on Blackstone), whose structure was modelled on Blackstone's work and which liberally quoted from it; much of Blackstone's text remained as late as 1914 in the 16th edition of Stephen's Commentaries; in 1922 under Edward Jenks most of the text was rewritten but the structure was realigned more closely to Blackstone's original.
+
+
+== Quotations ==
+
+Of great importance to the public is the preservation of this personal liberty; for if once it were left in the power of any the highest magistrate to imprison arbitrarily whomever he or his officers thought proper, (as in France it is daily practised by the crown,) there would soon be an end of all other rights and immunities. Some have thought that unjust attacks, even upon life or property, at the arbitrary will of the magistrate, are less dangerous to the commonwealth than such as are made upon the personal liberty of the subject. To bereave a man of life, or by violence to confiscate his estate, without accusation or trial, would be so gross and notorious an act of despotism, as must at once convey the alarm of tyranny throughout the whole kingdom; but confinement of the person, by secretly hurrying him to jail, where his sufferings are unknown or forgotten, is a less public, a less striking, and therefore a more dangerous engine of arbitrary government.
+[T]he principal aim of society is to protect individuals in the enjoyment of those absolute rights, which were vested in them by the immutable laws of nature, but which could not be preserved in peace without that mutual assistance and intercourse which is gained by the institution of friendly and social communities. Hence it follows, that the first and primary end of human laws is to maintain and regulate these absolute rights of individuals.
+That the King can do no wrong, is a necessary and fundamental principle of the English constitution.
+It is better that ten guilty persons escape than one innocent suffer.
+There is nothing which so generally strikes the imagination, and engages the affections of mankind, as the right of property; or that sole and despotic dominion which one man claims and exercises over the external things of the world, in total exclusion of the right of any other individual in the universe. And yet there are very few, that will give themselves the trouble to consider the original and foundation of this right.
+
+
+== Notable editions ==
+
+A bibliography of The Commentaries of the Laws of England from Legal Bibliography (1905)
+The Fifth Edition, Oxford, at the Clarendon Press, MDCCLXXIII., printed for William Strahan, Thomas Cadell, and Daniel Prince. 8vo., 4 vols.
+The Twelfth Edition (with portraits of the judges), with the last corrections of the author and with notes and additions by Edward Christian, Esq., Barrister at Law and Professor of the Laws of England in the University of Cambridge, London, 1793–1795. 4 vols., 8vo.
+Blackstone's Commentaries: with notes of reference, to the Constitution and laws, of the federal government of the United States, and of the Commonwealth of Virginia : in five volumes, with an appendix to each volume, containing short tracts upon such subjects as appeared necessary to form a connected view of the laws of Virginia, as a member of the federal union / by St. George Tucker.
+The Sixteenth Edition, with notes by J. F. Archbold, (added to Christian's), London, 1811. 4 vols., royal 8vo.
+The Sixteenth Edition, with notes by J. T. Coleridge, London, 1825.
+The Eighteenth Edition,  with notes by J. Chitty, London, 1826 (often reprinted in America).
+Commentaries on the laws of England: in four books] / by Sir William Blackstone ...; together with such notes of enduring value as have been published in the several English editions; and also, a copious analysis of the contents; and additional notes with references to English and American decisions and statutes, to date, which illustrate or change the law of the text; also a full table of abbreviations and some considerations regarding the study of the law, by Thomas M. Cooley. Published: Chicago: Callaghan and Co., 1871, Second Edition 1876, Third Edition 1884, Fourth Edition edited by James DeWitt Andrews 1899.
+Commentaries on the laws of England / by Sir William Blackstone, KT. Edition Information: From the author's 8th ed., 1778 / edited for American lawyers by William G. Hammond; with copious notes, and references to all comments on the text in the American reports, 1787–1890. Published: San Francisco : Bancroft–Whitney Company, 1890. Description: 4 vols.
+Commentaries on the Laws of England in Four Books / by Sir William Blackstone. Notes selected from the editions of Archibold, Christian, Coleridge, Chitty, Stewart, Kerr, and others, Barron Field's Analysis, and Additional Notes, and a Life of the Author by George Sharswood. In Two Volumes. (Philadelphia: J.B. Lippincott Co., 1893).
+Commentaries on the laws of England : in four books / by Sir William Blackstone; with notes selected from the editions of Archbold, Christian, Coleridge, Chitty, Stewart, Kerr, and others; and in addition, notes and references to all text books and decisions wherein the Commentaries have been cited, and all statutes modifying the text by William Draper Lewis. Published: Philadelphia : Rees Welsh and Company, 1897. Description: 4 vols.
+Commentaries on the Laws of England  by Sir William Blackstone, Kt.; edited by William Carey Jones. Published: San Francisco : Bancroft–Whitney, 1915–16.  Description: 2 vols.
+Blackstone's Commentaries on the Laws of England;  edited by Wayne Morrison. 4 vols. Published: London:  Routledge–Cavendish; London, England: 2001. Description 4 vols.
+Wilfrid Prest, ed. (2016), Commentaries on the Laws of England, Oxford: Oxford University Press, ISBN 978-0-19-960103-5.
+Online: via Yale University's Avalon Project
+
+
+== Abridgements ==
+Ralph Thomas in  Notes & Queries, 4th Series, II August 8, 1868 gave the following list of the abridgements of Blackstone's Commentaries.
+
+A Summary of the Constitutional Law of England: being an Abridgment of Blackstone's Commentaries. By the Rev. Dr. J. Trusler, 1788, 12mo; 228 and index. "Everything in Blackstone necessary for the general reader is here comprised ... and nothing omitted but what is peculiarly adapted to the profession of a lawyer." (Advertisement.)
+The Commentaries of Sir W. Blackstone, Knight, on the Law and Constitution of England, carefully abridged in a new manner, and continued down to the present time, by Wm. Curry 1796, 8vo; viii. contents, 566. 2nd edit. 1809. Consists of selections of the most essential parts in the words of the author.
+Commentaries on the Law of England, principally in the order, and comprising the whole substance, of Commentaries of Sir W. Blackstone. [By J. Addams], 1819, 8vo.
+An Abridgment of Blackstone's Commentaries. By John Gifford [pseud. i. e. Edward Foss], 1821, 8vo. See No. VI.
+An Abridgment of Blackstone's Commentaries on the Laws of England, in a series of Letters from a Father to his Daughter, chiefly intended for the Use and Advancement of Female Education. By a Barrister at Law, F.R., F.A., and F.L.S. [Sir E. E. Wilmot], 1822, 12mo; viii. 304.
+Same by Sir J. E.E. W. . . . A new edition [the 2nd] corrected ... by his son Sir J. E. E. W.  3rd edit. 1855.
+Blackstone's Commentaries on the Laws of England, abridged for the Use of Students, &c. By John Gifford, author of the Life of . . . . Pitt [pseud. John Richards Green], 1823, 8vo.
+The British Constitution; or, an Epitome of Blackstone's Commentaries on the Laws of England, for the Use of Schools. By Vincent Wanostrocht, LL.D., Alfred House Academy, Camberwell, 1823, 12mo; xi. 845.
+An American Abridgment, 1832. [Mr Thomas may be referring to John Anthon's An Analytical Abridgment of the Commentaries of Sir William Blackstone on the laws of England: in four books: together with an analytical synopsis of each book, printed and published by Isaac Riley in 1809, second edition 1832.]
+Select Extracts from Blackstone's Commentaries, carefully adapted to the Use of Schools and Young Persons; with a Glossary, Questions, and Notes, and a General Introduction. By Samuel Warren, 1837, 12mo; xxvi. 428 (no index).
+Commentaries on the Laws of England, in the Order and Compiled from the Text of Blackstone, and embracing the New Statutes and Alterations to the present time. By J. Bethune Bayly, of the Middle Temple, 1840, roy. 8vo; li. 700.
+A Synopsis of Blackstone's Commentaries. London. [1847]. A large single sheet in folio.
+The Law Student's First Book, being chiefly an Abridgment of Blackstone's Commentaries; incorporating the Alterations in the Law down to the present time. By the Editors of The Law Student's Magazine, 1848, 12mo; xxiv. 508, xvi.
+Blackstone's Commentaries systematically arranged and adapted to the existing State of the Law and Constitution, with great Additions. By S. Warren, . . . 1855, 8vo  2nd edition, 1856. See IX. The original portions of Blackstone are indicated.
+The Student's Blackstone; Selections from the Commentaries on the Laws of England. By Sir W. B.; being those portions of the work which relate to the British Constitution and the Rights of Persons. By R. M. Kerr, 1858, 12mo; xix. 575. The Student's Blackstone's Commentaries on the Laws of England, in four books, by Sir W. Blackstone, &c., abridged ... By R. M. Kerr. 2nd edit. 1865, 12mo; xx. 612.
+Other abridgments include:
+
+Blackstone economized: being a compendium of the laws of England to the present time by Sir William Blackstone, David Mitchell Aird Published: London: Longmans, Green, & Co.: 1878
+Essentials of the Law: A Review of Blackstone's Commentaries for the Use of Students at Law (1882) Author: Marshall Davis Ewell Published: Boston: Charles C Soule: 1882
+Selections from Blackstone edited by William Carey Jones  Published: San Francisco: Bancroft–Whitney Co.  1926.
+The Sovereignty of the Law: Selections from Blackstone's Commentaries on the Laws of England edited by Gareth Jones, Published: London: Macmillan, 1973 ISBN 0-8357-4720-4
+
+
+== See also ==
+Books of authority
+Bibliography of English criminal law
+
+
+== Sources ==
+Alschuler, Albert (1994). "Sir William Blackstone and the shaping of American law". New Law Journal. 144 (6653). ISSN 0306-6479.
+Boorstin, Daniel J., The Mysterious Science of the Law: An Essay on Blackstone's Commentaries (Univ. Chicago, 1996). ISBN 0-226-06498-0
+Milsom, S.F.C. (1981). "The Nature of Blackstone's Achievement". Oxford Journal of Legal Studies. 1 (1): 1–12. doi:10.1093/ojls/1.1.1. ISSN 0143-6503.
+Prest, Wilfrid (2008). William Blackstone: Law and Letters in the Eighteenth Century. Oxford University Press. ISBN 978-0-19-955029-6.
+Stacey, Robert D. Sir William Blackstone and the Common Law: Blackstone's Legacy to America (ACW, 2003) ISBN 1-932124-14-4
+
+
+== References ==
+
+
+== External links ==
+
+Commentaries on the laws of England, original edition 1765
+Book the first: of the rights of persons (1765)
+Book the second: of the rights of things (1766)
+Book the third: of private wrongs
+Book the fourth: of public wrongs
+The commentaries on the laws of England of Sir William Blackstone (1876, London : John Murray. Edited by Robert Malcolm Kerr)
+– volume 1
+– volume 2
+Commentaries on the laws of England: in four books, edited by Thomas Cooley, Callaghan & Co, 1884—Third Edition
+Books 1 & 2
+Books 3 & 4
+The Student's Blackstone Adapted and Abridged by R M N Kerr, William Clowes & Son, 1885—Ninth Edition
+ Commentaries on the Laws of England public domain audiobook at LibriVox

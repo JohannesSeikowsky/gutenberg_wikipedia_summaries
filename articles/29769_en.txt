@@ -1,0 +1,108 @@
+The Bellum Jugurthinum, also known as the De Bello Iugurthino, is a historical monograph written by the Roman historian Sallust, published circa 41 BC. It describes the events of the Jugurthine War (112–106 BC) between the Roman Republic and King Jugurtha of Numidia. Sallust claims that Jugurtha was able to repeatedly bribe corrupt Roman officials during the war and argues that this indicated a broader moral decline in the late Republic. In this way, the Bellum Jugurthinum is thematically similar to Sallust's first monograph, the Bellum Catilinae. The Bellum Jugurthinum is the main historical source for the Jugurthine War.
+
+
+== Background and structure ==
+
+
+=== Title and narrative ===
+The Bellum Jugurthinum was written and published around 40 B.C. and was passed down by direct tradition through medieval codices.
+The Bellum Jugurthinum is notably more varied in structure and content than Sallust’s earlier work, De Catilinae Coniuratione. While the latter focuses on a brief conspiracy lasting approximately a year and a half (63–62 BCE), with events concentrated in Rome and Etruria, Bellum Jugurthinum spans a broader geographic and temporal scope. The narrative shifts between Rome and North Africa, and covers a conflict lasting seven years (111–105 BCE), including its antecedents. The work also presents a more complex cast of characters, including Roman figures such as Scipio, Metellus, Scaurus, Bestia, Marius, and Sulla, contrasted with Numidian leaders like Micipsa, Adherbal, Jugurtha, and Bocchus. The narrative includes frequent developments and moral complexity, with central figures displaying changing motivations.
+Although extended to 114 chapters, Bellum Jugurthinum uses the same narrative techniques as Bellum Catilinae, following conventions of Hellenistic historical writing. Following the proem, Sallust presents a character portrait of the protagonist and outlines historical antecedents ("archaeology") that connect the narrative to Rome’s broader past. The main events are then recounted, punctuated by digressions and inserted speeches that provide reflective pauses and serve as vehicles for speeches and historical commentary.
+
+
+=== Historical background ===
+
+The subject of Sallust’s second monograph is the protracted war fought by Rome in North Africa between 111 and 105 BCE against Jugurtha, king of Numidia. The conflict, which concluded with a Roman victory, took place approximately seventy years prior to the work’s publication. Unlike other military campaigns driven by the greed (avaritia) of the nobilitas, Sallust presents this war as one in which the Roman Senate had little direct interest. The Senate favored a policy of non-intervention in Africa, seeing limited strategic or economic gain, and was concerned about leaving the northern frontier exposed—a vulnerability that would soon be exploited by the Cimbri and Teutons during their incursion into Italy, ultimately repelled by Gaius Marius.
+The groups most invested in the African campaign were the equites (knights), who supported expanding Rome’s commercial influence in the Mediterranean Basin. Among them were wealthy mercatores (merchants) from Italy, including the negotiatores killed by Jugurtha in 112 BCE, who derived significant income from provincial trade and stood to benefit from strengthened Roman control in Africa. Additionally, segments of the Roman and Italic plebs viewed the conflict as an opportunity to gain land, recalling the precedent set by Gaius Gracchus a decade earlier with the establishment of the first overseas Roman colony on the site of Carthage.
+
+
+== Summary ==
+
+
+==== Chapters 1 - 4 (proem) ====
+
+Like De Catilinae coniuratione, the Bellum Jugurthinum opens with a proem which highlights the Sallust's ideas regarding human nature: the human being consists of body and soul, but only the solid possession of virtue is a guarantee of eternal glory. Man must therefore exercise the soul more than the body, since the goods of the body are ephemeral and destined to disappear, while those of the soul allow one to have real control over one's life, and lead to immortal greatness.
+The proem takes on particular relevance in the context of the crisis of the res publica, when it is precisely attachment to virtus that seems to be the only path capable of restoring peace and stability.
+
+Sallust openly criticizes the Roman political system, which allows those who do not deserve it to attain power. He further emphasizes the importance of the role of the historian against charges of it being considered a lesuirely activity (otium), which he also does in De coniuratione Catilinae.
+
+
+==== Chapters 5 - 16 ====
+
+After introducing the actual historical narrative, Sallust recounts, so that the whole of the events may be clearer and more understandable, the history of the kingdom of Numidia: during the Second Punic War, the Numidian king Masinissa helped Publius Cornelius Scipio against the Carthaginian Hannibal, and, after the Battle of Zama and subsequent treaties, Rome decided to reward him by granting him sovereignty over many of the lands wrested from the Carthaginians, thus creating a strong friendly relationship with Numidia. Upon Masinissa's death, his three sons, Gulussa, Mastanabal and Micipsa, inherited the kingdom, but Micipsa became the sole ruler of Numidia due to the untimely deaths of his brothers. In turn, Micipsa left the kingdom to his sons, Adherbal and Hiempsal, and his nephew Jugurtha, son of Mastanabal and a concubine.
+After the brief historical digression, the narrative shifts to the character of Jugurtha, of whom Sallust provides an psychological description, and then to that of Micipsa: the latter, old and now close to death, is led as much to exalt Jugurtha as to suspect his good faith. For this reason, in 133 B.C. he sends him to Publius Cornelius Scipio Aemilianus, engaged in the siege of Numantia, in the hope that the young man will die in the war. Jugurtha, however, survives and distinguishes himself for his bravery, so much so that he wins numerous personal praises. A few years later then, Micipsa, on his deathbed, summons his sons along with Jugurtha, and designates all three as his heirs, advising them to rule in harmony.
+The three heirs immediately disregarded the recommendations they had received: they divided the state treasury among themselves and divided up areas of influence; in particular, sharp disagreements arose between Jugurtha and Hiempsal. The latter, of a very prideful nature, attempted to put his cousin in the background. However, Jugurtha, in response, had him killed.
+The repercussions of killing Hiempsal were very serious for Jugurtha. Most of the terrified Numids rallied around Adherbal, who was forced to send ambassadors to Rome and clash with Jugurtha in the field. From the battle, Adherbal is defeated, and he is forced to flee to Rome, where he hopes to receive the support of the senate. Meanwhile, Jugurtha also sends gold and silver to Rome, to make gifts of it to the senators and thus draw them to his side. Having arrived in Rome, Adherbal is able to deliver a long speech in the Senate. In order to sensitize the audience, he tries to leverage the relationship of friendship and fides that binds Rome to the Numidian dynasty, emphasizes the villainy of Jugurtha's actions and portrays himself as unhappy and hapless. Having also listened to Jugurtha's ambassadors, the senators, bribed by the sums of money they received, decide to favor the usurper, Jugurtha. The Senate send a token commission to Numidia, headed by Lucius Opimius, which assigns the area bordering the Roman province of Africa to Adherbal, and the more fertile area bordering Mauretania to Jugurtha.
+
+
+==== Chapters 17 - 19 ====
+
+Sallust decides to interrupt the narrative to include in the work a brief ethnographic digression on northern Africa, which he considers a continent separate from Europe and Asia. After briefly mentioning the characteristics of the territory and the men who inhabit it, he begins the actual history of humans in Africa, relying on the information handed down from the Libri Punici of Hiempsal. He then narrates about the nomadic and primitive tribes of the Libyans and the Gaetuli, the first inhabitants of Africa, later supplanted by the Medes, Persians and Armenians. The digression continues with a brief mention of the Phoenician breakthrough and Carthaginian rule and closes with a description of the situation at the time of the events narrated: the Romans have control over the Carthaginian cities, Jugurtha over most of the Numids and Gaetuli, and Bocchus I, father-in-law of Jugurtha himself, over the Mauri.
+
+
+==== Chapters 20 - 40 ====
+Encouraged by Rome's favorable intervention, Jugurtha, in 113 B.C.E., resumed hostilities against Adherbal, who was determined to seize his kingdom in order to unify Numidia. The armies of the two clashed near Cirta, and victory again came to the forces of Jugurtha. Adherbal was forced to retreat within the walls of Cirta, where the Italian negotiatores organized resistance to the siege. Having learned of the battle, the Roman Senate sends ambassadors to Numidia, but Jugurtha, appealing to the jus gentium, succeeds in thwarting their presence, and preventing them from speaking to Adherbal. He then devotes himself to the careful organization of the siege, making use of all his strategic gifts. Adherbal, meanwhile, sends a request for help to the senate, which sends a new ambassadorship to Numidia, led by Marcus Aemilius Scaurus. The elderly senator attempts to force Jugurtha to cease hostilities, but the Numidian refuses to obey. Adherbal, then, urged on by the negotiatores themselves, decides to surrender the city provided he and all other inhabitants have their lives saved. Jugurtha accepts the offer, but, upon seizing Cirta, he tortures and kills Adherbal, and massacres all the adult citizens within the city.
+
+
+==== Chapters 41 – 114 ====
+
+[awaiting completion]
+
+
+== Characters ==
+
+
+=== The Numids ===
+
+
+==== Adherbal ====
+Adherbal is the eldest of Micipsa's sons, and is therefore Hiempsal's brother and cousin of Jugurtha. Unlike his brother's, his role in the story is decidedly important: after Hiempsal's untimely death, in fact, Adherbal is left alone to counter Jugurtha's expansionist aims. He is repeatedly defeated in the field by his cousin, without displaying any particular tactical skills. Similarly, Sallust gives credit for the resistance of Cirta to the Italians, downplaying Adherbal's role there as well. He thus appears naive and inexperienced when compared to his rival Jugurtha, who already had experience. Adherbal's address to the Roman Senate tries to receive Rome's help by appealing to some of the ideals – primarily that of fides and the mos maiorum. Sallust states that his words go unheeded precisely because of the corruption and greed of the nobilitas and the moral crisis of Rome. Similarly, Adherbal also points out how Jugurtha's acts constituted an offense against the Roman maiestas. The senate nevertheless refused to intervene on his behalf, bribed by Jugurtha's gifts. Rather than being prone to plots and intrigue, Sallust portrays Adherbal to be a ruler dedicated to a policy of peaceful coexistence, which cannot subsist in the face of Jugurtha's duplicity and the corruption of the senate.
+
+
+==== Jugurtha ====
+
+
+===== Differences between Catiline and Jugurtha and the causes of the corruption of the Roman nobility =====
+The character of Catiline can be seen as a monstrum, since he assimilates in himself several characteristics, even completely opposite to each other, which make him one of the most enigmatic characters ever in literature, along with the Numidian Jugurtha. But while the character of Catiline in the course of the De Catilinae coniuratione all in all does not undergo substantial changes in his psychic character, and in fact he is born as a character with a corrupt and evil disposition and remains so until the end, the character of Jugurtha undergoes remarkable changes in character; in fact, he is born as a young boy, heir to the Numidian throne, with a wholesome soul and full of good principles, but in the course of the Bellum Jugurthinum he changes radically, "polluted" by the negative influence on him of the then deeply corrupt Roman nobilitas, which led his character to become pravus. Both characters are the fruit of the wickedness of the senatorial class, from which they came (Catiline) or were strongly conditioned (Jugurtha); this "internal marciumen" from a social and moral point of view has its roots in 146 B.C., the year of the destruction, by the Roman armies, of Carthage. In fact, the defeat of the Punic city put an end to the so-called metus hostilis (fear of the enemy), that is, the fear that the Romans had for the Carthaginian enemies and which drove them to remain united and smoothed out internal disputes; having lacked this powerful "glue," the feelings of ambitio and avaritia of the senatorial oligarchy were exacerbated and, above all, the hostilities present between the various factiones, resulting in the bloody civil wars of the first century B.C. Indeed, there is a shift from struggles between hostes (foreign enemies, barbarians) to struggles between adversarii (political rivals, factional strife), which unleashed unprecedented waves of internal violence and decreed the inevitable end of the whole set of institutions that constituted the Roman res publica.
+
+
+==== Hiempsal ====
+Hiempsal is the youngest of the sons of Micipsa, brother of Adherbal and cousin of Jugurtha. His role in the Bellum Jugurthinum is entirely secondary, although it is his behavior that provides the occasional cause for the beginning of hostilities between Jugurtha and Adherbal. For he, particularly prideful by nature, despises Jugurtha because he is the son of a concubine, and tries in every way to humiliate him, even siding with the abolition of the measures taken by Micipsa after his nephew's association with the throne. He thus demonstrates that he lacks the political intelligence, characteristic, on the other hand, of his father, and performs rash acts without foreseeing the consequences. Jugurtha, in fact, moved by wrath and fear, decides to have him killed, and sends some of his men to the dwelling where he is: Hiempsal, rather than honorably attempting to defend himself, dies by cowardly taking refuge in the hut of a slave girl, and his head, severed, is brought to Jugurtha.
+
+
+==== Micipsa ====
+Micipsa is the eldest son of the Numidian king Masinissa, and he rises to power along with his brothers, Gulussa and Mastanabal, upon his father's death in 148 BC. After the untimely death of his brothers, he finds himself reigning alone, and provides valuable aid to the Romans during the Third Punic War. He has two sons, Adherbal and Hiempsal I, and is the uncle of Jugurtha. In his role as a "politician," he is naturally an example of the continuous mutability that characterizes many characters in the work.
+In the Bellum Jugurthinum he appears already late in life, busy thinking about who is best suited to succeed him in the role of ruler. He rejoices in the prestige of Jugurtha, confident that the latter may be suitable to lead Numidia and bring it great glory, but he soon realizes that his nephew would be in a condition of clear superiority to his sons because of his age and popularity. He then finds himself frightened by the nature of Jugurtha, greedy and prone to satisfy his own desires. The king of Numidia then demonstrates, in his attempt to eliminate his nephew, that he is a wise politician and as careful as ever about the consequences that his acts may have: he therefore avoids having him assassinated or having him fall victim to some intrigue. Rather, he prefers to tempt fate and send him to war with Numantia. His plan having failed, Micipsa finds himself forced to accept the now inevitable rise of his nephew, who becomes heir along with Adherbal and Hiempsal. Even at this juncture, however, he shows great political intelligence in being able to adapt to the different situations in which he finds himself, always avoiding creating situations of open conflict.
+Finally, on his deathbed, he summons his sons and grandson to his side, and, pretending to rejoice in the successes of Jugurtha, instructs his successors on how they should behave in leading the kingdom. He invites them to concord and mutual cooperation, giving them advice that is still valid today:
+
+Shortly thereafter, he died, receiving all the funeral honors worthy of a king.
+
+
+== Analysis ==
+
+
+=== Reliability and historicity of the work ===
+Absent from the Bellum Iugurthinum are the elements of ethnographic description that should be essential to a historiographical work. The geographical and historical digression of chapters 17-19 comes across as very approximate, especially for a historian who held the position of governor of the province of Africa for a number of years: indeed, Sallust states that he draws on written sources rather than personal observation, and this makes his description come across as inaccurate. Similarly, the portrayal of Jugurtha also appears rather stereotyped, and not the result of careful observation of the habits of the local people: some traits of youthful behavior and education are those typical of barbarians, and Sallust seems to draw on the Greek historiographical tradition, in particular Xenophon's Cyropaedia. The description, therefore, is in the overall reticent, vague and nebulous.
+At the historical level, Sallust shows little attention to the exact temporal placement of the events narrated. Inaccuracies regarding chronological details are frequent, and equally frequent is the use of ellipses and expressions that fill long narrative spaces otherwise devoid of action.
+
+
+== See also ==
+Gaius Marius
+Gaius Gracchus
+Sulla
+Adherbal (king of Numidia)
+Jugurtha
+Masinissa
+Micipsa
+Cirta
+Numantia
+Numidia
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==

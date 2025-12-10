@@ -1,0 +1,91 @@
+Captivi is a Latin play by the early Roman playwright Titus Maccius Plautus, written circa 200 BCE. The title has been translated as The Captives or The Prisoners, and the plot focuses on slavery and prisoners of war. Although the play contains much broad humor, it is a relatively serious treatment of significant themes compared to most of Plautus’ other comedies. Plautus himself points out the difference in tone between this play and his other works in Captivi’s prologue.
+
+
+== Plot summary ==
+Philocrates and his slave Tyndarus, from the Greek district of Elis, have been captured in war with another Greek region, Aetolia. They are now prisoners and slaves bought by Hegio, a well-to-do resident of Aetolia, who is planning to trade them for his son, Philopolemus, who has been captured in Elis. Pretending to be each other, the supposed slave Philocrates is sent to make the trade, while Tyndarus risks his life by remaining.
+A friend of Philocrates named Aristophontes has also been captured, and Tyndarus’ efforts to fool Hegio by claiming that Aristophontes is insane are unsuccessful. When Hegio finds out from Aristophontes that he has been deceived, he sends Tyndarus to the quarries for backbreaking labor. Declaring that dying courageously is not an everlasting death, Tyndarus tries to convince Hegio that his own loyalty to Philocrates is right.
+Comic relief is provided by a sponger, Ergasilus, looking for a free dinner from Hegio. He has learned that Hegio's son Philopolemus has returned to Aetolia, and he uses this knowledge to get a free meal from Hegio, then proceeds to go wild in the kitchen. Hegio's former slave Stalagmus, who stole Hegio's other son when he was four years old, also arrives on the scene and confesses his iniquity. Eventually everybody discovers that Tyndarus is that stolen son, causing Hegio to realize he should have treated him better when he was his captive slave. Hegio and his two sons, Philopolemus and Tyndarus, are reunited in a happy ending.
+
+
+== Metrical structure ==
+
+Plautus's plays are traditionally divided into five acts; these are referred to here for convenience, since many editions make use of them. However, it is not thought that they go back to Plautus's time, since no manuscript contains them before the 15th century.
+An alternative way of analysing the plays is to consider the changes of metre. A common pattern in Plautus is for each section to begin with iambic senarii (which were spoken without music), then a scene of music in various metres, then a scene of trochaic septenarii, which were apparently recited to the accompaniment of tibiae (a pair of reed pipes). However, the scheme in the Captivi is slightly different and is as follows:
+
+ABC, AC, BC, ABCBC, BC
+The most common metre used in this play of 1,208 lines is the trochaic septenarius (700 lines), followed by the iambic senarius (359 lines) and iambic octonarius (42 lines). Cretic and bacchiac metres take up 27 lines each, the trochaic octonarius 12 lines, and anapaests only 8 lines.
+
+
+=== The scene is set ===
+Prologue; Act 1.1–2 (lines 1–194): iambic senarii (194 lines)
+The actor delivering the prologue explains to the audience that the play is set in Aetolia. He points to Tyndarus and his master Philocrates, who are standing in chains, and explains that they are war-captives from Elis whom Hegio hopes to exchange for his son Philopolemus who has been captured in the war. He says that the master Philocrates and slave Tyndarus have switched identities in the hope that they can trick Hegio into sending Philocrates home. He also reveals that Tyndarus is in fact Hegio's younger son who was stolen in childhood.
+Ergasilus, a parasite, now enters, complaining that ever since Hegio's son Philopolemus was captured in the war, he has had no invitations to dinner. Hegio now comes out of his house and orders that the captives should be put in lighter chains. He exchanges banter with Ergasilus and invites him to dinner, although warning him that the dinner will be a poor one. He departs to inspect some more captives at his brother's house.
+Act 2.1 (195–241): mixed metres (47 lines)
+Tyndarus and Philocrates ask the guards for permission to talk privately. They go to one side and Tyndarus begs Philocrates not to abandon him when he has reached home.
+Act 2.1 (cont.)–2.2 (242–360): trochaic septenarii (118 lines)
+Philocrates in turn begs Tyndarus to keep up the pretence of being a rich man's son. Hegio now returns and, believing Philocrates to be the slave, takes him to one side and asks him about his master's wealth; then he questions Tyndarus. Tyndarus admits to being the son of a wealthy father, and urges Hegio to send Philocrates to Elis to redeem Hegio's captured son.
+
+
+=== Philocrates is released ===
+Act 2.3 (361–384): iambic senarii (24 lines)
+Hegio tells Philocrates that he has agreed to send him to Elis, but that he is setting a price on his head of 20 minae (pounds) if he does not return.
+Act 2.3 (cont.)–3.1 (385–497): trochaic septenarii (113 lines)
+Tyndarus and Philocrates say an emotional farewell. Philocrates praises Tyndarus' kindness towards him. Tyndarus begs him not to abandon him once he is home. Hegio then takes Philocrates off to arrange for a passport and money for the journey.
+When they have gone, the parasite Ergasilus returns from the forum complaining that he has been unable to get a better invitation that Hegio's. He says he is going to the harbour to search there also.
+
+
+=== Tyndarus is betrayed ===
+Act 3.2–3.4 (498–540): mixed metres (43 lines)
+Hegio returns bringing another prisoner, Aristophontes, who has told him that he knows Philocrates. Hegio takes him into the house. Tyndarus immediately runs out of the house crying that he is ruined and cannot now escape. While Tyndarus is still lamenting, Hegio brings Aristophontes outside.
+Act 3.4 (cont.) (541–658): trochaic septenarii (118 lines)
+Aristophontes immediately recognises Tyndarus and says that he is not Philocrates but his slave. Tyndarus tries to claim that Aristophontes is a madman, but eventually Hegio, after asking Aristophontes to describe the real Philocrates, learns the truth.
+
+
+=== Despair turns to joy ===
+Act 3.5 (659–767): iambic senarii (109 lines)
+Hegio, furious that he has been tricked out of the chance to redeem his son, accuses Tyndarus of unfaithfulness. Tyndarus attempts to defend himself, and Aristophontes, realising too late what he has done, begs Hegio to forgive Tyndarus, but in vain. Hegio orders his guards to take Tyndarus off immediately to the stone-quarries for punishment. He takes Aristophontes back to join the other captives at his brother's house.
+Act 4.1–4.2 (768–790): mixed metres (32 lines)
+Ergasilus returns from the harbour rejoicing that he has good news for Hegio. Meanwhile Hegio enters lamenting that he has been tricked. He overhears Ergasilus talking excitedly to himself.
+Act 4.2 (cont.) (791–832): trochaic septenarii (41 lines)
+Ergasilus is running along the street shouting that he will knock aside anyone who impedes his progress. He reaches Hegio's door and knocks.
+Act 4.2 (cont.) (833–836): mixed metres (5 lines)
+Hegio calls to Ergasilus and asks why he is so excited.
+Act 4.2 (cont.)–4.3 (838–908): trochaic septenarii (71 lines)
+Ergasilus seizes Hegio's hand and tells him to prepare a sacrifice and a feast at once. He explains that he has seen Hegio's son arriving at the harbour along with Philocrates and a runaway slave Stalagmus, who had once stolen Hegio's younger son. Hegio tells Ergasilus to go indoors and arrange a feast. He departs to the harbour. Ergasilus speaks excitedly of the feast he is going to prepare; then he goes inside.
+
+
+=== Hegio finds his younger son ===
+Act 4.4–5.1 (909–929): iambic octonarii (14 lines), bacchiac (6 lines), tr8 (2 lines)
+A slave boy comes out and describes how Ergasilus is creating havoc in the kitchen. Hegio arrives, praising the gods. He brings with him Philocrates, Stalagmus and his son Philopolemus.
+Act 5.1 (cont.)–5.4 (930–1036): trochaic septenarii (99 lines)
+Hegio thanks Philocrates for bringing back his son, and Philocrates begs him to release the faithful Tyndarus. Hegio agrees to free him without payment, and invites the two young men to go inside to bathe. Meanwhile Hegio questions Stalagmus, who freely admits that he ran away and sold Hegio's younger son to Philocrates' father. Hegio immediately calls Philocrates to come outside. After questioning Stalagmus, Philocrates confirms that Tyndarus is Hegio's missing son stolen 20 years previously. Tyndarus now arrives, describing the horrors he has endured in the stone quarries. Hegio greets him as his son, and Philocrates explains what has happened. Hegio calls for a blacksmith to remove Tyndarus's heavy fetters and put them on Stalagmus.
+
+
+== Key themes ==
+Unlike most of Plautus’ comedies, this play offers little in the way of sexual titillation and instead concentrates on rather serious subjects: personal freedom, slavery and war. Although the mistaken identity elements of the plot are sometimes played for laughs and the sponger Ergasilus is brought on for some silly stage business, there are also quite serious speeches about the fate of slaves and the realities of war. In fact, the play begins with Philocrates and Tyndarus heavily and painfully shackled, and the harshness of their treatment counterbalances the humorous by-play that Plautus injects into the proceedings to keep his audience amused.
+The protagonist Hegio is an interesting character, more deeply drawn than most of Plautus' other figures, who tend to be comic stereotypes. He is shown as capable of cruelty and quite impulsive, but also as generous and ultimately sympathetic. The master-slave relationship between Philocrates and Tyndarus is also portrayed with a sensitivity rare in Plautus, who actually congratulates himself on his unaccustomed seriousness in the play's prologue. Still, Plautus offers enough horseplay, especially by Ergasilus, to keep a Roman audience from souring on his “noble” aspirations.
+
+
+== Critical evaluation ==
+The German poet and philosopher Gotthold Ephraim Lessing famously pronounced Captivi to be the finest play ever staged. This hyperbolic praise has been deprecated by later critics, but the play has still earned plaudits for treating important ethical issues. Ben Jonson indirectly paid tribute to the play by adapting the plot of Captivi for his early comedy The Case is Altered. The lack of obvious sexual humor, so common in Plautus’ other works, has also occasioned much critical comment and occasional approval.
+Less sympathetic critics, such as E.F. Watling, have written harshly about Captivi’s loose plotting, rushed conclusion, and too-short time scheme. Others have dismissed these concerns as rather pedantic and irrelevant to a play that does not pretend to be rigorously realistic.
+In 2016, Jeff S. Dailey directed a limited-run Off Broadway production at the John Cullum Theatre in midtown Manhattan, using an amalgamation of several Victorian translations.  His direction won a Jean Dalrymple Award for Innovative Theatre, in the category of Best Direction of a Classical Play.
+
+
+== Translations ==
+Henry Thomas Riley, 1912: Captivi full text
+Paul Nixon, 1916-38: Captivi full text
+Sir Robert Allison, 1942
+E. F. Watling,  1965 
+Paul Roche, 1968 
+Moore Richard, 1995
+David M. Christenson, 2008 Reviewed in BMCR
+Wolfang de Melo, 2011 
+
+
+== References ==
+
+
+== External links ==
+Scholarly review of a book of essays on Captivi
+ The Captives public domain audiobook at LibriVox (Henry Thomas Riley translation)

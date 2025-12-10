@@ -1,0 +1,27 @@
+Hackers: Heroes of the Computer Revolution (ISBN 978-0-385-19195-1) is a book by Steven Levy about hacker culture. It was published in 1984 in Garden City, New York by Doubleday. Levy describes the people, the machines, and the events that defined the Hacker culture and the Hacker Ethic, from the early mainframe hackers at MIT, to the self-made hardware hackers and game hackers.
+The book saw an edition with a new afterword (entitled "Afterword: Ten Years After") by the author in 1994. In 2010, a 25th anniversary edition with updated material was published by O'Reilly.
+
+
+== Summary ==
+Levy traces developments in the history of hacking, beginning with The Tech Model Railroad Club at MIT, whose members were among the first hackers. He discusses the Hacker Ethic, a set of concepts, beliefs, and morals that came out of a symbiotic relationship between the hackers and the machines. The Ethic consisted of allowing all information to be open and accessible in order to learn about how the world worked; using the already available knowledge to create more knowledge.
+
+ Several chapters discuss the history of computer gaming, beginning with Spacewar! in September 1961. This paved the way for major gaming companies such as On-Line, Broderbund, and Sirius Software.
+Other highlights include:
+Conway's Game of Life, a computer simulation written by John Horton Conway which became Bill Gosper's focus in 1970.
+Revolt in 2100: Lee Felsenstein and Jude Milhon founded Community Memory, an offshoot of Resource One based in Berkeley, California. Bob Albrecht and his computer-book publishing company Dymax also brought computing to the people by teaching young students to program. Albrecht formed People's Computer Company, a storefront in Menlo Park, California, to offer computer time and classes.
+Every Man a God: In Albuquerque, New Mexico, Ed Roberts founded Micro Instrumentation and Telemetry Systems created the Altair 8800, a computer kit that cost only $397.
+
+ The Homebrew Computer Club was founded by Fred Moore and Gordon French as a way for electronics hobbyists and hackers to get together and exchange information and talk about their projects. The first meeting took place on March 5, 1975 in Gordon's garage.
+Tiny BASIC: Altair BASIC was an interpreter that translated instructions from the BASIC programming language into assembly instructions that the Altair 8800 could understand. It was developed by Bill Gates and Paul Allen, the founders of Microsoft, then styled "Micro-soft", specifically for the 8800 and it would fit in 4K of memory.
+In addition, Levy profiles important hacker figures, including John Draper, Bill Gates, Richard Greenblatt, and Steve Wozniak.
+
+
+== Reception ==
+PC Magazine stated that Levy "does capture the essential composite of the hacker personality but fails to accept that the true hacker, driven by machine lust, is equally content to hack in the corporate corridors. He is also naively optimistic about the collective spirit of computing, which he believes will ultimately prevail". There are later criticisms of Levy's book that point out his failure to acknowledge that the hacker world excluded women and minorities, not consciously but by cultural bias of its early participants.
+
+
+== References ==
+
+
+== External links ==
+Read Chapters 1 and 2 from Project Gutenberg.

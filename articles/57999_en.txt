@@ -1,0 +1,63 @@
+Senecan tragedy refers to a set of ten ancient Roman tragedies, eight of which were probably written by the Stoic philosopher and politician Lucius Annaeus Seneca. Senecan tragedy, much like any particular type of tragedy, had specific characteristics to help classify it. The three characteristics of Senecan tragedy were: five separate acts, each with a Chorus; recounting of ‘horrors’ and violent acts, which are usually done off-stage; and some sort of parallel of the violence that occurred. Only the Phoenissae departs from the five act structure. In the English literary canon,  Seneca appears as a major influence on later texts about revenge, such as Titus Andronicus and The Crying of Lot 49.
+
+
+== History ==
+Precise dating of when the tragedies were written is difficult to determine, but scholars estimate that they were produced sometime in the 50s CE. Seneca's extant tragedies were found in the codex Etruscus, referred to by scholars as "E," as well as Thebais, or "A." These codices derive from a manuscript from 11th century Italy and 12th century France. The manuscripts contain 665 lines of iambic trimeter. There is debate about the authorship of these tragedies, with some scholars attributing them to Diogenes.
+
+
+== Dramaturgy ==
+Scholars are unsure of Seneca's intentions in regards to the delivery of his tragedies—whether they were meant to be performed, orated, or read. However, given the tradition of Roman literature and theater, it is likely that the plays were at least read out loud. Seneca is thought to have had around 10 actors which, given that most Roman villas had rooms that allowed for temporary stages to be erected, would have allowed for the performance of the tragedies in smaller settings than the Greek context. Some suggest that certain scenes of the plays, such as the cannibalistic feast in Thyestes, may have been staged and performed while others were not. Scholars believe that, unlike Greek tragedians such as Euripides or Sophocles who focused on the dramatic form of their plays, Seneca used his dramas to teach and spread the philosophy of stoicism. In keeping with Seneca's philosophical background, his tragedies focus on ethical and moral problems, as opposed to the emotional and dramatic tensions that inspired other tragedians. Like the Greek dramatists, Seneca based his tragedies on different Greek myths (such as Medea or Agamemnon). According to Vitruvius, Seneca's tragedies could be staged using a similar set-up to Greek plays, with a slightly wider stage to allow room for the Chorus. The plays would not have included stage directions for actors, who instead would have used the context within dialogue and songs for cues of movement and emotion. A set of central doors would have been included in the set to represent the main site of action, usually a palace, as well as two wings which would have served as entrance and exit points for the actors. The tragedies were written in five acts with a chorus; they featured violent and bloody plots as well as long philosophical meditations often in the form of monologues.
+
+
+== Chronology ==
+
+Below is the list of Senecan tragedies, along with the date range in which each one is believed/accepted to have been written.
+
+Hercules Oetaeus and Octavia are generally accepted to have not been written by Seneca, even with Octavia's author being unknown.
+
+
+== Influences and Sources ==
+Many of the Senecan tragedies employ the narratives and characters of famous Greek tragedies by Sophocles, Aeschylus, and Euripides; but it is generally accepted that Seneca's works are not direct adaptations of those works, as the approach differs, taking on a more philosophical tone. In this way, Seneca took well-known Grecian literature and Romanized it, similar to how the Greek and Roman Gods parallel each other, but are considered their own distinct pantheons.
+
+
+=== Greek Tragedian Sources ===
+
+
+==== Sophocles ====
+When comparing Sophocles' Oedipus Rex to Seneca's Oedipus, both follow the story arc of Oedipus' journey, but Oedipus Rex — the original play – unravels the events slowly, building suspense and revealing Oedipus' true identity with dramatic irony. In contrast,  Seneca attempts a more philosophical approach, sensationalizing the plot using dramatic spectacles and an explicit retailing of violence. In this way, although Oedipus Rex influenced Seneca's Oedipus, it is not a direct adaptation, thus earning Oedipus its place in the unique category of Senecan tragedy.
+
+
+==== Aeschylus ====
+Aeschylus is the original playwright of the story of the Oresteia, a trilogy containing the play of Agamemnon, who is a member of the cursed house of Atreus. This trilogy is what influenced Seneca's Agamemnon and Thyestes, and while all three plays allow the past and future to show in the present, and all three emphasize intergenerational parallels, Seneca's dramas offer commentary on the Aeschylean version of Agamemnon. While Seneca's plays evoke Aeschylus' Oresteia in narrative and characters, they also serve the important purpose of shedding light on unclear scenes in the original Agamemnon. Additionally, Seneca once again philosophizes the original story further, while adding more violently detailed recounts of the murders that took place off-stage.
+
+
+==== Euripides ====
+Seneca is shown to change the characterization of certain roles, particularly notable when looking at the differences between Seneca's Medea and Euripides', which shows that Seneca's dramas typically are similar to their Greek counterparts only in name and general plot. Seneca's Medea is more belligerent than Euripides' Medea, showing clear reduced respect for the Gods and letting her anger lead her to violence. Additionally, Seneca borrows various choral devices from Euripides, such as the use of a subsidiary chorus to highlight a character's importance and to give their entrance an air of distinction, or the literal command of the chorus by other characters – a practice that is extremely uncommon in Greek theater as a whole and is most found in early Euripides and Aeschylus.
+
+
+=== Influence of the Roman Theater ===
+It has been suggested that the style of Senecan tragedy was influenced by Augustan literature, a type of Roman literature that flourished under Caesar Augustus, the first Roman emperor. The literature written in the Augustan time period highlights the rampant competitive nature found in Roman drama, as early Augustan writers created works in several genres to claim their writing could compare with the Greek counterparts of these forms. Additionally, the Romans enjoyed a spectacle, and they expected their dramas to entertain. Thus, Roman plays were often more violent than Greek dramas, as Greek plays favored a dramatic end and thus were reluctant to allow deaths to happen onstage. In this, Seneca borrowed the philosophical overtone of his plays from Greek drama, and his tendency for spectacular violence from Roman theater.
+
+
+== Reception ==
+
+In the mid-16th century, Italian humanists rediscovered these works, making them models for the revival of tragedy on the Renaissance stage. The two great, but very different, dramatic traditions of the age—French neoclassical tragedy and Elizabethan tragedy—both drew inspiration from Seneca.
+The plays also gained prominence in English-speaking countries, as Senecan drama was some of the first classical work to be translated into English during this period. The first complete translated collection of all of the plays attributed to Seneca at the time was Seneca: His Tenne Tragedies, compiled and edited by English poet and translator Thomas Newton. The plays were translated by Jasper Heywood, Alexander Nevyle, Thomas Nuce, John Studley, and Newton himself. 
+
+The Elizabethan dramatists found Seneca's themes of bloodthirsty revenge more congenial to English taste than they did his form. The first English tragedy, Gorboduc (1561), by Thomas Sackville and Thomas Norton, is a chain of slaughter and revenge written in direct imitation of Seneca. (As it happens, Gorboduc does follow the form as well as the subject matter of Senecan tragedy: but only a very few other English plays—e.g. The Misfortunes of Arthur—followed its lead in this.) Senecan influence is also evident in Thomas Kyd's The Spanish Tragedy, and in Shakespeare's Titus Andronicus and Hamlet. All three share a revenge theme, a corpse-strewn climax, and The Spanish Tragedy and Hamlet also have ghosts among the cast; all of these elements can be traced back to the Senecan model. The ghosts are of particular importance to the Senecan model as they are often borne, not of the more popular Christian faith of the time but of the pagan Greek & Roman faiths, often referencing the Underworld rather than heaven or hell. 
+
+French neoclassical dramatic tradition, which reached its highest expression in the 17th-century tragedies of Pierre Corneille and Jean Racine, drew on Seneca for form and grandeur of style. These neoclassicists adopted Seneca's innovation of the confidant (usually a servant), his substitution of speech for action, and his moral hairsplitting.
+The 1800s saw a period of general disparagement of Senecan drama, as criticism surrounding the violence and supposed monotony of the plays flourished. This would last until the 20th century, when interest surrounding the scholarship and performance of Seneca's plays had two prominent periods of revival. These resurgences occurred in the 1920s and the 1960s, with the latter continuing to the modern day.
+The renewed interest in Seneca's works in the 1920s was largely concerned with writing and analysis of the plays, rather than their performances. Some possible reasons for this interest were World War I, the violence of which could be related to the violence in the plays, and the popularization of psychoanalysis, which gave a new lens through which critics could analyze the characters. T.S. Eliot gave an influential address in 1927 connecting Senecan drama with the works of Shakspeare and refuting past criticisms.
+The revival of the 1960s was characterized by interest in the staging and production of Seneca's plays, which may have been sparked by the bimillennial anniversary of his death in 1965. An especially prominent restaging was English poet Ted Hughes' 1968 production of Oedipus. Hughes wished to highlight what he saw as the primitive savageness of the play, which he conveyed through a lack of punctuation in the script. The production was directed by renowned English director Peter Brook, who drew heavily from Antonin Artaud's Theater of Cruelty to emphasize the violence and bloodshed of the play. Productions of Seneca's work continued to appear into the 1980s. Stagings of Troades, Medea, and Phaedra, for instance, were published, performed, and directed by translator Frederick Ahl. These stagings were noticeably less violent and closer in tone to the original plays than the stagings of Hughes.
+Senecan drama continues to draw attention into the modern day. Of particular note is Theyestes, which has been translated in 1994 by British playwright Caryl Churchill and in 2010 by Australian director and actor Simon Stone.
+
+
+== See also ==
+Theatre of ancient Rome
+
+
+== References ==
+
+Chisholm, Hugh, ed. (1911). "Drama § 8. Roman Drama" . Encyclopædia Britannica. Vol. 8 (11th ed.). Cambridge University Press. pp. 494–495.
+Hicks, Robert Drew (1911). "Seneca" . In Chisholm, Hugh (ed.). Encyclopædia Britannica. Vol. 24 (11th ed.). Cambridge University Press. p. 637.

@@ -1,0 +1,132 @@
+Job 18 is the eighteenth chapter of the Book of Job in the Hebrew Bible or the Old Testament of the Christian Bible. The book is anonymous; most scholars believe it was written around 6th century BCE. This chapter records the speech of Bildad the Shuhite (one of Job's friends), which belongs to the Dialogue section of the book, comprising Job 3:1–31:40.
+
+
+== Text ==
+The original text is written in Hebrew language. This chapter is divided into 21 verses.
+
+
+=== Textual witnesses ===
+Some early manuscripts containing the text of this chapter in Hebrew are of the Masoretic Text, which includes the Aleppo Codex (10th century), and Codex Leningradensis (1008).
+There is also a translation into Koine Greek known as the Septuagint, made in the last few centuries BC; some extant ancient manuscripts of this version include Codex Vaticanus (B; 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {G}}}
+  
+B; 4th century), Codex Sinaiticus (S; BHK: 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {G}}}
+  
+S; 4th century), and Codex Alexandrinus (A; 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {G}}}
+  
+A; 5th century).
+
+
+== Analysis ==
+The structure of the book is as follows:
+
+The Prologue (chapters 1–2)
+The Dialogue (chapters 3–31)
+The Verdicts (32:1–42:6)
+The Epilogue (42:7–17)
+Within the structure, chapter 18 is grouped into the Dialogue section with the following outline:
+
+Job's Self-Curse and Self-Lament (3:1–26)
+Round One (4:1–14:22)
+Round Two (15:1–21:34)
+Eliphaz (15:1–35)
+Job (16:1–17:16)
+Bildad (18:1–21)
+Get Some Perspective! (18:1–4)
+The Fate of the Wicked (18:5–21)
+Job (19:1–29)
+Zophar (20:1–29)
+Job (21:1–34)
+Round Three (22:1–27:23)
+Interlude – A Poem on Wisdom (28:1–28)
+Job's Summing Up (29:1–31:40)
+The Dialogue section is composed in the format of poetry with distinctive syntax and grammar. 
+Chapter 18 can be divided into two parts:
+
+Bildad rebukes Job (verses 1–5).
+Bildad describes the fate of the wicked (verses 5–21)
+Whereas in their first speech both Eliphaz and Bildad focus on the nature of God, in their second speech both explore the topic of the fate of the wicked, suggesting in the course of the conversation they become more convinced that Job is among the wicked.
+
+
+== Bildad rebukes Job (18:1–5) ==
+The chapter opens with Bildad's rebuke of Job for considering his friends as fools (like cattle, verse 3; cf Job 17:10) and urge for Job to be sensible and have broader perspective.
+
+
+=== Verse 5 ===
+[Bildad said:] "“Indeed, the light of the wicked is put out,
+and the flame of his fire does not shine."
+“Indeed”: translated from the Hebrew word גַּם, gam, which can be rendered as "also; moreover", that is, "in view of what has just been said."
+
+
+== Job expresses his despair (18:5–21) ==
+The second part of the chapter contains Bildad's extended description of the fate of the wicked: insecurity, terror and hopelessness. It can be implied that Job is at least on the way to be one of the wicked, so the whole section serves as a strong warning to Job. This is strongly emphasized in the last two verses of the chapter (verses 20–21), which demonstrates Bildad's view of Job's descent into the wickedness. 
+
+
+=== Verse 20 ===
+[Bildad said:] "They who come after him will be astonished at his day,
+as they who went before were seized with fright."
+"Those who come after him": translated from the Hebrew word אַחֲרֹנִים, ʾakharonim, which  can be rendered "those in the west" as in NKJV, ESV, etc.
+"They who went before": translated from the Hebrew word קַדְמֹנִים, qadmonim, which  can be rendered "those in the east" as in NKJV, ESV, etc.
+In relation to the geography, there are Hebrew terms of the seas: "the hinder sea", referring to the Mediterranean (in the "West"), and "the front sea", referring to the Dead Sea (Zechariah 14:8), namely, the "East". The Greek Septuagint (among other versions) understood the verse as temporal: "the last groaned for him, and wonder seized the first".
+
+
+== See also ==
+
+Related Bible parts: Job 8, Job 42
+
+
+== References ==
+
+
+== Sources ==
+Alter, Robert (2010). The Wisdom Books: Job, Proverbs, and Ecclesiastes: A Translation with Commentary. W.W. Norton & Co. ISBN 978-0393080735.
+Coogan, Michael David (2007). Coogan, Michael David; Brettler, Marc Zvi; Newsom, Carol Ann; Perkins, Pheme (eds.). The New Oxford Annotated Bible with the Apocryphal/Deuterocanonical Books: New Revised Standard Version, Issue 48 (Augmented 3rd ed.). Oxford University Press. ISBN 9780195288810.
+Crenshaw, James L. (2007). "17. Job". In Barton, John; Muddiman, John (eds.). The Oxford Bible Commentary (first (paperback) ed.). Oxford University Press. pp. 331–355. ISBN 978-0199277186. Retrieved February 6, 2019.
+Estes, Daniel J. (2013). Walton, John H.; Strauss, Mark L. (eds.). Job. Teach the Text Commentary Series. United States: Baker Publishing Group. ISBN 9781441242778.
+Farmer, Kathleen A. (1998). "The Wisdom Books". In McKenzie, Steven L.; Graham, Matt Patrick (eds.). The Hebrew Bible Today: An Introduction to Critical Issues. Westminster John Knox Press. ISBN 978-0-66425652-4.
+Halley, Henry H. (1965). Halley's Bible Handbook: an abbreviated Bible commentary (24th (revised) ed.). Zondervan Publishing House. ISBN 0-310-25720-4.
+Kugler, Robert; Hartin, Patrick J. (2009). An Introduction to the Bible. Eerdmans. ISBN 978-0-8028-4636-5.
+Walton, John H. (2012). Job. United States: Zondervan. ISBN 9780310492009.
+Wilson, Lindsay (2015). Job. United States: Wm. B. Eerdmans Publishing Company. ISBN 9781467443289.
+Würthwein, Ernst (1995). The Text of the Old Testament. Translated by Rhodes, Erroll F. Grand Rapids, MI: Wm. B. Eerdmans. ISBN 0-8028-0788-7. Retrieved January 26, 2019.
+
+
+== External links ==
+Jewish translations:
+Iyov - Job - Chapter 18 (Judaica Press) translation [with Rashi's commentary] at Chabad.org
+Christian translations:
+Online Bible at GospelHall.org (ESV, KJV, Darby, American Standard Version, Bible in Basic English)
+Book of Job Chapter 18. Various versions
+ Book of Job public domain audiobook at LibriVox Various versions

@@ -1,0 +1,69 @@
+Ludwig van Beethoven's String Quartet No. 10 in E-flat major, Op. 74, was written in 1809 and is nicknamed the "Harp" quartet.
+The nickname "Harp" refers to the characteristic pizzicato sections in the allegro of the first movement, where pairs of members of the quartet alternate notes in an arpeggio, reminiscent of the plucking of a harp. Like many nicknames for Beethoven's works, this was created by the publisher.
+It is also speculated that the nickname might have sparked from an arrangement for harp of the first movement, circulating in the form of a now lost manuscript written by an anonymous arranger. 
+
+
+== Movements ==
+
+
+=== 1. Poco adagio – Allegro ===
+The first movement is in sonata form.
+
+Slow introduction – Poco adagio (mm. 1–24)
+Exposition – Allegro (mm. 25–77)
+1st tonal area, E♭ major (mm. 25–51)
+Pizzicati lead transition to tonal area 2
+2nd tonal area, B♭ major (mm. 52–69)
+Closing (mm. 70–77)
+Development (mm. 78–139)
+Recapitulation (mm. 140–205)
+
+Coda (mm. 206–262)
+The first movement starts with a tranquil introduction, marked Poco Adagio. This is followed by the resolute main theme, accompanied by the pizzicato motives which lend the quartet its name. The rather tightly-knit exposition is followed by a five-part development in C major, characterized by the main theme and the pizzicati, which refrains from variations. The development of the theme material is also missing in the recapitulation, although this is 12 bars longer than the exposition. The movement ends with the coda, dominated by first violin semiquavers and pizzicati, which, also without theme development, contains a virtuoso 25-bar violin cadenza and, at 59 bars, is the longest coda in Beethoven's first ten quartets.
+The first movement is the only movement in this quartet that is in sonata form. The only other such Beethoven quartet is the String Quartet No. 14 in C-sharp minor, Op. 131 (there in the final movement).
+According to musicologist Peter Schleuning, the violin solo in the coda with its broken chords is inspired by the final movement in Johann Sebastian Bach's Brandenburg Concerto No. 4.
+
+
+=== 2. Adagio ma non troppo ===
+The second movement is in rondo form, and is characterized by soft modulations and surprising chord turns. The movement contains three 23-bar sections each dealing with the main theme; these sections alternate with two interludes.
+A cantilena pervades the movement, which is varied three times. In the last variation, the pizzicati of the first movement resound through. A-flat major
+
+
+=== 3. Presto - Più presto quasi Prestissimo ===
+The third movement is a scherzo.
+
+Scherzo, C minor (mm. 1–76)
+Trio, C major (mm. 77–169)
+Scherzo (mm. 170–245)
+Trio (mm. 246–338)
+Scherzo (mm. 339–467)
+The five-part third movement is in the form of a scherzo, but it is more dark than jestful in mood, opening with a brisk, restless theme. Its rhythmic motif is inspired by Beethoven's Symphony No. 5, which had been premiered a few months earlier. The long coda is mostly pianissimo.
+In the C major trio, Beethoven parodies rigid counterpoint exercises. Shortly before, he had put together two exercise books for his student Archduke Rudolf, shortly before his flight from Napoleon's troops, "Materialien zum Thoroughbass" and "Materialien zum Counterpunkt".
+
+
+=== 4. Allegretto con variazioni ===
+The scherzo leads directly into the fourth movement, a set of six ornamental variations on an Allegretto theme in E♭ major. While all instruments are involved in the first and fourth variations, the second variation is determined by the viola, the third by the second violin and cello, the fifth by the first violin, and finally the sixth variation by the cello. The coda is dominated by triplet pedal-points. The coda ends in an allegro stretta in which all instruments participate in a unison accelerando.
+
+
+== Analysis ==
+The first movement, of about ten minutes duration, is one of the best examples of Beethoven's management of musical tension. The short adagio introduction (24 bars long) is not tightly thematically integrated with the rest of the movement; it serves a similar function to the introduzione of the first movement of Op 59, No 3. The main motifs of the allegro are the lyrical melody appearing several bars from the beginning, and the pizzicato arpeggios played by two instruments accompanied by repeating quavers played by the other two. At first, these two themes appear thematically and rhythmically unrelated. It is only in the last fifty bars that the listener discovers that Beethoven's true purpose is for them to be played simultaneously, beneath a frenetic violin part, to generate the climax of the movement.
+The Harp Quartet parallels many facets of the Fifth Symphony. The heroic quality pervading Beethoven's middle period is heard extensively in the first movement. Both the Fifth Symphony and Harp Quartet have intense scherzi. Nevertheless, the grand entrance to the opening of the finale of the Fifth is noticeably absent in Op. 74. The fourth movement of the Harp Quartet follows a highly traditional theme and variations form. The Classical style of the fourth movement juxtaposed against the heroic nature of the first movement frustrates Beethoven scholars who seek to contextualize this piece in Beethoven's stylistic trajectory.
+
+
+== References ==
+
+
+== Further reading ==
+Kerman, Joseph, The Beethoven Quartets. New York, W. W. Norton & Co., 1966, pp. 155–168 ISBN 0-393-00909-2
+Marliave, Joseph de., trans. Hilda Andrews. Beethoven's Quartets New York: Dover, 1961, pp. 146–173.
+Marston, Nicholas. "Analysing Variations: The Finale of Beethoven's String Quartet Op. 74", Music Analysis 8, no. 3 (October 1989): pp. 303–324.
+Radcliffe, Philip. Beethoven's String Quartets New York: E.P. Dutton, 1968, pp. 82–89.
+Shepherd, Arthur. The String Quartets of Ludwig Van Beethoven. Cleveland: The Printing Press, 1935, pp. 37–39.
+Thakar, Markand. Looking for the 'Harp' Quartet: An Investigation into Musical Beauty. University of Rochester Press, 2011.
+Vernon, David. Beethoven: The String Quartets. Edinburgh, Scotland: Candle Row Press, 2023, pp.147–172
+Winter, Robert, and Martin, Robert, eds. The Beethoven Quartet Companion. Berkeley, California: University of California Press, 1994, pp. 196–203.
+
+
+== External links ==
+String Quartet No. 10 (Beethoven): Scores at the International Music Score Library Project
+Performance of String Quartet No. 10 by the Borromeo String Quartet from the Isabella Stewart Gardner Museum in MP3 format

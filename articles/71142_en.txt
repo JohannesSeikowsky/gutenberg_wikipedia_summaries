@@ -1,0 +1,79 @@
+The Tractatus de legibus et consuetudinibus regni Angliae (Treatise on the Laws and Customs of the Kingdom of England), often called Glanvill, is the earliest treatise on English law. Attributed to Ranulf de Glanvill (died 1190) and dated 1187–1189, it was revolutionary in its systematic codification that defined legal process and introduced writs, innovations that have survived to the present day. It is considered a book of authority in English common law.
+Written for Henry II (r. 1154–1189) as the culmination of his long struggle to return the kingdom to peace and prosperity following years of anarchy, the Tractatus is fairly described as the means to implement Henry's objectives. It would be supplanted  as a primary source of English law by the De legibus et consuetudinibus Angliae (On the Laws and Customs of England) of Henry de Bracton (c. 1210 – c. 1268), which itself owes much of its heritage to the Tractatus.
+There has been debate over the actual author of all or parts of the Tractatus. The legal opinions of Glanvill's nephew, Hubert Walter are certainly cited. Whatever the case, Glanvill perhaps supervised and certainly approved the work, and the issue is sidestepped in the literature by using terminology such as "commonly attributed to Glanvill".
+
+
+== Ancestry ==
+
+
+=== Background ===
+Law in England at the time of the publication of the Tractatus was a combination of Norman law in Normandy as modified to address perceived defects in it, inventions to address any problems unique to Norman control of England, and adaptations from the customs of the English when it suited Norman purposes. Also, a nascent but evolving feudalism had existed in England since the late tenth century.
+The legal system was initiated by William the Conqueror (reigned 1066–1087) and was fully in place in the time of Henry I (reigned 1100–1135), during which time English law evolved along its own path. That is the immediate provenance of the Tractatus, regardless of the ultimate origins of this "Anglo-Norman" law. 
+
+Henry Bracton, author of the  latterTractatus, was familiar with Roman Law and Canon Law, had long practical experience in the administration of justice, and was intimately aware of weaknesses in the system and how best they might be corrected.
+Pollock and Maitland, in their History of English Law Before the Time of Edward I, describe Glanvill's contracts as "purely Germanic", and state that the "law of earnest is not from Roman influence".
+The concept of the Norse Lawspeaker may play a role as well, only converting it from spoken to written form.
+There seems to be consensus that the English law ultimately does not rely on earlier Roman codifications. Scrutton noted the lack of a heritage owed to Roman law (i.e., the Corpus Juris Civilis) in the Tractatus, stating that some terminology was borrowed solely to be fitted into the book discussing Contracts (Tractatus, Book X), but that the terms were applied to English concepts.
+
+
+=== Context ===
+
+By 1135, the evolution of Anglo-Norman law was showing its age, with some parts working acceptably but many parts being cumbersome, ineffectual, and vulnerable to opposition by local lords. The time of Stephen's reign (1135–1141, 1141–1154) was a disaster, known in English history as "The Anarchy". Reform was needed and wanted, and Henry II (reigned 1154–1189) was equal to the challenge. Henry brought order out of legal chaos. He made the King's Court the common court throughout England, carefully defining its jurisdiction and that of the church, the lords, and the sheriff. He made it the guardian of the King's peace, with uniform protection for everyone.
+The Tractatus was the culmination of Henry's efforts, the means to implement his objectives. That this is attributable to legal evolution over his reign, rather than to sudden change, is shown by its purposeful inclusion of the principles of his earlier reforms such as the Assize of Clarendon. While some portions of the content of the Tractatus were first noted as exceptional innovations of Henry I, Henry II deserves credit for the revolution that made the innovations common rather than exceptional.
+Henry II is also noted for choosing strong and very capable men to implement his policies, and then giving them the latitude to do their jobs without interference. Among them was Glanvill, who was Chief Justiciar of England from 1180 to 1189, and who acted as regent in Henry's absence, which was often.
+
+
+== Document ==
+In an age before widespread literacy and mechanical printing, it was common for all works, great and small, to borrow and copy from previous works without explicit attribution. The Preface of the Tractatus is commonly described as an admiring imitation of the Prœmium (Preface) to the Institutes of Justinian, with no negative implications of plagiarism. The Preface to the Institutes begins Imperatoriam Majestatem, but the Preface to the Tractatus begins Regiam Potestatem.
+The Preface lays out the objectives, in effect saying that good laws and government are in the interests of justice, and these are the objectives of the King. The Tractatus consists of fourteen books, and is largely confined to objects of jurisdiction in the Curia Regis.
+
+
+=== Fourteen books ===
+
+These first two books treat the Writ of Right, when originating in the Curia Regis, and all its stages. Taken with the third book, the three together are a description of the proceedings in a Writ of Right for the recovery of land, including all the stages relating to the Writ of Right.
+
+These first eleven books dispense with actions commenced originally in the Curia Regis.
+
+
+=== Versions ===
+
+
+== Descent ==
+
+
+=== Immediate impact ===
+The use of writs limited the jurisdiction of all other courts and transferred jurisdictions of lord and county courts to the King's Court. The mechanics of the eyre were used for a new institution, where several counties were combined into a circuit and a judge was appointed to ride the circuit, bringing the King's Court to every part of the kingdom. The general unwillingness to grant continuances (essoins) greatly reduced the time needed to complete judicial proceedings. The King's Court, through its writs, held ultimate jurisdiction in adversarial proceedings over real property. Establishing the "truth" of facts through the rational process of an Assize Court (later superseded by the jury) was given as an alternative to the options of trial by ordeal, or the use of champions as substitutes, or the use of character testimonials rather than evidence to determine the outcome of legal contests.
+The emergence at this time of the doctrine of res judicata brought finality to the verdicts rendered, complementing the Tractatus though not a part of it, and serving to emphasize that the Tractatus was itself a part of Henry's reforms, but not the only part.
+Ecclesiastical courts retained jurisdiction over matters of marriage, legitimacy, wills, ecclesiastical issues, and redress for breach of ordinary contracts, but the writs of the King's Court prevented them from intruding elsewhere.
+The effect was unifying, and trial by jury in the King's Court was so popular that it deprived other courts of litigation. More important for the future of England, it was so satisfactory that it contributed to English culture by cultivating a universal respect for law and a willingness to abide by its decision.
+
+
+=== In legal history ===
+
+The writs and processes of the King's Court, together with the judicial organisation, are the germ of English common law. Similarly, the judicial oversight of property disputes through the use of writs are the germ for English land law. The option of the rational process of weighing evidence in a trial by jury would outlive all of its alternatives to become the only way to determine the "truth" of facts.
+Glanvill is cited copiously by name in books on English law, whether chronological histories or subject-oriented legal books, and in the latter where there are a number of references relevant to the topic at hand, he is cited as the earliest authority. Spelling variations of the name include Glanvil, Glanvill (the most common), and Glanville.
+
+
+=== The Regiam Majestatem ===
+The Scottish Regiam Majestatem was written perhaps in the reign of Robert the Bruce (1306–1329) but not earlier than 1318, as it includes a Scottish statute written in that year. Some two-thirds of it was adapted without change from chapters of the Tractatus, and some of the rest is different from the Tractatus but very similar to it. The remainder of the Regiam Majestatem is unrelated to the Tractatus, and mostly covers the area of crimes.
+
+
+== See also ==
+English land law
+English contract law
+English law
+
+
+== References ==
+Notes
+
+Citations
+
+Bibliography
+
+
+== External links ==
+
+ A Translation of Glanville at Project Gutenberg
+John Beames, Translation of Glanvill, Treatise on the Laws of England (1900)
+Early English Laws website, electronic edition of translation forthcoming

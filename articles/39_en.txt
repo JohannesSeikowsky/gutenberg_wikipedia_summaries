@@ -1,0 +1,18 @@
+The Hitchhikers Guide to the Internet, by Ed Krol, was published in 1987 through funding by the National Science Foundation. It was the first popular user's guide to the history and use of the Internet. The title was a reference to the popular The Hitchhiker's Guide to the Galaxy.
+
+
+== Background ==
+In 1985, Ed Krol began working at the University of Illinois, became network manager for the National Center for Supercomputing Applications when it was formed and was involved in the establishment of the NSFNET. During this time, in August 1987, he published (through funding by the National Science Foundation), the online text document, Hitchhiker's Guide to the Internet "because he had so much trouble getting information and was sick of telling the same story to everyone". Two years later this was republished as RFC 1118.
+The text attracted Tim O'Reilly's attention. Krol reworked and extended it into book form and it was published by O'Reilly in 1992 as the Whole Internet User's Guide and Catalog., though the additional digital catalog related to the text was made freely available online.
+
+
+== See also ==
+History of the Internet
+Scientific American Special Issue on Communications, Computers, and Networks
+
+
+== References ==
+
+
+== External links ==
+The Hitchhikers Guide to the Internet. at Project Gutenberg

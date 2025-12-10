@@ -1,0 +1,32 @@
+Sonnet 106 is one of 154 sonnets written by the English playwright and poet William Shakespeare. It is a member of the Fair Youth sequence, in which the poet expresses his love towards a young man.
+
+
+== Synopsis ==
+In old chronicles, there are descriptions of handsome knights and beautiful ladies. Had these writers known the youth, they would have expressed it in their work. In fact, their descriptions are prophecies that prefigure the beauty of the youth. Though they had prophetic power, they did not have enough poetic skill. Even we, though we can see the perfection of the youth, lack the words to praise it.
+
+
+== Structure ==
+Sonnet 106 is an English or Shakespearean sonnet. The English sonnet has three quatrains, followed by a final rhyming couplet. It follows the typical rhyme scheme of the form ABAB CDCD EFEF GG and is composed in iambic pentameter, a type of poetic metre based on five pairs of metrically weak/strong syllabic positions. The 4th line famously exemplifies a regular iambic pentameter:
+
+×   /    ×   /    ×   /   ×  /    ×    / 
+Of hand, of foot, of lip, of eye, of brow, (106.4)
+
+/ = ictus, a metrically strong syllabic position. × = nonictus.
+The first and second quatrains both open with a rather unassertive initial inversion; the 5th line also exhibits a rightward movement of the third ictus (resulting in a four-position figure, × × / /, sometimes referred to as a minor ionic):
+
+  /   ×    ×   / ×  ×    /    /   ×    / 
+Then, in the blazon of sweet beauty's best, (106.5)
+
+A minor ionic potentially recurs at the same point in the final line.
+The meter demands line 7's "antique" be stressed on the first syllable, and line 8's "even" function as one syllable.
+
+
+== Notes ==
+
+
+== References ==
+First edition and facsimile
+
+Variorum editions
+
+Modern critical editions

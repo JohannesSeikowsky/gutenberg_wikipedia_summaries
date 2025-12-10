@@ -1,0 +1,21 @@
+The Secret Guide to Computers is a book on computer hardware and software techniques by Russ Walter.
+The book was written to be useful in both teaching and professional environments. Its goal is to describe everything necessary to become a "computer expert," covering philosophies, technicalities, hardware, software, theory, and practice.
+Walter shares his telephone number for readers of the book to ask questions 24 hours a day.
+
+
+== Editions ==
+As of 2022, there are 34 editions of the book.
+Details:
+The original edition, now called "edition zero," was written in 1972. It was 17 pages about how to write programs in BASIC. The 7th edition, written in 1976, was the first edition to actually use the title "The Secret Guide to Computers."
+Some editions are multi-volume sets.
+
+
+== Table of contents ==
+All editions are self-published by the author, Russell M. Walter (nicknamed "Russ"), but other publishers have reprinted their own versions. For example, the 11th edition, written in 1983, was a 2-volume set. The photo (which you see on the right or above) shows a reprint, published by Birkhäuser Boston, of volume 1 of the 11th edition. It includes a different cover and different advertising material than Russ's version. It was Birkhäuser Boston's first edition but a reprint of just part of Russ's 11th edition.
+The 31st edition had an expanded title: "Secret Guide to Computers & Tricky Living." That's because it combined "The Secret Guide to Computers" with Russ's other book, "Tricky Living," to form a huge book, 703 pages. That expanded title was used on the 31st edition and all later editions (the 32nd, 33rd, and 34th).
+The current edition, the 34th, was published in 2022. Its 703 pages include 42 chapters, organized into 7 mega-chapters: buying (use this book, how to shop, chips, disks, I/O devices software, complete systems), Windows (Windows 10&11, Web, email, security, maintenance, repairs, command prompt), handhelds (pure Android, Samsung's Android, iPad), tricky living (health, daily survival, intellectuals, language, places, Donna's comments, arts, math, government, morals, sex), Microsoft Office (Word, Excel, PowerPoint), programming (Basic, Python, Web-page design, challenges, Visual Basic, Visual C#, exotic languages, assembler), and parting (computer past, your future, resources). Though most of the book was written by Russ, the "Donna's comments" chapter was written instead by his wife (Guang Chun Walter, nicknamed "Donna") and edited by him, so she's a coauthor.
+Many earlier editions are still available from Russ, at reduced prices and including many topics omitted from the 34th edition, such as a dozen big 33rd-edition topics (Windows 7 & 8 & 8.1, Internet Explorer, Yahoo Mail, iPhone, Microsoft Publisher&Access, QB64, and Java&APL) and prostitution (most thoroughly in Tricky Living's first edition).
+The book's Website, SecretFun.com, includes links to free PDFs of the entire 33rd & 34th editions, plus many other topics, such as how to get printed books directly from Russ and phone him at 603-666-6644 for free help about computers and everything else in life.
+
+
+== References ==

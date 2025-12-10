@@ -1,0 +1,54 @@
+The Methods of the Sima (also known as The Marshal's Art of War) is a text discussing laws, regulations, government policies, military organization, military administration, discipline, basic values, tactics, and strategy.  It is considered to be one of the Seven Military Classics of ancient China.  It was developed in the state of Qi during the 4th century BC, in the mid-Warring States period.
+
+
+== Content summary ==
+
+
+=== General focus ===
+In the East Han dynasty, The Methods of the Sima was classified as a work describing rites and propriety (禮), by Ban Gu largely because it discusses methods of organization, administration, and discipline much more deeply than strategy or battlefield tactics.  The Methods of the Sima rarely discusses direct issues related to battlefield command, instead concerning itself with how to initiate, administer, and manage military campaigns.  The limited discussions of strategy and tactics which do appear in the work are broad, general, and common to the other Seven Military Classics. The text emphasizes ritual differentiation between the civil and military realms (wen and wu), and marks complementarity of the two (e.g. 天子之義 chapter, 文與武左右也).
+
+
+=== The Justification of War ===
+The Methods of the Sima promotes the view that warfare is necessary to the existence of the state, that it provides the principal means for punishing evil and rescuing the oppressed, and that its conscientious exploitation is the foundation for political power.  It states that a balance between war and peace must be maintained for the prosperity of the state: that those states which neglect their armies will perish just as quickly as those states which resort to warfare too frequently.  The book promotes the view that war is an unfortunate necessity for peace.
+The contributors to the Methods of the Sima stress that appropriate civil and military roles must be distinguished because of their contradictory values.  Civilian culture is judged to be severe, remote, and languid, placing value in courtesy and benevolence, while military culture is judged to be severe, stern, and active, placing value in order and discipline. The writers of the Methods stress that the Virtue (德) of the people will decline both when civilians act in ways that are appropriate for soldiers, and when soldiers act in ways that are appropriate for civilians. The King must conduct himself differently in these two spheres and expect different things from his citizens.  In civil life, he must cultivate the people through education and the promotion of regional culture.
+The Methods of the Sima stresses that the only justification for warfare is the assistance of the common people.  Because warfare must benefit the people of all states involved in a conflict in order to be legitimate, nations must avoid engagements that injure the people of enemy states, and actions which might antagonize a subject populace are severely prohibited.  Because it identifies the only justification for warfare as eradicating a government evil, the Methods encourages commanders to engage in ceremonial, accusatory formalities before beginning a campaign, and makes it a vital necessity that the army's soldiers understand the virtuous nature of their mission.  These policies promote the utilitarian goals of strengthening morale and weakening enemy resistance.
+
+
+=== The Importance of Discipline ===
+The text states that an army which is perfectly unified has the greatest chance of success.  This requires the Emperor and his representatives to enforce strict discipline.  Laws must be clear and consistent and enforced with total impartiality.  There must also be active concern for disruption and sedition.  Commanders must be aware of rumors and doubts and address them promptly.  They must also be capable of leading by example.  Weapons and tactics must be studied with extreme thoroughness.  Enemy weapons may be copied if they are superior.
+The book's contributors significantly elaborate on the nature of military discipline.  Rewards and punishments are necessary in shaping the actions of the military.  Because a worthy person could become self-important and disrupt the integrity of the military if reward is excessive or unpredictable, rewards must be appropriate and consistent in order to be most effective.  Punishment must also be carefully considered.  When the military experiences failure, the commander must encourage everyone to accept responsibility, including himself.  If he singles out an officer, the troops could infer that the officer alone was responsible and avoid improvement. 
+
+
+== Authorship ==
+
+
+=== Authenticity ===
+There is no consensus on who composed the Methods of the Sima.  Both Sima Qian and modern historians suggest that it was likely compiled from various extant military treatises present in the state of Qi in the fourth century BC, in the mid-late Warring States period. If the Methods of the Sima was compiled from other pre-existent military writings, the origin of its component texts cannot be known with certainty.
+Presently, because only five of the 155 chapters reported in the Han dynasty exist, all editions of the Methods of the Sima seem to be remnants of a larger, more extensive work.  The book has been faithfully transmitted since at least the time of the Tang dynasty, but the disparate number of existent chapters caused Qing dynasty scholars (in particular) to attack the book as spurious.  Modern scholars generally support the text's authenticity.
+
+
+=== Sima Rangju ===
+One of the alternative names for the book is "The Methods of Sima Rangju", based on Sima Qian's description of the work as being largely attributed to the famous fourth-century BC Qi general Sima Rangju. Sima Qian states that, after Sima Rangju's death, King Wei of Qi (r.356-320 BC) compiled all of the most famous military writings then extant in Qi, of which the writings of Sima Rangju were a major component.  According to Sima Qian, the resulting book was the Methods of the Sima.
+
+
+=== Other Qi Writers ===
+Another view, promoted by modern scholars such as Liu Yin, was that the core material present in the Methods of the Sima was created during the reign of Duke Huan of Qi (r.685-643 BC), successfully guiding Duke Huan in his efforts to become a regional hegemon (霸).  A century later, Duke Jing of Qi (r.547-490) reportedly used the work in his successful effort to retake land previously lost to Qin, and to subjugate several other feudal lords.  According to this theory, the texts used by these rulers were all gathered and compiled during the reign of King Wei of Qi, and the resulting book came to be known as the Methods of the Sima.
+There are other historical writers associated with Chinese military classics whose writings may have contributed to the Methods of the Sima. Because the writer Sun Bin was a relative of Sima Rangju, and because Sun Bin served Qi as a military advisor in the fourth century BC, around the time that the Methods of the Sima was compiled, some scholars theorize that the writings of Sun Bin may have contributed to the Methods of the Sima.  Because all sources identify the Methods of the Sima with the state of Qi, and because Jiang Ziya was enfeoffed as the Duke of Qi shortly before his death, other scholars believe that the tradition of Jiang Ziya's writings may have contributed to the book's compilation.  Because the origins of the book are enigmatic, the authorship of the Methods of the Sima cannot be either proven or refuted.
+
+
+== See also ==
+Seven Military Classics
+Sima Qian
+State of Qi
+King Wei of Qi
+Sun Bin
+Jiang Ziya
+Sima Rangju
+
+
+== References ==
+
+
+== External links ==
+Full text of the Simafa (Chinese)
+Sawyer, Ralph D.; Sawyer (5 May 1993). The Seven Military Classics of Ancient China. Basic Books. ISBN 9780813312286.

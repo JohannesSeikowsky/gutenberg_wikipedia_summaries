@@ -1,0 +1,32 @@
+Escrito em 1865 por Gregor Mendel, Versuche über Pflanzen-Hybriden (do alemão, tradução livre: Experimentos na hibridização de plantas) foi o resultado de anos de investigação de caracteres genéticos em ervilheiras. Mendel apresentou o seu trabalho à Sociedade de História Natural de Brunn, na Boémia. O estudo foi posteriormente publicado na Proceedings of the Natural History Society em 1866.
+Este trabalho experimental foi desenvolvido entre 1856 e 1863. Para o executar, Mendel utilizou e testou cerca de 28.000 ervilheiras. Nesta obra, Mendel fez a comparação de sete caracteres distintos:
+
+Cor e rugosidade das sementes (cinzentas/redondas ou brancas/rugosas)
+Cor dos cotilédones (amarelos ou verdes)
+Cor das flores (branco ou violeta)
+Forma da vagem (cheia ou constricta)
+Cor das vagens (amarelo ou verde)
+Posição das flores e vagens nos ramos
+Altura das plantas (baixas ou altas)
+Para a escolha da planta para efectivar as experiências tiveram em conta vários factores:
+
+A planta deverá ter determinadas características constantes e facilmente diferenciáveis
+Os híbridos dessas plantas devem, durante o período de floração, estar protegidas da contaminação de pólen estranho (por mecanismos próprios à planta ou por mecanismo artificiais)
+Os híbridos e a sua descendência não deverão sofrer distúrbios substanciais na sua fertilidade, em sucessivas gerações.
+Através da experimentação, Mendel descobriu que um caracter hereditário seria invariavelmente dominante em relação ao outro caracter (recessivo). Este modelo, conhecido como hereditariedade mendeliana, providenciou uma alternativa para as teorias prevalentes nessa época.
+Por essa altura, havia algumas teorias que tentavam explicar como os caracteres eram herdados de geração em geração. Por normalmentea descendência apresentava características mistas em relação aos progenitores, uma das teorias propunha que que os caracteres físicos se misturavam em cada geração, tal como acontece quando se misturam cores para obter novas cores. Mesmo assim, os que suportavam esta teoria tinham alguma dificuldade em explicar como alguns caracteres, como os olhos azuis, reapareciam em gerações posteriores e sem que tivessem sido fruto de mistura de cores de olhos dos progenitores. Ainda nessa época, outra teoria propunha que os gâmetas masculinos transportavam consigo uma miniatura do organismo a ser formado e que o gâmeta feminino contribuiria com a essência que permitia ao organismo em formação crescer e se desenvolver.
+Infelizmente, o trabalho de Mendel não recebeu grande atenção da comunidade científica e foi só no início do século XX que ele foi redescoberto. As ideias constantes no seu trabalho ajudaram ao estabelecimento da Síntese evolutiva moderna.
+
+
+== Leis de Mendel ==
+Do trabalho experimental desenvolvido por Mendel derivaram as seguintes leis:
+
+Primeira lei: O tipo hereditário da descendência não é intermédio em relação aos tipos dos progenitores. Apenas predomina um deles. Se se cruzarem duas variedades bem definidas de uma mesma espécie, o descendente híbrido mostrará as características distintivas de um dos progenitores (característica dominante).
+Segunda lei ou lei da segregação (ou disjunção) dos genes antagónicos: A característica recessiva é latente  manifestar-se-á na seguinte generação, resultante de  se cruzar os híbridos entre si. Três quartos irão mostrar a característica dominante e um quarto a característica recessiva.
+Terceira lei ou lei da transmissão independente dos genes: Cada uma das características puras de cada variedade (cor, rugosidade da pele, etc.) transmite-se à seguinte geração de forma independente entre si, seguindo as duas primeiras leis.
+É interessante notar que Mendel escolheu uma planta que manifesta os caracteres de forma discreta. Tivesse escolhido uma planta na qual múltiplos genes seriam necessários para expressar um caracter, possivelmente não teria conseguido chegar às suas leis genéticas.
+
+
+== Referências ==
+Mendel, G., 1866, Versuche über Pflanzen-Hybriden. Verh. Naturforsch. Ver. Brünn 4: 3–47 (in English in 1901, J. R. Hortic. Soc. 26: 1–32)
+Fisher, R. A., 1936, Has Mendel's work been rediscovered? Ann. Sci. 1:115-137.

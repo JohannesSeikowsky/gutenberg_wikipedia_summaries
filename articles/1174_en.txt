@@ -1,0 +1,138 @@
+Hellenica (Ancient Greek: Ἑλληνικά) simply means writings on Greek (Hellenic) subjects. Several histories of the 4th-century BC Greece have borne the conventional Latin title Hellenica, of which very few survive. The most notable of the surviving histories is the Hellenica of the Ancient Greek writer Xenophon (also known as Hellenika, or A History of My Times).
+The work was intended as a continuation of Thucydides' History of the Peloponnesian War, which was left unfinished and ends abruptly in the year 411 BC. Xenophon's Hellenica covers the years 411-362 BC, through the end of the Peloponnesian War and its aftermath.
+Hellenica is usually considered to be a difficult work for modern audiences to understand, as Xenophon often assumed his reader's knowledge of events.
+
+
+== Composition ==
+There are many theories on how and when Hellenica was written, but most scholars believe that Xenophon wrote the majority of it in the later years of his life, from around 362-356 BC. The first section (1.1.1-2.3.10), which covers the end of the Peloponnesian War, was probably written much earlier, in the mid-380s BC. Some have suggested that this early section was an attempt to mimic Thucydides, as it follows a strict chronological structure and minimizes religious significance, however, the respective writing styles are still distinctly different. The later sections through to the end of the work (2.3.11-7.5.27) are less strict in their chronological order, often following singular stories to their completion before going back and filling in events that had happened elsewhere.
+
+
+=== Reliability ===
+While Hellenica contains inaccuracies, it is generally considered that Xenophon didn't include anything he knew to be untrue. He shows a bias towards Sparta, most clearly through his dislike of Sparta's rival Thebes, describing them as foolish and cowardly in battle. The exclusion of certain significant events, such as the establishment of the Arcadian League and the Second Athenian League, the construction of Megalopolis, and the refoundation of Messene, all favor Sparta. However, it is possible that these events were left out because they were common knowledge to his readers. Also, despite this reputation for bias, Hellenica includes few evaluative phrases that directly praise or criticize its subjects.
+Xenophon wrote his history soon after the events had occurred. As he was himself a cavalryman, the importance of cavalry in battles is emphasized, particularly in reference to Persia. He relied primary on his own memory, as well as testimony of others, mostly friends who visited him. As he trusted these eyewitnesses, rarely did he find multiple sources for an event, resulting in occasionally limited perspectives and unbalanced coverage.
+
+
+== Content ==
+
+Hellenica is divided into seven books that cover the era between the golden age of Athens and the rise of Macedon.
+The first two narrate the final years of the Peloponnesian War, while the remaining books (three to seven) focus primarily on Sparta as the dominant city-state in Greece after the Peloponnesian War, continuing into the period known as the Theban hegemony following Sparta's defeat at the battle of Leuctra. The main concerns are the power struggle between Athens and Sparta, as well as the ideological struggle between democracy and oligarchy.
+Book 3 includes a brief description of the expedition of Cyrus the Younger and the Ten thousand, in which Xenophon took part and later wrote a history of, the Anabasis.
+Unlike the histories of Herodotus and Thucydides, Xenophon's Hellenica has no preface or introduction. This has made it comparatively difficult to judge Xenophon's intentions and methods for writing his history. The narrative begins as a continuation of Thucydides' unfinished History of the Peloponnesian War, clearly designated by the opening words of Hellenica, "μετὰ δὲ ταῦτα," which are translated varyingly as "Then," "After this," "Some days later," or "Following these events."
+Xenophon ends his history with the Battle of Mantineia in 362 BC. This is viewed as a rather arbitrary choice, as the battle was neither decisive nor conclusive. Despite the Thebans winning the battle, they lost their commander Epaminondas, which led to their inability to capitalize on Sparta's defeat. As a thematic ending, Mantineia represents the fulfillment of hubristic revenge by the Thebans on the Spartans for their oath-breaking seizure of the acropolis at Thebes. Also, Xenophon's son Gryllus, a famous Athenian cavalryman, died in the battle. In general, the mood at the end of the piece is pessimistic, as Xenophon describes the chaos and uncertainty that these conflicts have reached.
+The work concludes with an open-ended statement by Xenophon that his history has ended but another historian may continue it. This, along with the opening, has been interpreted by scholar Lisa Irene Hau to symbolize that Xenophon viewed history as a continuous work, in which the Hellenica was simply a small piece.
+
+
+== Summary ==
+
+
+=== Book 1 (411-406 BC) ===
+The history begins with the "Decelian War" period of the Peloponnesian War. The rival navies of Sparta and Athens fight campaigns in the Hellespont region (1.1). Initially, the Athenian navy saw several major sea victories, at Byzantium (1.3) and the Arginusae Islands (1.6). Book 1 also narrates restoration of Alcibiades to the Athenian military and his return to Athens in 407 BC (1.4-5).
+
+
+=== Book 2 (406-403 BC) ===
+This book narrates the end of the Peloponnesian War with the surrender of Athens in 404 BC (2.2). The Spartan commander Lysander ordered the long walls of Athens torn down, and Athens became formally allied with the Spartan hegemony. The Spartans also installed a new government (2.3). Book 2 focuses primarily on the internal politics of Athens following the war. The Spartan-instituted oligarch regime, known as the Thirty Tyrants, was overthrown and there was a resumption of democracy in Athens (2.4).
+
+
+=== Book 3 (401–395 BC) ===
+Here Xenophon shifts viewpoint from Athenian to Spartan politics, beginning with a brief account of the expedition of the Ten-thousand against the Persian king Artaxerxes II (3.1). Book 3 narrates the Spartan expedition led by King Agesilaus in Asia Minor against the Persians (3.4). The satraps of Ionia, Pharnabazus and Tissaphernes, are prominent characters with shifting allegiances throughout the Hellenica.
+
+
+=== Book 4 (395–388 BC) ===
+Primarily concerned with the Corinthian War, Book 4 recalls King Agesilaus' Ionian campaign against Persia of 396–395 BC. During this time, the satrap Pharnabazus bribed Greek states into revolting against Sparta. This eventually led to the Corinthian War, with the states of Athens, Corinth, Argos and Thebes united against Sparta. Agesilaus and his army were recalled in 394 BC from his campaign against Persia (4.2.1-8). This period saw the beginning of the Corinthian War, with the Persian Empire siding with Athens against Sparta. The Persian satrap Pharnabazus let the exiled Athenian general Conon lead the Persian navy in a number of battles, including the Battle of Cnidus in 394 BC (4.3). Conon then convinced Pharnabazus to allow Athens to keep the Persian fleet and to fund the rebuilding of the long walls at Athens (4.8.1-11).
+
+
+=== Book 5 (388–375 BC) ===
+There was a peace conference at the end of the Corinthian War in 387 BC that resulted the "King's Peace" treaty (5.1.29-36). The acropolis in Thebes was seized by the supposed renegade Spartan Phoebidas (5.2.25-36), enabling Sparta to control the city until 378 BC, when a group of Thebans expelled the Spartans and reclaimed the city (5.4.1-12). This later led to the Boeotian War from 378–371 BC.
+
+
+=== Book 6 (375–369 BC) ===
+The Athenian general Iphicrates stealthily travels around the Peloponnesus (6.2.32-39). The Battle of Leuctra results in a major loss for Sparta against Thebes (6.4.4-21), ending the Boeotian War and Spartan hegemony in Greece, although Sparta would remain influential over the next decade. Theban hegemony begins under the leadership of Theban general Epaminondas.
+
+
+=== Book 7 (369–362 BC) ===
+During this period Thebes was the ascendant power in Greece. The old power structures fluctuated as new ones came into being. There was briefly an alliance between Athens and Sparta against Thebes. Sparta faced increasing harassment from internal rebellions and outside resistance. The Spartan homeland saw the first invasion in centuries (7.1.1-22). The Theban hegemony ended in 362 BC with the second battle of Mantinea (7.5.14-26).
+
+
+== Style ==
+
+Xenophon has traditionally been viewed as a lesser historian and biased moralist, especially when compared to Thucydides and Herodotus. Modern scholarship has generally reevaluated these faults, emphasizing his focus on making history come alive for the reader.
+Xenophon's history focuses on human perspectives. It is not a top-down history like Thucydides, instead it describes specific actions or battles from an individual person or community perspective, often with singular details and imagery. Their interactions most often take the form of war and conflict, depicted through the eyes of individuals to show the impacts of the battles on the people themselves. An admirer of Socrates, Xenophon wrote Hellenica as an "ethical history," intended to be educational. It both criticizes and elevates human virtues, filtered through Xenophon's strong moral sense of justice and reciprocity.
+This individualistic focus can make the work appear episodic and mostly anecdotal. Historian Lisa Hau describes some of these episodes as "moral vignettes," which depict fictional, short conversations between characters in order to deliver a moral lesson, while still being interesting and enjoyable to read. This anecdotal style has led to Xenophon's reputation as a writer of memoirs rather than history, as some events are filled with detail and others are not, regardless of their conventionally ascribed historical significance.
+
+
+=== Herodotus and Thucydides ===
+
+Most scholarship on the Hellenica has been in comparison to Herodotus, and most apparently Thucydides. The construction of Hellenica as a continuation of Thucydides' work has led some to see Xenophon as placing himself on a similar level as his predecessor, in practice as well as content. Hellenica is structurally similar to Thucydides, by following a mostly chronological overview, but it is stylistically closer to Herodotus, with its anecdotal focus, as well as its emphasis on religion, omens and oracles. However, unlike Herodotus, Xenophon rarely describes his sources or gives multiple perspectives on an event.
+
+
+=== Hellenica Oxyrhynchia and Bibliotheca historica ===
+
+The Hellenica Oxyrhynchia is fragmentary text discovered in 1906 in Oxyrhynchus, Egypt. It covers the same time period as roughly the first half of Xenophon’s Hellenica. It is likely that the Hellenica Oxyrhynchia was written before Hellenica, and read by Xenophon, despite significant variations. Stylistically it is sparse compared to Xenophon, but still very detailed, and generally considered to be a more factually accurate account. Its discovery proved much of Xenophon's unreliable reputation for scholars of the 19th and 20th centuries AD.
+
+Prior to the discovery of the Hellenica Oxyrhynchia fragments, the Bibliotheca historica of Diodorus Siculus was the only surviving complimentary source that historians could use to validate or fill in the gaps of Xenophon's writing. Diodorus, a later historian in the Roman era, wrote his history based on the now-lost works of Ephorus, the Greek writer of the 4th-century BC. The events covered in books 13-15 of Diodorus' Bibliotheca historica overlap with Xenophon’s Hellenica. Despite being generally considered by scholars as an amateurish historian who often misplaced names and dates, Diodorus' work is still used in comparative analysis with Xenophon.
+
+
+=== Speeches ===
+Ancient historians commonly used speeches, accurate and invented, in their works. Xenophon was unique in using speeches for individual characterization rather than furthering the themes or ideas of the history overall. These characterizations are created with poetical and rhetorical themes specific to the speakers, and also often include inaccuracies or misleading claims presented by them. Speeches can be as important to the history being told as the command of a battle. They are notable too for being generally shorter than those in Thucydides and Herodotus. Xenophon also uses dialogue much more frequently, and the way he often frames speeches as conversational between the speaker and the audience is largely unique.
+
+
+=== Religion ===
+Xenophon himself was very pious, and in the later books of Hellenica, religion and the gods are mentioned often. His work is informed by the religious rationalism of Socrates, as he attempted to explain why Sparta, the side he supported and saw as good, suffered and lost, despite the righteousness of the gods. Hellenica defines "sins" of the Spartans to explain their losses, mostly involving the breaking of their oath to Thebes. These sins are punished by the gods in the form of Spartan defeat, but there are still practical reasons given. Unlike in Herodotus, the gods never interfere directly, but their will is enacted through the hubristic events of the story. Xenophon's view of piety is that one must offer sacrifices, practice divination, and honor oaths; but one must also be practical and prepared. He is clear too that the gods will punish those who do not follow these laws.
+
+
+=== Military and leadership ===
+Xenophon was himself a soldier and participated in some of the battles depicted in Hellenica. His reports of the numbers of troops and ships in these battles are considered more accurate than other historians, but he still emphasized and omitted details of battles to fit the narrative of his work. Like most of Hellenica, battles focus on individuals and their influence in the larger conflict. Good military leaders are of the utmost importance as motivators and role-models for their soldiers. Treating soldiers correctly leads to loyalty, which leads to success in battle, as morale is often more important than strategy. Xenophon's good leaders fit Homeric ideals of courage, cunning, and sympathy, and are able to inspire their soldiers. They are not, however, entirely good, and Xenophon presents them as complex as well as honorable. Also, while they keep oaths, perform sacrifices, and are generally appropriately pious, it is not piety alone that wins battles, and the best leaders are always practical as well.
+
+
+== Other works titled Hellenica ==
+Among the competing works with the title Hellenica, the now-lost work by Ephorus of Cyme stands out. Ephorus attempted a universal history, and although he attempted to set apart history from myth, his work began with the mythic origin story of the return of the sons of Hercules. As a pupil of the rhetorician Isocrates, he was not above embellishing his narrative. He was apparently popular in his time, but his style and theory of history were quickly outdated.
+The Hellenica of Theopompus of Chios, another pupil of Isocrates, was a continuation of Thucydides.
+There is evidence that Anaximenes of Lampsacus wrote a Hellenica.
+Yet another, fragmentary Hellenica found in papyrus at Oxyrhynchus, is known as Hellenica Oxyrhynchia. It covered events from 411 to the year of the Battle of Cnidus, in 395/4 BC. Several historians have been suggested as the authors.
+
+
+== Translations and critical editions ==
+(1890) Daykins, H.G., trans. The Works of Xenophon, in four volumes. London, 1890. Available online through Project Gutenberg.
+(1900) Marchant, E.C., ed. Historia Graeca. Greek text only. Oxford Classical Texts. Oxford: Oxford University Pess, 1900. Reprinted together with Underhill; Salem, NH, 1984.
+(1900) Underhill, G.E. A Commentary on the Hellenica of Xenophon. Oxford: Oxford University Press, 1900). Reprinted together with Marchant; Salem, NH, 1984.
+(1918, 1921) Brownson, Carleton L., trans. Xenophon in Seven Volumes, 1 and 2. Loeb Classical Library, Cambridge, MA: Harvard University Press. Vol. 1, 1918. Vol. 2, 1921. Available online through Tuft University's Perseus Digital Library Project. Gregory Crane, ed.
+(1978) Warner, Rex, trans. A History of My Times. Penguin Classics. London: Penguin Books, 1966. Reprinted with introduction and notes by George Cawkwell, 1978.
+(1995) Krentz, P., ed. and trans. Hellenika I-II.3.10. With Introduction and commentary. Warminster: Aris and Phillips, 1995.
+(2009) Strassler, Robert B., ed. The Landmark Xenophon's Hellenika. Translation by John Marincola, introduction by David Thomas. The Landmark Histories, New York, NY: Pantheon Books, 2009.
+
+
+== See also ==
+Histories (Herodotus)
+History of the Peloponnesian War
+Papyrus Oxyrhynchus 28
+Hellenica Oxyrhynchia
+Oxyrhynchus Papyri
+Bibliotheca historica
+
+
+== References ==
+
+
+== Bibliography ==
+Dillery, John (2013). Xenophon and the history of his times ISBN 9780415091398 (First issued in paperback ed.). London New York: Routledge, Taylor & Francis Group. ISBN 978-0-415-09139-8.
+Hau, Lisa Irene (2016-07-01). Moral History from Herodotus to Diodorus Siculus. Edinburgh University Press. ISBN 978-1-4744-1107-3.
+Higgins, W. E. Xenophon the Athenian: The Problem of the Individual and the Society of the Polis. Albany: State University of New York Press, 1977.
+Hobden, Fiona (2020). Xenophon. Ancients in action (1st ed.). London [England]: Bloomsbury Academic. p. 20. ISBN 978-1-4742-9848-3.
+Flower, Michael A. (2016-01-01). "Xenophon as a Historian." The Cambridge Companion to Xenophon. Cambridge University Press. pp. 301–322. ISBN 978-1-107-27930-8.
+Gray, Vivienne (2012-04-24). "Interventions and Citations in Xenophon's Hellenica and Anabasis." In Gray, Vivienne (ed.). Xenophon, Oxford Readings in the Classics. Oxford University Press. ISBN 978-0-19-538966-1
+Marincola, John. Greek Historians. 1. ed. Greece & Rome. New Surveys in the Classics ; No. 31. Oxford: University Press, 2001.
+Marincola, John (2016-01-01). "Xenophon's Anabasis and Hellenica." The Cambridge Companion to Xenophon. Cambridge University Press. pp. 103–118. ISBN 978-1-107-27930-8
+Mirhady, David C. (2011). Aristotle: Problems, Volume II: Books 20-38. Rhetoric to Alexander. Harvard University Press.
+Murray, Oswyn, "Greek Historians", in John Boardman, Jasper Griffin and Oswyn Murray, Greece and the Hellenistic World (Oxford History of the Classical World I, 1986; 1988).
+Rood, Tim (2016-01-01). "Xenophon's Narrative Style." The Cambridge Companion to Xenophon. Cambridge University Press. pp. 263–278. ISBN 978-1-107-27930-8.
+Underhill, G.E. A Commentary on the Hellenica of Xenophon. Oxford: Oxford University Press, 1900. Reprinted Salem, NH, 1984.
+Xenophon (2009). Hellenica - A History of My Times by Xenophon - Books I-VII Complete. Edited by Ford, James H. Translated by Dakyns, Henry Graham. EPN Press. ISBN 1-934255-14-9.
+Xenophon. Xenophon in Seven Volumes, 1 and 2. Translated by Brownson, Carleton L. Loeb Classical Library, Cambridge, MA: Harvard University Press. Vol. 1, 1918. Vol. 2, 1921. Available online through Tuft University's Perseus Digital Library Project. Gregory Crane, ed.
+Xenophon (2010). Strassler, Robert B. (ed.). The Landmark Xenophon's Hellenika: a new translation. The Landmark Histories. Translated by Marincola, John. Introduction by Thomas, David (1st ed.). New York: Anchor Books. ISBN 978-1-4000-3476-5.
+Xenophon; Warner, Rex; Cawkwell, George (1978). A History of My Times (Hellenica). Penguin classics. Harmondsworth, Eng. ; New York: Penguin Books. ISBN 978-0-14-044175-8.
+
+
+== External links ==
+
+Project Gutenberg – Hellenica by Xenophon, tr. H. G. Dakyns, 1890
+Perseus Digital Library – Hellenica by Xenophon, tr. Carleton L. Brownson, 1918

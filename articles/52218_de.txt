@@ -1,0 +1,394 @@
+Vor Sonnenaufgang ist ein 1889 von Gerhart Hauptmann verfasstes Sozial-Drama.
+
+
+== Hintergrund ==
+
+Die durch die Freie Bühne am Lessing-Theater veranstaltete Uraufführung am 20. Oktober 1889 bedeutete den Durchbruch des Naturalismus im deutschen Theater und die feste Etablierung eines bis dahin fast unbekannten Autors als Dramatiker. Hauptmann hatte für das Stück den Titel Der Säemann vorgesehen, entschied sich dann aber aufgrund eines Vorschlags von Arno Holz für Vor Sonnenaufgang. Zentrale Bedeutung für die Konzeption des Dramas, das unverkennbar in der Nachfolge von Ibsens analytischem Drama Gespenster steht, hat die naturalistische Determinationslehre: Der Mensch ist nicht selbstbestimmt und frei in seinen Entscheidungen und Möglichkeiten, sondern entscheidend geprägt und begrenzt durch die Faktoren Vererbung, Milieu und Erziehung.
+Biographischer Hintergrund seines ersten Dramas ist zum einen der Einfluss von Hauptmanns Freunden wie Alfred Ploetz und Ferdinand Simon, die beide Medizin studierten und dem Alkohol abschworen. Hauptmann selbst wurde allerdings nicht wie sie zum Abstinenzler, denn er schrieb später in seinen Erinnerungen Das Abenteuer meiner Jugend: „Der Idealismus Ploetzens überschlug sich eines Tags, und er teilte uns mit, dass er sich nach halbjähriger freier Abstinenz ... verpflichtet habe, alkoholische Getränke für immer zu meiden. Ich vermute, dass er dies Gelübde, das uns mit Bestürzung erfüllte, bis heut nicht gebrochen hat.“ Weiteren Einfluss auf sein Erstlingswerk hatte der Naturapostel Johannes Friedrich Guttzeit, dem er Pfingsten 1888 in Zürich begegnet war. Außerdem verarbeitet Hauptmann darin auch negative Erfahrungen, die er selbst in seiner Kindheit in einem pietistischen Milieu gemacht hatte (und die ihn – nach eigener Aussage – fast in den Selbstmord getrieben hatten), aber auch die seiner ersten Ehefrau Marie Thienemann, die in einer herrnhutischen Erziehungsanstalt zu einem eher ängstlichen, schwermütigen, depressiven Menschen geworden war.
+Eine Quelle Hauptmanns war Gustav von Bunges Schrift Die Alkoholfrage, aus der er wörtlich eine Figur – Alfred Loth – zitieren lässt.
+Das Stück wurde im August 1889 von dem Berliner Verleger Paul Ackermann auf Empfehlung von Theodor Fontane herausgebracht. 1892 nahm der Verleger Samuel Fischer das Drama in sein Verlagsprogramm auf.
+
+
+=== Widmung ===
+
+»Bjarne P. Holmsen, dem konsequentesten Realisten, Verfasser von ›Papa Hamlet‹, zugeeignet, in freudiger Anerkennung der durch sein Buch empfangenen, entscheidenden Anregung. Erkner, den 8. Juli 1889. Gerhart Hauptmann.« (der dreiteilige Erzählband Papa Hamlet wurde 1889 von Arno Holz und Johannes Schlaf unter dem Pseudonym „Bjarne P. Holmsen“ veröffentlicht und gilt neben Hauptmanns Erzählung Bahnwärter Thiel von 1887/88 als Musterfall naturalistischer Prosa)
+
+
+== Aufbau ==
+Der Aufbau des Dramas orientiert sich weitgehend am klassischen Vorbild und besteht aus 5 Akten. Das Geschehen schildert einen Tag im Leben der Bauernfamilie Krause und hat nur den Hof bzw. das Zimmer der Krauses als Schauplatz. Die Handlung ist geschlossen und hält die drei Einheiten von Ort, Zeit und Handlung ein. Jedoch ist keine der Figuren adlig, die Ständeklausel wird also aufgehoben. Der tektonische Aufbau des Dramas wird eingehalten – das Bekenntnis der Liebe Helenes bildet den Höhepunkt im 3. Akt und der Suizid die Katastrophe am Ende.
+
+
+== Inhaltsangabe ==
+Die folgenden Seitenzahlangaben und Zitate beziehen sich auf Gerhart Hauptmann: Vor Sonnenaufgang. 38. Auflage. Ullstein Verlag, Berlin 2005. 
+
+
+=== Handlungsüberblick ===
+Das naturalistische Schauspiel will die Degeneration einer Bauernfamilie aufzeigen, die durch Kohlefunde reich geworden ist. Viele Mitglieder der Familie, vor allem Bauer Krause und seine Tochter Martha, sind daraufhin alkoholsüchtig geworden. Marthas erstes Kind hat bereits zum Alkohol gegriffen und sich an den Scherben einer Essigflasche, in der sich vermeintlich sein „geliebter Fusel“ (S. 117) befindet, tödlich verletzt. Marthas zweites Kind wird im Schlussakt des Dramas tot geboren. Nur die weibliche Hauptfigur, Helene Krause, unterscheidet sich von ihrem Milieu, denn sie ist auf Wunsch der Mutter, die „am Kindbettfieber“ (S. 98, Z. 18) starb, in einem Herrnhutischen Pensionat erzogen worden (vgl. S. 24, 57, 64, 94, 96); sie grenzt sich somit vom Rest der Familie hinsichtlich Bildung und Gewohnheiten ab. Infolge ihrer Andersartigkeit leidet sie unter dem Trinkermilieu des elterlichen Hauses. Als Alfred Loth, ein Jugendfreund ihres Schwagers Hoffmann, zwecks volkswirtschaftlicher Milieu-Studien zu Besuch kommt, verlieben sie sich. Es kommt, ähnlich wie in Goethes Faust, in einer Gartenlaube zu Annäherungen, zu Liebesbekenntnissen und dem gemeinsamen Wunsch, zusammen ein neues Leben anzufangen. Helene wird jedoch von Loth ohne Zögern zurückgewiesen und verlassen, als er von der Trunksucht der Familie erfährt. Er hat Sorge um seine zukünftigen Kinder, da er von der Vererblichkeit des Alkoholismus überzeugt ist. Die empfindsame Helene nimmt sich daraufhin das Leben.
+
+
+=== Inhalt der fünf Akte ===
+
+
+==== I. Akt ====
+(im „Zimmer“ des Wohnhauses)
+Bei seiner Reise ins schlesische Witzdorf, wo er einen Bericht über die dortigen Verhältnisse der Bergarbeiter zu schreiben beabsichtigt, erfährt der Volkswirt Alfred Loth, dass sein alter Studienfreund Hoffmann in eine ortsansässige Bauernfamilie eingeheiratet hat, die über den Verkauf von kohlereichen Ländereien zu Reichtum gelangt ist, und besucht ihn. Im ersten Gespräch zwischen Hoffmann und Loth stellt sich heraus, dass beide in ihrer Jugend offenbar sozialistische Ideale verfolgten, Loth jedoch der einzige ist, der diesen immer noch nacheifert und sich immer noch für eine gerechte Güterverteilung einsetzt. Im Gegensatz dazu hat Hoffmann jene Ideale und Moralvorstellungen weitgehend verworfen und führt nun ein luxuriöses Leben. Vor und während des gemeinsamen Abendessens mit der Bauernfamilie wird Loths Abneigung gegenüber dem Alkohol thematisiert. Er untermauert seine Aversion, indem er die Begegnung mit einem volltrunkenen Bauern im örtlichen Wirtshaus schildert, ohne jedoch zu wissen, dass es sich dabei um Bauer Krause – das Oberhaupt der Bauernfamilie – handelt. Alle Anwesenden am Tisch sind peinlich berührt. Helene, Krauses Tochter aus erster Ehe, die eine gewisse Sympathie für Loth zu entwickeln beginnt, verlässt beschämt den Raum.
+
+
+==== II. Akt ====
+(Auf dem Gutshof, am nächsten Morgen um vier Uhr)
+Am Morgen nach Loths Ankunft auf dem Hofe wankt Bauer Krause betrunken vom Wirtshaus zurück auf den Gutshof. Unfähig, alleine zu gehen, lässt er sich von seiner Tochter Helene helfen, wobei er sie „mit der Plumpheit eines Gorillas“ umarmt und „einige unzüchtige Griffe“ (S. 43) macht. Helene stößt ihn von sich und trägt ihn mit Hilfe des Arbeitsmannes Beibst ins Haus. Kurz darauf tritt Wilhelm Kahl, der Neffe von Frau Krause, Bauer Krauses zweiter Ehefrau, aus dem Hauseingang, und es wird ersichtlich, dass er eine sexuelle Affäre mit ihr hat. Anschließend kommt es zu einem Gespräch zwischen Loth und Helene, bei dem sie sich einander annähern. Aber sie wird immer unsicherer und befürchtet schließlich, dass Loth schlecht von ihr denke, sodass sie überstürzt die Konversation beendet. Helene streitet sich daraufhin mit Frau Krause, da diese beabsichtigt, eine Magd zu entlassen, die sie mit dem Großknecht im Bett ertappt hat. Doch Helene kann ihre Stiefmutter letztlich davon überzeugen, die Magd auf dem Hof zu behalten, indem sie ihr droht, deren Affäre mit Wilhelm Kahl – dem eigenen Neffen – publik zu machen.
+
+
+==== III. Akt ====
+(im „Zimmer“ des Wohnhauses, einige Minuten später)
+Hoffmann und Dr. Schimmelpfennig, ein – wie sich später herausstellen soll – ehemaliger Kommilitone Loths, beraten sich im Wohnhaus des Gutshofs über die bevorstehende Niederkunft von Hoffmanns Frau. Schimmelpfennig rät Hoffmann, das Kind nach der Geburt von der Mutter zu trennen und es lieber in die Obhut seiner Schwägerin Helene zu geben, um dem Kind eine gesunde Entwicklung zu gewähren, da dessen Mutter ebenfalls dem Alkoholismus verfallen ist.
+Helene, bestürzt über die sozialen Missstände und das Milieu, in dem sie sich wiederfindet, betritt weinend den Raum, nachdem Dr. Schimmelpfennig diesen verlassen hat. Hoffmann nutzt die Gelegenheit, um sich Helene, unter dem Vorwand des Tröstens, körperlich zu nähern und sie zu verführen. Helene wartet zunächst ab, durchschaut dann allerdings das Vorhaben ihres Schwagers und ist empört. Es kommt zu einem heftigen Streit, der nur durch Loths Eintreten unterbrochen wird. Bei einem anschließenden Frühstück versucht Hoffmann herauszubekommen, was der Grund für den Besuch seines Schulfreundes auf dem Lande ist. Loth erzählt ihm, er sei hier, weil er die Lage der ansässigen Bergleute studieren wolle. Hoffmann lenkt das Gespräch in die Richtung der Frauen, und Loth offenbart Hoffmann, welche Kriterien seine zukünftige Frau erfüllen muss. Dieses Gespräch wird passiv von Helene verfolgt, welche Loth nach dem Verschwinden Hoffmanns ihre Liebe gesteht.
+
+
+==== IV. Akt ====
+(auf dem Gutshof, eine Viertelstunde später)
+Nach dem Streitgespräch mit Hoffmann beschließt Loth abzureisen, lässt sich aber schließlich von ihm selbst doch zum Bleiben überreden.
+Es folgt eine Unterhaltung zwischen Helene und Loth in der Gartenlaube, wobei die beiden sich näherkommen, sich küssen und gegenseitig ihre Liebe gestehen. Loth erfährt, dass Helene nicht – wie alle anderen Mitglieder der Familie – auf dem Hof, sondern in der Pension großgezogen wurde und große Schwierigkeiten hat, sich auf dem Hof erneut einzuleben. Allerdings erfährt er nicht die konkreten Gründe dafür, da Helene nicht den Mut aufbringt, ihm vom Alkoholismus ihrer gesamten Familie zu berichten, aus Angst, Loth könnte sie deswegen verlassen. Die Unterredung der beiden wird unterbrochen, als bei Helenes Schwester, Hoffmanns Frau Martha, die Wehen einsetzen. Helene geht, um den Arzt, Dr. Schimmelpfennig, zu holen.
+
+
+==== V. Akt ====
+(im „Zimmer“ des Wohnhauses, zwei Uhr nachts bis „Sonnenaufgang“)
+Loth und sein alter Studienkollege Schimmelpfennig treffen aufeinander, beginnen eine Konversation über alte Zeiten und tauschen sich über gegenseitige berufliche Absichten aus, wobei sie immer wieder unterbrochen werden, da der Doktor mehrmals den Raum verlassen muss, um sich um die gebärende Martha zu kümmern. Während dieser Unterbrechungen tritt Helene auf und vergewissert sich jedes Mal aufs Neue, dass Loth sie nicht alleine lasse und ohne sie fortgehe.
+Schimmelpfennig erzählt Loth zuletzt von der Degeneration der Witzdorfer und vom Alkoholismus der Bauernfamilie Krause, was Loth dazu bewegt, die Beziehung zu Helene zu beenden, da er an die Vererbbarkeit von Alkoholismus glaubt und die Gesundheit potentieller Kinder, die er mit Helene haben könnte, gefährdet sieht. Er schreibt einen Abschiedsbrief an sie und verlässt gleich darauf den Hof. Als Helene Hoffmann davon unterrichten will, dass sein Kind tot geboren wurde, entdeckt sie den Abschiedsbrief Loths, ist erschüttert und nimmt sich in ihrer Verzweiflung das Leben.
+
+
+== Beziehungen der Figuren untereinander ==
+
+
+== Einzelbetrachtung der Figuren ==
+
+
+=== Alfred Loth ===
+Der Volkswirt verkörpert die Prinzipien des Naturalismus. Nach dem Vorbild des französischen Schriftstellers Zola (1840–1902) ist der Mensch, wie eingangs erwähnt, aufgrund von Vererbung, Milieu, Erziehung determiniert. Loth hat ein äußerst engstirniges Menschenbild; er verlässt Helene, die er heiraten wollte (S. 114f), trotz seiner tief entfachten Gefühle für sie, als Dr. Schimmelpfennig ihn über den Alkoholismus in der Familie informiert: „Du wirst Helene Krause, glaub’ ich, nicht heiraten können.“ (S. 114). Obwohl der Arzt einräumt, es seien Fälle bekannt, „wo solche vererbete Übel unterdrückt worden sind“ (S. 119), ist Loth sofort entschlossen, auf Helene zu verzichten.
+Diese Anlage Loths kombiniert sich mit seiner unbestechlichen Prinzipientreue. Einerseits hat er Vorstellungen von seiner Traumfrau, die einzuhalten sind, anderseits weigert er sich strikt, genauso opportunistisch wie Hoffmann zu werden; so ist er bereit gewesen, für seine Prinzipien ins Gefängnis zu gehen. Er selbst hält die Anklage – angebliche Politisierung seines Kolonialvereins – für ungerechtfertigt (S. 14).
+Loth ist zwar aufrichtig bemüht, die Lage der unteren Bevölkerungsschichten zu verbessern. Es ist für ihn unerträglich, in einer ungerechten Welt zu leben. Doch er begeht den Fehler, seine Überzeugungen blindlings zu vertreten. Lange Zeit merkt er nicht einmal, dass die Familie der Trunksucht verfallen ist. Er kann gerade nicht als Vorbild dienen und bleibt eine zweifelhafte Gestalt, die letztlich in der von ihm als Mensch geforderten Entscheidung versagt. Loths Überzeugung, objektiven und unwiderlegbaren Erkenntnissen (hier: die Vererbbarkeit des Alkoholismus) verpflichtet zu sein, dient ihm als Vorwand zur Rechtfertigung einer tiefer liegenden Herzlosigkeit, die sich am Ende des Stückes darin äußert, dass er ohne ein Wort geht, sobald er von der Alkoholsucht von Helenes Vater erfahren hat. Helene begeht schließlich seinetwegen Selbstmord.
+In Sachen Funktion für das Drama hat Loth eine gewichtige Rolle: Als (nicht ganz typischer) Bote aus der Fremde ist er es, der durch sein Auftreten die Handlung anstößt, der die festgefügten Beziehungsgitter aufweicht und damit die Handlung in Gang bringt. Er ist letztendlich derjenige, der mit seinem Abtritt gleichsam den Vorhang für den Zuschauer zuzieht.
+Ferner dient seine Figur nicht nur der Einbringung naturalistischer Prinzipien und Einstellungen, sondern auch aus Sicht der Konzeption des Dramas als Spiegel für seine Umwelt. Erst durch seine Andersartigkeit ist die Verkommenheit der Familie Krause dem Rezipienten bewusst.
+
+
+=== Hoffmann ===
+Hoffmanns Person hat im Laufe ihrer Biografie einen Wandel vollzogen, inzwischen herrscht zu Loths Prinzipien eine große Diskrepanz. Hoffmann ist ein erfolgreicher Geschäftsmann, der sich nicht scheute, einen Rivalen auszustechen und diesen letztendlich in den Selbstmord (S. 17f) und seine Frau Martha in den Alkoholismus zu treiben. Er ist durch die Heirat selbst in den Genuss von Reichtum gekommen und dem egoistischen Materialismus verfallen.
+
+
+=== Dr. Schimmelpfennig ===
+Dr. Schimmelpfennig praktiziert seit sechs Jahren in Witzdorf. Er musste nach Zürich fliehen, hat dort und später nochmals im deutschen Kaiserreich promoviert, und geht jetzt voll in seinem Beruf auf. Er setzt sich für seine Patienten sehr ein und ist deshalb äußerst beliebt (Eduard: „Det is’n Mann, sag’ ick Ihnen: jrob wie ’ne Sackstrippe, aber – Zucker is’n dummer Junge dajejen.“ S. 102).
+Ihm ist es aber auch wichtig, materiell unabhängig zu sein und soviel Geld wie möglich in Witzdorf zu machen, wobei er sich an die degenerierten, reichen Dorfbewohner hält, während er die Armen unentgeltlich behandelt.
+Er setzt sich außerdem für die Frauen ein, ist aber der Ehe gegenüber pessimistisch: „Ich – denke nicht schlecht von den Weibern. ... Nur über das Heiraten denke ich schlecht ... über die Ehe, und dann höchstens noch über die Männer denke ich schlecht“ (S. 109).
+
+
+=== Helene Krause ===
+Helene leidet unter der Verkommenheit ihrer Familie, unter dem immensen Alkoholkonsum und den sexuellen Übergriffen ihres Vaters und Schwagers. Sie ist im Gegensatz zu den übrigen Familienmitgliedern zurückhaltend, nachdenklich und sucht Trost in der Lektüre von Goethes Werther. Helene denkt über Loths Thesen nach und schließt sich seiner Meinung sehr rasch an: "... ich bin so dumm! – Ich hab’ gar nichts in mir. ... – aber du bist so gut, so groß – und hast so viel in dir!" (S. 98). Sie orientiert sich an ihm und übernimmt auch mehr und mehr seine Sprache. Neben Loth ist sie die Einzige, die beim Abendessen auf Alkohol verzichtet.
+Äußerlich passt sie in diese Bauernfamilie; weil sie aber in der Herrnhuter Pension eine pietistische Erziehung genossen hat, fühlt sie sich fremd auf dem Gutshof und langweilt sich. Die Grubenarbeiter, für die sich Loth so interessiert, wirken beängstigend auf sie.
+Auch als Figur des Stücks entspricht Helene den Leitlinien des Naturalismus: Ihr Ausbruchsversuch scheitert.
+Einige Parallelen dazu finden sich in Friedrich Hebbels „Maria Magdalena“: ein kleines naives Mädchen, das nicht in der Lage ist, etwas aus seinem Leben zu machen.
+
+
+=== Bauer Krause ===
+Durch den Verkauf seiner kohlehaltigen Felder ist Bauer Krause reich geworden. Da er nichts mehr zu tun hat, sitzt er täglich bis zum Morgengrauen im Wirtshaus, torkelt dann nach Hause und umarmt seine Tochter Helene "mit der Plumpheit eines Gorillas und macht einige unzüchtige Griffe" (S. 43). Seine Lebensessenz ist so auf den Konsum von alkoholischen Getränken beschränkt, dass er weder das Leiden der Familie noch den Tod Helenes erfassen kann ("Dohie hä? Hoa iich nee a poar hibsche Tächter?", S. 124, letzter Satz des Dramas).
+
+
+=== Frau Krause ===
+Frau Krause ist die zweite Frau des Bauern Krause. Bei der ersten Begegnung mit Loth will sie diesen zunächst hinauswerfen, da sie ihn für einen Bittsteller hält. Trotz ihres Reichtums zeigt sie keinerlei praktische Nächstenliebe, sondern prahlt mit teurem Champagner und Austern.
+Sie ist eine egozentrische Frau, die sich nicht davor scheut, ihre Stieftochter ständig zurechtzuweisen, ja sogar zu ohrfeigen (S. 59), und die ihren Mann mit dem eigenen Neffen, Wilhelm Kahl, betrügt.
+
+
+=== Wilhelm Kahl ===
+Wilhelm Kahl ist der stotternde Nachbar der Krauses und Frau Krauses Neffe. Er ist mit Helene verlobt, was dieser jedoch reichlich missfällt. Beim Abendessen der Familie Krause versucht Kahl zwar, Helenes Gunst zu erwerben, doch ohne Erfolg. Das liegt am interessanten Gast der Familie, Alfred Loth, aber auch an Kahls lebensfüllendem martialischen Jagdinteresse, das ihr gar nicht gefällt ("Zu lächerlich ist das; alles schießt er tot, Zahmes und Wildes.", S. 29). Es stellt sich heraus, dass er ein Verhältnis mit Frau Krause hat und versucht, diesen Inzest durch das Bestechen des Arbeitsmannes Beibst zu verbergen. Mit Helene verscherzt er es sich endgültig, als er sich über ihre gebärende Schwester lustig macht.
+
+
+== Figurenkonfiguration ==
+
+
+=== Intellektuellensphäre ===
+Alfred Loth: Volkswirt, sozialistische Ansichten, Utopie
+Hoffmann: Ingenieur, materialistische Ansichten
+Schimmelpfennig: Arzt, idealistische Ansichten, Utopie
+
+
+=== Bauernsphäre ===
+Bauer Krause: durch Verkauf rohstoffhaltigen Ackerlandes reich geworden, Alkoholiker in schwerster Form
+Frau Krause: neureiches, bemüht gehobenes, adelorientiertes Auftreten; kann ihren geringen Bildungsstand allerdings nicht kaschieren; Verhältnis mit ihrem Neffen, Wilhelm Kahl; ebenfalls Alkoholikerin
+Martha Krause: Alkoholikerin in schwerster Form; übernimmt keine Verantwortung gegenüber ihren Kindern; erster Sohn stirbt mit drei Jahren am Alkoholismus (S. 117)
+Frau Spiller: Gesellschafterin von Frau Krause; redet ihr nach dem Mund
+Wilhelm Kahl: starker Trinker; gewalttätiger Jäger (Adel als Vorbild)
+Diese Sphäre stellt den Kern der sozialen Probleme dar:
+Anhand der Familie Krause zeigen sich die Folgen von Alkoholismus, Inzest, Armut bzw. Reichtum.
+Die Bauernsphäre steht zusammen mit Hoffmann im Zeichen der realen Degeneration und bildet somit den Kontrast zur idealen Utopie Loths und Schimmelpfennigs.
+
+
+=== Nebenfiguren ===
+Diese Sphäre dient dem Aufzeigen von Problemen, die in ihrer Gesamtheit den Themenfundus ausmachen: Armut, Abhängigkeit, Willkür. Die Beziehung einer Magd mit einem Großknecht und Frau Krauses Reaktion darauf zeigen einen deutlichen Kontrast auf: Frau Krause hat selbst mit Kahl eine Affäre und reagiert trotzdem strafend.
+
+
+=== Sonderfall Helene ===
+Helene ist trotz ihrer familiären Herkunft nicht der Bauernsphäre zuzuordnen, da sie eine andere Erziehung in Herrnhut, also in einer nicht-bäuerlichen Umgebung, genossen hat. Sie gehört allerdings auch nicht zur Intellektuellensphäre, denn dazu ist sie nicht gebildet genug.
+Diese Stellung zwischen den Sphären dient der Herausstellung von Konflikten.
+Dadurch, dass sich Loth in sie verliebt, sie aber trotzdem zurücklässt und Helene sich daraufhin tötet, muss Loths Idealismus in Frage gestellt oder zumindest differenzierter betrachtet werden. (Diskreditierung seiner Äußerung: „Sollte ich glücklich sein, so müssten es erst alle anderen Menschen um mich herum sein“.)
+
+
+== Figurencharakteristik ==
+
+
+=== Bauernsphäre ===
+
+
+==== Bauer Krause ====
+Bauer Krause, der durch Kohlevorkommen überraschend zu Wohlstand gekommen ist. Weil er nicht mit dem Wohlstand zurechtkommt, ist er zum Alkoholiker geworden. Er lebt mittlerweile in zweiter Ehe, seine zwei Töchter stammen aber (beide) aus erster Ehe.
+
+Aussehen
+etwa 50 Jahre alt,
+graues, spärliches Haar, das ungekämmt und struppig ist
+schmutziges Hemd, welches an den Armen und auf der Brust nicht zugeknöpft ist
+ehemals gelbe, jetzt schmutzig glänzende, an den Knöcheln zugebundene Lederhose; nur ein Hosenträger
+nackte Füße in einem Paar gestrickter Schlafschuhe
+Verhaltensweisen
+immer betrunken, er verlässt immer als Letzter das Gasthaus, wo er den ganzen Tag verbracht hat
+präsentiert seiner Tochter seinen Geldbeutel; Folgerung: Verdinglichung der intimsten menschlichen Verhältnisse (hier: der Familie)
+belästigt seine Tochter Helene sexuell
+zusammenfassend
+im Aussehen die optische / theatralische Realisierung seines verkommenen Zustandes;
+plakative Veranschaulichung des familiären Degenerationsprozesses
+
+
+==== Frau Krause ====
+Frau Krause ist die zweite Frau von Bauer Krause. Sie hat keine Kinder und ist nur durch die Heirat zum Wohlstand gekommen. Auch sie kommt mit dem Wohlstand nicht zurecht und greift daher auch öfter zum Glas.
+
+Aussehen
+versucht sich mit Seide und kostbarem Schmuck hübsch zu machen, insbesondere als Neureiche eine Zugehörigkeit zu der traditionellen gesellschaftlichen Führungsschicht demonstrativ zu dokumentieren; Maßstäbe vermittelt durch die Gesellschafterin Spiller; Namenssymbolik bei dieser
+äußerlich versucht sie sich dem Adel anzupassen, damit man ihre Herkunft nicht mehr erkennt. Dies wirkt allerdings nur lächerlich
+Verhaltensweisen
+durch ihren schlesischen Dialekt erkennt man ihren niedrigen Bildungsstand (auch hier versucht sie sich beim Auftritt von Personen aus der Intellektuellensphäre anzupassen, damit man ihre Herkunft nicht sofort erkennt)
+wird schnell wütend und laut
+kommt mit der Tochter Helene nicht zurecht
+
+
+==== Wilhelm Kahl ====
+Aussehen
+24 Jahre alt
+grobe Gesichtszüge
+Gesichtsausdruck: dumm, pfiffig
+stottert
+Kleidung: graues Jackett, bunte Samtweste, dunkle Beinkleider, Glanzlack-Schafstiefel, grüner Jägerhut mit Spielhahnfeder
+Verhaltensweisen
+trinkt – wie die anderen Familienmitglieder auch – viel Alkohol
+verrohter Charakter (Freude am Jagen von – für die Jagd – ungewöhnlichen Tieren)
+ist Helene versprochen
+sexuelle Beziehung mit seiner Tante, Frau Krause (Inzest-Motiv)
+zusammenfassend
+plumper, verrohter Bauernbursche mit Adels-Allüren
+besonders deutliches Beispiel für die Degeneration infolge des plötzlichen Reichtums
+
+
+==== Helene Krause ====
+Helene ist die Tochter von Bauer Krause aus dessen erster Ehe. Aufgrund des frühen Mutterverlustes ist sie – noch auf Wunsch ihrer Mutter – in einem Herrnhuter Pensionat, also fern von ihrer Schwester, ihrem Vater, dessen neuer Ehefrau und den damit verbundenen verrohten Verhältnissen, aufgewachsen.
+Helene hebt sich von ihrer Familie durch ihre im Pensionat erlernte Bildung, ihr Benehmen und ihr reines Hochdeutsch ab.
+
+Aussehen
+sie ist von „großer, ein wenig zu starker Gestalt“
+blondes, fülliges Haar (Symbol für erotische Attraktivität)
+modern gekleidet
+wirkt (auf Loth) ein wenig verhärmt
+erscheint nicht gerade als ein „frisches Bauernmädchen“
+Verhaltensweisen / soziale Beziehungen
+anhaltende Weinerlichkeit, die aus dem schroffen Gegensatz zwischen dem empfindsam-behüteten Leben im pietistischen Pensionat in Herrnhut und der rauen Realität ihrer zwischenzeitlich verrohten Familie resultiert
+lebt in einem fortgeschrittenen Stadium der „Verinnerlichung“
+naiv (bezogen auf die Wahrnehmung sozialer Prozesse / Klassen und Loths Charaktermerkmale)
+Loth erscheint Helene als Retter, welcher sie aus ihrem perspektivlosen Umfeld befreien soll.
+Mangel an sozialer Aufgeschlossenheit und Sensibilität: Ein „zu rohes Pack“ nennt Helene die geschundenen Bergleute
+verharrt im Bewusstsein weiblicher Minderwertigkeit, das ihr die Vorstellung eigener Entwicklung verwehrt („Ich sollte bloß’n Mann sein“, S. 21)
+in ihrer Handlungsfreiheit beschränkt
+weitere entscheidende Charaktereigenschaften zeigen sich in der Betrachtung zum Thema der „Werther“-Lektüre (s. u.)
+zusammenfassend
+ein Opfer unheilbar korrumpierter sozialer Verhältnisse
+Beispiel für Determiniertheit durch das Milieu
+
+
+=== Intellektuellensphäre ===
+
+
+==== Alfred Loth ====
+Alfred Loth bildet als überzeugter Sozialist den Kontrastcharakter zu dem Kapitalisten Hoffmann.
+In Loths Leben – vielleicht aber auch nur in seinem Selbstbild – spielt die Verwirklichung seiner Ideale die bestimmende Rolle, was sich im Umgang mit anderen, aber auch im Umgang mit sich selbst deutlich zeigt.
+In seinem fortwährenden „Kampf um das Glück aller“ tritt Loth lebensbejahend, tatkräftig und engagiert auf. Obwohl er im Gespräch mit anderen ständig seine Freundlichkeit und Sachlichkeit behält, hindert ihn seine Überzeugungstreue am Erkennen der realen Verhältnisse. Somit vereitelt er selbst, dass er die wahre Situation der alkoholismusgeprägten Familie Krause im Gespräch mit ihr (besonders im I. Akt) erkennt.
+Eine Trennung von Helene Krause aus Verantwortungsbewusstsein sich selbst gegenüber ist nach der Aufdeckung der Familienverhältnisse Helenes für Loth somit unausweichlich.
+Damit bringt sich Loth selbst um die (für ihn neue) Erfahrung einer gelebten Liebesbeziehung. Nach dieser Trennung wird für Loth ein Leben folgen, welches wie schon zuvor von Idealismus und Selbstbehauptung geprägt sein wird. Allerdings beinhaltet es die Zurücklassung Helenes: Sie sieht sich in einer ausweglosen Situation und entschließt sich für die Selbsttötung.
+Hiermit lässt sie Loth abschließend seinen „Kampf um das Glück aller“ verlieren.
+
+
+==== Dr. Schimmelpfennig ====
+Dr. Schimmelpfennig ist der Arzt von Witzdorf. Durch diesen Beruf erhält er einen umfassenden Einblick in die sozialen Verhältnisse und hat Bekanntschaft mit allen Figuren des Dorfes.
+Zu seinem Erscheinungsbild erfahren wir, dass er von kleiner, gedrungener Gestalt ist, schwarzes Wollhaar hat und einen starken Schnurrbart. Die Kleidung wirkt solide und seine Bewegungen sind natürlich. Somit scheint er das typische Bild eines Dorfarztes wiederzugeben. Schimmelpfennig strahlt keine Eleganz aus, Hoffmann hingegen wird explizit als elegant beschrieben. So wird schon durch ihr äußeres Erscheinungsbild die Gegensätzlichkeit dieser Charaktere deutlich.
+Schimmelpfennig war früher gemeinsam mit Alfred Loth politisch in Jena tätig, woraus eine Freundschaft der beiden resultierte. Es liegt die Vermutung nahe, dass etwas Gravierendes vorgefallen sein muss, sodass sich Schimmelpfennig von dem dortigen Freundeskreis distanziert hat und politisch inaktiv wurde. Dieser Gedanke wird dadurch belegt, dass von einer „dummen Geschichte“ und einem „Knabenstreich“ gesprochen wird.
+Gelöst von dieser Phase seines Lebens beginnt Schimmelpfennig ein Medizinstudium in Zürich und wiederholt sein Staatsexamen in Deutschland, sodass er in seinem Heimatland tätig werden kann. Er eröffnet in Witzdorf eine Arztpraxis, spezialisiert auf Frauenkrankheiten, wobei es ihm vor allem darauf ankommt, schnell Geld zu verdienen, um materiell unabhängig zu werden und so die Möglichkeit zu bekommen, sich – wie er formuliert – „ganz der Lösung dieser Frage [der Frauenfrage] zu widmen“.
+An dieser Stelle sei erwähnt, dass ein Freund Hauptmanns namens Ferdinand Simon als Modell für die Figur des Arztes Schimmelpfennig gedient haben kann, da sowohl das äußere Erscheinungsbild als auch die weltanschauliche Position und der Studiengang in Jena übereinstimmen (siehe den Aufsatz von Bellmann). Hauptmann hat sein Werk also womöglich für durchaus unterschiedliche Rezipientenkreise geschaffen, da ihm sein Freundeskreis sehr wichtig war und „Vor Sonnenaufgang“ somit wohl unter anderem auch an sie gerichtet war.
+Schimmelpfennig ist als Arzt im Dorf anerkannt und wird von allen geachtet und gelobt. Er erfüllt pflichtbewusst seine Arbeit und weist ein geschäftsmäßiges Verhalten auf. Sein Urteil über die Dorfbevölkerung ist abwertend und er kennzeichnet das Leben der Menschen dort mit „Suff! Völlerei, Inzucht, und infolge davon – Degenerationen auf der ganzen Linie“. Dies veranlasst Schimmelpfennig dazu, Loth von den herrschenden Verhältnissen im Dorf und somit auch speziell in der Familie Hoffmann-Krause zu unterrichten, um Loth von der Bindung mit Helene abzuhalten. Ein weiterer Grund für das Verhalten des Arztes könnte auch seine allgemeine pessimistische Einstellung in Bezug auf Frauen und Eheschließungen sein.
+Des Weiteren ist die erste Dialogphase zwischen Schimmelpfennig und Loth erwähnenswert, in dem die versehentlich verwendete höfliche Anrede Schimmelpfennigs an seinen alten Freund Loth sehr auffällig ist. Dies kann einerseits durch die fehlenden persönlichen Bindungen Schimmelpfennigs, andererseits durch die lange bewusst distanzierte Beziehung zu Loth begründet werden.
+Zusammenfassend kann gesagt werden, dass Schimmelpfennig ein fleißiger, entschlossener Mann ist, der seine eigenen Grundsätze hat und aufgrund seiner deutlichen Abgrenzung zur bäuerlichen Dorfgemeinschaft zur Intellektuellensphäre gezählt werden muss.
+
+
+==== Hoffmann ====
+Hoffmann ist die ökonomische Hauptfigur in einem Milieu von Luxus, Völlerei und sexueller Ausschweifung. In seiner Skrupellosigkeit ist er die Verkörperung des Kapitalismus.
+In unserer Einteilung ist er die einzige Figur seiner Sphäre, die keinen Idealen verhaftet ist. Er ist ein großer Egoist, dem eigene Vorteile wichtiger sind als alles andere. Loths Grundsatz, sich erst „als Letzter an die Tafel setzen“ zu können, käme für ihn infolgedessen nicht in Frage. Ihm reichte es aus, als einziger an der Tafel sitzen zu können.
+Die Unterschiede sphärenintern sind allerdings nicht so groß, wie die, die ihn von den anderen sozialen Klassen trennen.
+Was Hoffmann zum Intellektuellen macht:
+
+Er verfügt über herausragende praktische Fähigkeiten.
+Er hat eine fundierte Ausbildung als Ingenieur.
+Anhand seiner Aussagen wird deutlich, dass er von Grundsätzen und Werten – obwohl er sie nicht einhält – wenigstens weiß, womit er den Charakteren der anderen Gruppen einen Schritt voraus ist. „Ich habe die Hände frei: Ich könnte nu schon anfangen was für die Ideale zu tun.“
+Hoffmann verkörpert einen neuen Typ des Intellektuellen, der sich nicht mehr zwangsläufig positiv auslegen lässt. Vielmehr wird dieses entstehende Charakterbild von Skrupellosigkeit geprägt. In Hoffmanns Fall verbindet es sich mit Heuchelei. Am Ende steht ein egozentrischer Gewinnertyp.
+Besonders gegen die Menschen der Bauernsphäre grenzt sich Hoffmann ab. Sie sind für ihn nur Mittel zum Zweck. Er nutzt sie aus; selbst seine Frau, durch deren Heirat er an das notwendige Startkapital für seine Geschäfte kam, entkommt seiner ostentativen Gleichgültigkeit nicht. Er stellt sich also über andere Menschen und macht zwischen denen „unter“ ihm keine Unterschiede. Die Besonderheit Helenes interessiert ihn nicht.
+Für Hoffmann ist es bei einer Erstlektüre schwerer als bei jeder anderen Figur zu klären, ob das, was er sagt, auch das ist, was er denkt:
+
+Er bietet Loth vehement an, zu bleiben. Geschieht das aus purer Heuchelei und es wäre ihm am liebsten, Loth würde schnellstmöglich verschwinden, oder dient dies zum Ausnutzen der Kontrollmöglichkeit eines politischen Gegners?
+Hoffmann versucht die üblen Gerüchte über ihn vor Loth zu entschärfen; man merkt trotzdem, dass er sich der Unmoralität seines Handelns bewusst ist: „HOFFMANN, sichtlich peinlich berührt, steht auf“
+Als Loth und Schimmelpfennig sich über die Familie Krause austauschen, charakterisieren sie Hoffmann als „traurigen Zwitter“. Doch selbst dieses Zugeständnis nimmt Schimmelpfennig noch zurück: „Eigentlich nicht mal das.“
+Dass die weltverbessernde Seite Hoffmanns seinem knallharten Geschäftstrieb völlig unterlegen ist, wird so hervorgehoben.
+
+
+==== Fips ====
+Fips tritt im Drama nicht als Figur auf, sondern ist im I. Akt Gesprächsthema zwischen Loth und Hoffmann. Bedeutsam ist er, weil durch ihn eine weitere Intellektuellen-Haltung dargestellt wird.
+Friedrich Hildebrandt, genannt Schnurz oder Fips, ist ein Schulkamerad von Loth und Hoffmann mit gemeinsamen politischen Jugendidealen gewesen. Als Stuckateur hat er eine richtige handwerkliche Ausbildung absolviert, bevor er – sich durchhungernd – als Künstler arbeitete. Loth mag Fips’ moderne Kunst nicht, akzeptiert sie aber; Hoffmann verlangt von Kunst, dass sie „erheitern“ soll und lehnt Fips Werke rundweg ab. Loth berichtet, dass Fips sich nach dem Gewinn eines Denkmalwettbewerbs für einen Duodezfürsten umgebracht hat, weil er diesen Erfolg als Verrat an seinen Kunstprinzipien aufgefasst hat.
+Loth lehnt die Entscheidung, sich umzubringen ab, weil dies mit seiner kämpferischen politischen Haltung nicht vereinbar ist; Hoffmann ist irritiert durch das Selbsttötungsthema, weil er dadurch an seinen Witzdorfer ökonomischen und privaten Nebenbuhler Müller erinnert wird. Dieser hatte sich umgebracht, nachdem Hoffmann ihm seine Verlobte Martha Krause ausgespannt hatte.
+Durch die Figur Fips wird von Hauptmann ein weiteres Lebensmodell dargestellt und problematisiert.
+
+
+=== Die Sphäre der Diener, Mägde und Knechte ===
+Gewicht der Sphäre
+Hauptmann war Naturalist und stets darum bemüht, die Realität darzustellen. Diese Absicht findet sich auch in Vor Sonnenaufgang wieder, in dem er sozial deklassierte Randgruppen auftreten lässt und diesen zudem noch positive Attribute zuschreibt im Kontrast zu ihren Arbeitgebern.
+Im Vergleich der Sphären von Bauern und Intellektuellen besitzt die Sphäre der Mägde und Knechte ein kleineres Gewicht im Stück „Vor Sonnenaufgang“. Während die Bauernsphäre als degeneriert und die Intellektuellensphäre sogar fast als gescheitert beschrieben wird, scheint es dem Leser, als sei die unterste Sphäre weniger von den Untugenden geprägt als die beiden oberen.
+
+Beziehungen innerhalb der Sphäre
+Auf Grund der räumlichen Trennung bilden sich unter den Arbeitern bestimmte Gruppierungen auf dem Krause-Gut.
+Eduard und Miele, die beide ausschließlich als Diener verschiedener Mitglieder der Familie Krause fungieren, arbeiten nur im Haus. Dadurch entsteht eine engere Anbindung an die Familie, infolge derer sie eine höhere Stellung unter den Mägden und Knechten einnehmen.
+Untereinander verstehen die beiden sich allerdings nicht. Eduard missachtet Miele im Gegensatz zu den Mägden, die sich gegenseitig unterstützen und zusammenhalten. Dieses tun diese zum Beispiel, indem sie füreinander, jedoch nicht untereinander, lügen.
+Trotz allem sind auch sie nicht frei von Fehlern.
+Das Verhältnis zu ihren Arbeitgebern ist nicht durch Respekt geprägt. Dies zeigt sich einerseits durch die unfreundliche Haltung Mieles gegenüber Frau Krause, andererseits durch die Lästereien der gesamten Arbeiterschaft über die Familie Krause.
+Die Magd Marie bricht das Verbot, mit einem Knecht zu schlafen, was ihre Entlassung zur Folge hat. Eine weitere Missachtung der Gesetze besteht in dem Stehlen von Milch aus dem Kuhstall, wobei sie sich gegenseitig durch Lügen schützen.
+Das Entwenden der Milch zeigt die schlechte wirtschaftliche Situation der Mägde und Knechte, was sie empfänglich macht für das Annehmen von Geld, das der Bestechung dient.
+
+
+==== Eduard ====
+Eduard, der Hoffmanns (persönlicher) Diener ist, gehört zwar formal zur Sphäre der Mägde und Knechte, hat aber unter ihnen in gewisser Weise eine exponierte Stellung.
+Bei jedem seiner Auftritte nimmt er Befehle Hoffmanns entgegen, führt sie aus oder betätigt sich auf andere Weise. Informationen, die Rückschlüsse auf seinen Charakter zulassen, erhält man nur einmal, in einem kurzen Gespräch mit Loth.
+Er nimmt keine Befehle anderer Arbeiter auf dem Hof an, sondern nur solche, die direkt von der Familie Krause und deren Anverwandten kommen. Dadurch distanziert er sich von den Mägden und Knechten, erhebt sich durch eine gewisse Arroganz über sie.
+Durch seinen schlesischen Dialekt hingegen (im Gespräch mit Loth, S. 101f.) wird er von Hauptmann allerdings mit den übrigen Arbeitskräften auf dem Gut Krause auf eine Stufe gestellt.
+Seinen Arbeitgebern gegenüber verhält er sich sehr höflich, demütig und zuvorkommend, redet aber hinter deren Rücken schlecht über sie, insbesondere über Hoffmann.
+Dies zeigt, dass er auch dieser zweiten Gruppierung auf dem Krause-Hof nicht ganz und gar angehören möchte, auch wenn er nichts gegen eine finanzielle Absicherung hätte.
+Eduard ist ein Einzelgänger auf dem Gut, der sich nur kurz gegenüber Loth öffnet und im Grunde genommen unglücklich wirkt.
+
+
+==== Miele ====
+Miele, die als erste Figur auf der Bühne erscheint, wird als „robuste Bauernmagd mit rotem, etwas stumpfsinnigen Gesicht“ beschrieben.
+Dieser Darstellung wird sie im Laufe ihrer spärlichen Auftritte innerhalb des Stückes auch gerecht.
+Sie wirkt aufgrund ihrer stark schlesisch gefärbten Aussprache ungebildet und verhält sich ihren Arbeitgebern gegenüber bei weitem nicht so höflich wie Eduard.
+Im Gegenteil wird eine ihrer Antworten von Hauptmann mit dem Adjektiv „batzig“ bedacht. Auch der Aufforderung, Frau Krause zu Tisch zu bitten, kommt sie auf ihre Art nach, indem sie aus dem Hausflur zu ihr hinaufschreit, was ebenfalls nicht sehr ergeben wirkt, von Helene und Hoffmann allerdings nur mit einem belustigten Blickwechsel quittiert wird.
+Miele dient als Beispiel für eine ungebildete Bauernmagd und erfüllt auch die vom Leser erwarteten Klischees vollends.
+
+
+==== Beibst ====
+Ein weiterer Arbeitsmann auf Krauses Gut ist der etwa 60-jährige Beibst. Er ist in beiden Hof-Szenen – dem zweiten und vierten Akt – gegenwärtig. Seine niedere Stellung auf Grund seiner Arbeit wird schon daran deutlich, dass er „unter dem Torweg, auf der Erde“ sitzt und mit seiner Sense beschäftigt ist. Dies lässt ihn zusätzlich eine Zugehörigkeit zur morgendlichen Idylle annehmen. Jedoch sticht Beibst aus der Sphäre der Mägde und Knechte hervor. Als einziger scheint er einen Überblick über alle Vorkommnisse und Handlungen auf dem Gut zu haben. Hierzu zählen die „illegalen“ Aktionen der Mägde, das Verhältnis zwischen Kahl und Frau Krause sowie die Alkoholsucht, die den düsteren Hintergrund des Gutes prägt. Die Gestalt von Beibst wirkt mitleiderregend: Er hinkt. Dies resultiert aus einer übermütigen Schandtat des Vaters von Wilhelm Kahl, welcher Beibst unter Alkoholeinfluss ins Bein schoss. Beibst ist sehr hilfsbereit, beispielsweise in der Situation, als Helene ihren betrunkenen Vater ins Haus bringen will. Hier wird deutlich, dass sich Beibst wenig aus den Umständen des Gutes macht, und seine Intention darin besteht, weiterhin sein Geld bei diesen reichen Bauern verdienen zu können. Allerdings zieht er auch seinen Nutzen aus seinem Wissen. So nimmt er von Kahl Geld nach dessen nächtlichem Besuch bei Frau Krause an, um diesen nicht zu verraten, was auf eine Bestechlichkeit seinerseits hindeutet. Geld spielt für Beibst sowieso eine sehr wichtige Rolle. Zum einen wird dies durch die Bestechlichkeit mit Kahl deutlich und zum anderen, als Loth versucht, ein Gespräch mit Beibst anzufangen. Nach anfänglichem Ignorieren und eher unfreundlichen und misstrauisch knappen Kommentaren taut Beibst auf, als Loth ihm etwas Geld gibt. Er ist „wie umgewandelt“ und erzählt „mit aufrichtiger Gutmütigkeit“ frei drauflos. Beibst erzeugt Mitleid beim Leser, und zwar auf Grund seiner Vergangenheit. So wird Loth von Helene mitgeteilt, dass zwei Söhne von Beibst im Bergwerk ums Leben gekommen sind und dass trotzdem auch der dritte seit Ostern dort arbeitet. Beibst ist auch der Charakter, der innerhalb der Knechte- und Mägdesphäre auf Grund seiner Einstellung heraussticht. Er kämpft nicht, wie beispielsweise die Magd Marie, um einen Aufstieg in der Gesellschaft und wehrt sich nicht gegen seine Arbeitgeber. Im Gegenteil nimmt er alles so hin, wie es gerade passiert. Dies ist höchstwahrscheinlich die Folge seiner bitteren Vergangenheit, die ihn für sein Leben geprägt hat.
+
+
+==== Die Mägde ====
+Die Mägde auf dem Krause-Gut arbeiten sowohl auf dem Feld, im Kuhstall als auch auf dem Hof selbst. Zwischen ihnen besteht ein enges Band des Zusammenhalts. Darin unterscheiden sie sich von allen anderen Figurengruppen des Dramas. Ökonomisch befinden sie sich alle in ähnlich schlechten Situationen und wissen, wie es ist, nur mit dem Nötigsten auskommen zu müssen. So helfen sie auch der Kutschenfrau, die aus ihrer Not heraus aus dem Kuhstall Milch stiehlt, um ihre Kinder versorgen zu können. Die Mägde „stehen Schmiere“ vor dem Kuhstall um die Kutschenfrau rechtzeitig bei eintretender Gefahr zu warnen. Im Vergleich der Mägde untereinander sticht die Magd Marie besonders hervor. Diese hatte ein Verhältnis mit dem Großknecht und wird von Frau Krause deshalb entlassen. Auf ihren Hinauswurf reagiert Marie wütend und trotzig. So wirft sie Frau Krause den Milchschemel und die Milch vor die Füße und ist danach auch sofort bereit, den Hof zu verlassen. Helene verhindert die Entlassung, indem sie ihre Stiefmutter mit dem Wissen um deren Verhältnis mit Kahl erpresst. So ist es Marie erlaubt, zu bleiben. Marie verlässt trotzdem das Gut. Sie sieht ihren angeblichen „Fehler“ nicht ein und ist zu stolz, um sich weiter den Launen Frau Krauses auszusetzen. Sie ist somit eine Kontrastfigur zu Helene: Während diese sich – trotz ausreichender finanzieller Mittel – nicht bzw. nur durch die Selbsttötung der degenerierten und von ihr verabscheuten Hoffmann-Krause-Familie lösen kann, lässt sich Marie noch nicht einmal durch eine Lohnerhöhung bestechen. Insgesamt erscheinen die Mägde dem Leser menschlicher als die Besitzer des Gutes. Sie haben Mitleid mit ihresgleichen bzw. jenen, die noch weniger besitzen als sie, und sind bereit, diesen zu helfen und sie zu unterstützen.
+
+
+==== Baer ====
+Eine Figur, die nur sehr kurz in dem Drama „Vor Sonnenaufgang“ von Gerhart Hauptmann auftritt, ist Baer. Baer ist zwischen 20 und 30 Jahren alt. Seine äußere Erscheinung lässt auf die Herkunft aus einer armen Bauernfamilie schließen. So trägt er nur bereits kaputte, armselige Kleidungsstücke am Körper („Die Beinkleider reichen, unten stark ausgefranst, bis wenig unter die Knie herab“ S. 86, Z. 2f.) und wirkt ungepflegt („Das vorhandene braune, verstaubte und verklebte Haar reicht ihm bis über die Schulter“ S. 86, Z. 3f.). Dieser eher traurige Eindruck von Baer wird noch verstärkt durch seine Arbeit, die er verrichtet. Seine Beschäftigung besteht darin, Sand zu verkaufen, und so läuft er mit einem kleinen Kinderwagen, in dem er diesen transportiert von Hof zu Hof. Von anderen Personen des Dramas wird Baer entweder bemitleidet oder verspottet. Während das Hausmädchen Miele Baer ein wenig Sand abkauft und ihm auf diese Weise Geld für sein Überleben gibt, obwohl sie selbst schon wenig besitzt, macht Kahl, der Neffe von Frau Krause, sich über Baer nur lustig und lässt ihn wie einen Hund auf Kommando in die Luft springen. Dabei nennt er ihn „Hopslabaer“, was die Annahme unterstützt, dass er Baer weder achtet noch respektiert. Diese Ereignisse erzeugen auch bei dem Leser Mitgefühl für diesen geistig zurückgebliebenen Bauernsohn.
+
+
+==== Golisch ====
+Golisch erscheint nur ein Mal auf der Bühne, ist also eine Randfigur im Drama. Durch seinen schlesischen Dialekt hinterlässt er beim Leser einen ungebildeten Eindruck. Er ist auf Krauses Hof als Kuhjunge angestellt. Außerdem übernimmt er körperlich schwere Aufgaben und hilft der entlassenen Magd Marie, ihren Besitz vom Gut zu fahren. Es scheint, als seien Marie und Golisch befreundet, jedenfalls ist er ihr gegenüber sehr hilfsbereit und fährt den Schubkarren für sie, als sie den Hof verlässt. Marie ist gewillt, Golisch bei ihrem Abschied einen Teil ihres Geldes zu schenken, was dieser zunächst ablehnt. Auf Drängen Maries überlegt Golisch es sich jedoch kurz darauf anders und nimmt das Geld an.
+Dadurch wird deutlich, dass Golisch sich der Wichtigkeit des Geldes bewusst ist und es auch für ihn persönlich eine große Rolle spielt.
+
+
+== Zusammenfassende Darstellung wichtiger neuerer Forschungsliteratur ==
+
+
+=== Dieter Martin: „Ein Buch für Schwächlinge“ ===
+„Werther“-Allusionen in Dramen des Naturalismus. In: Zeitschrift für deutsche Philologie 122, 2003, S. 237–265.
+Grundgedanke von Martin ist die Selbsttötung als Leitmotiv. Vor Sonnenaufgang thematisiert vier Selbsttötungen: Die ideologisch motivierte Selbsttötung eines ehemaligen Schulfreundes von Hoffmann und Loth (Friedrich Hildebrandt, genannt Fips, S. 10f.), die Selbsttötung des Bauunternehmers Müller, den Selbstmord einer achtfachen Mutter – alle drei narrativ integriert – und schließlich den Suizid Helenes.
+Die Anspielungen (Allusionen) auf Johann Wolfgang von Goethes Briefroman Die Leiden des jungen Werthers dienen zum einen der Charakterisierung des Milieus und der Protagonisten, vor allem Helenes, zum anderen der Illustration bürgerlicher Moralvorstellungen; zum Beispiel kritisiert Lottes Verlobter Albert im Werther den Suizid als unmoralische Schwäche, während Werther ihn als Krankheit zum Tode betrachtet. Die Figuren in Hauptmanns Drama übertragen diese kontroversen Meinungen: Frau Krause sieht in der Lektüre ihrer Stieftochter die Ursache von deren Opposition und realitätsfernen Ansichten und möchte ihr solche Bücher verbieten. Die Stieftochter dagegen findet im Werther eine tröstende Versenkung und Fluchtmöglichkeit (Helene: „Es beruhigt so, darin zu lesen“, S. 51). Auch sie würde wie Werther im zweiten Teil des Briefromans gerne entfliehen, scheitert aber genauso wie ihr literarisches Idol. Alfred kann die Begeisterung und Identifikation Helenes nicht nachvollziehen, er plädiert für Bücher wie Ein Kampf um Rom von Felix Dahn, die einen hohen Idealismus der Hauptfigur zeigen. Alles in allem ist der unterschiedliche Literaturgeschmack von Loth und Helene ein signifikantes Beispiel für einen unüberbrückbaren Gegensatz, auch wenn beide ansonsten in ihren Ansichten oft übereinstimmen.
+Die Anspielungen sind aber auch Protest gegen die bürgerliche Goethe-Verehrung der Zeit und die Dominanz traditioneller Kunstanschauung, wie sie zum Teil auch noch Loth selbst vertritt: Ibsen und andere Naturalisten sind nur notwendige Übel, aber keine Dichter, weil sie keinen Trunk, sondern Medizin darbieten.
+Neben der die Figur Hoffmann diskreditierenden Ansicht, wonach Literatur nur erheitern solle, werden drei mögliche Funktionen von Literatur (aus der Perspektive von Helene und Loth) vorgestellt:
+
+Sie kann den Kranken beruhigen; dafür steht Goethes Werther und Helenes Rezeption dieses Werks; sie hat folglich eine stabilisierende, aber nicht diagnostisch bewusst machende Funktion.
+Sie kann den Gesunden stärken, indem sie vorbildlich wirkt und ihn auf das Ideal des künftigen Menschen verpflichtet; dafür steht Loths Rezeption von Ein Kampf um Rom.
+Eine solche in Loths Sinne progressiv-idealistische Literatur kann den Kranken kaum kurieren (siehe Helenes Interesse an Zola und Ibsen). Es gehe um die analytisch-therapeutische Funktion naturalistischer Literatur: Sie betreibe soziale Analyse „und sei es, indem sie vorführt, wie die ‚Krankheit zum Tode‘ der unrettbar degenerierten Glieder krisenhaft beschleunigt wird.“
+
+
+=== Werner Bellmann: „Gerhart Hauptmann: Vor Sonnenaufgang“ ===
+Naturalismus – soziales Drama – Tendenzdichtung. In: Dramen des Naturalismus, Stuttgart 1988, S. 7–46.
+Zu Beginn seines Aufsatzes thematisiert Werner Bellmann den neuen Charakter des Werks, der den entscheidenden Durchbruch des Naturalismus im Theater bewirkt. Besonders der Sozialreformer Alfred Loth entzündete jedoch von Anfang an Kritik und vehemente Ablehnung. Das damalige Publikum sieht ihn als steifen Phrasendrescher, verblendeten Doktrinär und kleinbürgerlichen Ideologen. Oftmals reduzierte man ihn auf seine – wenngleich im Denksystem rationale – Entscheidung, Helene zu verlassen. Nach Bellmann sieht die Mehrheit der zeitgenössischen Kritiker Loth als misslungene, im Handeln unglaubwürdige Gestalt. Diese Verengung der Anschauungsweise blendet aber Loths Entscheidungsgründe – folglich das Thema Determinismus – aus. Eine solche Betrachtung werde nicht nur der Figur, sondern auch der Gesamtkonzeption des Dramas nicht gerecht. Neue Interpretationen sehen Alfred Loth als einen sozialistischen Reformer in seinen Schwächen und seinem menschlichen Versagen.
+Während Loth nur temporären Kontakt zu dem behandelten Milieu hat, ist Helene ganz darin gefangen. Sie leidet unter der Verkommenheit ihrer Umgebung. Deswegen versucht sie krampfhaft, Loth zu halten und sich mit ihm zu verbinden. Angesichts seiner Abreise verzweifelt sie so sehr, dass ihr der Tod als einziger Ausweg erscheint. Bellmann ist der Meinung, dass sich die starken Gefühle zwischen Loth und Helene nur entwickeln können, wenn Loth das Familienübel verborgen bleibt. Um die Beziehung der beiden zu verstehen, sei es zudem von Bedeutung zu beachten, dass Helenes Gefühle aus einer familiären Situation heraus entstehen, in der sie den Kontakt zu Loth als eine Art Rettungsanker empfindet. Ihre Liebe erreicht nur eine sehr infantile, beinahe naive Gestalt – so gibt sie ihrem Freund beispielsweise Sätze vor, der ihr nachsprechen soll und Kund geben, dass er sie nie verlassen wird. Beide Formen der Liebe seien konkreten Bedingungen unterworfen und bauen auf der jeweiligen Ausgangssituation auf, weswegen die Diskussion des Determinismusproblems in den Beurteilungen nicht fehlen dürfe.
+Werner Bellmann versucht in einem weiteren Ansatz „Vor Sonnenaufgang“ vor dem Hintergrund seiner entstehungsgeschichtlichen Bedingungen zu durchleuchten und zieht dafür sowohl eine zur damaligen Zeit aktuelle Publikation Gustav von Bunges als auch Hauptmanns persönlichen Erfahrungs- und Erlebnishintergrund hinzu. Gustav von Bunges im Jahr 1887 verbreitete Ideen und Ansichten bezüglich der Alkoholfrage spielen in dem Werk Hauptmanns eine zentrale Rolle und werden von der Figur Loth in dessen statistischen Angaben über Tode u. ä. detailliert wiedergegeben. Hauptmann selbst ist wohl durch seine Freunde Alfred Ploetz und Ferdinand Simon auf diesen Text aufmerksam gemacht worden. Die genannten Freunde sind Mediziner und dienten als Modelle für die Figuren Alfred Loth und Dr. Schimmelpfennig – diese Hypothese lässt sich anhand vieler Übereinstimmungen bezüglich des äußeren Erscheinungsbildes, der Vergangenheit und der politischen und weltanschaulichen Positionen belegen. Bellmann führt zudem ein Zitat Simons ein, das Bezug zu Hauptmanns „Der Säemann“ – der ursprüngliche Titel des Dramas – und zum Alkoholismus nimmt.
+Helene wurde in der bisherigen Forschung meist positiv charakterisiert („naturhaft reines Wesen“, Lichtgestalt, Geschöpf von bezaubernder Unschuld, eigentliche „Heldin“ des Stücks) und als Opfer Loths dargestellt, wohingegen Loth eine negative Charakterisierung erfährt („blinder Fanatiker“, „erbärmlicher Feigling“, nach unbewiesenen Annahmen handelnd [Alkoholismusthematik]) und als Schuldiger an dem Tod Helenes ausgemacht wurde.
+Bellmann wagt eine neue Charakterisierung der Figur Helene. Helene sei nicht Opfer eines „vererbten Übels“, der Trinksucht, da sie außerhalb des Krause-Milieus erzogen wurde, nämlich in einem pietistisch-herrnhutschen Milieu. Von diesem Erziehungs-Milieu wurde sie allerdings entscheidend geprägt, und zwar nicht zum Positiven. Helenes Auftreten, das durchzogen ist von einem Mangel an Selbstständigkeit, Kraft und Entschlossenheit und den daraus resultierenden körperlichen Erscheinungen (wie verhärmtem Aussehen, Schluchzen, ständigem Weinen) sowie Helenes Selbstwahrnehmung als krank und medizinbedürftig, sieht der Interpret als Ergebnis dieser Erziehung. Er untermauert dies mit veröffentlichten autobiografischen Reflexionen Hauptmanns zu dieser Erziehung, die er doppelt erfuhr, einmal persönlich, ein anderes Mal vermittelt durch seine Frau. Hauptmann beschuldigt dieses Milieu Verursacher von „Seelennöten, apokalyptischen Ängsten, leisetreterischer Schwäche, selbstischer Tatenlosigkeit, kopfhängerischem, religiösem Grillenfang, schwermütigem Grübeln“ zu sein und schreibt ihm eine Atmosphäre von „Druck, Muff, Qualm“ zu. (S, 25). Bellmann erkennt eine vordergründige Entwicklung in der Figur Helene. Sie beginnt ihr Verhalten zu ändern, nachdem sie Loth getroffen hat: Sie lehnt nunmehr alkoholische Getränke ab, versucht die Entlassung einer Magd zu unterbinden und unterbreitet Loth ihr Liebesgeständnis – eine Frau, die aktiv einem Mann gegenübertritt. Dies alles entspringe aber nicht gewachsener Selbständigkeit oder gar einem Selbstverständnis einer Frau, die für die Freiheit aller Frauen kämpfe. Vielmehr habe sie ihr Vorbild gewechselt: Nach der Romanfigur Werther nun Loth, der für etwas kämpft, eine feste Position hat, unbeirrbar und stark zu sein scheint. Auch ihren Tod sieht Bellmann nicht als von Selbstständigkeit geprägten Akt, sondern als Akt der Verzweiflung, als vollendete Weltflucht. Helene sei weder selbstmächtige Heldin noch Opfer eines Fanatikers, sondern vielmehr Opfer vielfach determinierender Faktoren (Milieu, Vererbung, Erziehung), deren oberste Kategorie die Gesellschaft darstelle.
+Die Loth-Figur könne durch dessen Beurteilung von Goethes Werther angemessener verstanden werden. Dessen Selbsttötung empfindet Loth als nicht gerechtfertigt, womit sich ein deutlicher Gegensatz zu Goethe zeigt. Loths tatkräftiges und kämpferisches Auftreten, erkennbar an der von ihm bevorzugten Literatur, erklärt seine negative Beurteilung der finalen Werther-Handlung. Die Behauptung, Loth würde durch das Verlassen des Hauses Krause seine Lebensaufgabe aufgeben, wird durch den von Hauptmann gewählten folgenden Verlauf des Dramas und dessen Wirkung und Wichtigkeit für den Zuschauer widerlegt. Der Kritiker behauptet, Loth verlasse Helene und die Familie Krause nicht mit der Aufgabe seiner Lebenseinstellung, sondern aus Verantwortungsbewusstsein. Dass die Beziehung auch für Loth eine existenzielle Bedeutung habe, sei nicht zu übersehen. Loths Lösung von Helene, seine „Entsagung“ entspringe nicht Egoismus, Schwäche oder Feigheit, sondern seiner Überzeugungstreue und sei überdies ein Akt der Selbstbehauptung. Bellmann zitiert in diesem Zusammenhang auch eine Aussage Henrik Ibsens zu seinem Drama „Gespenster“: Es rächt sich an den Nachkommen, aus ungerechtfertigten Gründen zu heiraten, auch aus religiösen und moralischen.
+
+
+=== Hansgerd Delbrück: „Gerhart Hauptmanns Vor Sonnenaufgang“ ===
+Soziales Drama als Bildungskatastrophe. In: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte 69, 1995, S. 512–545.
+Seit der Entstehung des Ödipus-Mythos ist diese Thematik in der nachfolgenden Literatur beständig aufgegriffen worden. Die Ursache hierfür liegt in dessen Allgemeinheit. Es wird eine Schicksalsauffassung artikuliert, die menschliches Handeln von höheren Mächten abhängen sieht. In der Antike wurde der Mythos von Autoren wie Aischylos, Sophokles, Euripides und Seneca entfaltet; im Laufe der Zeit dann unter anderen auch von Robert Garnier (1580), Racine (1664), Voltaire (1718) und Cocteau (1934).
+Man hat das zur jeweiligen Zeit gültige Weltverständnis adaptiert und das Thema des Mythos entsprechend angepasst, was so viel bedeutet, dass der Schicksalsgedanke weiterhin vorhanden war, aber im Gegensatz zur Antike nicht mehr durch die Gottheiten erklärt wurde. Vielmehr kamen Änderungen des griechischen Schicksalsgedanken hin etwa zu einer christlichen Erbsündenlehre nahestehender Variante auf, angelehnt an Augustin, so wie es bei Racines Werk „La Thébaíde ou les fréres ennimes“ (1664) der Fall war. Bei Cocteaus „La machine infernale“ (1934) trat anstelle des religiös aufgefassten Schicksalsgedankens die Auffassung, dass die menschlichen Leidenschaften die Handlungen der Menschen bestimmten.
+Auch in Gerhart Hauptmanns „Vor Sonnenaufgang“ sind Parallelen zum Ödipus-Mythos erkennbar. Allerdings hat sich der Verfasser stark von der ursprünglichen Gestaltung des Mythos entfernt.
+Zentrale Themen des Naturalismus sind beispielhaft in Hauptmanns Drama verarbeitet:
+Zum einen die industrielle Entwicklung im 19. Jahrhundert (in „Vor Sonnenaufgang“ im I. Akt narrativ aufgegriffen: Eisenbahnbau, industrielle Kohleförderung), zum anderen Gesellschaftskritik: Entwicklung einer skrupellosen Kapitalistengesellschaft (Adel noch immer Führer der Gesellschaftspyramide, durch Kohlefunde in Schlesien ergibt sich eine neue Gesellschaftsschicht (z. B. die Krauses = reichgewordene Bauernfamilie; Hoffmann), die sich dem Adel anzupassen versucht und ihre ehemals eigene Klasse dabei ausbeutet und hintergeht.) Weiterhin die Milieustudie: Ansicht, das Umfeld habe direkte Einwirkungen auf den Menschen; Darstellung verschiedener gesellschaftlicher Schichten, gekennzeichnet u. a. durch Dialektverwendung (Dienerschaft und Frau Krause im Dialekt, Hoffmann in Hochsprache mit umgangssprachlichen Einsprengseln, Loth und Helene reines Hochdeutsch). Die Zerrüttung der Familie durch Alkoholismus: Möglichkeit einer durch Alkohol verursachten, biologisch determinierten Degeneration ganzer Familien war in den 1880er Jahren eine verbreitete Meinung. „Vererbung erworbener Eigenschaften“ wurde durch Wissenschaftler gestützt (z. B. Henri Auguste Forel und Ernst Haeckel).
+Die Sozialdemokratie als Lösung von Missständen: Loth als SPD-Funktionär.
+Was die Verbindung zu Ödipus ausmacht, ist unter anderen der Schicksalsgedanke, der Determinismus, der in Form von Subthemen auftaucht wie etwa dem Alkoholismus bzw. Loths Abstinenz, die er aus Furcht vor Degeneration bei seinen Nachkommen einhält. Es fehlt somit das religiöse bzw. göttliche Element. Dieses ist durch naturwissenschaftliche Erkenntnisse geprägt wie hier dem Darwinismus. Den Schicksalsgedanken findet man auch in Loths Projekt: Seiner Absicht, die Lage der Bergarbeiter der Region zu untersuchen und die Gründe für ihre Unzufriedenheit herauszufinden. Hoffmanns ausbeuterischer Materialismus steht in krassem Gegensatz zu Loths Idealismus. Loths Einstellung, erst dann glücklich sein zu können, wenn es alle auf der Welt seien, ist in dem Kontext zu sehen, dass er die Gründe für die Ungerechtigkeit in der Gesellschaft sucht, ebenso wie die Gründe der Degeneration, sie durch Abstinenz abzuwehren sucht und ihn dazu veranlasst, Helene zu verlassen.
+Zusammenfassend kann man somit sagen, dass Hauptmann die Frage nach dem Schicksal nicht beantwortet, sondern lediglich das Problem aufwirft. Der formal entscheidende Aspekt ist in der Figurenkonstellation zu sehen. Die Funktion der Figuren ist an das antike Werk angelehnt.
+
+Zusammenfassung des Aufsatzes von Delbrück
+In seinem Aufsatz „Gerhart Hauptmanns Vor Sonnenaufgang: Soziales Drama als Bildungskatastrophe“ geht Hansgerd Delbrück von einer Beeinflussung Hauptmanns durch Nietzsche aus.
+„Vor Sonnenaufgang“ sei eine Antwort auf Nietzsches „antiaristotelisches Verdikt eines seit den Griechen durch „Rausch“ und „Narcotica“ wirkenden Bildungstheaters“. Hauptmann habe sich als Reaktion darauf der antiken Dramentheorie zugewandt und dementsprechend sein Werk in Episoden aufgebaut. Vor allem dienen sie dazu die eigentlich kurze Handlung durch die Darstellung von Nebenfiguren zu strecken.
+
+
+== Rezeption ==
+Wegen der ungewohnten naturalistischen Darstellungsweise lieferte sich das Theaterpublikum heftige Wortgefechte. Ein im Parterre sitzender Arzt warf aus Protest seine Geburtszange auf die Bühne. Gerhart Hauptmann wurde durch den Skandal schlagartig bekannt.
+
+Arno Holz in einem Brief an Hauptmann vom 7. Juni 1889 (auch im Namen von Johannes Schlaf) über Vor Sonnenaufgang: „Der Eindruck, den es auf uns gemacht hat, ist noch größer gewesen, als wir erwartet hatten. Wir halten es für das beste Drama, das jemals in deutscher Sprache geschrieben worden ist. Tolstoi mit eingerechnet! Hoffentlich sind Sie einigermaßen damit zufrieden?“
+Johannes Schlaf in einem Brief an Hauptmann vom 21. August 1889: „Was mir Ihrem Drama noch einen ganz besonderen Wert zu geben scheint, ist der Umstand, daß Sie in Ihrem Loth einen in jeder Beziehung ganzen Menschen geschaffen haben. […] Sie führen uns endlich einmal einen kerngesunden, fest auf seinen Füßen stehenden Menschen in einem durchaus gesunden Conflikt vor, den er in gesunder und natürlicher Weise überdauert.“
+Karl Henckell urteilte in einem Brief an Hauptmann vom 26. August 1889, in diesem Stück sei die „existierende Menschheit von der Höhe bis in die grauenvollste Tiefe wahr dargestellt“.
+Karl Bleibtreu nannte 1889 das Stück in der Zeitschrift Die Gesellschaft „das erste wirkliche ‚soziale Drama‘ unserer Tage“.
+Wilhelm Bölsche: „Mag der Autor wollen oder nicht: aus jedem Wort, das Loth redet, hören wir den Klang einer so edlen, so bedeutenden Stimme, daß es wohl hieße den Dichter mit Gewalt gering schätzen wollen, wenn man ihn nicht mit diesem seinem Helden identificirte.“ (Die Gegenwart, Nr. 41, 12. Oktober 1889)
+Theodor Fontane sah in Loth einen „anständigen Kerl“ und lobte in einer berühmt gewordenen Rezension „die Composition“ des Stücks, die „Consequenz in Durchführung des Gedankens“, die „Klarheit“. Fontane erschien der Sonnenaufgangsdichter als „die Erfüllung Ibsens“, er pries ihn als „völlig entphrasten Ibsen“.
+Conrad Alberti: „Um nun auf dieses Fricassée von Unsinn, Kinderei und Verrücktheit die Aufmerksamkeit des Publikums zu lenken, durchsetzte es Herr Hauptmann mit einem Gemisch von Roheiten, Brutalitäten, Gemeinheiten, Schmutzereien, wie es bisher in Deutschland unerhört gewesen war. Der Kot wurde in Kübeln auf die Bühne getragen, das Theater zur Mistgrube gemacht […].“ (Die Gesellschaft, August 1890)
+der norwegische Dichter Henrik Ibsen, dessen Gespenster (ein analytisches Drama über Vererbung) Hauptmann mit Begeisterung aufgenommen hatte, lobte im Februar 1891 Vor Sonnenaufgang gegenüber seinem Autor als „tapfer und mutig“.
+der russische Dichter Maxim Gorki nannte im November 1901 Vor Sonnenaufgang das beste aller Hauptmannschen Dramen. Er stellte sich ganz hinter Loth und hielt Mitleid mit der „erblich belasteten“, „willensschwachen“, „tränenreichen“ Helene Krause für unangebracht.
+
+
+== Verfilmungen ==
+Vor Sonnenaufgang, Regie: Oswald Döpke, mit Gerd Böckmann (Hoffmann), Ernst Jacobi (Loth), Ulrike Bliefert (Helene) (SFB 1976)
+
+
+== Literatur ==
+
+
+=== Textausgaben ===
+Gerhart Hauptmann: Vor Sonnenaufgang. Soziales Drama. C. F. Conrads Buchhandlung, Berlin 1889. (Digitalisat und Volltext im Deutschen Textarchiv)
+Gerhart Hauptmann. Vor Sonnenaufgang. Soziales Drama. Taschenbuch-Ausgabe bei Ullstein.
+Gerhart Hauptmann: Vor Sonnenaufgang. Soziales Drama. Kommentierte Ausgabe. Hrsg. von Peter Langemeyer. Reclam, Stuttgart 2017 (UB 19017).
+
+
+=== Forschungsliteratur ===
+Hartmut Baseler: Gerhart Hauptmanns soziales Drama „Vor Sonnenaufgang“ im Spiegel der zeitgenössischen Kritik. Eine rezeptionsgeschichtliche Modellanalyse: Karl Frenzel, Theodor Fontane, Karl Bleibtreu, Wilhelm Bölsche. Dissertation. Kiel 1993.
+Werner Bellmann: Gerhart Hauptmann: „Vor Sonnenaufgang“. Naturalismus – soziales Drama – Tendenzdichtung. In: Dramen des Naturalismus. Interpretationen. Reclam, Stuttgart 1988, ISBN 3-15-008412-1, S. 7–46.
+Hansgerd Delbrück: Gerhart Hauptmanns „Vor Sonnenaufgang“: Soziales Drama als Bildungskatastrophe. In: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte. 69, 1995, S. 512–545.
+Theo Elm: Gerhart Hauptmann: „Vor Sonnenaufgang“. In: Theo Elm: Das soziale Drama. Von Lenz bis Kroetz. Reclam, Stuttgart 2004, ISBN 3-15-017645-X, S. 155–169.
+Michaela Giesing: „Ibsens Nora und die wahre Emanzipation der Frau“. Zum Frauenbild im wilhelminischen Theater. Frankfurt am Main, Bern, New York 1984. (Zu „Vor Sonnenaufgang“ S. 166–174.)
+Dieter Martin: „Ein Buch für Schwächlinge“. „Werther“-Allusionen in Dramen des Naturalismus. In: Zeitschrift für deutsche Philologie. 122, H. 2, 2003, S. 237–265.
+Heinz-Peter Niewerth: Die schlesische Kohle und das naturalistische Drama: G. Hauptmanns „Vor Sonnenaufgang“. – Ideologie, Konfiguration und Ideologiekritik. In: Karl-K. Polheim (Hrsg.): Die dramatische Konfiguration. Schöningh, Paderborn 1997, ISBN 3-8252-1996-8, S. 211–244.
+Bernhard Tempel: Alkohol und Eugenik. Ein Versuch über Gerhart Hauptmanns künstlerisches Selbstverständnis. w.e.b. Universitätsverlag, Dresden 2010. (Zu "Vor Sonnenaufgang" S. 26–58.)
+Raleigh Whitinger: Gerhart Hauptmann’s „Vor Sonnenaufgang“. On Alcohol and Poetry in German Naturalist Drama. In: The German Quarterly. 63, No. 1, 1990, S. 83–91.
+Beutin, Wolfgang / Klaus Ehlert u. a.: Deutsche Literaturgeschichte. Von den Anfängen bis zur Gegenwart. Metzler: Stuttgart/Weimar. S. 347–349.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

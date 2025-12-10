@@ -1,0 +1,68 @@
+Relativity: The Special and the General Theory (German: Über die spezielle und die allgemeine Relativitätstheorie) is a popular science book by Albert Einstein. It began as a short paper and was eventually expanded into a book written with the aim of explaining the special and general theories of relativity. It was published in German in 1916 and translated into English in 1920. It is divided into three parts, the first dealing with special relativity, the second dealing with general relativity, and the third dealing with cosmology.
+
+
+== Contents ==
+"The present book is intended, as far as possible, to give an exact insight into the theory of relativity to those readers who, from a general scientific and philosophical point of view, are interested in the theory, but who are not conversant with the mathematical apparatus of theoretical physics ... I adhered scrupulously to the precept of the brilliant theoretical physicist L. Boltzmann, according to whom the matters of elegance ought to be left to the tailor and the cobbler. I make no pretence of having withheld from the reader difficulties which are inherent in the subject. On the other hand, I have purposely treated the empirical physical foundations of the theory in a 'step-motherly' fashion, so that readers unfamiliar with physics may not feel like the wanderer who was unable to see the forest for trees. May the book bring some one a few happy hours of suggestive thought!" says the preface 
+
+
+=== Part I: The Special Theory of Relativity ===
+Einstein gives a brief overview of Galilean invariance, that the laws of physics are the same in all frames of reference. He provides a thought experiment of two co-ordinate systems, K and K′, moving uniformly to one another: "If K is a Galilean co-ordinate system, then every other co-ordinate system  K′ is a Galilean one, when, in the relation to  K, it is in a condition of uniform motion of translation. Relative to K′ the mechanical laws of Galilei-Newton hold good exactly as they do with respect to K.
+We advance a step farther in our generalisation when we express the tenet thus: If, relative to K, K′, is a uniformly moving co-ordinate system devoid of rotation, then natural phenomena run their course with respect to K′ according to exactly the same general laws as with respect to K." 
+He introduces the fact of the constancy of the speed of light in vacuo, which is apparently in contradiction with Galilean invariance. "There is hardly a simpler law in physics than that according to which light is propagated in empty space. Every child at school knows, or believe he knows, that this propagation takes place in straight lines with a velocity c = 300,000 km./sec. At all events we know with great exactness that this velocity is the same for all colours, because if this were not the case, the minimum emission would not be observed simultaneously for different colours during the eclipse of a fixed star by its dark neighbour. By means of similar considerations based on observations of double stars, the Dutch astronomer De Sitter was able to show that the velocity of propagation of light cannot depend on the velocity of motion by the body emitting the light. The assumption that this velocity of propagation of light is dependent on the direction 'in space' is in itself improbable."
+He gives a thought experiment about a ray of light observed from a moving railway carriage and embankment, and argues that observers should measure the same speed of light. He argues that the constancy of the speed of light must be observed in all reference frames; "like every other general law of nature, the law of the transmission of light in vacuo must, according to the principle of relativity, be the same for the railway carriage as reference-body was when rails are the frame of reference ... The epoch-making theoretical investigations of  H. A. Lorentz on the electrodynamical and optical phenomena connected with moving bodies show that experience in this domain leads conclusively to a theory of electromagnetic phenomena, of which the law of the constancy of the velocity of light in vacuo is a necessary consequence." 
+
+The relativity of simultaneity is introduced. We return to the embankment with another  thought experiment: lightning flashes at points A and B while the train moves from A to B. An observer on the embankment at M, equidistant from A and B, sees the flashes as simultaneous. An observer at on the train at M′, moving from A to B, sees the flash at B before the flash at A:
+
+Events which are simultaneous with reference to the embankment are not simultaneous with respect to the train, and vice versa (relativity of simultaneity). Every reference body (co-ordinate system) has its own particular time; unless we are told the reference-body to which the statement of time refers, there is no meaning in the statement of the time of an event.
+
+Now before the advent of the theory of relativity it had always tacitly been assumed in physics that the statement of time had an absolute significance, i.e. that it is independent of the state of motion of the body of reference. But we have just seen that this assumption is incompatible with the most natural definition of simultaneity; if we discard this assumption, then the conflict between the law of propagation of light in vacuo and the principle of relativity (developed in Section 7) disappears.
+Einstein points to the eponymous experiment of Hippolyte Fizeau as demonstration that the speed of light is constant, and presents the Lorentz transformation and its nonintuitive consequences, such as time dilation. Mass-energy equivalence is discussed: "Before the advent of relativity, physics recognized two conservation laws of fundamental importance, namely, the law of the conservation of energy and the law of the conservation of mass; these two fundamental laws appeared to be quite independent of each other. By means of the theory of relativity they have been united into one law." The limiting velocity of light is discussed. Einstein also introduces the concept of spacetime, formulated by his teacher, Hermann Minkowski.
+
+
+=== Part II: The General Theory of Relativity ===
+Einstein begins with a brief review of Special Relativity, which posits that the laws of physics are the same for all frames of reference moving uniformly to one another. He argues that this should be expanded to include acceleration and gravitation.
+A clue comes from the equivalence principle: "Bodies which are moving under the sole influence of a gravitational field receive an acceleration, which does not in the least depend on the material or on the physical state of the body. For instance, a piece of lead and a piece of wood fall in exactly the same manner in a gravitational field (in vacuo), when they start off from rest or with the same initial velocity ... If now, as we find from experience, the acceleration is to be independent of the nature and the condition of the body and always the same for a given gravitational field, then the ratio of the gravitational to the inertial mass must likewise be the same for all bodies. By a suitable choice of units we can thus make this ratio equal to unity. We then have the following law: The gravitational mass of a body is equal to its inertial mass."
+Einstein presents a thought experiment, asking us to imagine  a chest accelerating freely through empty space. An occupant of the chest might conclude that he is at rest in a gravitational field: "If he releases a body which he previously had in his hand, the acceleration of the chest will no longer be transmitted to this body, and for this reason the body will approach the floor of the chest with an accelerated relative motion. The observer will further convince himself that the acceleration of the body towards the floor of the chest is always of the same magnitude, whatever kind of body he may happen to use for the experiment." He asks: "Ought we ought to smile at the man and say that he errs in his conclusion? I do not believe we ought to if we wish to remain consistent we must rather admit that his mode of grasping the situation violates neither reason nor known mechanical laws." The equivalence of gravitational and inertial masses, unaccounted for by Newton, is explained by Einstein. He offers the thought experiment of  an observer on a rotating disk to argue that non-Euclidean geometry is needed to describe gravity.
+Einstein outlines the theory's explanatory and predictive power. Newton's theory of gravity could not account for the precession of the perihelion of Mercury; Urbain Le Verrier, who predicted the existence of Neptune based on deviations from Newton, tried and failed to explain it: "The value obtained for this rotary movement of the orbital ellipse was 43 seconds of arc per century ... This effect can be explained by means of classical mechanics only on the assumption of hypotheses which have little probability, but which were devised solely for this purpose." General relativity predicts the correct value: "in the case of Mercury it must amount to 43 seconds of arc per century, a result which is strictly in agreement with observation."
+
+
+=== Part III: Considerations on the Universe as a Whole ===
+Einstein applies General Relativity to cosmology. The theory raises the possibility that the Universe is finite but unbounded.
+
+
+=== Appendices ===
+In Appendix One, Einstein offers a "Simple Derivation of the Lorentz Transformation".
+In Appendix Two, he details "Minkowski's Four-Dimensional Space ('World')".
+In Appendix Three, he describes "The Experimental Confirmation of the General Relativity": the theory predicts the correct value (43 arc-seconds per century) for the precession of the perihelion of Mercury; that light should  curve towards a massive body, a prediction confirmed by Arthur Eddington  in 1919; that  light from a massive star should be shifted to the red, a prediction confirmed by Walter Sydney Adams in 1925.
+In Appendix Four, he returns to "The Structure of Space According to the General Theory of Relativity". In 1922, Alexander Friedmann showed that "the theory demands an expansion of space. A few years later  Hubble showed, by a special investigation of the extra-galactic nebulae ('milky ways') that the spectral lines emitted showed a red shift which increased regularly with the distance of the nebulae. This can be interpreted in regard to our present knowledge only in the sense of the  Doppler's principle, as an expansive motion of the stars in the large—as required, according to Friedman [sic], by the field equations of gravitation. Hubble's discovery can, therefore, be considered to some extent a confirmation of the theory." 
+In Appendix Five, he returns to "Relativity and the Problem of Space".
+
+
+== Publication history ==
+Abraham Pais suggests that Hendrik Lorentz may have influenced Einstein to write a popularization. He writes that the "beautiful, fifty-page account was completed in March 1916. It was well-received ... In December 1916 he completed Über die spezielle und die allgemeine Relativitätstheorie, gemeinverständlich, his most widely known work. Demand for it became especially high after the results of the  eclipse expedition caused such a stir."
+There have been many versions published since the original in 1916, the latest being in 2015.  The 2015 publication by Princeton University Press, is billed as the 100th Anniversary Edition, and was issued as an e-book in 2019.
+
+
+== Reception ==
+A review in Nature wrote: "Here is an excellent translation of Einstein's own book; we hasten to it to know the whole truth and nothing but the truth. The reviewer on this occasion should be the man in the street, the man who, with thousands, has been asking, 'What is Relativity?' 'What is the matter with Euclid and with Newton?' 'What is this message from the stars?' Whether it is possible for the prophet to make his message clear to the multitude, only history can prove."
+Walther Rathenau wrote a letter to Einstein about the book: "I have been immersed in your ideas for weeks ... I would not have thought it possible to force such a radical rearrangement of ideas through, the way you do, with such simple means and using classical architectonics." This letter is reprinted in the Princeton University Press edition, along with a page of the text in Einstein's handwriting.
+People such as Robert W. Lawson have called the work unique in that it gives readers an insight into the thought processes of one of the greatest minds of the 20th century.
+Martin Rees, Astronomer Royal, says: “This book is not only an important historical document, but displays the style and clarity of Einstein’s thought in a manner accessible to a wide readership.”
+
+
+== See also ==
+The Evolution of Physics (1938), a popular history of physics by Einstein and Leopold Infeld
+A Brief History of Time (1988), introduction to physics and cosmology by Stephen Hawking
+Three Roads to Quantum Gravity (2001), overview of potential unified field theories by Lee Smolin
+The Fabric of the Cosmos (2004), a popular overview of space and time in modern physics by Brian Greene
+The Road to Reality (2004), overview of physics by Roger Penrose
+
+
+== Notes ==
+
+
+== External links ==
+
+Albert Einstein. Relativity: the Special and the General Theory, 10th edition (there are a total of 17 editions). ISBN 0-517-029618 at Project Gutenberg
+ Relativity: The Special and General Theory public domain audiobook at LibriVox
+Albert Einstein, Relativity: The Special and General Theory (1920/2000) ISBN 1-58734-092-5 at Bartleby.com

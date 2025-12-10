@@ -1,0 +1,61 @@
+Autour de la Lune est un roman d’anticipation de Jules Verne, paru en 1869. C'est la suite du roman De la Terre à la Lune, paru en 1865.
+
+
+== Résumé ==
+À bord de leur obus lancé depuis la Floride par le canon géant Columbiad, Michel Ardan, Impey Barbicane et le capitaine Nicholl sont en orbite autour de la Lune ; ils en découvrent l’atmosphère ainsi que la face cachée, où ils pensent apercevoir des villes, fugitivement révélées par la lumière d’un astéroïde en feu qui croise leur route. Cette rencontre fortuite dévie leur trajectoire, leur permettant ainsi d’échapper à l’attraction lunaire et de revenir sains et saufs sur Terre où ils amerrissent.
+
+
+== Liste des personnages ==
+Les personnages sont les mêmes que ceux du roman précédent De la Terre à la Lune. Dans l'engin spatial, on trouve les trois astronautes Michel Ardan (anagramme du photographe Nadar), Impey Barbicane et le capitaine Nicholl, ainsi que les deux chiens Diane et Satellite et quelques poules.
+Au sol, on retrouve J.-T. Maston, Tom Hunter et d'autres membres du Gun Club.
+
+
+== Histoire éditoriale ==
+Le roman paraît d'abord dans le Journal des débats du 4 novembre au 8 décembre. L'édition originale est mise en vente le 13 janvier 1870, et l'édition gd. in-8° le 16 septembre 1872.
+
+
+== Analyse ==
+
+
+=== Un roman prémonitoire ===
+
+En dépit de ses invraisemblances (lancement par un canon, pesanteur présente sauf au « point neutre », etc.), le roman s'est avéré étonnamment prémonitoire par rapport à la mission Apollo 8 : l'initiative du voyage dans la Lune a bien été prise par les Américains, le départ de la mission américaine a eu lieu à Cap Canaveral, à quelques centaines de kilomètres seulement de l'endroit choisi par Verne en Floride, non pour les raisons qu'offre l'auteur, mais parce que la vitesse supérieure de rotation de la Terre à cet endroit y est plus favorable. Il y a bien eu trois astronautes à bord de la capsule et la mission a duré un peu moins d'une semaine, comme celle de Michel Ardan et ses amis. Enfin, au retour, l'engin se retrouve dans l'océan après avoir effectué un contournement lunaire.
+
+
+=== Vraisemblance scientifique ===
+Jules Verne décrit une pesanteur dans l'obus, alors que celui-ci est en route vers la Lune, ne décrivant une apesanteur qu'au point d'équilibre entre les gravités terrestre et lunaire. Or, une fois terminée l'accélération initiale (intense et brutale) donnée par le canon, les occupants de l'obus devraient en réalité être en apesanteur pour toute la durée du trajet. En effet, l'obus, dès sa sortie du canon, n'est plus soumis à aucune autre force que la gravité et se trouve donc en chute libre, dans exactement les mêmes conditions que l'ascenseur d'Einstein ou celles d'un satellite, dans lequel règne une apesanteur totale en chute libre dans un champ gravitationnel.
+Jules Verne essaye de traiter du sujet de la température de l'espace et fait référence à une controverse scientifique de son temps : Joseph Fourier estimait la température de l'espace à -60°C, tandis que Claude Pouillet l'estimait à -160°C. Les voyageurs tentent de départager les deux, et plongent dans l'espace un thermomètre à alcool, l'instrument capable de mesurer les températures les plus froides au temps de Jules Verne. Ils mesurent -140°C et donnent raison à Pouillet. En réalité, l'espace étant par définition vide de matière, n'a pas de température propre. Seuls les rayonnements baignant l'espace peuvent donner une température à la matière qui y est plongée, qui prend la température du rayonnement cosmologique, soit 3°C au-dessus du zéro absolu, soit -270°C environ, en l'absence d'autres rayonnements.
+
+
+== Hommage au roman ==
+Le 25 juillet 1971, l'équipage d'Apollo 15 donna à un trou lunaire le nom de cratère Saint-George, en rendant hommage à Jules Verne. En effet, dans ce roman, dans le chapitre III Où l'on s'installe, une fine bouteille de Nuits (actuellement nuits-saint-georges) est par hasard retrouvée dans le compartiment des provisions, afin de fêter « l'union de la Terre et de son satellite ».
+
+
+== Illustrations du roman ==
+Illustrations du roman par Émile Bayard et Alphonse de Neuville
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+Revue Jules Verne 15. Jules Verne et les États-Unis. (2003), Revue Jules Verne 16. Les territoires de l'espace. (2003), Revue Jules Verne 21. Le ciel astronomique. (2006), Revue Jules Verne 25. La science en drame.(2007), Revue Jules Verne 30. Les voyages à l'étranger. (2010), Revue Jules Verne 33/34. Les arts de la représentation (2011).
+Autour de la Lune, scénario et dessins de Pierre Guilmard, Glénat Les Grands Classiques de la littérature en bande dessinée, 2017.
+William Butcher, Jules Verne inédit: Les manuscrits déchiffrés, ENS Éditions et Institut d'histoire du livre, 2015, p. 205-214.
+
+
+=== Article connexe ===
+Éther : Jules Verne emploie plusieurs fois le terme d'éther dans son roman ; à son époque, les physiciens pensaient que dans l'espace, il y avait de l' « éther » et non pas du vide.
+
+
+=== Liens externes ===
+Manuscrit sur Gallica (version ancienne)
+
+Ressources relatives à la littérature : Internet Speculative Fiction Database NooSFere  
+
+Autour de la Lune, version audio  Fichier:Speaker Icon.svg
+
+ Portail de la littérature française et francophone   Portail de la science-fiction   Portail de l’astronautique   Portail des années 1870   Portail de Jules Verne

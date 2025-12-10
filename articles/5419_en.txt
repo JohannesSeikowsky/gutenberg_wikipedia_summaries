@@ -1,0 +1,145 @@
+The Satires (Latin: Saturae or Sermones) is a collection of satirical poems written in Latin dactylic hexameters by the Roman poet Horace. Published probably in 35 BC and at the latest, by 33 BC, the first book of Satires represents Horace's first published work. It established him as one of the great poetic talents of the Augustan Age. The second book was published in 30 BC as a sequel.  
+In the first book of his Sermones (Latin for 'conversations') or Saturae (Latin for 'miscellaneous poems'), Horace combines Greek philosophy with Roman good sense to convince his readers of the futility and silliness of their ambitions and desires. As an alternative, he proposes a life that is based on the Greek philosophical ideals of autarkeia (Greek for 'inner self-sufficiency') and metriotes (Greek for 'moderation' or sticking to the Just Mean). In 1.6.110–131, Horace illustrates what he means by describing a typical day in his own simple, but contented life.
+The second book also addresses the fundamental question of Greek Hellenistic philosophy, the search for a happy and contented life. In contrast to book I, however, many of this book's poems are dialogues in which the poet allows a series of pseudo-philosophers, such as the bankrupt art-dealer turned Stoic philosopher Damasippus, the peasant Ofellus, the mythical seer Teiresias, and the poet's own slave, Davus, to espouse their philosophy of life, in satiric contrast to that of the narrator.
+Although the Satires are sometimes considered to be inferior to the Odes, they have been received positively in recent decades. In the Middle Ages, they were very popular and quoted more frequently than the Odes.
+
+
+== Poetic models ==
+Horace's direct predecessor as writer of satires was Lucilius, a poet of the late 2nd century BC who wrote partly in hexameters and partly in the trochaic septenarius metre. Horace inherited from Lucilius the hexameter, the conversational and sometimes even prosaic tone of his poetry, and the tradition of personal attack. In contrast to Lucilius, however, the victims of Horace's mockery are not members of the nobility, but overly ambitious freedmen, anonymous misers, courtesans, street philosophers, hired buffoons, and bad poets. In accordance with the Epicurean principle Lathe biosas (Greek for 'Live unnoticed'), Horace consciously does not get involved in the complicated politics of his times, but advocates instead a life that focuses on individual happiness and virtue.
+Probably equally important is the influence of Greek diatribe in the tradition of the philosopher Bion of Borysthenes (c. 335–245 BC). Horace's Satires share with this genre some of their themes, typical imagery, and similes, and the fiction of an anonymous interlocutor whose objections the speaker easily refutes.
+Another inspiration was the poet Lucretius, whose didactic epic De rerum natura ('On the Nature of Things'), also written in hexameters, popularized Epicurean philosophy in Rome. For example, Horace's comparison of his satires with cookies that a teacher uses to encourage his students to learn their letters, reminds one of Lucretius' more traditional comparison of his poetry with the sugar that sweetens the bitter medicine of philosophy. Moreover, Lucretian stock phrases such as nunc ad rem redeo ('now I return to the matter at hand') give Horace's philosophical sermones (Latin for 'conversations') a subtly Lucretian flavor.
+
+
+== Structure ==
+Book 1 has ten poems, the same number as Virgil's Eclogues, which were published three or four years earlier. The poems are of differing lengths: 121, 133, 142, 143, 104, 131, 34, 50, 78, and 92 lines respectively (total 1029 lines). Thus there are six relatively long poems (average length 129 lines) followed by four shorter poems (average length 64 lines).
+Book 2 has eight poems, with 86, 136, 326, 95, 110, 117, 118, and 95 lines respectively (total 1083 lines).
+Unlike the Eclogues, no particular numerical patterns have been discovered in the Satires, except that the first half of book 1 (omitting line 1.2.13) has the same number of lines (643) as the first half of book 2.
+As with the Eclogues, the first book of the Satires has been analysed by several scholars as having a triadic structure: 1,2,3 – 4,5,6 – 7,8,9, with 5 at the centre and the 10th poem concluding the whole. In satires 1, 2 and 3, Horace gives general philosophical advice on how to live and what vices to avoid; in 4 and 6 he discusses his reasons for writing satire in the style of Lucilius, with the 5th satire (the Journey to Brundisium) an imitation of one by Lucilius; and satires 7, 8 and 9 (the three shortest satires) are all amusing anecdotes.
+But, just as with the Eclogues, the arrangement is also symmetrical, based around poem 5. Thus the 1st and 9th satires describe two sides to an approach to Maecenas; 2 and 8 are linked by their erotic themes and their concern with the less romantic aspects of love (prostitution, witchcraft); 3 and 7 both have jokes on the nature of kingship and both have the word rex (Latin for 'king'), in the last line; 4 and 6 tell of Horace's relationship with his father. There are other links also between the poems, for example, the name Fabius occurs in 1.14 and 2.124; the name Tigellius in 2.3 and 3.4; Maecenas is addressed in 1.1. and 3.64; and Crispinus is mentioned in 1.120 and 3.139, linking up 1, 2, and 3.
+Book 2 is constructed on a different plan. In this book, in poems 1 and 5 a famous figure gives advice; 2 and 6 praise simple life in the country; 3 and 7 give precepts of Stoic philosophy; and 4 and 8 are concerned with gastronomy and fine dining.
+
+
+== Content of book 1 ==
+Satire 1.1, Qui fit, Maecenas ('How come, Maecenas')
+This satire targets avarice and greed. Most people, the satirist argues, complain about their lot yet do not really want to change it. Our insatiable greed for material wealth is just as silly. The true basic human needs, food and water, are easily satisfied. A person who recognizes the natural limit (modus) set for our desires, the Just Mean between the extremes, will in the end, leave the Banquet of Life like a satisfied guest, full, and content.
+Satire 1.2, Ambubaiarum collegia ('The colleges of Syrian music girls') 
+This satire deals with adultery and other unreasonable behaviour in sexual matters. Horace claims that there is also a natural mean with regard to sex. Our basic sexual urges are easily satisfied (any partner will do), so it seems silly to run after married noblewomen when freedwomen are available.
+Satire 1.3, Omnibus hoc vitium est ('All singers have this vice')
+Horace demands fairness when we criticise other people’s flaws. In the case of friends, we should be especially lenient.
+Satire 1.4, Eupolis atque Cratinus ('Eupolis and Cratinus')
+In a programmatic declaration of Horace's poetic views, he applies these same critical principles to poetry and shows that his own satires follow them.
+Satire 1.5, Egressum magna ... Roma ('Having left great Rome')
+Horace describes a journey he made from Rome to Brundisium in the spring of 36 BC, in the company of the poet Virgil, his patron Maecenas, and others. Alluding to a famous satire in which Horace’s predecessor Lucilius described a trip to his estates near Tarentum, this poem offers a comic self-portrait of Horace as an insignificant member in the retinue of his powerful friend Maecenas when the latter negotiated one last truce between Antony and Octavian, the Peace of Brundisium (36 BC). A highpoint of the satire is a verbal contest that, as in Satire 1.4, distinguishes scurrility from satire. Here, Horace pitches a scurra (buffoon) from the capital, the freedman Sarmentus, against his ultimately victorious local challenger, Messius Cicirrus ('the Fighting Cock').
+Satire 1.6, Non quia, Maecenas ('Not because, Maecenas')
+With the same modesty with which he just depicted himself in Satire 1.5, Horace explains why he is not interested in a career in politics although, during the Civil War, he once served as the tribune of a Roman legion (48). People would jeer at him because of his freedman father, and his father taught him to be content with his status in life (85–87) although he made sure that his son could enjoy the same education as an aristocrat (76–80).
+Satire 1.7, Proscripti Regis Rupili pus atque venenum ('The pus and poison of the proscribed Rupilius Rex')
+This satire deals with a court case that Persius, a Greek merchant of mixed birth, won against the Roman Rupilius Rex. Following the account of Horace's youth in 1.6, this satire tells a story from his service under Brutus during the Civil War. As in 1.5, it features a verbal contest in which two different types of invective are set against each other. Initially, Greek verbosity seems to succumb to Italian acidity, but in the end, the Greek wins with a clever turn of phrase, calling on the presiding judge, Brutus the Liberator, to do his duty as his ancestor had done and dispose of the rex (Latin for 'king'), Rupilius Rex (33–35).
+Satire 1.8, Olim truncus eram ('Once I was a tree trunk')
+Priapus, a wooden garden fertility god, narrates the visit of two terrible witches to Maecenas' garden that he is supposed to protect against trespassers and thieves. Maecenas' garden on the Esquiline Hill used to be a cemetery for executed criminals and the poor, and so it attracts witches that dig for magic bones and harmful herbs. The god is powerless until the summer heat makes the figwood that he is made of explode, and this divine "fart" chases the terrified witches away.
+Satire 1.9, Ibam forte Via Sacra ('I happened to be walking on the Sacred Way')
+Horace is accosted by an ambitious flatterer and would-be poet who hopes that Horace will help him to worm his way into the circle of Maecenas' friends. Horace tries in vain to get rid of the boor. He assures him that this is not how Maecenas and his friends operate. Yet he only manages to get rid of him when finally a creditor of the boor appears and drags him off to court (74–78).
+Satire 1.10, Nempe incomposito ('I did indeed say that Lucilius' verses hobble along') 
+This satire functions as an epilogue to the book. Here Horace clarifies his criticism of his predecessor Lucilius, jokingly explains his choice of the genre ('nothing else was available') in a way that groups him and his Satires among the foremost poets of Rome, and lists Maecenas and his circle as his desired audience.
+
+
+== Content of book 2 ==
+Satire 2.1, Sunt quibus in satira ('There are those to whom I seem too harsh in satire')
+Horace, who is anxious his satires are making him unpopular, pretends to consult the famous jurist Gaius Trebatius Testa, who advises him to give up writing, or else to write an epic poem in honour of Augustus. Horace replies that epic is beyond him, and that just like his predecessor Lucilius he can still enjoy the friendship of great men while writing satire.
+Satire 2.2, Quae virtus et quanta ('How great a virtue it is to live on little')
+Horace writes about the virtues of living on simple fare. He claims to be quoting a certain Ofellus, who lost his land in the confiscations following the civil war.
+Satire 2.3, Si raro scribes ('If you write so rarely')
+A certain Damasippus, a follower of Stoicism, criticises Horace for being lazy and writing so little. Damasippus explains that he used to make a living buying and selling, but lost all his money and went mad, until a philosopher called Stertinius rescued him. Damasippus describes various different types of mad people: creditors, misers, insane spenders, over-ambitious people, prodigals, spendthrifts, infatuated lovers, superstitious people. He says Horace is mad too, writing poetry in a bad temper, and living beyond his means.
+Satire 2.4, Unde et quo Catius? ('Where from and where to, Catius?')
+Horace meets a certain Catius, who is hurrying home to write down some precepts about food, wine and cookery which he has heard from a certain expert on gastronomy. Catius stops to tell Horace what he has heard. At the end Horace begs him to allow him to meet the expert himself.
+According to Palmer this Catius is a thinly disguised version of Gaius Matius, a friend of Julius Caesar, Octavian, Cicero, and Trebatius, who wrote three books on gastronomy. The unnamed expert was most probably Matius himself. A letter written to Cicero from Matius and Trebatius jointly is preserved among Cicero's letters (Att. 9.15.A).
+Satire 2.5, Hoc quoque, Tiresia ('Tell me this too, Tiresias')
+Ulysses (Odysseus), when consulting the prophet Tiresias in the Underworld, asks him for advice on how to repair his broken fortunes. Tiresias advises him to become a toady to some rich man, in the hope of getting a legacy from the man when he dies. (The setting is imagined as a continuation of the famous scene in Homer's Odyssey 11.149, where Odysseus converses with the souls of various deceased people.)
+Satire 2.6, Hoc erat in votis ('This was in my prayers')
+Horace begins by expressing his delight with life on the country villa, which he has recently been given by his patron Maecenas. He contrasts life in the city, which he finds disagreeable, apart from his opportunities to converse with Maecenas; even then people jostle and sneer at him when he is on his way there. He returns to a description of his pleasant life on his farm, with books, simple fare, pleasant neighbours, and sensible conversation. The satire ends with a retelling of the famous tale of The Town Mouse and the Country Mouse, based on one of Aesop's fables.
+Satire 2.7, Iamdudum ausculto ('I've been listening for a while')
+A slave called Davus asks permission to speak. Since it is December Horace gives him permission. He tells Horace some philosophical truths he has learnt from another slave, Crispinus's doorkeeper, and argues the Stoic principle that none but the wise are free. He shows that Horace, who is always criticising other people for being inconsistent, is inconsistent himself. Horace criticises his slave for vices – desire for sex, picture-mania, gluttony, restlessness – but is just as bad himself! At the end Horace has had enough and tells the slave to make himself scarce or he will join the other eight slaves working on the farm.
+Satire 2.8, Ut Nasidieni ('How was dinner with Nasidienus?')
+Horace says he's heard that Fundanius, a comic poet, was at a banquet at Nasidienus house and asks him to describe. Fundanius describes a lavish banquet, at which he and Maecenas were present, with expensive food, wine, and slaves. The host got alarmed when two guests called for more wine. While the host was boasting about the quality of the food, a wall-hanging suddenly fell into the dishes and he burst into tears. The next course came and the food would have been delightful if the host hadn't been praising it so much.
+According to Palmer, Nasidienus is possibly to be identified with a certain general Quintus Salvius Salvidienus Rufus, who was put to death by Octavian in 40 BC, about ten years before these satires were written.
+
+
+== Literary success ==
+Both in antiquity and in the Middle Ages, Horace was much better known for his Satires and the thematically-related Epistles than for his lyric poetry. In the century after his death, he finds immediate successors in Persius and Juvenal, and even Dante still refers to him simply as "Orazio satiro" (Inferno 4.89). Conte (1994: 318) writes: "Over 1,000 medieval quotations from his Satires and Epistles have been traced, only about 250 from his Carmina."
+
+
+== See also ==
+Satires 2.5 (Horace)
+
+
+== Selected bibliography ==
+
+
+=== Critical editions of the Latin text ===
+Borzsák, Stephan. Q. Horati Flacci Opera. Leipzig: Teubner, 1984.
+Shackleton Bailey, D. R. Q. Horati Flacci Opera. Stuttgart: Teubner, 1995. ISBN 3-519-21436-9. Makes more use of conjectural emendation than Borzsák.
+
+
+=== On-line editions of Horace's Satires, Latin ===
+Sermones (Horatius), Wikisource (Latin).
+All satires book I and II, in Latin. (With notes, also in Latin) Orelli rev. Baiter 5th ed. 1868. Retrieved 20 September 2010.
+Satirae, Peerlkamp 1863.
+Carminum, Satirarum I et II,  Epodon, Epistolarum, Ars poetica, etc., Long and MacLeane 1853.
+Satirarum Liber I & II, Desprez 1828 in usum Delphini.
+Sermonum Liber I, Zeune 1825 in usum Delphini.
+Satires 1.5, 1.6, and 1.9 (in Latin) with vocabulary lists (in English). 'The Dickinson College Wiki'. Retrieved 20 September 2010.
+Bibliotheca Augustana [1]
+The Latin Library (Latin) [2]
+IntraText (Latin) [3]
+Perseus Project (Latin) [4]
+
+
+=== Horace's Satires, in English translation ===
+Satires, Epistles, and Art of Poetry (Engl.). Translated into English verse by John Conington, m.a. corpus professor of Latin at the University of Oxford. Project Gutenberg. Retrieved 20 September 2010. N.B. Satire I-2 is excluded.
+First book of Satires, with notes (all in English). R. M. Millington 1869. Retrieved 20 September  2010.
+Epodes, Satires and Epistles, in English. Also an introduction (of 5 pages). Rev. Francis Howes 1845. Retrieved 20 September  2010.
+Alexander, Sidney. The complete Odes and Satires of Horace. Princeton, N.J.: Princeton University Press, 1999. ISBN 0-691-00428-5.
+Juster, A.M. The Satires of Horace. Philadelphia, PA: University of Pennsylvania Press, 2008. ISBN 978-0-8122-4090-0.
+Rudd, Niall. Horace, Satires and Epistles; Persius, Satires. London: Penguin, 2005. ISBN 0-14-045508-6 (verse translation with introduction and notes).
+
+
+=== Commentaries ===
+Brown, P. Michael. Horace, Satires I. Warminster, England: Aris & Phillips, 1993. ISBN 0-85668-530-5 (introduction, text, translation and commentary)
+Gowers, Emily. Satires. Book 1. Cambridge University Press, 2012. ISBN 978-0521458511 (introduction, text and commentary)
+Law, Andy. A Translation and Interpretation of Horace's Sermones, Book I. Cambridge Scholars Publishing, 2021. ISBN 978-1527565838 (introduction, text, translation and interpretation)
+Muecke, Frances. Horace, Satires II. Warminster, England: Aris & Phillips, 1993, repr. with corr. 1997. ISBN 0-85668-531-3 (hb). ISBN 0-85668-532-1 (pb) (introduction, text, translation and extensive scholarly commentary)
+
+
+=== Short surveys ===
+Conte, Gian Biagio. Latin Literature. A History. Translated by Joseph Solodow. Baltimore: Johns Hopkins University Press, 1994. ISBN 0-8018-4638-2.
+Braund, Susan H. Roman Verse Satire. Oxford: Oxford University Press, 1992. ISBN 0-19-922072-7.
+Freudenburg, Kirk. Satires of Rome: Threatening Poses from Lucilius to Juvenal. Cambridge: Cambridge University Press, 2001. ISBN 0-521-00621-X.
+Hooley, Daniel M. Roman Satire. Malden, MA: Blackwell Pub., 2007. ISBN 1-4051-0689-1.
+
+
+=== More specialized literature ===
+Anderson, William S. "Ironic Preambles and Satiric Self-Definition in Horace Satire 2.1". Pacific Coast Philology 19 (1984) 36–42.
+Bernstein, Michael André. "O Totiens Servus: Saturnalia and Servitude in Augustan Rome". Critical Inquiry 13 (1986–1987) 450–74.
+Braund, Susan H. "City and Country in Roman Satire". In: Braund, S. H., ed. Satire and Society in Ancient Rome. Exeter: University of Exeter Press, 1989, 23–47.
+Clauss, James J. "Allusion and structure in Horace Satire 2.1. The Callimachean response". Transactions of the American Philological Association 115 (1985) 197–206.
+Classen, Carl Joachim. "Horace – A Cook?". Classical Quarterly 72 (1978) 333–48.
+Cucchiarelli, Andrea. La satira e il poeta: Orazio tra Epodi e Sermones. Pisa: Giardini, 2001. ISBN 88-427-0300-1.
+Freudenburg, Kirk. "Horace's Satiric Program and the Language of Contemporary Theory in Satires 2.1". American Journal of Philology 111 (1990) 187–203.
+Freudenburg, Kirk. The Walking Muse: Horace on the Theory of Satire. Princeton, N.J.: Princeton University Press, 1993. ISBN 0-691-03166-5.
+Freudenburg, Kirk. The Cambridge Companion to Roman Satire. Cambridge: Cambridge University Press, 2005. ISBN 978-0-521-00627-9.
+Hudson, Nicola A. "Food in Roman Satire", in: Braund, Susan H., ed. Satire and Society in Ancient Rome. Exeter: University of Exeter Press, 1989, 69–87.
+Knorr, Ortwin. Verborgene Kunst: Argumentationsstruktur und Buchaufbau in den Satiren des Horaz. Hildesheim: Olms-Weidmann, 2004. ISBN 3-487-12539-0.
+Lowrie, Michèle, "Slander and Horse Law in Horace, Sermones 2.1", Law and Literature 17 (2005) 405-31.
+Muecke, Frances. "Law, Rhetoric, and Genre in Horace, Satires 2.1". In: Harrison, Stephen J., ed. Homage to Horace. Oxford: Oxford University Press, 1995, 203–218.
+Rudd, Niall. The Satires of Horace. Berkeley: University of California Press, 1966 (2nd. ed., 1982). ISBN 0-520-04718-4.
+Roberts, Michael. "Horace Satires 2.5: Restrained Indignation", American Journal of Philology 105 (1984) 426–33.
+Rothaus Caston, Ruth. "The Fall of the Curtain (Horace S. 2.8)". Transactions of the American Philological Association 127 (1997) 233–56.
+Sallmann, Klaus. "Satirische Technik in Horaz' Erbschleichersatire (s. 2, 5)". Hermes 98 (1970) 178–203.
+Schlegel, Catherine. Satire and the Threat of Speech: Horace's Satires, Book 1. Madison: University of Wisconsin Press, 2005. ISBN 0-299-20950-4.
+
+
+== References ==
+
+
+== External links ==
+
+Scholarly bibliography selected by Wilfried Stroh (in German), Munich, archived from the original on 2008-04-10, retrieved 2009-10-18

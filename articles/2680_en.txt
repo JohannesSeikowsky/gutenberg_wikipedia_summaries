@@ -1,0 +1,102 @@
+Meditations (Koine Greek: Τὰ εἰς ἑαυτόν, romanized: Ta eis heauton, lit. ''Things Unto Himself'') is a series of personal writings by Marcus Aurelius, Roman Emperor from 161–180 CE, recording his private notes to himself and ideas on Stoic philosophy.
+
+
+== Composition ==
+Marcus Aurelius wrote the 12 books of the Meditations in Koine Greek as a source for his own guidance and self-improvement. It is possible that large portions of the work were written at Sirmium, where he spent much time planning military campaigns in AD 170–180. A portion of his work was written while he was positioned at Aquincum on campaign in Pannonia, because internal notes reveal that the first book was written when he was campaigning against the Quadi on the river Granova (modern-day Hron in Slovakia) and the second book was written at Carnuntum.
+It is unlikely that Marcus Aurelius ever intended the writings to be published. The work has no official title, so "Meditations" is one of several titles commonly assigned to the collection. These writings take the form of quotations varying in length from one sentence to long paragraphs.
+
+
+== Structure and themes ==
+
+The Meditations is divided into 12 books that chronicle different periods of Aurelius' life. The passages in each book are not necessarily in chronological order, seeing as they were written as Aurelius' own personal musings. The style of writing that permeates the text is one that is simplified, straightforward, and perhaps reflecting Aurelius' Stoic perspective.
+
+A central theme to Meditations is the importance of analyzing one's judgment of self and others and developing a cosmic perspective:You have the power to strip away many superfluous troubles located wholly in your judgment, and to possess a large room for yourself embracing in thought the whole cosmos, to consider everlasting time, to think of the rapid change in the parts of each thing, of how short it is from birth until dissolution, and how the void before birth and that after dissolution are equally infinite. Aurelius advocates finding one's place in the universe and sees that everything came from nature, and so everything shall return to it in due time. Another strong theme is of maintaining focus and to be without distraction all the while maintaining strong ethical principles such as "Being a good man."
+His Stoic ideas often involve avoiding indulgence in sensory affections, a skill which will free a man from the pains and pleasures of the material world. He claims that the only way a man can be harmed by others is to allow his reaction to overpower him. An internal orderly and rational nature, or logos, permeates and guides all existence. Rationality and clear-mindedness allow one to live in harmony with the logos. This allows one to rise above faulty perceptions of "good" and "bad"—things out of one's control like fame and wealth are (unlike things in one's control) irrelevant and neither good nor bad.
+
+
+== Reception ==
+
+
+=== Ancient ===
+
+The early history of the Meditations is unknown, and its earliest clear mention by another writer dates from the early 10th century. The historian Herodian, writing in the mid-3rd century, makes mention of Marcus' literary legacy, saying "He was concerned with all aspects of excellence, and in his love of ancient literature he was second to no man, Roman or Greek; this is evident from all his sayings and writings which have come down to us", a passage which may refer to the Meditations. The Historia Augusta's biography of Avidius Cassius, thought to have been written in the 4th century, records that before Marcus set out on the Marcomannic Wars, he was asked to publish his Precepts of Philosophy in case something should befall him, but he instead "for three days discussed the books of his Exhortations one after the other". A doubtful mention is made by the orator Themistius in about 364 C.E. In an address to the emperor Valens, On Brotherly Love, he says: "You do not need the exhortations (Greek: παραγγέλματα) of Marcus." Another possible reference, in the Greek Anthology, is an epigram dedicated to "the Book of Marcus," which has been attributed to the 7th century Byzantine scholar Theophylact Simocatta.
+
+
+=== Medieval ===
+The first direct mention of the work comes from Arethas of Caesarea (c. 860–935), a bishop who was a great collector of manuscripts. At some date before 907 he sent a volume of the Meditations to Demetrius, Archbishop of Heracleia, with a letter saying: "I have had for some time an old copy of the Emperor Marcus' most profitable book, so old indeed that it is altogether falling to pieces.… This I have had copied and am able to hand down to posterity in its new dress." Arethas also mentions the work in marginal notes (scholia) to books by Lucian and Dio Chrysostom where he refers to passages in the "Treatise to Himself" (Greek: τὰ εἰς ἑαυτὸν ἠθικά), and it was this title which the book bore in the manuscript from which the first printed edition was made in the 16th century. Arethas' own copy has now vanished, but it is thought to be the likely ancestor of the surviving manuscripts. The next mention of the Meditations is in the Suda lexicon published in the late 10th century. The Suda calls the work "a directing (Greek: ἀγωγή) of his own life by Marcus the Emperor in twelve books," which is the first mention of a division of the work into twelve books. The Suda makes use of some thirty quotations taken from books I, III, IV, V, IX, and XI. Around 1150, John Tzetzes, a grammarian of Constantinople, quotes passages from Books IV and V attributing them to Marcus. About 200 years later Nicephorus Callistus (c. 1295–1360) in his Ecclesiastical History writes that "Marcus Antoninus composed a book for the education of his son Marcus [i.e. Commodus], full of all worldly (Greek: κοσμικῆς) experience and instruction." The Meditations is thereafter quoted in many Greek compilations from the 14th to 16th centuries. This, specifically after the fall of Constantinople in 1453, as it was among the Greek texts reintroduced by fleeing scholars to European intellectual circles.
+The present-day text is based almost entirely upon two manuscripts. One is the Codex Palatinus (P), also known as the Codex Toxitanus (T), that was first published in 1558–59 but is now lost. The other manuscript is the Codex Vaticanus 1950 (A) in the Vatican Library, which passed there from the collection of Stefano Gradi in 1683. This is a 14th-century manuscript which survives in a very corrupt state, and about forty-two lines have dropped out by accidental omissions. Other manuscripts are of little independent value for reconstructing the text. The main ones are the Codex Darmstadtinus 2773 (D) with 112 extracts from books I–IX, and the Codex Parisinus 319 (C) with 29 extracts from Books I–IV.
+
+
+=== Modern ===
+
+The modern history of the Meditations dates from the issue of the first printed edition (editio princeps) by Wilhelm Xylander in 1558 or 1559. It was published at the instigation of Conrad Gesner and printed by his cousin Andreas Gesner at Zürich. The book was bound with a work by Marinus (Proclus vel De Felicitate, also a first edition). To the Meditations was added a Latin translation by Xylander who also included brief notes. Conrad Gesner stated in his dedicatory letter that he "received the books of Marcus from the gifted poet Michael Toxites from the library of Otto Heinrich, Prince Palatine", i.e. from the collection at Heidelberg University. The importance of this edition of the Meditations is that the manuscript from which it was printed is now lost, so that it is one of the two principal sources of all modern texts.
+Gilbert Murray compares the work to Jean-Jacques Rousseau's Confessions and St. Augustine's Confessions. In the Introduction to his 1964 translation of Meditations, the Anglican priest Maxwell Staniforth discussed the profound impact of Stoicism on Christianity. Rees (1992) calls the Meditations "unendingly moving and inspiring," but does not offer them up as works of original philosophy, though he does find an element of Marcus' Stoic philosophy in the philosophical system of Immanuel Kant.
+Wen Jiabao, the former Prime Minister of China, has said that he has read the Meditations a hundred times. He also stated that he was "very deeply impressed" by the work. It has been described as "a favorite" of former United States President Bill Clinton.
+
+
+== Editions ==
+The editio princeps (first print edition) of the original Greek was published by Conrad Gessner and his cousin Andreas in 1559. Both it and the accompanying Latin translation were produced by Wilhelm Xylander. His source was a manuscript from Heidelberg University, provided by Michael Toxites. By 1568, when Xylander completed his second edition, he no longer had access to the source and it has been lost ever since. The first English translation was published in 1634 by Meric Casaubon.
+Some popular English translations include:
+
+Francis Hutcheson, and James Moore (1742). The Meditations of the Emperor Marcus Aurelius Antoninus. Indianapolis: Liberty Fund, 2008. Originally printed by Foulis Press.
+Richard Graves (1792). Meditations of the Emperor Marcus Aurelius Antoninus, a new translation from the Greek original, with a Life, Notes, &c., by R. Graves, 1792; new edition, Halifax, 1826.
+George Long (1862). The Meditations of Marcus Aurelius; reprinted many times, including in Vol. 2 of the Harvard Classics.
+Chrystal, George W. (1902). The Meditations of the Emperor Marcus Aurelius Antoninus: A New Rendering Based on the Foulis Translation of 1742, (Edinburgh: O. Schulze and Co.; London: S. C. Brown and Co., 1902). ISBN 9781977864116
+C. R. Haines (1916). Marcus Aurelius. Loeb Classical Library. ISBN 0674990641
+A. S. L. Farquharson (1944). Marcus Aurelius Meditations. Everyman's Library reprint edition (1992) ISBN 0679412719. Oxford World's Classics revised edition (1998) ISBN 0199540594
+Classics Club (1945). Meditations. Marcus Aurelius and his times. Walter J. Black, Inc. New York.
+Maxwell Staniforth (1969). Meditations. Penguin. ISBN 0140441409
+Gregory Hays (2002). Meditations. Random House. ISBN 0679642609 (181 pages)
+C. Scot Hicks, David V. Hicks (2002). The Emperor's Handbook: A New Translation of the Meditations. Simon & Schuster. ISBN 0743233832
+Martin Hammond (2006). Meditations. Penguin Classics. ISBN 0140449337
+Jacob Needleman, and John P. Piazza (2008) The Essential Marcus Aurelius. J. P. Tarcher. ISBN 978-1585426171 (111 pages)
+Robin Hard, and Christopher Gill (2011). Meditations with selected correspondence. Oxford University Press ISBN 978-0199573202
+Robin Waterfield (2021). Meditations: The Annotated Edition. Basic Books. ISBN 978-1-5416-7385-4
+
+
+== See also ==
+
+John Bourchier, 2nd Baron Berners
+Memento mori
+
+
+== References ==
+
+
+=== Sources ===
+Ceporina, Matteo (2012), "The Meditations", in Marcel van Ackeren (ed.), A Companion to Marcus Aurelius, Oxford: Wiley-Blackwell, pp. 45–61
+Farquharson, A. S. L. (1944), "Introduction", The Meditations Of The Emperor Marcus Antoninus, vol. 1, Oxford University Press
+Hadot, Pierre (1998), The Inner Citadel: The Meditations of Marcus Aurelius, Harvard University Press, ISBN 978-0674461710
+Haines, C. R. (1916), "Introduction", The communings with himself of Marcus Aurelius Antoninus, William Heinemann
+
+
+== Further reading ==
+Annas, Julia. 2004. "Marcus Aurelius: Ethics and Its Background." Rhizai: A Journal for Ancient Philosophy and Science 2:103–119.
+Berryman, Sylvia Ann. 2010. The Puppet and the Sage: Images of the Self in Marcus Aurelius Oxford Studies in Ancient Philosophy 38: 187–209.
+Dickson, Keith. 2009. "Oneself as Others: Aurelius and Autobiography." Arethusa 42.1: 99–125.
+Gill, Christopher. 2012. "Marcus and Previous Stoic Literature." In A Companion to Marcus Aurelius. Edited by Marcel van Ackeren, 382–395. Oxford: Wiley-Blackwell.
+Hadot, Pierre. 2001. The Inner Citadel: The Meditations of Marcus Aurelius. Cambridge, MA: Harvard University Press.
+Kraye, Jill. 2012. "Marcus Aurelius and Neostoicism in Early Modern Philosophy." In A Companion to Marcus Aurelius. Edited by Marcel van Ackeren, 515–531. Oxford: Wiley-Blackwell.
+Rees, D. A. 2000. "Joseph Bryennius and Marcus Aurelius’ Meditations." Classical Quarterly 52.2: 584–596.
+Robertson, D. 2019. How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius. New York: St. Martin's Press.
+Rutherford, R. B. 1989. The Meditations of Marcus Aurelius: A Study. Oxford: Oxford University Press.
+Stephens, William O. 2012. Marcus Aurelius: A Guide for the Perplexed. London and New York: Bloomsbury (Continuum).
+Wolf, Edita. 2016. "Others as Matter of Indifference in Marcus Aurelius’ Meditations." Acta Universitatis Carolinae. Graecolatina Pragensia 2:13–23.
+
+
+== External links ==
+
+
+=== Studies ===
+Sellars, John. "Marcus Aurelius". In Fieser, James; Dowden, Bradley (eds.). Internet Encyclopedia of Philosophy. ISSN 2161-0002. OCLC 37741658.
+
+
+=== Translations ===
+ The Thoughts Of The Emperor Marcus Aurelius Antoninus. translated by George Long, at Wikisource
+Meditations at Standard Ebooks
+The Thoughts of the Emperor Marcus Aurelius Antoninus, by George Long, 1862, at the Stoic Therapy eLibrary
+Marcus Aurelius Antoninus to Himself: an English translation with introductory study on stoicism and the last of the Stoics, by G.H. Rendall, 1898, at the Stoic Therapy eLibrary
+The Meditations by Marcus Aurelius at Project Gutenberg, gutenberg.org
+ The Meditations public domain audiobook at LibriVox
+Meditations of the Emperor Marcus Aurelius Antoninus, a new translation from the Greek original, with a Life, Notes, &c., by R. Graves, 1792, at Google Books
+Multiple editions of the Meditations at the Internet Archive

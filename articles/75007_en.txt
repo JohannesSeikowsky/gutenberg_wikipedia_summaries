@@ -1,0 +1,63 @@
+The Duden (German pronunciation: [ˈduːdn̩] ) is a dictionary of the Standard High German language, first published by Konrad Duden in 1880, and later by Bibliographisches Institut GmbH, which was merged into Cornelsen Verlag in 2022.
+The Duden is updated regularly with new editions appearing every four or five years. As of December 2024, it is in its 29th edition. It is printed as twelve volumes, with each volume covering different aspects of the German language such as loanwords, etymology, pronunciation, synonyms, etc.
+The first of these volumes, Die deutsche Rechtschreibung (English: The German orthography), has long been the prescriptive source for Standard High German spelling. The Duden has become the most widely used language resource of the Standard High German language, stating the rules regarding grammar, spelling and use of Standard High German language. In Austria, the Österreichisches Wörterbuch takes that role.
+
+
+== History ==
+
+
+=== Konrad Duden's Schleizer Duden (1872) and Urduden (1880) ===
+In 1872, Konrad Duden, then headmaster of a Gymnasium (secondary school), had his treatise Die deutsche Orthoschrift ("German orthography") published by B.G. Teubner in Leipzig. That book included both a dictionary and spelling rules for school use. Often known as the Schleizer Duden – the author was then the headmaster of a Gymnasium (secondary school) in Schleiz, now in Thuringia — the work significantly influenced a debate about German spelling and became the template for subsequent dictionaries.
+Eight years later, having moved to a grammar school in Hersfeld as headmaster, Konrad Duden's main work was published, considerably expanded from the Schleizer Duden. The first edition of this new work, Vollständiges Orthographisches Wörterbuch der deutschen Sprache (Complete Orthographical Dictionary of the German Language), later sometimes referred to by the publisher as Urduden, was published in Leipzig and was the first major complete dictionary of German. This first "Duden" collected 28,000 keywords on 187 pages and subsequently prevailed throughout the German Empire as a standard reference work. From 1892, its spellings also became binding in Switzerland.
+
+
+=== From 1901 to 1996 ===
+In 1902, the Bundesrat confirmed the Duden as the official standard for German spelling; Austria-Hungary and Switzerland soon followed suit. In the ensuing decades, the Duden continued to be the de facto standard for German orthography. After World War II this tradition continued separately in East and West Germany, in Leipzig and Mannheim, respectively.
+In West Germany, some publishing houses began to attack the Duden "monopoly" in the 1950s, publishing dictionaries which contained alternative spellings. In reaction, in November 1955, the ministers of culture of the states of Germany confirmed the spellings given by the Duden would continue to be the official standard.
+
+
+=== East German Duden (Leipzig) ===
+
+In 1954, the first published Duden appeared in Mannheim, the western counterpart to the traditional Duden printing city of Leipzig. The first East German Duden appeared in Leipzig in 1951, but was largely ignored as illegitimate by West Germany. 
+The printing continued in both Mannheim and Leipzig until the fall of the Berlin Wall in 1989. The differences between the two versions of Duden printed during this period appear in the number of entries. When the printing of the two Dudens began, in 1954 and 1951, the number of entries included was roughly the same. 
+As the split between the printers versions continued, the East German Duden slowly began diminishing the number of entries in its volume while the West German Duden printed in Mannheim increased the number of entries. The major differences between the two Dudens are seen in the lexical entries. 
+The East German Duden included various loan words from Russian, particularly in the area of politics, such as Politbüro and Sozialdemokratismus. Also new to the East German Duden were words stemming from Soviet agricultural and industrial organization and practices. Of note, there are a few semantic changes recorded in the East German Duden that evolved from contact with Russian. 
+The East German Duden records the nominalization of German words by adding the suffix -ist, borrowed from the Russian language suffix. 
+Furthermore, additional words were recorded as a result of the increasing number of adverbs and adjectives negated with the prefix un-, such as unernst ("unserious") and unkonkret ("un-concrete", "irreal"). The few lexical and semantic items uniquely recorded in the East German Duden migrated from Der große Duden because the printing press in Leipzig did not publish the multiple volume Duden which has become the current standard.
+
+
+=== Reform Duden ===
+
+On the cover of the Duden, 25th Edition, Volume 1, these words are printed in red letters: Das umfassende Standardwerk auf der Grundlage der aktuellen amtlichen Regeln. This translates as: "The comprehensive standard reference based on the current official rules."
+The "current official rules" are the result of the German orthography reform of 1996.
+
+
+== Volumes ==
+Die deutsche Rechtschreibung – The German Orthography (Spelling Dictionary)
+Das Stilwörterbuch – The Dictionary of Style
+Das Bildwörterbuch – The Pictorial Dictionary
+Die Grammatik – The Grammar
+Das Fremdwörterbuch – The Dictionary of Foreign Words
+Das Aussprachewörterbuch – The Pronouncing Dictionary
+Das Herkunftswörterbuch – The Etymological Dictionary
+Das Synonymwörterbuch – The Synonym-Dictionary (Thesaurus)
+Richtiges und gutes Deutsch – Correct and Good German (Guide to usage)
+Das Bedeutungswörterbuch – The Meaning-Dictionary (Definitions)
+Redewendungen – Figures of Speech
+Zitate und Aussprüche – Quotations and Sayings
+
+
+== References ==
+
+
+=== Literature ===
+Betz, Werner. Verändert Sprache die Welt: Semantik, Politik und Manipulation [Modified language of the world: semantics, politics and manipulation]. Edition Interfrom AG: Zürich, 1977.
+Hellmann, Manfred W. (ed.) Zum Öffentlichen Sprachgebrauch in Bundesrepublik Deutschland und in der DDR [On public usage in the Federal Republic of Germany and in the GDR]. Düsseldorf: Pädagogischer Verlag Schwann, 1973.
+Reich, Hans H. Sprache und Politik: Untersuchungen zu Wortschatz und Wortwahl des offiziellen Sprachgebrauchs in der DDR [Language and politics: studies on vocabulary and terminology of the official use of language in the GDR]. Munich: Max Hueber Verlag, 1968.
+Schlosser, Horst Dieter (ed). Kommunikationsbedingungen und Alltagssprache in der ehemaligen DDR [Communications requirements and everyday language in the former GDR]. Hamburg: Helmut Buske Verlag, 1991.
+Siegl, Elke Annalene. Duden-Ost, Duden-West: Zur Sprache in Deutschland seit 1945: ein Vergleich der Leipziger und der Mannheimer Dudenauflagen seit 1947 [Duden East, Duden West: On language in Germany since 1945: a comparison of Leipzig and Mannheim editions of Duden since 1947]. Düsseldorf: Schwann, 1989.
+
+
+== External links ==
+
+Official website (in German)

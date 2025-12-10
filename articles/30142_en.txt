@@ -1,0 +1,96 @@
+Little Brother is a novel by Cory Doctorow, published by Tor Books. It was released on April 29, 2008. The novel is about four teenagers in San Francisco who, in the aftermath of a terrorist attack on the San Francisco–Oakland Bay Bridge and BART system, defend themselves against the Department of Homeland Security's attacks on the Bill of Rights. The novel is available for free on the author's website under a Creative Commons license (CC BY-NC-SA), keeping it accessible and remixable to all.
+The book debuted at No. 9 on The New York Times Best Seller list, children's chapter book section, in May 2008. As of July 2, it had spent a total of six weeks on the list, rising to the No. 8 spot. Little Brother won the 2009 White Pine Award, the 2009 Prometheus Award. and the 2009 John W. Campbell Memorial Award. It also was a finalist for the Hugo Award for Best Novel. Little Brother received the Sunburst Award in the young adult category.
+The New York Times says, "'Little Brother' isn't shy about its intent to disseminate subversive ideas to a young audience." The novel comes with two afterword essays by cryptographer and computer security specialist Bruce Schneier, and hacker Andrew "bunnie" Huang, and has a bibliography of techno-countercultural writings, from Jack Kerouac's On the Road to Schneier's "Applied Cryptography".
+In 2013, Hacker Peiter Zatko stated that the book was being used as training material for new NSA recruits in order to give them a different point of view.
+
+
+== Characters ==
+Marcus Yallow – Main protagonist, a 17-year-old high school student who enjoys understanding technology and building his own custom devices. He is the leader of his foursome of friends.
+Darryl Glover – Marcus' best friend who attends the same high school as Marcus and is Marcus' second-in-command and the "details man" of the group. He has had a crush on Van for years.
+
+Vanessa Pak (Van) – 17-year-old Korean American girl who attends a nearby all-girls Catholic school, she is the "ideas" person of the group. She has been attracted to Marcus for a long time, but doesn't admit it until the end of the book. Her parents managed to escape from North Korea.
+Jose Luis Torrez (Jolu) – A brilliant high school student at a nearby Catholic school, he is the technical member of the group. Even though everyone in the group is technically competent, he is the most technology-oriented, doing his own programming, and working for a local ISP. He is somewhat vain and seems to work at being cool.
+Drew Yallow – Marcus' father who has a stormy relationship with Marcus through most of the book. Scared by the thought of Marcus having died during the bombing because Marcus has been missing for three days, he supports the tactics that the DHS employs. This leads to many arguments with Marcus despite his former mindset that was similar to Marcus'.
+Lillian Yallow – Marcus' mother, British expatriate, who helps newly immigrated Britons integrate into American life. She and Marcus have a strong bond and seem to think alike. She is a strong woman and helps mediate Marcus' fights with his father.
+Charles Walker – Also a student at the same high school as Marcus and Darryl, he is the antithesis of Marcus. He is a bully, a brown noser and a snitch. He and Marcus have a long-standing feud and detest each other.
+Carrie Johnstone (Severe Haircut Lady, Severe Haircut Woman) – Main antagonist and in charge of the DHS that is monitoring San Francisco. She is a cold sadistic woman to whom the ends always justify the means and enjoys abusing her power.
+Angela Carvelli (Ange) – She attends the same high school as Van and develops into Marcus' love interest, when she first meets him at a party. She is an active member of the Xnet and is very strong-willed, and independent. She's known to use pepper spray as a condiment.
+Ms. Galvez – A social studies teacher at Cesar Chavez High School, she is seen as a dedicated teacher and an independent thinker. She seems to be the only teacher that Marcus respects at his school. She tends to agree with Marcus on topics of security and Marcus helps her with contacting her brother, who's an overseas soldier, via internet.
+Barbara Stratford – Investigative reporter for the Bay Guardian, who helps Marcus expose what the DHS has been doing.
+Masha – A DHS operative who attempts to help Marcus escape the city. Marcus meets her briefly in the beginning of the novel when she threatens to expose him for skipping school while ARGing. He also meets up with Masha in the end in the midst of their escape, he finds a photo of his friend Darryl and his position on running away is changed. Therefore, he escapes from Masha after beating her up and smashing her fingers in a truck door.
+Zeb – A former detainee of DHS's "Gitmo-by-the-Bay", he manages to escape and attempts to disappear after contacting Marcus about Darryl and the current status of the prison.
+
+
+== Plot ==
+Marcus Yallow is a 17-year-old hacker/techno whiz from San Francisco. One day Marcus and his best friend Darryl play truant from school to play an Alternate Reality Game. A terrorist attack is perpetrated against the city, and the four are captured and detained under suspicion of terrorism.
+After a series of interrogations that take place over a period of six days, Marcus, Jolu, and Vanessa are finally released; Darryl's whereabouts are unknown. The DHS tells Marcus that they will be monitoring his actions and moves because he is still a suspect. Marcus is "infuriated at how his civil rights [are] ignored."
+In response to the increasing surveillance of the city and its citizens, Marcus creates Xnet, a private mesh network intended to allow people to communicate freely while fighting "the surveillance state." Through XNet, using his pseudonym 'Mik3y', Marcus encourages his peers to rebel against the DHS surveillance.
+While introducing a group to cryptography during a key signing party, Marcus meets Ange, and shortly thereafter they begin to date.
+When a former prisoner who was held by the DHS tells Marcus that Darryl is still alive, Marcus tells a reporter and his family about his actions taken against the DHS. The journalist's story is then published and the DHS takes Marcus into custody again. On order from the governor, California Highway Patrol troopers raid the DHS compound during a waterboarding interrogation and arrest the DHS agents. Darryl is subsequently freed and Marcus, after his parents have to pay his bail to make sure he does not go to prison, finally returns to his life the way it was before the terrorist attacks.
+
+
+== Major themes ==
+Little Brother has major themes that, according to some, are too serious for a young adult novel. In an interview, the Journal of Adolescent & Adult Literacy asked Doctorow about his "potentially heavy themes, including paranoia, loyalty, sex, torture, [and] fear" and when his editing staff asked to censor the themes, he replied, "Oh, no."
+The Hollywood Reporter remarked, "The book tackles many themes, including civil liberties and social activism".
+According to journalist April Spisak's article on "What Makes a Good Young Adult Dystopian Novel?" Spisak claims, "Cory Doctorow's Little Brother probably represents the purest example on the list—modern technology meets classic dystopic elements—even while the book itself is part instructional guide, part love story, and part rant at the increasingly dictatorial powers-that-be that consider safety at any cost a reasonable exchange. Small personal victories for the protagonist and his friends are present, but the power of Big Brother is hardly tempered by their work, and the folks who tangled with the government are all permanently scarred by the encounter."
+The book has also been characterized as "[expressing] astonishment, fear, uncertainty, shame, and guilt" and addressing "issues of political authority, social order, individual freedom and electronic security."
+
+
+== Background ==
+Little Brother takes place in the "near future rather than decades or centuries away." Little Brother also makes use of "obvious parallels to Orwellian warnings and post 9/11 policies."
+
+
+== Reception ==
+
+
+=== Novel ===
+Cindy Dobrez in her review for Booklist said that "Doctorow's novel blurs the lines between current and potential technologies, and readers will delight in the details of how Marcus attempts to stage a techno-revolution. Obvious parallels to Orwellian warnings and post-9/11 policies, such as the Patriot Act, will provide opportunity for classroom discussion and raise questions about our enthusiasm for technology, who monitors our school library collections, and how we contribute to our own lack of privacy." Kirkus Reviews described it as an "unapologetically didactic tribute to 1984", and called it a "Terrifying glimpse of the future—or the present."
+Publishers Weekly said that it was "filled with sharp dialogue and detailed descriptions of how to counteract gait-recognition cameras, RFID's (radio frequency ID tags), wireless Internet tracers and other surveillance devices, this work makes its admittedly didactic point within a tautly crafted fictional framework." The Institute of Public Affairs, a thinktank, says that "Doctorow, like many freedom-fighting writers before him likes his women smart and strong. Male or female, freedom-loving writers tend to like writing strong female characters, often protagonists."
+
+
+=== News coverage ===
+In 2014, a high school principal in Pensacola, Florida, Michael Roberts, pulled Little Brother from his school's summer reading list because the book is "about questioning authority" and portrays questioning authority "as a positive thing."; however it was kept on the list for advanced placement and grade 11 honors students. Roberts also described Cory Doctorow, a Canadian author living in England, as "an outsider to the George W. Bush administration." In response, his publisher sent 200 copies of the book directly to the school.
+
+
+== Adaptations ==
+
+
+=== Play ===
+In early 2012, it was announced that the novel Little Brother written by Cory Doctorow will be made into a play directed by Josh Costello called Little Brother. The play was augmented with animated video projections, an original score by Chris Houston and original choreography by Daunielle Rasmussen.
+Marin Independent said that Little Brother is "required watching!'
+Charlie Jane Anders of io9 praised the Little Brother play: "I was lucky enough to catch a preview performance of the Custom Made Theatre Co.'s new stage adaptation of Cory Doctorow's award-winning novel Little Brother the other day—and it was a total marvel. Somehow, writer/director Josh Costello managed to condense the novel down to a two-hour play, without losing any of the impact. If anything, the staged version hits a bit harder than the book, because of the intense, but not overstated, performances."
+According to TheatreStorm, "Costello has wisely tightened Doctorow's book to three main characters. On a nearly empty stage, Costello utilizes video and sound effects superbly, creating multiple San Francisco locations, mass demonstrations, press conferences, online experiences and coaching his actors to create multiple characterizations as necessary. This is the best kind of political theatre. Thought provoking, suspenseful, emotionally real, uncomfortably close to the hard truth."
+
+
+=== Film ===
+The novel has also been the subject of a possible movie. The production company AngryFilms has optioned Little Brother "with the aim of translating it to the big screen."
+In September 2015, Doctorow announced on his blog that Little Brother had been optioned by Paramount with Don Murphy as the producer.
+
+
+== Dedications ==
+Each chapter of the e-book edition of Little Brother is dedicated to a different bookstore: Bakka-Phoenix (a Toronto sci-fi/fantasy bookstore where Doctorow used to be employed), Amazon.com, Borderlands Books, Barnes & Noble, Secret Headquarters, Powell's Books, Books of Wonder, Borders, Compass Books/Books Inc., Anderson's Bookshops, University Book Store at the University of Washington, Forbidden Planet, Books-A-Million, Mysterious Galaxy, Chaptersd/Indigo Books, Booksmith, Waterstone's, Sophia Books, MIT Press Bookshop, Tattered Cover, Pages Books, and Hudson Booksellers.
+
+
+== Author ==
+In reference to Little Brother, Cory Doctorow has stated that "the enemy is obscurity, not piracy." His book Little Brother is available on his website for free, which is provided in a variety of formats.
+
+
+== Sequels ==
+On June 20, 2012, Doctorow posted the cover art of the sequel to Little Brother, titled Homeland. An excerpt of the book's opening, set at the Burning Man festival, was posted the next month on the Tor Books website. Homeland was released in hardback, and for download under a Creative Commons license on Doctorow's website, in February 2013.
+On October 13, 2020, the third book in the Little Brother series, Attack Surface, was released.
+
+
+== References ==
+
+
+== External links ==
+
+Official Book Page on Cory Doctorow's website
+A Little Brother related article by Cory Doctorow: Security Literacy: teaching kids to think critically about security
+eMusic Q&A: Cory Doctorow about Little Brother
+Little Brother cover art gallery at Upcoming4.me
+Analysis of Little Brother on Lit React
+Little Brother free download provided by Cory Doctorow
+
+ Little Brother at Project Gutenberg
+Little Brother at IMDb  (in development)

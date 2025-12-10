@@ -1,0 +1,52 @@
+De duodecim abusivis saeculi (“On the Twelve Abuses of the World”), also titled simply De duodecim abusivis, is a Hiberno-Latin treatise on social and political morality written by an anonymous Irish author between 630 and 700, or between 630 and 650. During the Middle Ages, the work was very popular throughout Europe.
+
+
+== Origin ==
+In the manuscripts, the work is frequently ascribed to a named author, most commonly Saint Cyprian or Saint Augustine; this led to early editions being published among the works of these authors.
+In 1905, however, John Bagnell Bury pointed out that it quoted from the Latin Vulgate, which was incompatible with an attribution to Cyprian or Augustine. He pointed out that the ninth abuse was quoted almost entirely in the Collectio canonum Hibernensis, where it was ascribed to Saint Patrick; and that extracts from the same section were quoted in a letter addressed by Cathwulf, circa A.D. 775, to King Charles the Great, and preserved in a ninth-century manuscript. He concluded that this evidence “proves that the treatise is older than A.D., 700, and strongly suggests that its origin is Irish, that it was ascribed in Ireland to Patrick, and travelled to Gaul under his name.”
+In his 1909 edition, Siegmund Hellmann (de) adduced further evidence, establishing it as the work of an anonymous Irish author of the 7th century. Since then, its author is conventionally known as Pseudo-Cyprian.
+
+
+== Sources ==
+The text is based largely on the Bible, containing “over thirty citations from the Old Testament and twenty-three from the New excluding the Gospels, with nineteen more from the Gospels”; these citations are made from the Latin Vulgate.
+Ever since Hellmann's edition, the Rule of St. Benedict has also been regarded as an important source. Hellmann regarded the ordering of the text into twelve abuses as a reversal of the twelve steps of the ladder of humility from the seventh chapter of the Rule. Breen thought it was more probable that it drew instead from the Regula Magistri, a different text which was itself a source for that chapter in the rule of St. Benedict. Constant Mews argues instead that it draws on the model of the twelve modes of forgiveness in the Irish penitential of Cummian. Meanwhile, Joyce argues it adapts the model of linguistic abuses from the twelve vices of grammar defined by Donatus. 
+The text also seems to have drawn on various of the Church Fathers, although none are cited by name; particularly, Origen, Cyprian, Ambrose, Augustine, Rufinus, Jerome, Cassian and Gregory the Great.
+Hellmann thought that the text drew on St Isidore. Almost everyone agreed with this, but Breen did not.
+
+
+== Twelve abuses ==
+
+De duodecim abusivis condemns the following twelve abuses:
+
+
+== Influence ==
+The work was very influential, both directly and through the Hibernensis; especially the ninth abuse, the unjust king.
+There is some direct evidence for the text's popularity in tenth-century England. Bishop Æthelwold of Winchester is known to have donated a copy to the Peterborough house. Ælfric of Eynsham drew on a version included in Abbo of Fleury's Collectio canonum for his Old English treatise De octo vitiis et de duodecim abusivis gradus, in which the section on the rex iniquus was translated whole.
+Hellmann points out the extensive influence of the work upon Carolingian writings, such as the mirrors for princes, and later political literature.
+Later, the work was quoted by multiple medieval theologians and scholars such as Vincent of Beauvais and John of Wales. Translations and adaptations in multiple vernacular languages were prepared.
+
+
+== See also ==
+Collectio canonum Hibernensis
+Wisdom literature
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Breen, Aidan. "The evidence of antique Irish exegesis in Pseudo-Cyprian, De duodecim abusivis saeculi." Proceedings of the Royal Irish Academy 87 (1987), Section C. 71–101.
+Breen, Aidan, and Constant J. Mews, "On the Twelve Abuses of the Age. A Translation." Addressing Injustice in the Medieval Body Politic, ed. Constant J. Mews and Kathleen B. Neal, Amsterdam, 2023. 325-351.
+Meens, Rob. "Politics, Mirrors of Princes and the Bible: Sins, Kings and the Well-being of the Realm." Early Medieval Europe 7 (1998): 345–57.
+Ó Néill, Pádraig P. "De Duodecim Abusivis Saeculi". Dictionary of the Middle Ages. vol-4. 1989. ISBN 0-684-17024-8
+Throop, Priscilla. Vincent of Beauvais: The Moral Instruction of a Prince with Pseudo-Cyprian: The Twelve Abuses of the World Charlotte, VT, MedievalMS, 2011.
+Ælfric's De octo vitiis et de duodecim abusivis gradus: the text in Cambridge, Corpus Christi College, MS 178, ed. R. Morris, Old English Homilies. Early English Text Society 29, 34. First Series. 2 vols. London, 1868. 296–304; the text in London, British Library, MS. Cotton Vespasian D.XIV, ed. Ruby D.-N. Warner, Early English Homilies from the Twelfth-Century MS. Vespasian D.XIV. EETS 152. London, 1917. 11–9.
+Two Aelfric texts: The twelve abuses and the vices and virtues: An edition and translation of De duodecimo abusiuis and De octo uitiis et de duodecimo abusiuis, ed. and trans. Mary Clayton. Woodbridge, 2013.
+
+
+== External links ==
+Monastic Manuscript Project, De duodecim abusivis saeculi.
+Aidan Breen, 'Towards a critical edition of De XII Abusivis : Introductory essays with a provisional edition of the text and accompanied by an English translation', Trinity College (Dublin, Ireland) PhD thesis, Department of History, 1988, pp 488. PDF online at TARA.

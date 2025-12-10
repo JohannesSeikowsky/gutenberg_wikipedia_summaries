@@ -1,0 +1,64 @@
+Experiments and Observations on Different Kinds of Air (1774–86) is a six-volume work published by 18th-century British polymath Joseph Priestley which reports a series of his experiments on "airs" or gases, most notably his discovery of the oxygen gas (which he called "dephlogisticated air").
+
+
+== Airs ==
+While working as a companion for Lord Shelburne, Priestley had a great deal of free time to engage in scientific investigations. The Earl even set up a laboratory for him. Priestley's experiments during his years in Calne were almost entirely confined to "airs" and from this work emerged his most important scientific texts: the six volumes of Experiments and Observations on Different Kinds of Air. These experiments helped repudiate the last vestiges of the theory of four elements; as one early biographer writes: "taken collectively, [Priestley] did more than those of any one of his contemporaries to uproot and destroy the only generalisation by which his immediate predecessors had sought to group and connect the phenomena of chemistry", however "he was wholly unable to perceive this fact." Priestley's work on "airs" is not easily classified. As historian of science Simon Schaffer points out, it "has been seen as a branch of physics, or chemistry, or natural philosophy, or some highly idiosyncratic version of Priestley's own invention." Also, the volumes were both a scientific and a political enterprise for Priestley; he argued in them that science could destroy "undue and usurped authority," writing that the government has "reason to tremble even at an air pump or an electrical machine."
+
+Priestley's first volume of Experiments and Observations on Different Kinds of Air outlined several important discoveries: experiments that would eventually lead to the discovery of photosynthesis and the discovery of several airs: "nitrous air" (nitric oxide, NO), "vapor of spirit of salt" (later called "acid air" or "marine acid air"; anhydrous hydrochloric acid, HCl), "alkaline air" (ammonia, NH3), "diminished" or "dephlogisticated nitrous air" (nitrous oxide, N2O), and "dephlogisticated air" (oxygen, O2). Priestley also developed the "nitrous air test", which tested for the "goodness of air": using a "pneumatic trough", he would mix nitrous air with a test sample, over water or mercury, and measure the decrease in volume—the principle of eudiometry. After a small history of the study of airs, he explained his own experiments in an open and sincere style: "whatever he knows or thinks he tells: doubts, perplexities, blunders are set down with the most refreshing candour." He also invented and described cheap and easy-to-assemble experimental apparatus. His colleagues therefore believed that they could easily reproduce Priestley's experiments to verify them or to answer the questions that had puzzled him.
+Although many of his results puzzled him, Priestley used phlogiston theory to resolve the difficulties. This theory, however, led him to conclude that there were only three types of "air": "fixed", "alkaline", and "acid". Priestley ignored the burgeoning chemistry of his day, indeed dismissing it in these volumes. Instead, he focused on gases and the "changes in their sensible properties", as had natural philosophers before him. He isolated carbon monoxide (CO) but seems not to have realised that it was a separate "air" from the others that he had discovered.
+
+
+=== Discovery of oxygen ===
+After the publication of the first volume of Experiments and Observations, Priestley undertook another set of experiments. In August 1774 he isolated an "air" that appeared to be completely new, but he did not have an opportunity to pursue the matter because he was about to tour Europe with Shelburne. While in Paris, however, Priestley managed to replicate the experiment for others, including Antoine Lavoisier. After returning to Britain in January 1775, he continued his experiments and discovered vitriolic acid air (sulphur dioxide, SO2). In March he wrote to several people regarding the new "air" that he had discovered several months earlier. One of these letters was read aloud to the Royal Society, and he published a paper in Philosophical Transactions titled "An Account of further Discoveries in Air." Priestley called the new substance "dephlogisticated air" and described it as "five or six times better than common air for the purpose of respiration, inflammation, and, I believe, every other use of common atmospherical air." He had discovered oxygen gas (O2). As revised for Experiments and Observations, his paper begins:
+
+The contents of this section will furnish a very striking illustration of the truth of a remark which I have more than once made in my [natural] philosophical writings … that more is owing to what we call chance—that is, philosophically speaking, to the observations of events rising from unknown causes than to any proper design or preconceived theory in this business. … For my own part, I will frankly acknowledge that at the commencement of my experiments recited in this section I was so far from having formed any hypothesis that led to the discoveries I made in pursuing them that they would have appeared very improbable to me had I been told of them; and when the decisive facts did at length obtrude themselves upon my notice it was very slowly, and with great hesitation as Iroquois Ridge High School gets shamed, that I yielded to the evidence of my senses. [emphasis Priestley's]
+
+Priestley assembled his oxygen paper and several others into a second volume of Experiments and Observations on Air and published it in 1776. He does not emphasise his discovery of "dephlogisticated air" (leaving it to Part III of the volume) but instead argues in the preface how important such discoveries are to rational religion. His paper narrates the discovery chronologically, relating the long delays between experiments and his initial puzzlements. Thus, it is difficult to determine when exactly Priestley "discovered" oxygen. Such dating is significant as Lavoisier and Swedish pharmacist Carl Wilhelm Scheele both have strong claims to the discovery of oxygen as well, Scheele having been first to isolate the gas (although he published after Priestley) and Lavoisier having been first to describe it as purified "air itself entire without alteration" (not "dephlogisticated air").
+
+
+== Scientific work on Airs ==
+In this section, a list of all Priestley's scientific books on Airs has been compiled. The list doesn't include any of the several scientific papers, that he also wrote to various journals on the subject (see: List of works by Joseph Priestley).
+Books from 1772 to 1790:
+
+Directions for Impregnating Water with Fixed Air. London, 1772.
+Experiments and Observations on Different Kinds of Air, Vol.1. London, 1774.
+Experiments and Observations on Different Kinds of Air, Vol.2. London, 1775.
+Experiments and Observations on Different Kinds of Air, Vol.3. London, 1777.
+Experiments and Observations relating to various Branches of Natural Philosophy, Vol.1. [Experiments and Observations on Different Kinds of Air, Vol.4]. London, 1779.
+Experiments and Observations relating to various Branches of Natural Philosophy, Vol.2. [Experiments and Observations on Different Kinds of Air, Vol.5]. Birmingham, 1781.
+Experiments Relating to Phlogiston. London, 1784.
+Experiments and Observations relating to various Branches of Natural Philosophy, Vol.3. [Experiments and Observations on Different Kinds of Air, Vol.6]. Birmingham, 1786.
+Experiments and Observations on Different Kinds of Air, Vol.1–6. In 3 volumes, being the former 6 abridged and methodised, with many additions. Birmingham, 1790.
+Books from 1791 to 1803:
+
+Experiments on the Generation of Air from Water; to which are prefixed, Experiments relating to the Decomposition of Dephlogisticated and Inflammable Air. London, 1793.
+Heads of Lectures on a Course of Experimental Philosophy; delivered at the New College in Hackney. [First 10 of 36 lectures are about Airs]. London, 1794.
+Considerations on the Doctrine of Phlogiston and the Decomposition of Water. Philadelphia, 1796.
+Experiments and Observations relating to the Analysis of Atmospherical Air; also farther Experiments relating to the Generation of Air from Water. [Red before the American Philosophical Society, Feb.5th and 19th in 1796, and printed in their Transactions. To which are added, Considerations on the Doctrine of Phlogiston, and the Decomposition of Water, addressed to Messrs. Berthollet &c]. London, 1796.
+Considerations on the Doctrine of Phlogiston and the Decomposition of Water, Part II. Philadelphia, 1797.
+Doctrine of Phlogiston established and that of the Composition of Water refuted. Northumberland, 1800.
+Doctrine of Phlogiston established, with Observations on the Conversion of Iron into Steel, in a Letter to Mr. Nicholson. Printed in 1803.
+
+
+== Notes ==
+
+
+== Bibliography ==
+Fruton, Joseph S.  Methods and Styles in the Development of Chemistry. Philadelphia: American Philosophical Society, 2002. ISBN 0-87169-245-7
+Gibbs, F. W. Joseph Priestley: Adventurer in Science and Champion of Truth. London: Thomas Nelson and Sons, 1965.
+Jackson, Joe, A World on Fire: A Heretic, An Aristocrat and the Race to Discover Oxygen. New York: Viking, 2005. ISBN 0-670-03434-7.
+Kramnick, Isaac. "Eighteenth-Century Science and Radical Social Theory: The Case of Joseph Priestley's Scientific Liberalism." Journal of British Studies 25 (1986): 1–30.
+Kuhn, Thomas.  The Structure of Scientific Revolutions, third edition. Chicago: University of Chicago Press, 1996. ISBN 0-226-45808-3.
+Schaffer, Simon. "Priestley Questions: An Historiographic Survey." History of Science 22.2 (1984): 151–83.
+Schofield, Robert E. The Enlightenment of Joseph Priestley: A Study of his Life and Work from 1733 to 1773. University Park: Pennsylvania State University Press, 1997. ISBN 0-271-01662-0.
+Schofield, Robert E. The Enlightened Joseph Priestley: A Study of His Life and Work from 1773 to 1804. University Park: Pennsylvania State University Press, 2004. ISBN 0-271-02459-3.
+Thorpe, T.E. Joseph Priestley. London: J. M. Dent, 1906.
+Uglow, Jenny. The Lunar Men: Five Friends Whose Curiosity Changed the World. New York: Farrar, Straus and Giroux, 2002. ISBN 0-374-19440-8.
+
+
+== External links ==
+
+archive.org:
+full text (1772)
+full text (2nd edition, 1774)
+ Experiments and Observations on Different Kinds of Air public domain audiobook at LibriVox

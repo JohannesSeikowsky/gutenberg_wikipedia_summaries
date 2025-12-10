@@ -1,0 +1,84 @@
+La Géométrie est l'un des trois appendices publiés en 1637 par René Descartes avec le Discours de la méthode, où il présentait une science nouvelle permettant d'obtenir des idées claires sur n'importe quel sujet.
+La Géométrie et les deux autres traités, la Dioptrique (l'optique) et Les Météores (phénomènes naturels), donnent des exemples des succès obtenus en suivant la méthode.
+
+« Iusques icy i’ay tasché de me rendre intelligible a tout le monde, mais pour ce traité ie crains, qu’il ne pourra estre leu que par ceux, qui sçauent desia ce qui est dans les livres de Geometrie. »
+
+— Descartes
+
+
+== Contexte ==
+La Geometrie, publiée en 1637, probablement en partie écrite en 1636 pendant l'impression de Les Météores, est une « œuvre de circonstances, hâtivement rédigée ». Elle trouve ses racines dans l'esprit de Descartes (entre autres) lors de ses réflexions sur le problème de Pappus (1631).
+
+Beeckman, en 1628, note dans son journal ce que lui affirme déjà Descartes : 
+« en arithmétique et en géométrie il n'y a plus rien à désirer car il a progressé dans ces deux sciences, en neuf ans, autant que l'esprit humain le peut. »
+
+Avant Descartes, il était entendu que l'algèbre et la géométrie étaient des branches complètement séparées des mathématiques sans connexion entre elles.
+Avec La Géométrie Descartes souhaite réformer l'algèbre.
+Son ouvrage est le premier à proposer l'idée d'unir l'algèbre et la géométrie dans une même discipline.
+Descartes decouvre ce que l'on nomme la géométrie analytique; lui n'y voit à cette époque qu'une « présentation algébrique de la géométrie des anciens ». Cela signifie qu'il réduit les problèmes de géométrie à des calculs de longueur et qu'il traduit les questions de géométrie en équations algébriques.
+Les travaux les plus récents sur La Géométrie, sa place dans l'œuvre de Descartes et dans l'histoire des mathématiques, sont dus au mathématicien André Warusfel qui a réalisé la présentation et les notes de La Géométrie, dans le 3e tome des Œuvres complètes de Descartes (collection TEL, éd. Gallimard)5 publié en 2009. L'année suivante, il a soutenu à Paris IV une thèse sur l’œuvre mathématiques de Descartes dans La Géométrie (juin 2010)[1].
+
+
+== Contenu ==
+La Géométrie est divisée en trois livres :
+
+I. – Des problèmes qu'on peut construire sans y employer que des cercles et des lignes droites
+II. – De la nature des lignes courbes.
+III. – De la construction des problèmes solides ou plus que solides.
+
+
+=== I. – Des problèmes qu'on peut construire sans y employer que des cercles et des lignes droites ===
+Descartes commence ainsi : « Tous les problèmes de géométrie se peuvent facilement réduire à tels termes, qu'il n'est besoin par après que de connaître la longueur de quelques lignes droites, pour les construire. »
+
+
+=== II. – De la nature des lignes courbes ===
+
+
+=== III – De la construction des problèmes solides ou plus que solides ===
+
+
+== Commentaires ==
+On attribue à Descartes l'invention des repères cartésiens : en effet, il associe à un point deux nombres, le nombre x mesurant la distance par rapport à une droite et le nombre y mesurant la distance qui s'appliquent par ordre à cette droite, d'où le nom ordonnée. Ces droites évoquent un système d'axes de coordonnées qu'on appellera plus tard repère cartésien.
+Le rapport entre x et y permet à Descartes d'écrire l'équation de courbes classiques comme les coniques, les ovales et des courbes du troisième ou quatrième degré. Il classera les courbes en genres en fonction du degré de leur équation.
+
+
+== Versions ==
+En 1649, Frans van Schooten (1615–1660), un mathématicien hollandais, publie la première version en latin de La Géométrie de René Descartes. Ses commentaires mettent l'ouvrage à la portée d'une large communauté de mathématiciens. La version en latin inclut les Notes brèves  de Florimond de Beaune, la première introduction importante à La Géométrie de Descartes.
+
+
+== Postérité ==
+
+« Depuis la geometrie analytique de Descartes [...] toute notre modernité mathématique vit de l'idée cartésienne. »
+
+— Hourya Sinaceur, Corps et modèles, Paris, Vrin, 1991, p. 19
+
+
+== Notes et références ==
+
+
+=== Note ===
+
+
+=== Références ===
+
+
+== Bibliographie ==
+Vincent Jullien, Descartes : La Géométrie de 1637, PUF, 1996 (présentation en ligne, lire en ligne)
+
+
+== Voir aussi ==
+
+Théories scientifiques de Descartes
+Coordonnées cartésiennes
+Géométrie analytique
+Règle des signes de Descartes énoncée dans le livre III de la Géométrie.
+
+
+== Liens externes ==
+
+André Warusfel, L’œuvre mathématique de Descartes dans La Géométrie : de la résolution des équations algébriques à la naissance de la géométrie analytique (2010), thèse
+Livre Premier de La Géométrie, dans l'édition de Leyde de 1637, analysé par André Warusfel (cliquer sur l'onglet "Analyse"), sur Bibnum
+Project Gutenberg version PDF de La Géométrie (édition modernisée de Hermann, 1886)
+(en) David E. Smith et M. L. Lantham, The Geometry of René Descartes (Reprint of 1925), Courier Dover Publications, 1954 (ISBN 0-486-60068-8, lire en ligne) (incluant une reproduction de l'édition originale)
+
+ Portail du Grand Siècle   Portail de la géométrie

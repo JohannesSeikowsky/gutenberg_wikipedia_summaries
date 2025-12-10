@@ -8,7 +8,6 @@ __pycache__/
 *.so
 
 # Project outputs
-articles/
 progress.json
 errors.log
 summary.txt

@@ -1,0 +1,609 @@
+A Course of Pure Mathematics is a classic textbook on introductory mathematical analysis, written by G. H. Hardy. It is recommended for people studying calculus. First published in 1908, it went through ten editions (up to 1952) and several reprints. It is now out of copyright in UK and is downloadable from various internet web sites. It remains one of the most popular books on pure mathematics.
+
+
+== Contents ==
+The book contains a large number of descriptive and study materials together with a number of difficult problems with regards to number theory analysis. The book is organized into the following chapters.
+
+I. REAL VARIABLES
+II. FUNCTIONS OF REAL VARIABLES
+III. COMPLEX NUMBERS
+IV. LIMITS OF FUNCTIONS OF A POSITIVE INTEGRAL VARIABLE
+V. LIMITS OF FUNCTIONS OF A CONTINUOUS VARIABLE. CONTINUOUS AND DISCONTINUOUS FUNCTIONS
+VI. DERIVATIVES AND INTEGRALS
+VII. ADDITIONAL THEOREMS IN THE DIFFERENTIAL AND INTEGRAL CALCULUS
+VIII. THE CONVERGENCE OF INFINITE SERIES AND INFINITE INTEGRALS
+IX. THE LOGARITHMIC, EXPONENTIAL AND CIRCULAR FUNCTIONS OF A REAL VARIABLE
+X. THE GENERAL THEORY OF THE LOGARITHMIC, EXPONENTIAL AND CIRCULAR FUNCTIONS
+
+
+== Reviews ==
+The book was intended to help reform mathematics teaching in the UK, and more specifically in the University of Cambridge and in schools preparing to study higher mathematics.  It was aimed directly at "scholarship level" students – the top 10% to 20% by ability.  Hardy himself did not originally find a passion for mathematics, only seeing it as a way to beat other students, which he did decisively, and gain scholarships.
+The book has been reviewed by several authors.
+
+
+== Angle defined ==
+
+A unique feature of A Course of Pure Mathematics is the definition of angle in terms of an integral. The angle is formed by a line of slope m with the horizontal axis (page 317). With 0 < μ < 1, the point 
+  
+    
+      
+        P
+        (
+        μ
+        ,
+        m
+        μ
+        )
+      
+    
+    {\displaystyle P(\mu ,m\mu )}
+  
+ is on the unit circle when 
+  
+    
+      
+        
+          μ
+          
+            2
+          
+        
+        +
+        (
+        m
+        μ
+        
+          )
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \mu ^{2}+(m\mu )^{2}=1}
+  
+. Three equivalent equations are used by Hardy in the demonstration:
+
+  
+    
+      
+        μ
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                m
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+        
+        
+          
+            1
+            −
+            
+              μ
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            m
+            
+              1
+              +
+              
+                m
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+        
+        m
+        =
+        
+          
+            
+              1
+              −
+              
+                μ
+                
+                  2
+                
+              
+            
+            μ
+          
+        
+        .
+      
+    
+    {\displaystyle \mu ={\frac {1}{\sqrt {1+m^{2}}}},\quad {\sqrt {1-\mu ^{2}}}={\frac {m}{\sqrt {1+m^{2}}}},\quad m={\frac {\sqrt {1-\mu ^{2}}}{\mu }}.}
+  
+
+As the derivative of an integral is the integrand, and the derivative of a definite integral is the integrand evaluated at the initial end of the interval of integration, Hardy uses 
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              μ
+            
+          
+        
+        
+          ∫
+          
+            μ
+          
+          
+            1
+          
+        
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        d
+        x
+        =
+        −
+        
+          
+            1
+            −
+            
+              μ
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {d}{d\mu }}\int _{\mu }^{1}{\sqrt {1-x^{2}}}dx=-{\sqrt {1-\mu ^{2}}}}
+  
+.
+With A = (1,0), the area of circular sector POA is 
+  
+    
+      
+        ϕ
+        (
+        m
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          μ
+          
+            2
+          
+        
+        +
+        
+          ∫
+          
+            μ
+          
+          
+            1
+          
+        
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        d
+        x
+        =
+        
+          
+            1
+            2
+          
+        
+        μ
+        
+          
+            1
+            −
+            
+              μ
+              
+                2
+              
+            
+          
+        
+        +
+        
+          ∫
+          
+            μ
+          
+          
+            1
+          
+        
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        d
+        x
+      
+    
+    {\displaystyle \phi (m)={\frac {1}{2}}m\mu ^{2}+\int _{\mu }^{1}{\sqrt {1-x^{2}}}dx={\frac {1}{2}}\mu {\sqrt {1-\mu ^{2}}}+\int _{\mu }^{1}{\sqrt {1-x^{2}}}dx}
+  
+.
+
+  
+    
+      
+        
+          
+            
+              d
+              ϕ
+            
+            
+              d
+              μ
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            1
+            −
+            
+              μ
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        μ
+        (
+        1
+        −
+        
+          μ
+          
+            2
+          
+        
+        
+          )
+          
+            −
+            1
+            
+              /
+            
+            2
+          
+        
+        (
+        −
+        2
+        μ
+        )
+        −
+        
+          
+            1
+            −
+            
+              μ
+              
+                2
+              
+            
+          
+        
+        =
+        −
+        
+          
+            
+              μ
+              
+                2
+              
+            
+            
+              1
+              −
+              
+                /
+              
+              
+                u
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          
+            1
+            −
+            
+              μ
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              
+                
+                  1
+                  −
+                  
+                    μ
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {d\phi }{d\mu }}={\frac {1}{2}}{\sqrt {1-\mu ^{2}}}+{\frac {1}{2}}\mu (1-\mu ^{2})^{-1/2}(-2\mu )-{\sqrt {1-\mu ^{2}}}=-{\frac {\mu ^{2}}{\sqrt {1-/u^{2}}}}-{\frac {1}{2}}{\sqrt {1-\mu ^{2}}}={\frac {1}{2{\sqrt {1-\mu ^{2}}}}}.}
+  
+
+  
+    
+      
+        
+          
+            
+              d
+              ϕ
+            
+            
+              d
+              m
+            
+          
+        
+        =
+        
+          
+            
+              d
+              ϕ
+            
+            
+              d
+              μ
+            
+          
+        
+        
+          
+            
+              d
+              μ
+            
+            
+              d
+              m
+            
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              
+                
+                  1
+                  −
+                  
+                    μ
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        
+          
+            m
+            
+              (
+              1
+              +
+              
+                m
+                
+                  2
+                
+              
+              
+                )
+                
+                  3
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              (
+              1
+              +
+              
+                m
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {d\phi }{dm}}={\frac {d\phi }{d\mu }}{\frac {d\mu }{dm}}={\frac {1}{2{\sqrt {1-\mu ^{2}}}}}{\frac {m}{(1+m^{2})^{3/2}}}={\frac {1}{2(1+m^{2})}}.}
+  
+
+As the angle POA is defined as twice the area of its sector in the unit circle, Hardy's definition gives the angle value as 
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            m
+          
+        
+        
+          
+            1
+            
+              1
+              +
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        d
+        x
+      
+    
+    {\displaystyle \int _{0}^{m}{\frac {1}{1+x^{2}}}dx}
+  
+.
+
+
+== References ==
+
+
+== External links ==
+
+
+=== Online copies ===
+Third edition (1921) at Internet Archive
+Third edition (1921) at Project Gutenberg
+First edition (1908) at University of Michigan Historical Math Collection
+
+
+=== Other ===
+A Course of Pure Mathematics at Cambridge University Press (10 e. 1952, reissued 2008)

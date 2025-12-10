@@ -1,0 +1,101 @@
+Euthyphro (; Ancient Greek: Εὐθύφρων, romanized: Euthyphrōn), is a philosophical work by Plato written in the form of a Socratic dialogue set during the weeks before the trial of Socrates in 399 BC. In the dialogue, Socrates and Euthyphro attempt to establish a definition of piety. This however leads to the main dilemma of the dialogue when the two cannot come to a satisfactory conclusion. Is something pious because the gods approve of it? Or do the gods approve of it because it is pious? This aporetic ending has led to one of the longest theological and meta-ethical debates in history.
+
+
+== Characters ==
+Socrates, the Athenian philosopher, currently waiting at the Porch of the King Archon to attend a preliminary hearing for his trial for impiety. He questions the nature of piety in this dialogue.
+Euthyphro of Prospalta, a prophet, in his mid-forties. He is at the court to prosecute his elderly father for the murder of a hireling. His father owned land on the island of Naxos, which they farmed together. He is also mentioned in the Cratylus, which takes place about twenty years earlier, as an expert in the names of the gods.
+
+
+== Background ==
+Under the government of Pericles, in 447 BC, Athens had established a cleruchy on Naxos, sending 500 Athenian colonists to settle there after they had conquered it in order to help maintain their control over the island. The Athenians were expelled from Naxos in 404 BC, after the defeat at the Battle of Aegospotami, at which point Euthyphro and his father would have been forced to relinquish this land. The dialogue takes place in 399 BC, so Euthyphro's father must have killed the slave in Naxos at least five years ago, and he has been prosecuting his father for some time. As Euthyphro's relatives strongly oppose his prosecution of his own father, it is not unusual that the case has been drawn out for so long. It was claimed in antiquity that after this conversation took place, Euthyphro was persuaded not to prosecute his father, though this claim is not supported by any of Plato's own writings.
+Socrates is awaiting a preliminary hearing for his trial for impiety, which is being prosecuted by Meletus. This is the same trial that he will defend himself in during the events of the Apology, set roughly two months later. The events of the Theaetetus are set on the same day as the Euthyphro; at the end of that dialogue, Socrates had said that he was on his way to the preliminary hearing, promising to resume his discussion with Theaetetus the following day. That discussion, portrayed in the Sophist and Statesman, occur on the following day after the Euthyphro.
+It is easier to understand Socrates' arguments in this dialogue if the reader keeps in mind that Athenian religion revolved around specific rituals and practices with no reference to sacred scripture, at least in the same sense as later Abrahamic religions. Priests might worship only one specific god while not paying respect to the others. Euthyphro uses Zeus as evidence for his notions of piety while disregarding Uranus and Cronus, for example.
+
+
+== Summary ==
+
+
+=== Prologue ===
+In this dialogue, Euthyphro meets Socrates outside the court of the King Archon, where Socrates is currently waiting to attend to defend himself against the charges of Meletus on the grounds of impiety. Euthyphro faults Meletus for bringing the suit, and tells Socrates that these charges of impiety have resulted because Socrates is always talking about his daemon, the divine sign which warns him of various courses of action, which the Athenians see as Socrates introducing innovations to their religion. Euthyphro then tells Socrates that, as a prophet, the Athenians also laugh at his divinely inspired predictions and call him crazy, even though the predictions all come true.
+Euthyphro assures Socrates that he thinks Socrates will defend his case well, and that he believes he will also succeed in his own: he is going to court himself to prosecute his elderly father for murder, because his father bound a worker in chains and left him to die, all despite the fact that his own family believe it is impious for a son to prosecute his father. Socrates is astonished by Euthyphro's confidence, but Euthyphro insists that doing so is pious; as a prophet he would know what piety is. Since Euthyphro seems so assured of himself, and Socrates is facing a trial for impiety, Socrates asks Euthyphro to help him with a definition of "piety" that he can use in his defence.
+
+
+=== First definition: piety is prosecuting a wrongdoer ===
+Euthyphro's first definition of piety is what he is doing now, that is, prosecuting his father for manslaughter. Socrates rejects this definition, because it is only an example of piety, not a universally true definition, something that provides the essential characteristic that makes pious actions pious.
+
+
+=== Second definition: piety is what is pleasing to the gods ===
+Euthyphro's second definition is that Piety is what is pleasing to the gods. Socrates applauds this definition, because it is expressed in a general form, but criticizes it saying that the gods disagree among themselves as to what is pleasing, so a given action might be both pious and impious at the same time. Euthyphro counters that in his case, the gods would not disagree that someone who kills without justification ought to be punished, but Socrates observes that disputes could still arise over just how much justification actually existed; hence, the same action could be pious and impious.
+
+
+=== Third definition: piety is what is pleasing to all the gods ===
+Euthyphro's third definition of piety is: "What all the gods love is pious, and what they all hate is impious." In reply, Socrates poses what is now called the Euthyphro dilemma: "Is the pious loved by the gods because it is pious? Or is it pious because it is loved by the gods?". Euthyphro is unsure, so Socrates elaborates: Is something "beloved" in and of itself, or does it become beloved when it is loved by someone? Clearly, the answer is the latter, something becomes beloved when it is loved. So something beloved by the gods becomes so because it is loved by them, to which Euthyphro agrees. Socrates then reveals his contradiction: What is beloved by the gods cannot be pious: Euthyphro had said that something is loved by the gods because it is pious, which means that their love follows from something inherent in the pious. And yet they just agreed that what is beloved is put in that state as a result of being loved. So piety cannot belong to what is beloved by the gods since according to Euthyphro it does not acquire its characteristics by something (the act of being loved), in contrast to the things that are beloved, that are put in this state through the very act of being loved.
+
+
+=== Fourth definition: piety is a part of justice ===
+Socrates then suggests his own definition of piety, that piety is a part of justice. If piety is what is causing Euthyphro to prosecute his father, what is pious must be just. However, in the same sense that a definition of even numbers would not be the same as a definition of numbers, there are other actions that are just but not pious, such as courage or concern for others. Euthyphro says that piety is concerned with looking after the gods, but Socrates objects, saying that "looking after", if used in its ordinary sense (with which Euthyphro agrees) would imply that when one performs an act of piety one thus makes one of the gods better – an example of hubris, a dangerous human emotion frowned upon by the Greek gods. In turn, Euthyphro responds that "looking after" involves service to others, and Socrates asks: What is the end product of piety? Euthyphro replies with his earlier (third) definition, that: Piety is what is loved by all the gods.
+
+
+=== Final definition: piety is knowledge of sacrifice and prayer ===
+Euthyphro then proposes a final definition: Piety is the knowledge of what sacrifices and prayers are pleasing to the gods. Socrates suggests that this implies that piety is knowledge of a type of commerce: sacrifice is a gift to the gods, and prayers are requests for favours in return, and piety consists in knowing what benefits the gods. Euthyphro objects that the gifts are not a quid pro quo, between man and deity, but are gifts of "honour, esteem, and favour", from man to deity. Socrates observes that this is the same as saying that piety is what is pleasing to the gods, which was where the dialogue had begun. Euthyphro concedes that they have made no progress, and Socrates proposes that they start again from the beginning, but Euthyphro excuses himself, stating that he is in a rush. Socrates concludes the dialogue by remarking that, since Euthyphro was unable to teach him about piety, Socrates has received nothing helpful to his defense against a formal charge of impiety.
+
+
+== Reception ==
+
+
+=== Ancient ===
+Fragments of this dialogue exist on a papyrus from the 2nd century.
+In the early 3rd century BC, the Epicurean Metrodorus of Lampsacus wrote a pamphlet titled Against the Euthyphro which is now lost. This is the oldest literary criticism of this dialogue in the ancient world. 
+In the first century AD, Thrasyllus of Mendes listed the dialogue first in the first of his nine tetralogies of Plato's works, followed by the Apology, the Crito, and the Phaedo. Diogenes Laertius mentioned that it was one of the tentative dialogues and carried On Holiness as an alternate title, and that some teachers used it as the first dialogue in their courses meaning that it was in antiquity seen as the most suitable introduction to Plato's works.
+In the surviving fragment of his work On Plato's Secret Doctrines, Numenius of Apamea suggested that the character of Euthyphro was entirely fictitious and was intended to represent the Athenian popular religion, which Plato felt he had to attack indirectly in dialogue form in order to avoid being executed like Socrates himself.
+
+
+=== Medieval and Renaissance ===
+The oldest surviving medieval manuscript was made in 895 by Arethas of Caesarea and copied by Johannes Calligraphus. The dialogue was translated into Armenian in the 11th century. The Byzantine scholar Manuel Chrysoloras owned a copy of the Euthyphro. Francesco Filelfo completed the first Latin translation in 1436. Rinuccio da Castiglione completed a second translation a short time later in 1440 though it is considered of lower quality. Marsilio Ficino completed a third in 1484 in Florence in his translated collection of Plato's dialogues. The first edition of the Greek text appeared in Venice in September 1513 by Aldo Manuzio under an edition published by Markos Musuros.
+
+
+=== Modern ===
+Many philosophers and theologians have addressed the Euthyphro dilemma since the time of Plato, though not always with reference to the Platonic dialogue itself. According to scholar Terence Irwin, the issue and its connection with Plato was revived by the Cambridge Platonists Ralph Cudworth and Samuel Clarke in the 17th and 18th centuries.
+Peter Geach criticized the dilemma outlined in the Euthyphro because it implies you must search for a definition that fits piety rather than work backwards by deciding pious acts (i.e. you must know what piety is before you can list acts which are pious), and that it implies something cannot be pious if it is only intended to serve the gods without actually fulfilling any useful purpose.
+
+
+== Texts and translations ==
+Greek text at Perseus
+Plato: Euthyphro, Apology, Crito, Phaedo, Phaedrus. Greek with translation by Harold N. Fowler. Loeb Classical Library 36. Harvard Univ. Press (originally published 1914).
+Fowler translation at Perseus
+Plato: Euthyphro, Apology, Crito, Phaedo. Greek with translation by Chris Emlyn-Jones and William Preddy. Loeb Classical Library 36. Harvard Univ. Press, 2017. ISBN 9780674996878 HUP listing
+Plato. Opera, volume I. Oxford Classical Texts. ISBN 978-0198145691
+Translated by Woods & Pack, 2007
+Bundled with Socrates' Defense (aka Apology), Crito, and the death scene from Phaedo
+Translated by Jowett, 1891 at the Classics Archive
+G. Theodoridis, 2017: full-text translation
+Cooper, John M.; Hutchinson, D. S., eds. (1997). "Euthyphro". Plato: Complete works. Translated by Grube, G.M.A. Indianapolis, Ind: Hackett Pub. ISBN 9780872203495.
+The Last Days of Socrates, translation of Euthyphro, Apology, Crito, Phaedo. Hugh Tredennick, 1954. ISBN 978-0140440379. Made into a BBC radio play in 1986.
+"Four Texts on Socrates: Plato's Euthyphro, Apology, and Crito, and Aristophanes' Clouds." Translated by Thomas G. West and Grace Starry West. Cornell University Press, 1998. ISBN 978-0801485749
+The Last Days of Socrates: Euthyphro, Apology, Crito, Phaedo. Translated by Christopher Rowe. Penguin Classics, 2010. ISBN 978-0141965888
+
+
+== See also ==
+Divine command theory
+
+
+== Notes ==
+
+
+== References ==
+Irwin, Terence (2006). "Socrates and Euthyphro: The argument and its revival". In Lindsay Judson; V. Karasmanēs (eds.). Remembering Socrates: Philosophical Essays. Oxford University Press.
+Nails, Debra (15 November 2002). The People of Plato: A Prosopography of Plato and Other Socratics. Hackett Publishing. ISBN 978-1-60384-027-9. Retrieved 9 May 2025.
+Pack, Roger Ambrose (1965). The Greek and Latin Literary Texts from Greco-Roman Egypt. University of Michigan Press. ISBN 978-0-910294-22-5. Retrieved 25 April 2025.
+
+
+== Further reading ==
+Allen, Reginald E. (1970). Plato's 'Euthyphro' and the Earlier Theory of Forms. London: Routledge & K. Paul. ISBN 0-7100-6728-3.
+Dorion, Louis-André (2012). "Euthyphron". In Goulet, Richard (ed.). Dictionnaire des philosophes antiques. Vol. 5, part 1. Paris: CNRS. pp. 661–669. ISBN 978-2-271-07335-8.
+Willey, Hannah (2018). "Social-status, legislation, and pollution in Plato's « Euthyphro »". In Carbon, Jan-Mathieu; Peels-Matthey, Saskia (eds.). Purity and purification in the ancient Greek world: texts, rituals, and norms. Liège: Centre International d’Étude de la Religion Grecque Antique. pp. 113–131. ISBN 978-2-87562-159-7.
+
+
+== External links ==
+
+Euthyphro, in a collection of Plato's Dialogues at Standard Ebooks
+ Euthyphro public domain audiobook at LibriVox
+Guides to the Socratic Dialogues, a beginner's guide

@@ -1,0 +1,77 @@
+Areopagitica; A speech of Mr. John Milton for the Liberty of Unlicenc'd Printing, to the Parlament of England is a 1644 prose polemic by the English poet, scholar, and polemical author John Milton opposing licensing. Areopagitica is among history's most influential and impassioned philosophical defences of the principle of a right to freedom of speech and expression. Many of its expressed principles have formed the basis for modern justifications of that right.
+
+
+== Background ==
+
+Areopagitica was published on 23 November 1644 at the height of the English Civil War. It takes its title in part from Areopagitikós (Greek: Ἀρεοπαγιτικός), a speech written by Athenian orator Isocrates in the 4th century BC. The Areopagus is a hill in Athens, the site of real and legendary tribunals, and was the name of a council whose power Isocrates hoped to restore. Some argue that it is more importantly also a reference to the defence that St Paul made before the Areopagus in Athens against charges of promulgating foreign gods and strange teachings, as recorded in Acts 17:18–34.
+Like Isocrates, Milton, who was not a member of parliament, did not mean his work to be an oral speech to that assembly. Instead, it was distributed via pamphlet, thus defying the same publication censorship which he argued against. As a radical, Milton had supported the Presbyterians in Parliament, and would later work as a civil servant for the new republic, but in this work he argued forcefully against Parliament's 1643 Ordinance for the Regulating of Printing, also known as the Licensing Order of 1643, in which Parliament required authors to have a licence approved by the government before their work could be published.
+According to the British Library, "State control of printing was introduced by Henry VIII and continued into the 17th century. In April 1638, political agitator John Lilburne was arrested for importing subversive books. He was fined £500 and flogged for the two miles between the Fleet Prison and the pillory. Milton wrote his pamphlet as a protest against Lilburne's treatment." This issue was personal for Milton, as he had suffered censorship himself in his efforts to publish several tracts defending divorce, a radical stance which met with no favour from the censors.
+In particular, The Doctrine and Discipline of Divorce (1643), which he published anonymously and unlicensed, was condemned by the Puritan clergy as being heretical and intending to foster sexual libertinism, and it was cited in petitions to parliament as evidence of the need to reinstall a system of prepublication licensing. Areopagitica is full of Biblical and classical references which Milton uses to strengthen his argument. This is particularly fitting because it was being addressed to the Calvinist Presbyterians who composed Parliament at that time.
+According to George H. Sabine, the Areopagitica presumed and was written for an engaged public:
+
+Its basic principle was the right and also the duty of every intelligent man as a rational being, to know the grounds and take responsibility for his beliefs and actions. Its corollary was a society and a state in which decisions are reached by open discussion, in which the sources of information are not contaminated by authority in the interest of party, and in which political unity is secured not by force but by a consensus that respects variety of opinion.
+
+
+== Synopsis ==
+Before presenting his argument, Milton defends the very idea of writing a treatise such as Areopagitica. He compliments England for having overcome the tyranny of Charles I and the prelates, but his purpose is to voice his grievances. Milton defends this purpose, holding that to bring forth complaints before the Parliament is a matter of civil liberty and loyalty, because constructive criticism is better than false flattery. He concludes his introduction by encouraging Parliament to obey "the voice of reason" and to be "willing to repeal any Act" for the sake of truth and upright judgment.
+
+
+=== Origins of licensing system ===
+Milton begins with historical evidence noting that Ancient Greece and Rome did not adhere to the practice of licensing. In some cases, blasphemous or libellous writings were burnt and their authors punished, but it was after production that these texts were rejected rather than prior to it. Milton argues that a work should be "examined, refuted, and condemned" rather than prohibited before examination. Milton points out that licensing was first instituted by the Catholics with the Inquisition. 
+This fact appealed to Parliament's religious beliefs since it was dominated by Protestants, and there were conflicts between the Protestants and Catholics in England. Milton provides historical examples of the aftermath following the Inquisition, including how there were popes in Rome beginning in the 14th century who became tyrannical licensers. For example, Pope Martin V became the first to prohibit the reading of heretical books, and then in the 16th century the Council of Trent and Spanish Inquisition prohibited texts that were not even necessarily heretical, but only unfavourable to the friars.
+
+
+=== Use of books and reading ===
+Milton precedes his argument by discussing the purpose of reading. He mentions that Moses, David, and Paul were all learned, which reminds his Protestant audience that being learned involves reading "books of all sorts". He argues that this includes even the "bad" or heretical books, because we can learn from their wrongs and discover what is true by considering what is not true. Milton's point is that God endowed every person with the reason, free will, and conscience to judge ideas for themselves, so the ideas in a text should be rejected by the reader's own choice, not by a licensing authority. Also, the mind is not corrupted simply by encountering falsehood. Milton points out that encountering falsehood can actually lead to virtuous action, such as how St. Paul's converts had privately and voluntarily burned Ephesian books considered to be "magick".
+
+
+=== Usefulness of licensing order ===
+Milton then argues that Parliament's licensing order will fail in its purpose to suppress scandalous, seditious, and libellous books: "this order of licencing conduces nothing to the end for which it was fram'd". The order was meant to rectify manners by preventing the spread of an "infection" caused by bad books. Milton objects, arguing that the licensing order is too sweeping, because even the Bible itself had been historically limited to readers for containing offensive descriptions of blasphemy and wicked men. Milton also points out that Parliament will not protect the ignorant from bad books by this order, because the books would more likely have been read by the learned anyhow. 
+Whatever bad ideas were written can still be taught through word of mouth or otherwise, so "infection" or corruption is not prevented. Milton's point is that licensing books cannot possibly prevent societal corruption (it is "far insufficient to the end which it intends"), so there is no viable stopping point: "If we think to regulat Printing, thereby to rectifie manners, we must regulate all recreations and pastimes, all that is delightful to man". Milton also points out that, if there are even licensers fit for making these judgments, then the possibility of error in licensing books is still great, and the amount of time that the job would take is impractical.
+
+
+=== Harmfulness of licensing order ===
+Milton argues that licensing is "a dishonour and derogation to the author, to the book, to the privilege and dignity of Learning". This is because many authors will produce a written work with genuinely good intentions only to have it censored by what amounts to a subjective, arbitrary judgment of the licenser.
+Milton also thinks that England needs to be open to truth and understanding, which should not be monopolised by the government's standards. Faith and knowledge need exercise, but this order will lead to conformity and laziness. Licensing will hinder discovery of truth by the government's prejudice and custom, because there will always be more truth to be found that we do not yet know of. Milton thinks that licensing could potentially hinder God's plans, since it gives the licenser the power to silence others.
+
+
+=== Conclusion ===
+Milton recognises individual rights, but he is not completely libertarian in Areopagitica as he argues that the status quo ante worked best. According to the previous English law, all books had to have at least a printer's name (and preferably an author's name) inscribed in them. Under that system, Milton argues, if any blasphemous or libellous material is published, those books can still be destroyed after the fact. "Those which otherwise come forth, if they be found mischievous and libellous, the fire and the executioner will be the timeliest and the most effectual remedy, that mans prevention can use." Milton seeks a means by which to ensure that authors and publishers remain culpable for any "mischievous" or "libellous" work that they produce. Regardless, Milton certainly is not without remorse for the libellous author, nor does he promote unrestricted free speech. In addition, he admits that his tolerance is limited: I mean not tolerated Popery, and open superstition, which as it extirpats all religions and civill supremacies, so it self should be extirpate, provided first that all charitable and compassionate means be used to win and regain the weak and the misled. According to Nicholas McDowell, the second part of the forecited statement is usually left out by those quoting the first part to show that Milton was, at heart, a religious bigot, and that his ideas about free speech and intellectual liberty have little to teach us about liberalism today. (Whether the second half of the statement is actually an effective mitigation to the bigotry is a question eminently suited for discussion.)
+
+
+== Critical response ==
+Areopagitica did not persuade the Presbyterians in Parliament to invalidate the prepublication censorship component of the Licensing Order of 1643; freedom of the press in this sense was not achieved until 1695, when the Parliament chose not to renew the order. Despite Milton's treatise being overwhelmingly praised, it was unsuccessful because the objective did not appeal to the target audience.
+Milton and the Presbyterians had together abolished the Star Chamber under Charles I, but now that they were not being oppressed and they held the power, the Presbyterians in Parliament no longer held to their defence of freedom of the press. Through the Licensing Order of 1643, they were set on silencing the more radical Protestants and the Independents as well as works supporting the King which had begun to appear in London. Milton's treatise is his response to that licensing order, which clearly came at a time when he and the Parliament were already at odds.
+By the time Milton wrote Areopagitica he had already unsuccessfully challenged Parliament in other areas of privilege and right. Milton's divorce tracts proved too radical for his immediate day, as did this work. Milton's ideas were ahead of his time in the sense that he anticipated the arguments of later advocates of freedom of the press by relating the concept of free will and choice to individual expression and right. Milton's treatise "laid the foundations for thought that would come after and express itself in such authors as John Locke and John Stuart Mill".
+Although Milton's ideas were initially resisted by the Puritans, they were incorporated into the official charter of the Puritan church within a few years. The Westminster Confession of Faith, written between 1643 and 1650, allows for divorce on two grounds: infidelity and abandonment. The Westminster Confession of Faith states: "Adultery or fornication, committed after a contract, being detected before marriage, giveth just occasion to the innocent party to dissolve that contract. In the case of adultery after marriage, it is lawful for the innocent party to sue out a divorce, and after the divorce to marry another, as if the offending party were dead."
+
+
+== Modern references to Areopagitica ==
+A quotation from Areopagitica is prominently displayed over the entrance to the renovated Main Reading Room of the New York Public Library: "A good Booke is the precious life-blood of a master spirit, imbalm'd and treasur'd up on purpose to a life beyond life".
+The Supreme Court of the United States has referred to Areopagitica, in interpreting the First Amendment to the United States Constitution, to explain the Amendment's protections. The Court has cited Areopagitica by name in four cases. Most notably, the Court cited Areopagitica in the landmark case New York Times Co. v. Sullivan to explain the inherent value of false statements. The Court cited Milton to explain the dangers of prior restraint in Times Film Corporation v. City of Chicago. Later, Justice Douglas concurred in Eisenstadt v. Baird, citing the pamphlet to support striking down restrictions on lecturing about birth control. 
+Justice Black cited Areopagitica when he dissented from the Court's upholding of restrictions on the Communist Party of the United States against a free speech and free association challenge in Communist Party of the United States v. Subversive Activities Control Board. In each instance, Milton is cited by the Court's members to support a broad and expansive protection of free speech and association.
+
+
+== Editions ==
+Rosenblatt, Jason P., ed. (2011). Milton's Selected Poetry and Prose: Authoritative Texts, Biblical Sources, Criticism. New York: W. W. Norton. pp. 337–380. ISBN 978-0-393-97987-9.
+Milton, John (1918). Areopagitica, A Speech of Mr. John Milton for the Liberty of Unlicenc'd Printing to the Parliament of England with a Commentary by Sir Richard C. Jebb and with Supplementary Material. Cambridge: University Press. Retrieved 16 April 2016 – via Online Library of Liberty.
+Arber, Edward, ed. (1903). John Milton Areopagitica [24 November] 1644 preceded by illustrative documents. English Reprints series. Westminster: Constable and Co.; includes Arber's introduction and the text of the Star Chamber decree 11-07-1637 and orders of the House of Commons 29-01-1642, 9-03-1643 and of the Lords and Commons 14-06-1643
+
+
+== See also ==
+Book censorship
+Chilling effect
+Of Education
+John Peter Zenger
+
+
+== References ==
+
+
+== External links ==
+
+Online text from Dartmouth's Milton Reading Room
+Areopagitica in Modern English
+ Areopagitica at Project Gutenberg
+Areopagitica audio recording, public domain solo recording by Moira Fogarty at Internet Archive
+ Areopagitica public domain audiobook at LibriVox

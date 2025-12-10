@@ -1,0 +1,59 @@
+The title Trecheng Breth Féne "A Triad of Judgments of the Irish", more widely known as "The Triads of Ireland", refers to a miscellaneous collection of about 256 Old Irish triads (and some numerical variants) on a variety of topics, such as nature, geography, law, custom and behaviour. Its compilation is usually dated to the ninth century.
+
+
+== Form ==
+The Triads of Ireland cover a vast range of subjects. Triads 1-31 are about monasteries, 32-61 cover geography, and 86-149 law. The rest are a miscellany with no apparent overarching structure. Though they are all called triads, only 214 of the 256 of the triads form groups of threes. There are also three duads, seven tetrads, one nonad and 31 single items relating to monasteries at the start of the collection.
+The following example is Triad 91:
+
+The use of the triad form (arrangement into threes) to encapsulate certain ideas is neither distinctively Irish nor Celtic, but can be widely attested in many societies over the world, in part owing to its usefulness as a mnemonic device. It does appear to be particularly popular in the literatures of Celtic-speaking areas, one notable other example being the later Welsh collection Trioedd Ynys Prydein ("Triads of the Isle of Britain"). Beyond the particular form there is nothing to suggest a shared literary tradition. The Welsh triads also cover a much more restricted range, as they feature British history and legend almost exclusively, unlike the varied and heterogeneous Irish triads. Although triads can be pointed out in both Irish and (again later) Welsh law texts, they are the rule in neither as other numerical forms are usually preferred. Kuno Meyer proposed that the practice was inspired from the Old Testament, which however, offers very few examples. Fergus Kelly concludes that "[t]he case for a special Celtic cult of threeness is unproven, as is the attempt by Meyer and other scholars to establish a biblical origin."
+
+
+== Manuscript sources ==
+H 2.16 or Yellow Book of Lecan (YBL), col. 236 ff, p. 414b-418a (TCD, Dublin). Complete.
+23 P 12 or Book of Ballymote (BB), f. 65b-66b (RIA).
+Book of Huí Maine, f. 190a1-191a2. Complete.
+H 2.17 or Great Book of Lecan, f. 183b-184b (TCD).
+23 N 10 (previously Betham 145), pp. 98–101 (RIA, Dublin), a paper MS written in 1575.
+H 1.15, pp. 946–957, a paper MS written by Tadhg Tiorthach Ó Neachtain in 1745.
+23 N 27 (Stowe), f. 1a-7b (RIA, Dublin), written in 1714 by Domnall (or Daniel) ó Duind mac Eimuinn.
+copy in Rylands Library, Manchester, poor and corrupted copy written by Peter O'Longan in 1836.
+MS Kilbride III, f. 9b2 (Advocates Library, Edinburgh). Vellum.
+The only edition is still that of Kuno Meyer published in 1906. He based his text on six manuscripts (YBL, BB, Uí Maine, Great Book of Lecan, 23 N 10 and H 1.15) and was aware of another three (23 N 27, Rylands copy and Kilbride). Fergus Kelly reports that four other versions have since been discovered and that the text is therefore in need of a new critical edition.
+
+
+== Date ==
+On the basis of the language used in the triads Meyer considered that had not been written after 900 AD; and on the basis of certain declensions used in the text thought that they were not older than c. 850 A.D.
+
+
+== See also ==
+Wisdom literature
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Edition and translation ===
+Meyer, Kuno, ed. (1906), "The Triads of Ireland", Todd Lecture Series (in English and Irish), no. 13, Hodges, Figgis, & Co, Dublin; Williams & Northgate, London
+HTML text transcripts via CELT of the main text and translation :  gaelic, english translations
+As a list via the website of Sabhal Mòr Ostaig : www.smo.uhi.ac.uk.
+
+
+=== Secondary sources ===
+Kelly, Fergus (2004), "Sir John Rhys Memorial Lecture. Thinking in Threes: The Triad in Early Irish Literature", Proceedings of the British Academy, 125: 1–18, audio recording of lecture via www.britac.ac.uk
+
+
+=== Further reading ===
+Sims-Williams, Patrick (1978), "Thought, Word and Deed: an Irish Triad", Ériu, 29: 78–111, JSTOR 30007767
+
+
+== Modern adaptations ==
+A parody of the triad form can be found in Flann O'Brien's novel At Swim-Two-Birds (1939).
+An illustrated adaptation of selected Triads specially designed as gift book or for children: Fergus Kelly (introduction), Aislinn Adams (illustrator). The Three Best Things. Appletree. 1994.
+
+
+== External links ==
+Early Irish Wisdom Literature
+The Triads of Ireland - Corpus of Electronic Texts Edition

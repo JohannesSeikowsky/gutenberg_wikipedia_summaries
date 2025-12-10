@@ -1,0 +1,66 @@
+The Book of Lord Shang (traditional Chinese: 商君書; simplified Chinese: 商君书; pinyin: Shāng jūn shū) is an ancient Chinese text from the 3rd century BC, regarded as a foundational work of "Chinese Legalism". The earliest surviving of such texts (the second being the Han Feizi), it is named for and to some extent attributed to major Qin reformer Shang Yang, who served as minister to Duke Xiao of Qin (r. 361 – 338 BC) from 359 BC until his death in 338 BC and is generally considered to be the father of that state's "legalism".
+The Book of Lord Shang includes a large number of ordinances, essays, and courtly petitions attributed to Shang Yang, as well as discourses delivered at the Qin court. The book focuses mainly on maintaining societal order through a system of impartial laws that strictly mete out rewards and punishments for citizens' actions. The first chapters advise promoting agriculture and suppressing other low-priority secondary activities, as well as encouraging martial virtues for use in creating and maintaining a state army for wars of conquest.
+
+
+== Premodern skepticism ==
+While some of the work came from Shang Yang's life time, or shortly thereafter, it likely took over a century to write. Even in Imperial China, Huang Zhen of the Southern Song dynasty did not believe it to have been written by Shang Yang himself, considering him to have been a more 'gifted law official' as compared with the Records of the Grand Historian. As noted by the early scholarship of J.J.L. Duyvendak, apart from the work's stylistic inconsistencies, most of it would unlikely have been written by Shang Yang himself if, as Sima Qian states, he was executed almost immediately after resigning from office. 
+References to events from the end part of the Warring State period, and skeptecism during the imperial period, contributed to a dismissive attitude toward the work during the Republican period (1912-1949) as compared with the Han Feizi, taking the entire work as late.
+
+
+== Textual tradition ==
+Although highly composite, modern translator Yuri Pines believes that "some chapters were likely penned by Shang Yang himself; others may come from the hand of his immediate disciples and followers." Forming a "relatively coherent ideological vision", the work likely reflects the evolution of what Zheng Liangshu (1989) dubbed Shang Yang's 'intellectual current' (xuepai 學派). While the work's composite nature contributes to skepticism, Pines considered it more ideologically consistent than most Warring States texts. Its first chapter is especially associated with him, purportedly portraying the court debate that saw Shang Yang gain office. 
+Like the later Han Feizi, the Book of Lord Shang insists on the anachronism of the policies of the distant past, drawing on more recent history. In comparison with the Han Feizi, though considering them to be "digressions of minor importance", Pines Stanford Encyclopedia of Philosophy notes that the Book of Lord Shang "allowed for the possibility that the need for excessive reliance on coercion would end and a milder, morality-driven political structure would evolve." In Pines opinion, the Han Feizi does not. Without implying any direct connection, Michael Puett and Mark Edward Lewis compare the Rites of Zhou to the "Legalism" of Shang Yang.
+
+
+== Dating ==
+
+Pines dating for the work's chapters range from 300 BCE to 230 BCE, near the time of the Qin state's unification of China. The work matures philosophically in chapters 6 (Calculating the Land) and 7 (Opening the Blocked), becomes more administrative and accommodating in chapter 14 (Cultivation of Authority), and has its more sophisticated chapters at the end of its work, chapters 24 (Interdicting and Encouraging) and 25 (Attention to Law), with Chapter 26 (Fixing Divisions) "reflecting administrative realities from the eve of imperial unification."
+Nonetheless, not making use of cavalry, Pines believes that military chapters like 10, 11 and 19 definitely did come from the fourth century B.C., just as the work would suggest; the Warring States period traded use of chariots by nobles for large standing armies of infantry.
+
+
+== Interpretations ==
+
+
+=== Pine's Book of Lord Shang ===
+
+
+==== Doctrine of Names ====
+Following the Han Feizi, Shang Yang, Shen Buhai and Han Fei were often identified under the of Xing-Ming, or "form and name", whose late terminology is only directly used by the Han Feizi (Han Fei's predecessor Shen Buhai uses earlier, more philosophically common ming-shih, or "name and realtiy"). Nothing would seem to bare out that Shang Yang actually studied an identical Names doctrine to Shen Buhai and Han Fei. However, Pines highlights that the Book of Lord Shang does have a "Names" doctrine.
+Pines considers Shang Yang's primary doctrine to be that of connecting people's inborn nature (Qing) or dispositions (different Xing) with names (ming 名). With Shang Yang said to have reformed Qin law, the Book of Lord Shang does not believe that fa laws will be successful without "investigating the people's disposition." The work recommends enacting laws that allow people to "pursue the desire for a name", namely fame and high social status, or just wealth if acceptable. Ensuring that these "names" are connected with actual benefits, it was hoped that if people are able to pursue these, they will be less likely to commit crimes, and more likely to engage in hard work or fight in wars.
+
+
+== Overview ==
+Pines considered the Shangjunshu probably the earliest text taking the ruler's position (not simply the ruler himself) as pivotal for the state's well-being. However, the text is largely focused on the relation between the state and society, not 'monarchical power'.
+The Book of Lord Shang teaches that "The law is an expression of love for the people... The sage, if he is able to strengthen the state thereby, does not model himself on antiquity, and if he is able to benefit the people thereby, does not adhere to the established rites." As such, the philosophy espoused is quite explicitly anti-Confucian:
+
+Sophistry and cleverness are an aid to lawlessness; rites and music are symptoms of dissipations and licence; kindness and benevolence are the foster‑mother of transgressions; employment and promotion are opportunities for the rapacity of the wicked. If lawlessness is aided, it becomes current; if there are symptoms of dissipation and licence, they will become the practice; if there is a foster‑mother for transgressions, they will arise; if there are opportunities for the rapacity of the wicked, they will never cease. If these eight things come together, the people will be stronger than the government; but if these eight things are non‑existent in a state, the government will be stronger than the people. If the people are stronger than the government, the state is weak; if the government is stronger than the people, the army is strong. For if these eight things exist, the ruler has no one to use for defence and war, with the result that the state will be dismembered and will come to ruin; but if there are not these eight things, the ruler has the wherewithal for defence and war, with the result that the state will flourish and attain supremacy.
+
+
+== Translations ==
+Duyvendak, J. J. L. (1928).  The Book of Lord Shang.  London: Arthur Probsthain; reprinted (1963), Chicago: University of Chicago Press.
+(in Japanese) Shimizu, Kiyoshi 清水潔 (1970).  Shōshi 商子 [Shangzi]. Tokyo: Meitoku shuppansha.
+(in French) Levi, Jean (1981). Le Livre du prince Shang [The Book of Prince Shang].  Paris: Flammarion.
+Pines, Yuri (2017).  The Book of Lord Shang - Apologetics of State Power in Early China (Translations from the Asian Classics).  New York: Columbia University Press.
+(in German) Vogelsang, Kai (2017) Shangjun shu – Schriften des Fürsten von Shang. Stuttgart, Alfred Kröner Verlag, ISBN 978-3-520-16801-6
+
+
+== References ==
+Footnotes
+
+Works cited
+Creel, Herrlee Glessner (1982) [1970]. What Is Taoism?: And Other Studies in Chinese Cultural History. University of Chicago Press. ISBN 9780226120478. JSTOR 1397689. OCLC 1256745090 – via Google Books.
+Pines, Yuri (2012b). "Alienating Rhetoric in the Book of Lord Shang and its Moderation". Extrême-Orient Extrême-Occident. 34. Presses Universitaires de Vincennes: 79–110. doi:10.4000/extremeorient.254. ISBN 9782842923525.
+Pines, Yuri (2017b). The Book of Lord Shang: Apologetics of State Power in Early China. Abridged Edition. Columbia University Press. ISBN 978-0-231-55038-3.
+Pines, Yuri (2023). "Legalism in Chinese Philosophy". In Zalta, Edward N.; Nodelman, Uri (eds.). Stanford Encyclopedia of Philosophy (Summer 2023 ed.). Retrieved 2 March 2024.
+Pines, Yuri (2024). Dao Companion to China's fa Tradition. Hebrew University of Jerusalem: Springer. ISBN 9789048129270.
+Knechtges, David R.; Shi, Hsiang-lin (2014). "Shang jun shu 商君書". In Knechtges, David R.; Chang, Taiping (eds.). Ancient and Early Medieval Chinese Literature: A Reference Guide, Part Two. Leiden: Brill. pp. 810–4. ISBN 978-90-04-19240-9.
+Levi, Jean (1993). "Shang chün shu 商君書". In Loewe, Michael (ed.). Early Chinese Texts: A Bibliographical Guide. Berkeley: Society for the Study of Early China; Institute of East Asian Studies, University of California Berkeley. pp. 368–75. ISBN 978-1-55729-043-4.
+
+
+== External links ==
+
+
+=== Text of the work ===
+The Book of Lord Shang Chinese-English parallel text, Chinese Text Project
+Text of The Book of Lord Shang -(translated by J.J.-L. Duyvendak (1889–1954) into English in 1928)
+Shangzi by Lord Shang -(Chinese; from Project Gutenberg)

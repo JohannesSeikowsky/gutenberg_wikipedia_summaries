@@ -1,0 +1,66 @@
+Naturales quaestiones (Natural Questions) is a Latin work of natural philosophy written by Seneca around AD 65. It is not a systematic encyclopedia like the Naturalis Historia of Pliny the Elder, though with Pliny's work it represents one of the few Roman works dedicated to investigating the natural world. Seneca's investigation takes place mainly through the consideration of the views of other thinkers, both Greek and Roman, though it is not without original thought. One of the most unusual features of the work is Seneca's articulation of the natural philosophy with moralising episodes that seem to have little to do with the investigation. Much of the recent scholarship on the Naturales Quaestiones has been dedicated to explaining this feature of the work. It is often suggested that the purpose of this combination of ethics and philosophical 'physics' is to demonstrate the close connection between these two parts of philosophy, in line with the thought of Stoicism.
+
+
+== Date ==
+The earliest date (terminus post quem) for writing is AD 60, and it is generally thought to have been written around AD 62 to 64.
+
+
+== Contents ==
+The Naturales Quaestiones is addressed to Lucilius Junior:
+
+I am not unaware, Lucilius, excellent man, of how great is the enterprise whose foundations I am laying in my old age, now that I have decided to traverse the world, to seek out its causes and secrets, and to present them for others to learn about. [Book 3] 
+The work originally had eight books, but the book on the Nile (book 4a) is missing the second part, whereas the book concerning Hail and Snow (book 4b) is missing the first half. These two books have been joined by tradition to become book 4.
+The contents of these seven books are as follows:
+
+meteors, halos, rainbows, mock suns, etc.
+thunder and lightning. (theory of thunderstorms )
+water; this book also contains the description of the Roman heat exchangers, which were called "dracones", or "miliaria"; and a description of the deluge.
+the Nile (4a); hail, snow, and ice (4b). (theory of hail )
+winds.
+earthquakes and the sources of the Nile.
+comets.
+The original order of the books is a matter of scholarly disagreement. Several scholars consider an original order, as used by Harry M. Hine, being Book 3 (firstly), then Book 4a, 4b, Books 5-7 then Books 1, and finally Book 2.
+
+
+== Themes ==
+The work is a study on questions of physics and meteorology. It is one of the few Roman works which deals with scientific matters. It is not a systematic work, but a collection of facts of nature from various writers, Greek and Roman, many of which are curiosities. Moral remarks are scattered through the work; and indeed the design of the whole appears to be to find a foundation for ethics in the knowledge of nature. There is an incontrovertible intertwinement of an ethical concern with the questions of nature (physics) in the work.
+Stoics from early in their history considered the telos (goal) of their efforts to be kata physin (according to nature). Thus for Seneca, virtue in a human was dependent on behaving in a natural way. The highest good or virtue is to live "according to one's own nature" (secundum naturam suam vivere in Ep. 41:9, Ep. 121:3); referring to both nature in general and one's own innate nature.
+Seneca had been the imperial advisor during the early part of Nero's reign before falling out of favour, and Seneca compliments Nero four times in Naturales quaestiones. A more indirect allusion to his former role can be found in book 2 when during a discussion of lightning bolts (Book 2.43), Seneca breaks off to urge rulers to always take counsel from their advisors. Seneca thought that promoting an active interest in science to Nero would be beneficial to the emperor's morality.
+
+What is most important? Not to admit bad intentions into your mind, to raise pure hands to heaven...to raise your spirits high above chance occurrences .... for these reasons the study of nature will be helpful.....we shall leave behind what is sordid.... separate the mind, which needs to be elevated and great, from the body ... when we have exercised our intellect on hidden obscurities, it will be no less effective on matters in plain view
+Contemplation of nature for Seneca "unchains the mind" enabling a person to transcend evil, and by experiencing the totality (totum) of nature, develop a consciousness and being more compatible with direct experience of God, by elevating one's moral nature.
+God is in all things natural (is intramundane), for Seneca:
+
+quisquis formator universi fuit sive ille Deus est potens omnium, sive incorporalis ratio, ingentium operum artifex, sive divinus spiritus, per omnia, maxima, minima, aequali intentione diffususWhoever was the former of the universe, whether God almighty, whether incorporeal Reason, whether the divine Spirit, diffused equally through all things, the greatest and the least.
+Achieving an existence in keeping with the correct manner of living (that is being ethical) depends on a person fulfilling that existence in accordance with the  principles of the natural law or ius naturae (p. 258 ) of the divine universal order (Seneca - Ep 76.23 as shown at p. 84-5 ), inherent in the totality of nature. To make one in agreement with nature (όμολογουμένως τῇ φύσει).
+
+
+== Later history ==
+The known history of the text begins in the 12th century. Erasmus of Rotterdam once owned a copy of the work, which had previously belonged to the 15th century humanist Rodolphus Agricola.
+The first edition (editio princeps) was published in Venice in 1490. English language editions include that published in 1972-73 by the Loeb Classical Library.
+
+
+== See also ==
+Natural History (Pliny)
+Albert Einstein who expressed the sense of being a part of the universe as a whole as a: "cosmic religious feeling"
+Nature
+Gaia (mythology)
+
+
+== References ==
+
+Long, George (1867). "Seneca, L. Annaeus". In William Smith (ed.). Dictionary of Greek and Roman Biography and Mythology. Vol. 3. Boston: Little, Brown and Company. p. 782. Archived from the original on 2011-06-06.
+
+
+== Further reading ==
+Seneca, Naturales Quaestiones: Bks. I-III, v. 1. Loeb Classical Library
+Seneca, Naturales Quaestiones: Bks. IV-VII, v. 2. Loeb Classical Library
+Seneca, "Ricerche sulla Natura", a cura di Piergiorgio Parroni, Arnoldo Mondadori Editore, a recent (2010) edition with a fine comment.
+Nikolaus Groß (1989), Senecas Naturales Quaestiones. Komposition, naturphilosophische Aussagen und ihre Quellen. Franz Steiner. ISBN 978-3-515-05385-3
+Harry M. Hine (2010), Seneca: Natural questions. University of Chicago Press. ISBN 0226748545
+
+
+== External links ==
+ Latin Wikisource has original text related to this article: Quaestiones Naturales
+Naturales Quaestiones web texts
+Physical science in the time of Nero; being a translation of the Quaestiones naturales of Seneca, (1910). Translated by John Clarke, with notes by Archibald Geikie, at the Internet Archive.

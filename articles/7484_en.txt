@@ -1,0 +1,81 @@
+The Guanzi (Chinese: 管子) is an anonymous foundational Chinese political and philosophical text. Compiled in the early Han dynasty, the Han Feizi suggests earlier, similar versions as dating back to the late Warring states period. Despite its late dating, it is arguably one of the most representative texts of the concepts of political economy that developed during the Spring and Autumn period. At over 135,000 characters, it is one of the longest early Chinese philosophical texts, originally comprising 86 chapters, of which 76 survive. It covers broad subject matter, famously including price regulation of commodities via the concept of  "light and heavy" (轻重). Ming dynasty agricultural scientist Xu Guangqi still frequently cited the Guanzi and Xunzi.
+
+
+== Theoretical pre-Han influence ==
+The Guanzi is named for and traditionally attributed to the 7th century BCE philosopher and statesman Guan Zhong, who served as Prime Minister to Duke Huan of Qi. It was, however, written by several anonymous authors. The precise date of creation remains subject to historical debate. It contains a wide variety of material from many different authors over several successive centuries, largely associated with the 4th century BCE Jixia Academy in the Qi capital of Linzi. But the Han dynasty scholar Liu Xiang did not edit the received Guanzi text until circa 26 BCE, compiling a new edition at that time.
+The present text is "arguably a much later expression of ideas in the direction of the Han Feizi". None of its existing chapters would appear to predate the first century BCE, so that much of it would have been compiled after the Han Feizi. However, the Han Feizi is the first reference for both the Guanzi and the Book of Lord Shang. With Han Fei reputedly dying in 233 BC, a "proto-Guanzi" theoretically "took shape" in earlier form around 250 BCE, in the late Warring States period. Based on the Han Feizi, this earlier Guanzi might have already gone into broad circulation by that time alongside the Book of Lord Shang, becoming popular among the nobles. 
+Guanzi-type influences are dominant in the Huangdi Sijing, from the Mawangdui silk texts. Although Daoistic thought was thought not specifically favored by Qin state generals, if the Guanzi is taken as Huang-Lao, then, although controversial, it represents the kind of milieu that Sinologist Hansen (Stanford Encyclopedia) thought was already becoming dominant among the broader officialdom by the Qin dynasty, based on the silk texts. Dated back from the Han to the late Warring States period, Mark Edward Lewis believes that texts on self cultivation from the silk texts likely went into broad circulation among the elites a couple generations after the Han Feizi, but still earlier belonged to a small elite.
+Sinologist Masayuki Sato 佐藤將之 disagrees with attempts by translator Rickett and a "few other scholars" to date some chapters to the Han dynasty, but agrees with a late Warring States dating for most of the work, considering its "intellectual, cultural, political, economic, and social realities" reflective of the period. If Masayuki's judgement is correct, then the earlier version may have been quite similar, as the work already looks like a late Warring States text. Masayuki considers "Canonical Statements" its earliest chapter, only dating it as far back as the mid Warring states period.
+
+
+== Classification history ==
+Most chapters of the Guanzi deal with government and the art of rulership, but also contains chapters like the Daoistic Neiye. K. C. Hsiao took "Straight Thinking", and "Pure Heart" (chuan 13, essays 36–38; "Xin Shu" parts one and two, and "Pai Xin") as "clarifications of Huang-Lao ("Yellow Emperor Daoist") tenets". Although Liu Xin viewed the Guanzi as "Legalist" (Fajia), Ban Gu still listed it as Daoist in the Book of Han's Journal of Literature Chapter 30, which lists texts like Shen Buhai, Shen Dao and Han Feizi as 'Legalist'. The Guanzi was not listed as 'Legalist' until the Book of Sui's Journal of Writings, agreeing with Liu Xin rather than Ban Gu. 
+Sima Tan's concept of "Daoism" was one of syncretism. The work may later have been viewed as more Legalist partly because the Han Feizi mentions it alongside the Book of Lord Shang. Emphasizing techniques (Shu) of government, while the Guanzi does share with other texts later listed as Legalist a view of power as independent of morality, it still advocates (Fa), a broad concept including law, as an adjunct to Confucian Li, which is also a "core term" in the text. 
+
+
+=== On Shepherding the People ===
+Despite an "abundant" use of the term fa itself, the Huainanzi, Sima Qian and Liu Xiang took the Guanzi as more broadly focused on governmental measures and the restoration of political order, not specifically identifying it with fa or focusing on chapters that would be more relevant for it. Based on a selected quotation from "On Sherding the People" (牧民 Mumin), Sima Qian considered both proper measures (服度) and Li important for the state in the Guanzi, including ritual and moderation, adequate food and clothing, distinctions between honor and shame, and relationships and cardinal virtues. 
+Kanaya Osamu (more modernly) considered Mumin a heavily Confucian-influenced "weak" Legalism at most. Emphasizing the "four cardinal virtues", as stated by Masayuki Sato, the chapter lists the Five Aids (of "essential proper governance") in order of importance as (De), being a concept of virtue and (inner) power, secondly righteousness or duty, thirdly ritual and social norms (Li), fa, and lastly quan 权, a concept including authority, power, measurement and temporary expedients. 
+The Guanzi's fa is notable in that it does most commonly emphasize it as including such functions as law, regulation, administration and promoting officials, including such standards as "proper decorum" for lord and minister, while fa as an earlier concept of just measurement is rare. Despite Daoist associations, fa as referring to "Guiding Principles of the Natural World" has also become comparatively rare in the work, unless it was more common in the lost chapters.
+
+
+== Modern interpretations ==
+Less "systematically reviewed" in mainland China, a modern Legalist interpretation of the Guanzi is prominent in Taiwan, focusing on comparable parts of the text. However, rather than Shang Yang and Qin, Li Mian (1983) compares it with the tradition of the Qi state, i.e. as a birth place of Guan Zhong having the Jixia Academy and Shen Dao, governing the state more with regulations than harsh penal law. The Taiwanese scholars considered the Guanzi more focused on encouraging people towards achievements and stopping violence, with law based on a natural Dao created by the sovereign.
+A.C. Graham considered the work's proportion of law and morality not very different from Xunzi. Masayuki Sato notes the origination of law in ritual in Chapter 12, whose idea he takes as a relevant predecessor to Xun Kuang.
+
+ Fa (laws and rgulations) originate from rituals and social norms. Rituals and social norms originate from order. Order, rituals and social norms, are the manifestation of the Way. After attaining an orderly condition by means of order and ideal relationship by mean of li, the myriad things establish their own stable positions. 
+Translator W. Allyn Rickett dissented from the later historical, traditional Confucian view of the text as Legalist, judging it to present a view much closer to that of the late Warring States period's "realistic" Confucian Xunzi than either the "highly idealistic Confucianism of Mencius" or the "Draconian Legalism" of Shang Yang. But while earlier twentieth century scholarship commonly compared the Guanzi with the Book of Lord Shang, Han Feizi, and Confucianism, some chapters are modernly compared with the Daoistic Huangdi Sijing, following the discovery of the Mawangdui Silk Texts, encouraging a reconsideration of its governmental ideas.
+
+
+== Daoistic content ==
+As is typical of an ancient Chinese text, the organization of the Guanzi has been altered over time, the chronology and significance of which is not all that clear. Covering a wide variety of subjects, ranging from detailed economic discussions to overviews of local soil topography, many chapters include Confucian values as a necessity for the state, expressing a blend of what may be considered Legalistic, Confucian, and Daoistic philosophy that has been termed "Huang-Lao". The first reference to the collection appears in the more Daostic Huainanzi, of the early Han dynasty, and Han bibliographies listed the text as Daoist.
+Yin-yang and five phase ideas play a more important role in later chapters. Its Neiye  ("Inner Enterprise/Training") has a potential influence for the Zhuangzi, and has the oldest recorded descriptions of Daoist meditation techniques.
+
+When you enlarge your mind and let go of it,
+When you relax your [qi 氣] vital breath and expand it, 
+When your body is calm and unmoving: 
+And you can maintain the One and discard the myriad disturbances. 
+You will see profit and not be enticed by it, 
+You will see harm and not be frightened by it. 
+Relaxed and unwound, yet acutely sensitive, 
+In solitude you delight in your own person. 
+This is called "revolving the vital breath": 
+
+Your thoughts and deeds seem heavenly. (24, tr. Roth 1999:92) 
+
+
+== Economic and financial insight in the Guanzi ==
+Several chapters of the Guanzi address what modern language would call economic and monetary issues. It is a core text on the matter of price stabilization from the ancient Chinese perspective. The economic policies discussed focus on insulating peasants from fluctuations in the context of then-recently developed market forces and to increase commercialization while benefitting the state. "[T]his approach to economic policy suggested that the state should unleash and harness market forces in order to promote wealth for the state and the people."
+The "state savings" (國蓄) chapter has been described as the first-ever exposition of the quantity theory of money, and the "light and heavy" (轻重) chapter as the first clear articulation of the law of supply and demand:
+
+Now, the price of grain is heavy in our state and light in the world at large. Then the other lords’ goods will spontaneously leak out like water from a spring flowing downhill. Hence, if goods are heavy, they will come; if light they will go.In the Guanzi's usage of "heavy," and "light," the former connotes something that is expensive or important while the latter connotes inexpensive or unimportant. In this view, "all economic phenomena can only be understood relationally; things can be heavy or light only in relation to other things."
+
+
+== See also ==
+Shen Dao
+Zou Yan
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+Works cited
+
+Yates, Robin D. S. (1997). Five Lost Classics: Tao, Huang-Lao, and Yin-Yang in Han China. Ballantine Books. ISBN 978-0345365385.
+
+
+== External links ==
+
+Guanzi 管子, Ulrich Theobald
+Unraveling Early Daoist Oral Traditions in Guan Zi's "Purifying the Heart-Mind (Bai Xin)," "Art of the Heart-Mind (Xin Shu)," and "Internal Cultivation (Nei Ye)," Dan G. Reid
+Legalism, Qin Empire and Han Dynasty, Sanderson Beck
+Guanzi 管子 (Full text in Chinese)
+Ye, translation of Bram den Hond
+Sixteen Chapters on Weighing and Balancing Economic Factors (《管子·轻重十六篇》): Chaps. 72 - 73
+The New Legalist Archived 2013-10-05 at the Wayback Machine
+Guanzi 管子 Full text in Chinese
+Guanzi 《管子》 Chinese text with matching English vocabulary

@@ -1,0 +1,34 @@
+The Different Forms of Flowers on Plants of the Same Species is a book by Charles Darwin first published in 1877. It is the fifth of his six books devoted solely to the study of plants (excluding The Variation of Animals and Plants Under Domestication).
+
+
+== Context ==
+These writings contributed to Darwin's pursuit of evidence that would support his theory of natural selection. There were only two more books to follow: The Power of Movement in Plants (1880) and The Formation of Vegetable Mould through the Action of Worms (1881). He conducted a wide range of experiments and observations and the results of these form the framework of the book. He was assisted in this work by his son, Francis Darwin who also wrote a preface for the second edition which was published two years after his father's death in 1882. The book was dedicated to his longtime friend and colleague, Harvard botany professor Asa Gray "as a small tribute of respect and affection".
+
+
+== The work ==
+Using the four classifications established by Carl Linnaeus (hermaphroditic, monoecious, dioecious, polygamous), Darwin concentrated on two divisions of the hermaphroditic class, namely the cleistogamic and heterostyled.
+Darwin’s reflections indicate the economy of nature through a process of gradual modification of plants, their structures being modified and degraded for the purpose of the large scale production of seed which is necessary and advantageous for survival. Darwin states (p. 227): "Cleistogamic flowers ... are admirably fitted to yield a copious supply of seed at a wonderfully small cost to the plant."
+Francis Darwin indicated that the work on heterostyly had given his father extreme pleasure, especially as it had been one of the most puzzling bits of work he ever carried out. Darwin thought that hardly anyone had seen the full importance of heterostyly.
+
+
+== Summary. ==
+In 1883, Alfred Russel Wallace wrote a tribute to Darwin (entitled 'The Debt of Science to Darwin’) who had died the year before. One such tribute appeared in 'The Century', an illustrated monthly magazine. As part of this article he included a summary of Darwin's work relating to this book (p. 428):
+"The cowslip (Primula veris) has two kinds of flowers in nearly equal proportions: in the one the stamens are long and the style short, and in the other the reverse, so that in one the stamens are visible at the mouth of the tube of the flower, in the other the stigma occupies the same place, while the stamens are halfway down the tube. The fact had been known to botanists for 70 years, but had been classed as a case of mere variability, and therefore considered to be of no importance. In 1860 Darwin set to find out what it meant, since, according to his views, a definite variation like this must have a purpose. After a considerable amount of observation and experiment, he found that bees and moths visited the flowers, and that their proboscis become covered with pollen while sucking up the nectar, and further, the pollen of a long stamened plant would most surely be deposited on the stigma of the long styled plants, and vice versa. Now followed a long series of experiments, in which cowslips were fertilised with either pollen from the same kind or from a different kind of flower, and the invariable result was that the crosses between the two different types of flowers produced more good capsules, and more seed in each capsule; and as these crosses would be most frequently effected by insects, it was clear that this curious arrangement directly served to increase the fertility of this common plant. The same thing was found to occur in the primrose, as well as in flax (Linum perenne), lungworts (Pulmonaria), and a host of other plants, including the American partridge-berry (Mitchella repens). These are called dimorphic heterostyled plants.
+Still more extraordinary is the case of the common loosestrife (Lythrum salicaria), which has both stamens and styles of three distinct lengths, each flower having two sets of stamens and one style, all of different lengths, and arranged in three different ways:
+
+A short style, with six medium and six long stamens;
+A medium style, with six short and six long stamens;
+A long style, with six medium and six short stamens.
+These flowers can be fertilised in eighteen distinct ways, necessitating a vast number of experiments, the result being, as in the case of the cowslip, that flowers fertilised by the pollen from stamens of the same length as the styles, gave on the average a larger number of capsules and a very much larger number of seeds than in any other case. The exact correspondence in the length of the style of each form with that of one set of stamens in the other form insures that the pollen attached to any part of the body of an insect shall be applied to a style of the same length on another plant, and there is thus a triple chance of the maximum of fertility....There is thus the clearest proof that these complex arrangements have the important end of securing both a more abundant and more vigorous offspring.”
+Observations and experiments still continue today to further the understanding of this phenomenon instigated by Darwin in this original and seminal work.
+
+
+== References ==
+
+Darwin, Francis. [c. 1884]. [Preliminary draft of] 'Reminiscences of My Father's Everyday Life'. CUL-DAR140.3.1—159 Transcribed by Robert Brown (Darwin Online, http://darwin-online.org.uk/).
+Wallace, Alfred R. 1883. 'The Debt of Science to Darwin' in 'The Century', in Vol XXV; new series volume III – pages 420 – 432
+
+
+== External links ==
+
+ The Different Forms of Flowers on Plants of the Same Species at Project Gutenberg

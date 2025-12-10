@@ -1,0 +1,102 @@
+The Book of Lamentations (Hebrew: אֵיכָה, ʾĒḵā, from its incipit meaning "how") is a collection of poetic laments for the destruction of Jerusalem in 586 BCE. In the Hebrew Bible, it appears in the Ketuvim ("Writings") as one of the Five Megillot ("Five Scrolls") alongside the Song of Songs, Book of Ruth, Ecclesiastes, and the Book of Esther. In the Christian Old Testament, it follows the Book of Jeremiah, for the prophet Jeremiah is traditionally understood to have been its author. By the mid-19th century, German scholars doubted Jeremiah's authorship, a view that has since become the prevailing scholarly consensus. Most scholars also agree that the Book of Lamentations was composed shortly after Jerusalem's fall in 586 BCE.
+Some motifs of a traditional Mesopotamian "city lament" are evident in the book, such as mourning the desertion of the city by God, its destruction, and the ultimate return of the deity; others "parallel the funeral dirge in which the bereaved bewails... and... addresses the [dead]". The tone is bleak: God does not speak, the degree of suffering is presented as overwhelming, and expectations of future redemption are minimal. Nonetheless, the author repeatedly makes clear that the city—and even the author himself—has profusely sinned against God, thus justifying God's wrath. In doing so, the author does not blame God but rather presents God as righteous, just, and sometimes even merciful.
+
+
+== Summary ==
+The book consists of five separate poems. In the first chapter, the city sits as a desolate weeping widow overcome with miseries. In chapter 2, these miseries are described in connection with national sins and acts of God. Chapter 3 speaks of hope for the people of God: that the chastisement would only be for their good; a better day would dawn for them. Chapter 4 laments the ruin and desolation of the city and temple but traces it to the people's sins. Some of chapter 5 is a prayer that Zion's reproach may be taken away in the repentance and recovery of the people. In some Greek copies, and in the Latin Vulgate, Syriac, and Arabic versions, the last chapter is headed "The Prayer of Jeremiah".
+
+
+== Themes ==
+Lamentations combines elements of the kinah, a funeral dirge for the loss of the city, and the "communal lament" pleading for the restoration of its people. It reflects the view, traceable to Sumerian literature of a thousand years earlier, that the destruction of the holy city was a punishment by God for the communal sin of its people. However, while Lamentations is generically similar to the Sumerian laments of the early 2nd millennium BCE (e.g., "Lamentation over the Destruction of Ur," "Lament for Sumer and Ur," and the "Nippur Lament"), the Sumerian laments were recited on the occasion of the rebuilding of a temple and, therefore, have optimistic endings. In contrast, the book of Lamentations was written before the return/rebuilding and thus contains only lamentations and pleas to God with no response or resolution.
+Beginning with the reality of disaster, Lamentations concludes with the bitter possibility that God may have finally rejected Israel. Sufferers in the face of grief are not urged to have confidence in the goodness of God; in fact, God is accountable for the disaster. The poet acknowledges that this suffering is a just punishment. Still, God is held to have had a choice over whether to act in this way and at this time. Hope arises from a recollection of God's past goodness, but although this justifies a cry to God to act in deliverance, there is no guarantee that he will. Repentance will not persuade God to be gracious since he can give or withhold grace as he chooses. In the end, the possibility is that God has finally rejected his people and may not again deliver them. Nevertheless, it also affirms confidence that the mercies of Yahweh (the God of Israel) never end but are new every morning.
+
+
+== Structure ==
+
+Lamentations consists of five distinct (and non-chronological) poems, corresponding to its five chapters. Two of its defining characteristic features are the alphabetic acrostic and its qinah meter. However, few English translations capture either; even fewer attempt to capture both.
+
+
+=== Acrostic ===
+The first four chapters are written as acrostics. Chapters 1, 2, and 4 each have 22 verses, corresponding to the 22 letters of the Hebrew alphabet, the first lines beginning with the first letter of the alphabet, the second with the second letter, and so on. Chapter 3 has 66 verses, so that each alphabet letter begins three lines.
+The fifth poem, corresponding to the fifth chapter, is not acrostic but still has 22 lines.
+Although some claim that purpose or function of the acrostic form is unknown, it is frequently thought that a complete alphabetical order expresses a principle of completeness, from alef (first letter) to tav (22nd letter); the English equivalent would be "from A to Z".
+English translations that attempt to capture this acrostic nature are few in number. They include those by Ronald Knox and by David R. Slavitt. In both cases their mapping of the 22 Hebrew letters into the Latin alphabet's 26 uses 'A' to 'V' (omitting W, X, Y and Z), thus lacking the "A to Z" sense of completeness.
+
+
+==== Acrostic ordering ====
+
+Unlike standard alphabetical order, in the middle chapters of Lamentations, the letter pe (the 17th letter) comes before ayin (the 16th). In the first chapter, the Masoretic Text uses the standard modern alphabetical order; however, in the Dead Sea Scrolls version of the text (4QLam/4Q111, c. 37 BCE – 73 CE), even the first chapter uses the pe-ayin order found in chapters 2, 3, and 4.
+
+
+=== Qinah ===
+The book's first four chapters have a well-defined qinah rhythm of three stresses followed by two, although the fifth chapter lacks this. Dobbs-Allsopp describes this meter as "the rhythmic dominance of unbalanced and enjambed lines". Again, few English translations attempt to capture this.  Exceptions include Robert Alter's Hebrew Bible and the New American Bible Revised Edition.
+
+
+== Composition ==
+
+The traditional ascription of authorship to Jeremiah derives from the impetus to ascribe all biblical books to inspired biblical authors. Jeremiah, a prophet who prophesied its demise at the time, was an obvious choice. In 2 Chronicles 35:25 Jeremiah is said to have composed a lament for the death of King Josiah, but there is no reference to Josiah in the book of Lamentations and no reason to connect it to Jeremiah. However, the modern consensus amongst scholars is that Jeremiah did not write Lamentations; like most ancient literary texts, the author or authors remain anonymous.
+Scholars are divided over whether the book is the work of one or multiple authors. According to the latter position, a different poet wrote each of the book's chapters and then joined to form the book. One clue pointing to multiple authors is that the gender and situation of the first-person witness changes—the narration is feminine in the first and second lamentations, but masculine in the third, while the fourth and fifth are eyewitness reports of Jerusalem's destruction. Conversely, the similarities of style, vocabulary, and theological outlook and the uniform historical setting are arguments for one author.
+The book's language fits an Exilic date (586–520 BCE), and the poems probably originated from Judeans who remained in the land. The fact that the acrostics of chapters 2–4 follow the pe-ayin order of the pre-Exilic Paleo-Hebrew alphabet further supports the position that they are not postexilic compositions. However, the sequence of the chapters is not chronological, and the poems were not necessarily written by eyewitnesses to the events. The book was compiled between 586 BCE and the end of the 6th century BCE, when the Temple was rebuilt. Because Second Isaiah, whose work is dated to 550–538 BCE, seems to have known at least parts of Lamentations, the book was probably in circulation by the mid-6th century, but the exact time, place, and reason for its composition are unknown.
+
+
+== In liturgy ==
+Lamentations is recited annually by Jews on the fast day of Tisha B'Av (the Ninth of Av) (July–August), mourning the destructions of both the First Temple (by the Babylonians in 586 BCE) and the Second Temple (by the Romans in 70 CE). In many manuscripts and for synagogue liturgical use, Lamentations 5:21 is repeated after verse 22, so that the reading does not end with a painful statement—a practice also performed for the last verse of Isaiah, Ecclesiastes, and Malachi, "so that the reading in the Synagogue might close with words of comfort".
+In Christian tradition, readings from Lamentations are part of the Holy Week liturgies.
+In Western Christianity, readings (often chanted) and choral settings of extracts from the book are used in the Lenten religious service known as Tenebrae (Latin for 'darkness'). In the Church of England, readings are used at Morning and Evening Prayer on the Monday and Tuesday of Holy Week, and at Evening Prayer on Good Friday.
+In the Coptic Orthodox Church, the book's third chapter is chanted on the 12th hour of the Good Friday service, which commemorates the burial of Jesus.
+
+
+== Surviving manuscripts ==
+
+Many of the oldest surviving manuscripts are from centuries after the period of authorship. In Hebrew, the Leningrad Codex (1008) is a Masoretic Text version. Since 1947, the whole book is missing from the Aleppo Codex. Fragments containing parts of the book in Hebrew were found among the Dead Sea Scrolls: 4Q111 (30–1 BCE), 3Q3 (30 BCE–50 CE), 5Q6 (50 CE), and 5Q7 (30 BCE–50 CE).
+There is also a translation into Koine Greek known as the Septuagint, made in the last few centuries BCE. The Septuagint translation added an introductory line before the first stanza:
+
+And it came to pass, after Israel was taken captive, and Jerusalem made desolate, that Jeremias sat weeping, and lamented with this lamentation over Jerusalem, and said,
+Extant ancient manuscripts of the Septuagint version include Codex Vaticanus (4th century), Codex Sinaiticus (4th century), Codex Alexandrinus (5th century) and Codex Marchalianus (6th century).
+
+
+== In music ==
+The King James Version of Lamentations 1:12 are cited as texts in the English-language oratorio "Messiah" by George Frideric Handel (HWV 56).
+Handel also used verses from Lamentations in the Funeral Anthem for Queen Caroline's second movement, "The Ways of Zion do Mourn."
+Edward Gibbons adapted some of the text in his verse anthem How hath ye City sate solitary.
+The title of the hymn Great Is Thy Faithfulness comes from Lamentations 3:23.
+
+
+== See also ==
+Lamentations of Jeremiah the Prophet: musical settings.
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+== Further reading ==
+Kotzé, Gideon. "The Qumran Manuscripts of Lamentations: A Text-Critical Study". Studia Semitica Neerlandica BRILL, 2013. ISBN 9789004242098
+
+
+== External links ==
+
+Jewish translations
+
+Lamentations with multiple translations of the text & Rashi's commentary, as well as numerous other classic Hebrew commentaries at Sefaria.org
+Book of Lamentations with Hebrew/English and MP3 chanting of the entire book in Hebrew. (Website also contains other books of the bible.)
+Laments (R. David Seidenberg): a fresh translation with linear Hebrew and English, on neohasid.org
+A synopsis of Eichah's chapters
+Christian translations
+
+Lamentations at Sacred Texts KJV, Tan, Sep, Vul
+ Lamentations public domain audiobook at LibriVox Various versions
+Translations maintaining acrostic structure
+
+Knox Translation (22 letters: A to V, omitting W to Z)
+Translations maintaining metrical rhythm (qinah)
+
+New American Bible Revised Edition (NABRE)
+Translations maintaining both acrostics and qinah
+
+ServiceMusic translation (22 letters: A to Z, omitting four intermediate letters)

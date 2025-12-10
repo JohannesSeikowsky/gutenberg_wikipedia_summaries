@@ -1,0 +1,222 @@
+Die Poetik (altgriechisch ποιητική [τέχνη] poietike [techne], deutsch ‚die schaffende, dichtende [Kunst]‘) ist ein wohl um 335 v. Chr. als Vorlesungsgrundlage verfasstes Buch des Aristoteles, das sich mit der Dichtkunst und deren Gattungen beschäftigt.
+Aristoteles gliedert die Wissenschaften in drei große Gruppen (theoretische, praktische und poietische); die Poetik behandelt einen Teil des poietischen, d. h. ‚hervorbringenden‘ menschlichen Wissens in deskriptiver und präskriptiver Weise. In den Bereich der aristotelischen Poetik fallen zunächst all diejenigen Künste (τέχναι, téchnai), die mimetischen, d. h. nachahmenden bzw. darstellenden Charakter besitzen: Epik, Tragödie, Komödie, Dithyrambendichtung, aber auch Tanz und Musik. Im Verlauf des Werkes zeigt sich aber, dass Aristoteles fast ausschließlich Dichtung im engeren Sinne behandelt, also nachahmende Kunstformen, die sich des Mediums der Sprache bedienen.
+Aristoteles’ Poetik steht im Zusammenhang mit seiner Rhetorik, insofern beide Schriften Sprache und Kommunikation thematisieren, sowie mit seiner Politik, insofern Dichtkunst wie Redekunst zentrale gesellschaftliche Funktionen in der griechischen Polis hatten.
+
+
+== Überlieferungszustand und Aufbau der Schrift ==
+Die Poetik ist unvollständig überliefert, denn Aristoteles kündigt in der Schrift selbst an, nach Tragödie und Epos auch die Komödie behandeln zu wollen, und verweist in seiner Rhetorik zweimal auf eine Behandlung des Lächerlichen in der Poetik. Beides fehlt in dem uns vorliegenden Text; es wurde, wie die Forschung heute allgemein annimmt, in einem nicht erhaltenen zweiten Buch der Poetik behandelt. (Dieses mutmaßlich verlorene Buch über die Komödie, die menschliche Fähigkeit zum Lachen und das Lächerliche spielt eine zentrale Rolle in Umberto Ecos Roman Der Name der Rose.) Seit Richard Janko erörtert die Forschung wieder ernsthaft die Frage, ob der Tractatus Coislinianus ein Rest des zweiten Buches sein könnte.
+Die Kapitel des erhaltenen ersten Buchs ordnen sich thematisch zu drei größeren Abschnitten:
+
+(Kap. 1–5) Zur Dichtung überhaupt
+(Kap. 6–22) Behandlung der Tragödie
+(Kap. 23–26) Behandlung des Epos
+Das Ungleichgewicht zwischen der langen Tragödien- und der kurzen Epos-Theorie wird zumindest teilweise dadurch erklärt, dass viele der Aussagen über die Tragödie auch für das Epos gelten, so dass Kapitel 23/24 sich weitgehend auf das summarische Aufzählen von Gemeinsamkeiten und Unterschieden beschränken können. Kapitel 26 bringt einen wertenden Vergleich zwischen Epos und Tragödie.
+
+
+== Zur Dichtung allgemein (Kapitel 1–5) ==
+
+
+=== Die Definition von poiêsis: mimêsis ===
+Alle Dichtung ist mimêsis (Nachahmung). Hierbei setzt Aristoteles sich von dem gängigen Kriterium „Versmaß“ ab: somit fallen etwa Platons Dialoge durchaus in die Dichtung, die metrische Gattung des Lehrgedichts fällt hingegen heraus. Nachgeahmt werden hierbei handelnde Menschen. Dabei meint mimêsis nicht eine Abbildung in dem Sinne, dass das Abbild einem Urbild entspräche. Vielmehr besteht mimêsis in einer Darstellung von handelnden Menschen, deren Absichten, Charakter und Handlungen sowohl zum Besseren als auch zum Schlechteren abweichen kann.
+
+
+=== Ableitung der mimêsis aus der Natur des Menschen ===
+Den für die Poetik zentralen Begriff der mimêsis leitet Aristoteles auch aus der Natur des Menschen ab. Er liefert eine doppelte anthropologische Herleitung:
+
+(Produktion) Die Nachahmung ist den Menschen angeboren.
+(Rezeption) Die (Erfahrung von) Nachahmung bereitet Menschen (im Gegensatz zu anderen Lebewesen) Freude (chairein) (Prozess intellektuellen Erkennens, Freude an technischer Perfektion).
+Der zweite Punkt, die Freude an der Wahrnehmung von Nachahmung, ist ein Hinweis darauf, dass für Aristoteles der Aufbau und Inhalt eines Werkes im Hinblick auf den Rezipienten entworfen wird, wie sich auch am Katharsis-Begriff zeigt (s. u.).
+
+
+=== Die Arten der mimêsis: Zur Gattungseinteilung ===
+Die Arten von mimêsis spezifiziert Aristoteles genauer und zieht sie zur Gattungseinteilung heran. Er unterscheidet drei Kriterien für Arten der Mimesis:
+
+unterschiedliche Mittel der Nachahmung (en heterois): Rhythmus, logos, harmonia;
+verschiedene Gegenstände der Nachahmung (hetera): gute oder schlechte Menschen;
+verschiedene Weisen (heterôs) der Nachahmung:
+berichten (apangelein): ein Erzähler trägt das Geschehene vor, wobei Autor und Erzähler verschieden oder identisch sein können;
+‚tun‘ (dran): die Handlung wird von Akteuren vorgeführt.
+
+
+== Die Tragödie (Kapitel 6–22) ==
+
+
+=== Definition der Tragödie ===
+Aristoteles definierte die Tragödie wie folgt:
+
+Zentral für diese Definition sind die Begriffe eleos und phobos. Diese wurden seit Lessings Hamburgischer Dramaturgie allgemein mit „Mitleid“ und „Furcht“ übersetzt; diese Übersetzung wurde jedoch von der neueren Forschung teils scharf kritisiert, so dass etwa Manfred Fuhrmann eleos und phobos die Begriffe als „Jammer“ und „Schaudern“ übersetzt.
+Diese Definition gibt eine nähere Beschreibung der von einer Tragödie geleisteten mimêsis:
+
+Gegenstand der mimêsis in einer Tragödie sind ethisch gute Handlungen.
+Mittel der mimêsis in einer Tragödie sind:
+der logos, d. h. die geformte Sprache;
+der Rhythmus, d. h. der durch zeitliches Regelmaß gegliederte Ablauf;
+die harmonia bzw. das melos, d. h. die wechselnde Tonhöhe, die Melodie in den gesungenen Partien (nicht durchgängig).
+Weise der mimêsis in einer Tragödie ist die Vermittlung einer Handlung (eines Mythos) durch ‚Tun‘ (dran/prattein), nicht etwa durch episches Erzählen.
+Zweck der mimêsis in einer Tragödie ist die Erreichung der katharsis beim Zuschauer. Diese soll nicht durch Effekte (Inszenierung und Musik), sondern vorzugsweise mittels des Handlungsaufbaus erfolgen, nämlich durch die Erregung von „Jammern und Schaudern“.
+
+
+=== Die sechs Teile der Tragödie ===
+Aristoteles unterscheidet sechs „Teile“ der Tragödie, die man heute als „qualitative Teile“ bezeichnet. In der Reihenfolge der Wichtigkeit für die Qualität der Tragödie sind dies gemäß Aristoteles:
+
+Handlung bzw. Plot (mythos)
+Charaktere (êthê)
+Gedanke/Erkenntnisfähigkeit (diánoia)
+sprachliche Form (lexis)
+Melodik (melopoiia)
+Inszenierung (opsis)
+Von diesen sechs Teilen nimmt in Aristoteles’ Darstellung die Handlung den weitaus größten Raum ein und ist für ihn auch der wichtigste Teil: Aristoteles nennt den Mythos die „Seele“ der Tragödie. Anhand dieses Übergewichts der Handlung gegenüber der sprachlichen Form (lexis) lässt sich Aristoteles’ Poetik schwerpunktmäßig eher als Struktur- denn als Stilpoetik bezeichnen.
+
+
+=== Der mythos (Plot, Handlung, Fabel) ===
+Der wichtigste qualitative Teil der Tragödie ist der mythos; dieses Wort ist hier jedoch nicht im heutigen Sinn von Mythos zu verstehen, sondern allgemein als der Plot bzw. die Handlung des Stückes, in älterer Terminologie die Fabel. Aristoteles begründet dies: „Denn die Tragödie ist nicht Nachahmung von Menschen, sondern von Handlung und Lebenswirklichkeit (praxeôn kai biou).“ Der Dichter hat sich für Erstellung und Form der Handlung also in erster Linie nicht nach der Identität des Helden, sondern nach dem Gehalt der darzustellenden Handlung zu richten.
+
+
+==== Ganzheit und Einheit der Handlung ====
+Die wichtigsten Kriterien für einen guten Handlungsaufbau sind Ganzheit und Einheit. Sie sind genau dann gegeben, wenn alle im behandelten mythos vorkommenden Elemente (a) nicht fehlen dürfen (Ganzheit) und (b) notwendig an ihrer jeweiligen Stelle innerhalb des mythos auftreten müssen (Einheit).
+
+
+==== Wahrscheinlichkeit und Notwendigkeit der Handlung ====
+Kriterium dafür, dass eine Handlung bzw. ein Handlungsverlauf für die Tragödie geeignet ist, ist nicht, dass sie wirklich stattgefunden hat, sondern dass sie allgemeinen Charakter besitzt. Nach Aristoteles gilt,
+
+Wahrscheinlichkeit und Notwendigkeit spezifizieren also die mimêsis der Tragödie und ihren Bezug zur Wirklichkeit genauer. Aufgrund dessen zeigt sich auch, warum Aristoteles die Dichtung hochschätzt: Während ein Historiker mitteilen muss, was in Wirklichkeit geschehen ist, damit aber auch zufällige und sinnlose Ereignisse wiedergeben muss, soll der Dichter mitteilen, was geschehen „könnte“ und in der Regel auch „sollte“. Da die Beschäftigung mit dem Allgemeinen und notwendig oder zumindest in der Regel Eintretenden jedoch für Aristoteles ein typisches Kennzeichen des philosophischen Denkens ist, kann er urteilen:
+
+
+=== Was macht eine gute Tragödie aus? (Kap. 13–14) ===
+Aristoteles erklärt, dass Tragödien, die gewisse Momente aufweisen, bzw. gewisse Momente auf bestimmte Art und Weise verwenden, besser sind als andere. Der wichtigste Bereich ist hier wiederum der Handlungsaufbau bzw. -verlauf (mythos).
+
+In der besten Tragödie wird dargestellt, wie ein ethisch guter Charakter einen Umschlag vom Glück ins Unglück erlebt, und zwar nicht wegen seiner Schlechtigkeit oder Gemeinheit, sondern wegen eines Irrtums (hamartia), der in der Regel aus fehlendem Wissen über eine Situation hervorgeht.
+In der zweitbesten Tragödie finden die sittlich Guten und die sittlich Schlechten ein entgegengesetztes Ende.
+Auf keinen Fall darf man dagegen zeigen:
+
+„wie makellose Männer einen Umschlag vom Glück ins Unglück erleben“ (das wäre weder jammervoll noch schaudererregend, sondern abscheulich);
+„wie Schufte einen Umschlag vom Unglück ins Glück erleben“ (das wäre die untragischste aller Möglichkeiten, weil sie keine der erforderlichen Qualitäten hat: sie ist weder menschenfreundlich noch jammervoll noch schaudererregend);
+„wie der ganz Schlechte einen Umschlag vom Glück ins Unglück erlebt“ (das wäre zwar „menschenfreundlich“, aber weder jammervoll noch schaudererregend).
+Weitere wichtige Kriterien beziehen sich – in weiter gefasstem Sinne – auf den Handlungsaufbau, die Handlungsführung und die Beschaffenheit der Charaktere. Hinsichtlich der Handlungsführung ist es laut Aristoteles besonders gut, wenn einer die entscheidende Tat ohne Einsicht ausführt, aber Einsicht erlangt, nachdem er die Tat ausgeführt hat (wie das Oidipus in der Tragödie des Sophokles geschieht). Am besten ist es jedoch laut Aristoteles, wenn einer aus Unkenntnis beabsichtigt, die Tat auszuführen, aber Einsicht erlangt, bevor er sie ausführt. Da dieses Urteil (Kap. 14) mit der Erklärung, dass die beste Tragödie einen Umschlag vom Glück ins Unglück darstelle (Kap. 13), unvereinbar erscheint, besteht ein möglicher  Widerspruch zwischen Kapitel 13 und 14 hinsichtlich der besten Tragödie.
+Hinter diesen Unterscheidungen für eine bessere bzw. schlechtere Tragödie zeigt sich (a) das ethische Kriterium der Darstellung eines sittlich guten Menschen und (b) das Kriterium der Darstellung einer Handlung, die bei der Rezeption des Stoffes (und nicht nur des aufgeführten Stückes) „Jammer und Schaudern“, eleos und phobos hervorruft.
+
+
+== Das Epos (Kap. 23–26) ==
+Das Epos ähnelt der Tragödie wegen des gemeinsamen Gegenstandes, da auch das Epos sittlich gute Figuren darstellt bzw. darstellen soll. Diese Ähnlichkeit hat einen hohen Stellenwert, und dass in der Folge im Tragödienteil oftmals epische Beispiele vorkommen, zeigt wiederum die Wichtigkeit der Rezeption.
+Das Epos unterscheidet sich von der Tragödie in folgenden Punkten:
+
+Es benutzt als Mittel der mimêsis keine musikalischen Bestandteile und keine Inszenierung.
+Die mimêsis des Epos hat im Gegensatz zu jener der Tragödie berichtenden, eben ‚epischen‘ Charakter.
+Das Epos kennt nur ein Versmaß: den daktylischen Hexameter.
+Auch die weit größere Ausdehnung (Länge) des Epos ist ein wichtiger Unterschied.
+Das Epos ist nach Aristoteles der Tragödie in zwei Punkten unterlegen:
+
+Die Tragödie besitzt den geringeren Umfang, weswegen sie mehr Vergnügen bereite.
+Die Tragödie weist eine straffere Handlungseinheit auf, d. h. es werden nicht wie im Epos mehrere Handlungsstränge dargestellt.
+
+
+== Zusammenfassende Charakterisierung ==
+Indem Aristoteles in der Poetik immer wieder Beispiele aus Dramen und Epen bespricht und mittels seines Begriffsinstrumentariums analysiert, verbindet er eine Analyse des Gegebenen mit der Formulierung verbindlicher Regeln (beispielsweise in der Aufstellung der Rangfolge von Tragödienarten) und der Hervorhebung entscheidender Elemente (z. B. dass der Held einer Tragödie möglichst keine Einsicht in die Handlungen haben soll, bevor er sie ausführt). Die aristotelische Poetik verbindet also deskriptive und präskriptive Elemente.
+Da Aristoteles die Handlung, den mythos in den Vordergrund sowohl seiner Analyse als auch hinsichtlich der Bedeutung des Kerns einer Dichtung stellt – also mittels der Nachahmung dessen, was aufgrund von Wahrscheinlichkeit oder Notwendigkeit geschehen könnte, das Allgemeine im menschlichen Handeln zu zeigen –, erweist sich seine Poetik in moderner Terminologie eher als Struktur- denn als Stilpoetik.
+Die Poetik ist auch deshalb bedeutsam, weil Aristoteles mit ihr eine Kritik an der Ideenlehre seines Lehrers Platon formuliert hat. Kerngedanken der Ideenlehre, die zugleich eine Ablehnung der darstellenden Künste zur Folge hatten, hatte Platon im 10. und mit dem Höhlengleichnis im 7. Buch seines Dialogs Politeia vorgetragen. Die sinnlich wahrnehmbaren Dinge sind demnach Abbilder (Nachahmung) einer wahren Seinsform, der Ideen. Indem die Dinge als Abbild (Nachahmung) an den Ideen, dem wahren Sein, lediglich teilhaben, stellen sie eine Seinsform zweiter, also geringerer Ordnung dar. Die Darstellung dieser Dinge wiederum auf der Bühne oder in der Malerei ist infolgedessen als Abbild eines Abbildes des wahren Seins zu verstehen und daher in hohem Maße unvollkommen und wertlos.
+Zudem setzte Platon den ethischen Grundsatz voraus, dass die Dichtung der Wahrheit verpflichtet sei, um so zur sittlichen Besserung beizutragen. Die Vernunft gebiete den Schmerz (pathos) gefasst zu ertragen. Die Leidenschaft hingegen verleitete zum Wehklagen über den Schmerz. Indem die Dichtung sich an diese niederen Kräfte, an die Leidenschaften wende, verleite sie zum unvernünftigen Handeln, zum Jammern (eleos).
+Aristoteles wendet sich nun mit seiner Poetik gegen diese Auffassung Platons und weist so der Dichtung einen völlig anderen, höheren Stellenwert zu. Er lehnt den Gedanken, einer gestaffelten Abbildung der Ideen in der Dichtung als unsinnig ab. Stattdessen argumentiert er, dass das wahre Sein in der Verbindung von Form (Darstellungsweise) und Inhalt der Dichtung verwirklicht, sozusagen geschaffen werde. Eine abstrakte Idee, die jenseits der sinnlich wahrnehmbaren Dinge existiere, verneint Aristoteles. Das Ziel (telos) der Dichtung liegt damit im Vollzug der Dichtung, in der Verwirklichung, aus der das Sein erst entstehe. Fuhrmann hat daher zu Recht von einer Umprägung der platonischen Idee zu einer Entelechie gesprochen.
+Aristoteles exemplifiziert seine Überlegungen beispielsweise in Kapitel 13 der Poetik, indem er die Heroen als Menschen und nicht wie bei Platon als gottähnliche Wesen auffasst. Die gattungstheoretischen Überlegungen, die er zur Tragödie anstellt, dienen dem Ausschluss bestimmter Handlungsweisen in der Dichtung, während Platon die Dichtung in ihrer Gesamtheit diskreditierte und verwarf. Anders als Platon spricht Aristoteles den gemäßigten Leidenschaften eine nützliche Funktion zu, die eine bildende Wirkung haben können. Indem die Dichtung Jammer (eleos) und Schaudern (phobos, Furcht) hervorrufe, könne sie eine reinigende Wirkung (katharsis) auf die menschliche Seele haben.
+Dieses Konzept wird insbesondere durch die Wiederentdeckung der Antike während der literarischen Epochen der Aufklärung und der Klassik erneut aufgegriffen, entwickelt und weiter tradiert.
+
+
+== Rezeption und Wirkungsgeschichte ==
+Vor der Renaissance fand die Poetik des Aristoteles keine Beachtung. Im 10. Jahrhundert wurde sie von Abu Bishr Matta ibn Yunus ins Arabische übersetzt, im 13. Jahrhundert von Wilhelm von Moerbeke ins Lateinische; doch gingen davon kaum Impulse aus, da die Gattungen, auf die sich Aristoteles berief (Tragödie und Epos), faktisch unbekannt waren. Bei Simon Papiensis Bevilaqua in Venedig wurde 1498 die erste Übersetzung der Poetik durch Giorgio Valla gedruckt. Im 16. Jahrhundert entstanden in Italien erste Kommentare zur Poetik, die freilich erst mühsam erschlossen werden musste (u. a. von Lodovico Castelvetro, der die angebliche Lehre von den drei Einheiten aus dem Werk herausdestillierte). Die Blüte erreichte der Aristotelismus in der französischen Frühklassik des 17. Jahrhunderts in den Trois discours sur le poème dramatique von Pierre Corneille. Hier begann die Theorie jedoch zur Regelpoetik zu erstarren, so durch das Kompendium des Abbé d'Aubignac, François Hédelin. Die kritische Auseinandersetzung mit dem Werk begann zuerst in England (Tyrwhitt 1794).
+Die erste deutsche Übersetzung von Michael Conrad Curtius erschien 1753 und war völlig unzureichend. Lessing rezipierte die Aristotelische Poetik, um seiner Idee des bürgerlichen Trauerspiels ein dramentheoretisches Fundament zu verleihen. In seiner Hamburgischen Dramaturgie argumentiert er weitgehend mit Aristoteles, aber gegen die dogmatische Regelstrenge und Standespoetik der Franzosen. Er lässt (freilich infolge einer Fehlübersetzung) als Affekte nur Mitleid und Furcht, also mildere Gefühlsbewegungen gelten, verwirft aber die intensiveren Affekte der Bewunderung (die von der Poetik der Renaissance in den Mittelpunkt gestellt worden war) und des Schreckens. Kurze Zeit später wurde der Gedanke einer Regelpoetik durch die Geniebewegung des Sturm und Drang obsolet. Im 19. Jahrhundert wurde die Poetik des Aristoteles fast nur noch von Philosophen rezipiert. Erst Brecht befasste sich wieder mit ihr im Sinne eines Praxisleitfadens zum Schreiben von Stücken und entwarf – teils zustimmend, teils ablehnend – eine „antiaristotelische“ Poetik des Epischen Theaters.
+
+
+== Textausgaben, Kommentare und Übersetzungen ==
+Aristoteles: Poetik. Übersetzung, Einleitung und Anmerkungen von Olof Gigon. Reclam, Stuttgart 1961 (RUB 2337) [Mit Genehmigung des Artemis-Verlags, Zürich] ISBN 3-15-002337-8.
+Aristotelis de arte poetica liber. Recognovit brevique adnotatione critica instruxit Rudolfus Kassel. Clarendon Press, Oxford 1965 und Nachdrucke. ISBN 0-19-814564-0. – Führende wissenschaftliche Textausgabe.
+Aristotle: Poetics. Introduction, Commentary and Appendixes by Donald William Lucas. Clarendon Press, Oxford 1968, Nachdruck mit Verbesserungen 1972, Nachdruck 1978 und als paperback 1980. – Immer noch nützlicher Handkommentar mit Abdruck des Texts von Rudolf Kassel.
+Aristoteles: Poetik. Griechisch/deutsch. Übersetzt und herausgegeben von Manfred Fuhrmann. Bibliografisch ergänzte Ausgabe, Stuttgart 1994 (RUB 7828), ISBN 978-3-15-007828-0. – Deutsche Standard-Übersetzung mit dem Text von Rudolf Kassel.
+Aristoteles: Poetik. Übersetzt und erläutert von Arbogast Schmitt (= Aristoteles, Werke in deutscher Übersetzung, Band 5). Akademie-Verlag, Berlin 2008, ISBN 978-3-05-004430-9. – Maßgeblicher Kommentar
+Leonardo Tarán, Dimitri Gutas: Aristotle, Poetics. Editio Maior of the Greek Text with Historical Introductions and Philological Commentaries (= Mnemosyne Supplement Band 338). Brill, Leiden u. a. 2012, ISBN 90-04-21740-1. – Neuer kritischer Text.
+Martin Hose: Aristoteles, ›Poetik‹: Einleitung, Text, Übersetzung und Kommentar. Mit einem Anhang: Texte zur aristotelischen Literaturtheorie (= Sammlung wissenschaftlicher Commentare). De Gruyter, Berlin 2022, ISBN 978-3-11-070319-1. 
+
+
+== Literatur (Auswahl) ==
+
+
+=== Einführungen ===
+Wolfgang Detel: Aristoteles. Durchgesehene und erweiterte Ausgabe. Reclam, Ditzingen 2021, ISBN 978-3-15-019690-8, S. 166–187.
+Manfred Fuhrmann: Die Dichtungstheorie der Antike. Aristoteles, Horaz, Longin. 2. Auflage, Düsseldorf/Zürich 2003; 1. Auflage, Wissenschaftliche Buchgesellschaft, Darmstadt 1973, S. 3–98.
+Christof Rapp: Aristoteles zur Einführung. Junius-Verlag, Hamburg 2004, ISBN 3-88506-398-0, S. 67–77.
+
+
+=== Hilfsmittel ===
+Hermann Bonitz (Hrsg.): Index Aristotelicus. Reimer, Berlin 1870. (Digitalisat)
+Joseph Denooz: Aristote, Poetica. Index verborum. Liste de fréquence. Liège 1988.
+Otfried Höffe (Hrsg.): Aristoteles-Lexikon (= Kröners Taschenausgabe. Band 459). Kröner, Stuttgart 2005, ISBN 3-520-45901-9.
+André Wartelle: Lexique de la Poétique d’Aristote. Paris 1985.
+
+
+=== Bibliographie ===
+Omert J. Schrier: The Poetics of Aristotle and the Tractatus Coislinianus. A bbliography from about 900 till 1996. Brill, Leiden 1998.
+
+
+=== Sammelbände ===
+Øivind Andersen, Jon Haarberg (Hrsg.): Making Sense of Aristotle: Essays in Poetics. London 2001.
+Pierre Destrée (Hrsg.): La Poétique d’Aristote: Lectures morales et politiques de la tragédie. Paris 2003.
+Diego Lanza (Hrsg.): La poetica di Aristotele e la sua storia. Pisa 2002.
+Otfried Höffe (Hrsg.): Aristoteles, Poetik (= Klassiker Auslegen, Band 38). Akademie Verlag, Berlin 2009. – Originalbeiträge zu den einzelnen Abschnitten der Poetik
+Matthias Luserke (Hrsg.): Die Aristotelische Katharsis. Dokumente ihrer Deutung im 19. und 20. Jahrhundert. Hildesheim 1991.
+Amélie Oksenberg Rorty (Hrsg.): Essays on Aristotle’s ‘Poetics’. Princeton 1992. – Sammlung von Essays über Einzelaspekte
+
+
+=== Abhandlungen ===
+Elizabeth Belfiore: Tragic Pleasures. Aristotle on Plot and Emotion. Princeton 1992.
+Jacob Bernays: Zwei Abhandlungen über die Aristotelische Theorie des Dramas. Hertz, Berlin 1880. (Digitalisat)
+Jan Maarten Bremer: Hamartia. Tragic error in the poetics of Aristotle and in Greek tragedy. Amsterdam 1969.
+Samuel Henry Butcher: Aristotle’s Theory of Poetry and Fine Art. 4. Auflage, London 1907, Nachdruck New York 1951.
+Viviana Cessi: Erkennen und Handeln in der Theorie des Tragischen bei Aristoteles. Frankfurt am Main 1987.
+Pier Luigi Donini: La tragedia e la vita. Saggi sulla Poetica di Aristotele. Alessandria 2004.
+Gerald Frank Else: Plato and Aristotle on Poetry. Chapel Hill 1986.
+Georg Finsler: Platon und die Aristotelische Poetik. Leipzig 1900.
+Hellmut Flashar: Die Poetik des Aristoteles und die griechische Tragödie. In: Poetica 16, 1984, 1–23.
+Leon Golden: Aristotle on Tragic and Comic Mimesis. Scholars Press, Atlanta, Georgia 1992.
+Stephen Halliwell: Aristotle’s Poetics. Duckworth, London 1986, Nachdruck 1998.
+George F. Held: Aristotle’s Teleological Theory of Tragedy and Epic. Heidelberg 1995.
+Jens Holzhausen: Paideía oder Paidiá. Aristoteles und Aristophanes zur Wirkung der griechischen Tragödie. Stuttgart 2000.
+Hans-Jürgen Horn: Zur Begründung des Vorrangs der praxis vor dem ethos in der aristotelischen Tragödientheorie. In: Hermes 103, 1975, S. 292–299.
+Richard Janko: Aristotle on Comedy. Towards a Reconstruction of Poetics II. London 2002.
+Richard Kannicht: Handlung als Grundbegriff der aristotelischen Theorie des Dramas. In: Poetica 8, 1976, S. 326–336.
+Jürgen Leonhardt: Phalloslied und Dithyrambos. Aristoteles über den Ursprung des griechischen Dramas. Heidelberg 1991 (= Abhandlungen der Heidelberger Akademie der Wissenschaften, Philosophisch-Historische Klasse 1991,4) ISBN 3-533-04353-3.
+Ada Neschke-Hentschke: Die „Poetik“ des Aristoteles. Textstruktur und Textbedeutung. Zwei Bände, Frankfurt am Main 1980.
+Alexandre Ničev: La Catharsis tragique d'Aristote. Nouvelles contributions. Sofia 1982.
+Wolfgang Schadewaldt: Furcht und Mitleid? Zur Deutung des Aristotelischen Tragödiensatzes. In: Hermes 83, 1955, S. 129–171.
+Arbogast Schmitt: Aristoteles und die Moral der Tragödie. In: Anton Bierl, Peter von Möllendorff (Hrsg.), Orchestra. Drama, Mythos, Bühne. Festschrift für Hellmut Flashar anläßlich seines 65. Geburtstages. Stuttgart, Leipzig 1994, S. 331–343.
+Arbogast Schmitt: Die Literatur und ihr Gegenstand in der Poetik des Aristoteles. In: Thomas Buchheim, Hellmut Flashar, Richard A. H. King (Hrsg.), Kann man heute noch etwas anfangen mit Aristoteles? Hamburg 2003, S. 184–219.
+Eckart Schütrumpf: Die Bedeutung des Wortes êthos in der Poetik des Aristoteles. München 1970.
+Walter Seitter: Poetik lesen. 2 Bände, Merve, Berlin 2010–2014, ISBN 978-3-88396-278-8, ISBN 978-3-88396-320-4.
+Gregory Michael Sifakis: Aristotle on the Function of Tragic Poetry. Heraklion 2001.
+Werner Söffing: Deskriptive und normative Bestimmungen in der Poetik des Aristoteles. Amsterdam 1981.
+Johannes Vahlen: Beiträge zu Aristoteles’ Poetik. Leipzig 1914.
+Andreas Zierl: Affekte in der Tragödie. Orestie, Oidipus Tyrannos und die Poetik des Aristoteles. Akademie-Verlag, Berlin 1994, ISBN 3-05-002641-3 (zugleich Dissertation, München 1990).
+
+
+=== Rezeption ===
+Roman Dilcher: Furcht und Mitleid! Zu Lessings Ehrenrettung. In: Antike und Abendland 42, 1996, S. 85–102.
+Hellmut Flashar: Aristoteles und Brecht. In: Poetica 6, 1974, S. 17–37.
+Manfred Fuhrmann: Die Dichtungstheorie der Antike. Aristoteles, Horaz, Longin. 2. Auflage, Düsseldorf/Zürich 2003; 1. Auflage, Wissenschaftliche Buchgesellschaft, Darmstadt 1973, S. 185–308.
+Ari Hiltunen: Aristoteles in Hollywood. Das neue Standardwerk der Dramaturgie. Lübbe, Bergisch Gladbach 2001. – Übertragung und Interpretation der Thesen in der Poetik in neue, heute verständlichere Sprache und Vergleich mit den heutigen Medien vom Shakespeare-Stück bis zum Computerspiel
+Brigitte Kappl: Die Poetik des Aristoteles in der Dichtungstheorie des Cinquecento (= Untersuchungen zur antiken Literatur und Geschichte, Band 83). De Gruyter, Berlin 2006.
+Max Kommerell: Lessing und Aristoteles. Untersuchung über die Theorie der Tragödie. Klostermann, Frankfurt am Main 1940, 4. Auflage 1970, Nachdruck 1984.
+Mats Malm: The Soul of Poetry Redefined. Vacillations of Mimesis from Aristotle to Romanticism. Museum Tusculanum Press, Kopenhagen 2012.
+Christine Mauduit, Guillaume Navaud, Olivier Renaut (Hrsg.): Brill’s Companion to the Reception of Aristotle’s Poetics. (= Brill’s Companions to Classical Reception, 28). Brill, Leiden 2024.
+Augusto Rostagni: Aristotele e Aristotelismo nella storia dell’Estetica antica. Origini, significato, svolgimento della „Poetica“. In: Studi italiani di filologia classica 2, 1922, S. 1–147.
+Arbogast Schmitt: Aristoteles. Poetik. In: Christine Walde (Hrsg.): Die Rezeption der antiken Literatur. Kulturhistorisches Werklexikon (= Der Neue Pauly. Supplemente. Band 7). Metzler, Stuttgart/Weimar 2010, ISBN 978-3-476-02034-5, Sp. 121–148.. – Überblick
+Arbogast Schmitt: Mimesis bei Aristoteles und in den Poetikkommentaren und Poetiken der Renaissance. In: Gerhard Neumann, Andreas Kablitz (Hrsg.), Mimesis und Simulation. München 1998, 17–53.
+Arata Takeda: Die verkannte Tragödie. Theoriebildung und Wissenswandel zwischen Antike und Neuzeit. Velbrück Wissenschaft, Weilerswist 2025, ISBN 978-3-95832-386-5. – die Geschichte der Auseinandersetzung mit dem Widerspruch zwischen Kapitel 13 und 14 der Poetik, systematisch dokumentiert und analysiert
+Martin Thau: Aristoteles’ Poetik – für Spannungsautoren 2014, ISBN 978-1-5009-8505-9. – die entscheidenden Rezepte der Poetik: in Überschriften zusammengefasst, durch geklammerte Einschübe und anschließende Kurz-Deutungen erläutert
+
+
+== Weblinks ==
+Griechischer Originaltext beim Perseusprojekt
+Aristoteles' Poetik für Drehbuchautoren
+PA149,M1 griechischer Text (Bekker) in der Google-Buchsuche
+Über die Dichtkunst beim Aristoteles (Übers. Alfred Gudemann 1921) beim Project Gutenberg
+lateinisch: Didot – griechisch: Kassel – deutsch: C. Walz
+
+
+== Einzelnachweise ==

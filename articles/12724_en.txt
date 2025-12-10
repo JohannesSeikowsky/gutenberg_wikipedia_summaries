@@ -1,0 +1,91 @@
+William Shakespeare's sonnet 116 was first published in 1609. Its structure and form are a typical example of the Shakespearean sonnet.
+
+The poet begins by stating he does not object to the "marriage of true minds", but maintains that love is not true if it changes with time; true love should be constant, regardless of difficulties. In the seventh line, the poet makes a nautical reference, alluding to love being much like the north star is to sailors. True love is, like the polar star, "ever-fixed". Love is "not Time's fool", though physical beauty is altered by it. The movement of 116, like its tone, is careful, controlled, laborious…it defines and redefines its subject in each quatrain, and this subject becomes increasingly vulnerable.It starts out as motionless and distant, remote, independent; then it moves to be "less remote, more tangible and earthbound"; the final couplet brings a sense of "coming back down to earth".  Ideal love is maintained as unchanging throughout the sonnet, and Shakespeare concludes in the final couplet that he is either correct in his estimation of love, or else that no man has ever truly loved.  
+
+
+== Structure ==
+Sonnet 116 is an English or Shakespearean sonnet. The English sonnet has three quatrains, followed by a final rhyming couplet. It follows the typical rhyme scheme of the form abab cdcd efef gg and is composed in iambic pentameter, a type of poetic metre based on five pairs of metrically weak/strong syllabic positions. The 10th line exemplifies a regular iambic pentameter:
+
+ ×  /   ×   /  ×    /  ×     /  ×     /
+Within his bending sickle's compass come; (116.10)
+
+This sonnet contains examples of all three metrical variations typically found in literary iambic pentameter of the period. Lines 6 and 8 feature a final extrametrical syllable or feminine ending:
+
+  ×   /    ×   /  ×    /   ×   / ×    /(×)
+That looks on tempests and is never shaken; (116.6)
+
+/ = ictus, a metrically strong syllabic position. × = nonictus. (×) = extrametrical syllable.
+Line 2 exhibits a mid-line reversal:
+
+×  /  ×  / × /      /   ×   ×   / 
+Admit impediments. Love is not love (116.2)
+
+A mid-line reversal can also be found in line 12, while lines 7, 9, and 11 all have potential initial reversals. Finally, line 11 also features a rightward movement of the third ictus (resulting in a four-position figure, × × / /, sometimes referred to as a minor ionic):
+
+ /   ×  ×    /   ×    ×    /    /    ×    / 
+Love alters not with his brief hours and weeks, (116.11)
+
+The meter demands that line 12's "even" function as one syllable.
+
+
+== Analysis ==
+
+
+=== Overview ===
+Sonnet 116 is one of Shakespeare's most famous love sonnets, but some scholars have argued the theme has been misunderstood. Hilton Landry believes the appreciation of 116 as a celebration of true love is mistaken, in part because its context in the sequence of adjacent sonnets is not properly considered. Landry acknowledges the sonnet "has the grandeur of generality or a 'universal significance'," but cautions that "however timeless and universal its implications may be, we must never forget that Sonnet 116 has a restricted or particular range of meaning simply because it does not stand alone." Carol Thomas Neely writes that, "Sonnet 116 is part of a sequence which is separate from all the other sonnets of Shakespeare because of their sense of detachment. They aren't about the action of love and the object of that love is removed in this sequence which consists of Sonnets 94, 116, and 129". This group of three sonnets does not fit the mold of the rest of Shakespeare's sonnets, therefore, and they defy the typical concept and give a different perspective of what love is and how it is portrayed or experienced. "Though 116 resolves no issues, the poet in this part of the sequence acknowledges and accepts the fallibility of his love more fully than he could acknowledge that of the young man's earlier".
+Other critics of Sonnet 116 have argued that one cannot rely on the context of the sonnet to understand its tone.  They argue that since "there is no indisputably authoritative sequence to them, we cannot make use of context as positive evidence for one kind of tone or another."  Shakespeare does not attempt to come to any significant conclusion within this particular sonnet because no resolution is needed.
+In 2025, a new discovery by Oxford University PhD student Leah Veronese has reopened the debate on interpretations of Sonnet 116. Sonnet 116 would have been an inspiration to the fighters of the English Civil War in the mid-17th century. The "fighting" version is found in a manuscript that belonged to Elias Ashmole, who was a strong supporter of the monarchy during the Civil War. The Sonnet was included in a collection of other militant writings and featured seven additional lines. The famous lines of the first quatrain are rewritten as follows: "Self blinding error seize all those minds/
+Who with false appellations call that love/
+Which alters when it alterations finds".
+
+
+=== Quatrain 1 ===
+The sonnet begins without the poet's apparent acknowledgment of the compelling quality of the emotional union of "true minds". As Helen Vendler has observed, "This famous almost 'impersonal' sonnet on the marriage of true minds has usually been read as a definition of true love." This is not a unique theme of Shakespeare's sonnets. Carol Neely observes that "Like [sonnet] 94, it defines and redefines its subject in each quatrain and this subject becomes increasingly concrete, attractive and vulnerable." Shakespeare tends to use negation to define love according to Lukas Erne, "The first and the third [quatrains], it is true, define love negatively: 'love is not...'; Love's not...'. The two quatrains are further tied together by the reappearance of the verbs 'to bend' and 'to alter'." Love is defined in vague terms in the first quatrain.
+"The stress on the dialectical definition of what love is not accentuates the dogmatic character of this sonnet with which Shakespeare suggests in verse to his interlocutors what true love is: true love is like a marriage sealed before a higher entity (God or His creation), which testifies to its duration, intensity, stability and resistance. A Love of this type watches over the unstable and peregrine life of men at the mercy of their inner dismay and the real world's tempests" (E. Passannanti).
+Garry Murphy observes that the meaning shifts with the distribution of emphasis. He suggests that in the first line the stress should properly be on "me": "Let ME not to the marriage of true minds..."; the sonnet then becomes "not just a gentle metaphoric definition but an agitated protest born out of fear of loss and merely conveyed by the means of definition." C.R. B. Combellack disputes the emphasis placed on the "ME" due to the "absence from the sonnet of another person to stand in contrast. No one else is addressed, described, named, or mentioned." Murphy also claims that "The unstopped first and second lines suggest urgency in speech, not leisurely meditation." He writes that the short words when delivered would have the effect of "rapid delivery" rather than "slow rumination". Combellack questions this analysis by asking whether "urgency is not more likely to be expressed in short bursts of speech?"  He argues that the words in the sonnet are not intended to be read quickly and that this is simply Murphy's subjective opinion of the quatrain.  Murphy believes the best support of the "sonnet itself being an exclamation" comes from the "O no" which he writes a person would not say without some agitation. Combellack responds that "O no" could be used rather calmly in a statement such as "O no, thank you, but my coffee limit is two cups." If anything, Combellack suggests, the use of the "O" softens the statement and it would require the use of different grammar to suggest that the sonnet should be understood as rapid speech. (depending on the situation)
+The poetic language leaves the sort of love described somewhat indeterminate; "The 'marriage of true minds' like the 'power to hurt' is troublesomely vague open to a variety of interpretations." Interpretations include the potential for religious imagery and the love being for God, "Lines one and two echo the Anglican marriage service from the Book of Common Prayer." The concept of the marriage of true minds is thought to be a highly Christian; according to Erne, "The mental picture thus called up in our minds of the bride and bridegroom standing up front in a church is even reinforced by the insistence on the word alter/altar in the following line."
+
+
+=== Quatrain 2 ===
+The second quatrain explains how love is unchanging according to Neely, "Love is a star, remote, immovable, self-contained, and perhaps, like the 'lords and owners of their faces,' improbably and even somewhat unpleasantly cold and distant." The second quatrain continues Shakespeare's attempt to define love, but in a more direct way. Shakespeare mentions "it" in the second quatrain according to Douglas Trevor, "The constancy of love in sonnet 116, the "it" of line five of the poem, is also – for the poet – the poetry, the object of love itself." Not only is there a direct address to love itself, the style Shakespeare's contemplation becomes more direct. Erne states, "Lines five to eight stand in contrast to their adjacent quatrains, and they have their special importance by saying what love is rather than what it is not." This represents a change in Shakespeare's view that love is completely undefinable. This concept of unchanging love is focused in the statement, "'[love] is an ever-fixed mark'. This has generally been understood as a sea mark or a beacon." The image of an ever-fixed mark is elusive, though, and can suggest also a "symbol" whose meaning is well established in the esoteric tradition and Christian iconography. The symbol is in fact an ever-fixed mark that is unbent by climatic changes such as a transient tempest. The ever-fixed mark, from the point of view of this kind of theological reading, cannot symbolize a beacon given that a beacon is subject to erosion and is therefore not eternal. The image of the tempest is allegorically a circumstance and condition, and represents the human life struggling before  the fixity of the symbol.(E. Passannanti, 2000) During the Reformation there was dispute about Catholic doctrines, "One of the points of disagreement was precisely that the Reformers rejected the existence of an ever-fixed, or in theological idiom, 'indelible' mark which three of the sacraments, according to Catholic teaching, imprint on the soul." This interpretation makes God the focus of the sonnet as opposed to the typical concept of love.
+The compass is also considered an important symbol in the first part of the poem. John Doebler identifies a compass as a symbol that drives the poem, "The first quatrain of this sonnet makes implied use of the compass emblem, a commonplace symbol for constancy during the period in which Shakespeare's sonnets were composed." Doebler identifies certain images in the poem with a compass, "In the Renaissance the compass is usually associated with the making of a circle, the ancient symbol of eternity, but in sonnet 116 the emphasis is more upon the contrasting symbolism of the legs of the compass." The two feet of the compass represent the differences between permanent aspects of love and temporary ones. These differences are explained as, "The physical lovers are caught in a changing world of time, but they are stabilized by spiritual love, which exists in a constant world of eternal ideals." The sonnet uses imagery like this to create a clearer concept of love in the speaker's mind.
+
+
+=== Quatrain 3 ===
+In the third quatrain, "The remover who bends turns out to be the grim reaper, Time, with his bending sickle. What alters are Time's brief hours and weeks…" and "Only the Day of Judgment (invoked from the sacramental liturgy of marriage) is the proper measure of love's time". The young man holds the value of beauty over that of love. When he comes to face the fact that the love he felt has changed and become less intense and, in fact, less felt, he changes his mind about this person he'd loved before because what he had felt in his heart wasn't true. That the object of his affection's beauty fell to "Time's Sickle" would not make his feelings change. This fact is supported by Helen Vendler as she wrote, "The second refutational passage, in the third quatrain, proposes indirectly a valuable alternative law, one approved by the poet-speaker, which we may label "the law of inverse constancy": the more inconstant are time's alterations (one an hour, one a week), the more constant is love's endurance, even to the edge of doom". Vendler believes that if the love the young man felt was real it would still be there after the beauty of that love's object had long faded away, but he "has announced the waning of his own attachment to the speaker, dissolving the "marriage of true minds"" Shakespeare is arguing that if love is true it will stand against all tests of time and adversity, no manner of insignificant details such as the person's beauty fading could alter or dissolve "the marriage of true minds".
+
+
+=== Couplet ===
+The couplet of Sonnet 116 Shakespeare went about explaining in the inverse. He says the opposite of what it would be natural to say about love. For instance, instead of writing something to the effect of 'I have written and men have loved', according to Nelson, Shakespeare chose to write, "I never writ, nor no man ever loved." Nelson argues that "The existence of the poem itself gives good evidence that the poet has written. It is harder to see, however, how the mere existence of the poem could show that men have loved. In part, whether men have loved depends upon just what love is…Since the poem is concerned with the nature of love, there is a sense in which what the poem says about love, if true, in part determines whether or not men have loved." Nelson quotes Ingram and Redpath who are in agreement with his statement when they paraphrase the couplet in an extended form: "If this is a judgment (or a heresy), and this can be proved against me, and by citing my own case in evidence, then I've never written anything, and no man's love has ever been real love."" Vendler states "Therefore, if he himself is in error on the subject of what true love is, then no man has ever loved; certainly the young man (it is implied) has not loved, if he has not loved after the steady fashion urged by the speaker, without alteration, removals, or impediments".
+By restating his authority as poet and moral watch almost in a sacramental manner on the theme of love, by the use of a paradox, Shakespeare rejects that he may be wrong in stating that true love is immortal: the fact that he has indeed written a lot to the point of having reached sonnet 116 on the theme of love and acquired fame for that is self evident that the opposite cannot be true, that is: what he says cannot be an error (E. Passannanti). Men too have indeed loved as love is ingrained in poetry and only lyric poets can testify of men's faculty of experiencing true love (E. Passannanti).
+Each of these critics agree in the essence of the Sonnet and its portrayal of what love really is and what it can withstand, for example, the test of time and the fading of physical attraction of the object of our love. The couplet is, therefore, that men have indeed loved both in true and honest affection (this being the most important part of the argument) as well as falsely in the illusions of beauty before just as Shakespeare has written before this sonnet.
+
+
+== Notes and references ==
+
+
+=== Sources ===
+Combellack, C.R.B. (1982). "Shakespeare's Sonnet 116". The Explicator. 41 (1): 12–14. doi:10.1080/00144940.1982.11483617. ISSN 1939-926X.
+Doebler, John (1964). "A Submerged Emblem in Sonnet 116". Shakespeare Quarterly. 15 (1). Folger Shakespeare Library: 109–110. doi:10.2307/2867968. ISSN 1538-3555. JSTOR 2867968.
+Erne, Lukas (2000). "Shakespeare's 'Ever-Fixed Mark': Theological Implications in Sonnet 116". English Studies. 81 (4). Routledge: 293–304. doi:10.1076/0013-838X(200007)81:4;1-F;FT293. ISSN 1744-4217. S2CID 162250320.
+Landry, Hilton (1967). "The Marriage of True Minds: Truth and Error in Sonnet 116". Shakespeare Studies. 3. University of Cincinnati: 98–110.
+Murphy, Garry (1982). "Shakespeare's Sonnet 116". The Explicator. 39 (1): 39–41. doi:10.1080/00144940.1980.11483423. ISSN 1939-926X.
+Neely, Carol Thomas (1977). "Detachment and Engagement in Shakespeare's Sonnets: 94, 116, and 129". PMLA. 92 (1). Modern Language Association: 83–95. doi:10.2307/461416. ISSN 0030-8129. JSTOR 461416. S2CID 163308405.
+Nelson, Jeffrey N.; Cling, Andrew D. (2000). "Love's Logic Lost: The Couplet of Shakespeare's Sonnet 116". ANQ: A Quarterly Journal of Short Articles, Notes and Reviews. 13 (3). Routledge: 14–19. doi:10.1080/08957690009598107. ISSN 1940-3364. S2CID 162306705.
+Passannanti, Erminia (2020). "William Shakespeare. Sonetto N. 116: Amore come simbolo di verità e resistenza". Academia.edu.
+Trevor, Douglas (2007). "Shakespeare's Love Objects". In Schoenfeldt, Michael (ed.). A Companion to Shakespeare's Sonnets. Grand Rapids: Blackwell Limited. doi:10.1111/b.9781405121552.2007.00015.x. ISBN 9781405121552.
+First edition and facsimile
+
+Variorum editions
+
+Modern critical editions
+
+
+== See also ==
+When Love Speaks
+
+
+== External links ==
+Shakespeare’s Sonnet 116: (explained in hindi)
+From the British Library and NPR, a reading of Sonnet 116 in a reproduction of Shakespeare's dialect
+ Sonnet 116 public domain audiobook at LibriVox

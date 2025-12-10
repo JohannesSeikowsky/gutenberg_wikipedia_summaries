@@ -1,0 +1,102 @@
+De re publica (On the Republic; see below) is a dialogue on Roman politics by Cicero, written in six books between 54 and 51 BC. The work does not survive in a complete state, and large parts are missing. The surviving sections derive from excerpts preserved in later works and from an incomplete palimpsest uncovered in 1819. Cicero uses the work to explain Roman constitutional theory. Written in imitation of Plato's Republic, it takes the form of a Socratic dialogue in which Scipio Aemilianus takes the role of a wise old man.
+The work examines the type of government that had been established in Rome since the kings. The development of the constitution is explained, and Cicero explores the different types of constitutions and the roles played by citizens in government. The work is also known for the Dream of Scipio, a fictional dream vision from the sixth book.
+
+
+== Title ==
+While already the Latin version of the title of this work is given in two versions (De re publica and De Republica), depending on source, the translation of the title of this work show even more variants, often based on the choice of the translator:  the expression "res publica" (which appears in the title of this work) is notoriously difficult to translate. Its modern English cognate, republic, (also similar terms in many other languages) has acquired quite different connotations from the original Latin meaning (res publica = most literally "the public matter"), rendering the term here problematic if not outright anachronistic in its implications. Because of the difficulties the title affords, there is no general consensus on how best to retain the sense of the Latin in translating the title. It is helpful to note that Cicero almost certainly had in mind the title of Plato's celebrated dialogue Republic (Greek: Πολιτεία, Politeia) when naming his dialogue. While Plato's dialogue is often translated as Republic, politeia translates more literally as "constitution," "regime," or "set-up," and the long tradition of calling the dialogue The Republic can be attributed to Cicero's own treatise and treatment in Latin.
+
+
+== Setting and dramatis personæ ==
+De re publica is in the format of a Socratic dialogue in which Scipio Aemilianus (who had died over twenty years before Cicero was born, 270 years after Socrates' death) takes the role of a wise old man — a typical feature of the genre. Cicero's treatise was politically controversial: by choosing the format of a philosophical dialogue he avoided naming his political adversaries directly. By employing various speakers to raise differing opinions, Cicero not only remained true to his favoured sceptical method of setting opposing arguments against one another (see, e.g., Carneades), but also made it more difficult for his adversaries to take him to task for what he had written.
+
+
+=== Setting ===
+The dialogue is portrayed as taking place in Scipio's estate, during three consecutive days. Each day is described in two books, with an introduction by Cicero preceding the dialogue of each book. A large part of the last book (the sixth) is taken by Scipio telling a dream he had: this passage is known as Somnium Scipionis, or "Scipio's dream".
+
+
+=== Participants ===
+In alphabetical order:
+
+Fannius, Gaius: Consul in 122 BC. Follower of Stoicism, historian and orator. Son-in-law to Laelius.
+Laelius, Gaius: Close friend and associate of Scipio, Consul in 140 BC, promoter of the study of literature and Philosophy.
+Manilius, Manius: Consul in 149 BC. Historian and legal scholar.
+Mucius Scaevola, Quintus: Legal scholar and patron of the young Cicero. Son-in-law to Laelius.
+Mummius, Spurius: Satirist and extreme defender of optimate interests. Brother of Lucius Mummius.
+Philus, Lucius Furius: Consul 136 BC, orator
+Rutilius Rufus, Publius: Politician admired for his honesty, dedicated to Stoicism.
+Scipio Aemilianus Africanus, P. Cornelius: Famous military and political leader 149–129 BC. Captured and destroyed Carthage in 146 BC. Restored order after assassination of Tiberius Gracchus in 133 BC and mediated between the political factions. Died suddenly and mysteriously in 129 BC.
+Tubero, Quintus Aelius: Scipio's nephew, tribune c. 129 BC. Legal scholar dedicated to Stoicism.
+As a letter to his brother Quintus (dated to November 54 BC) shows, Cicero very nearly redrafted the entire work so as to replace these characters with himself and his friends. Cicero showed an early draft of the treatise to a friend named Sallustius. However, Sallustius immediately recommended that Cicero redesign the work in order to set it in his own day, and substitute Cicero himself for Scipio Aemilianus: 'for he pointed out that these matters could be treated with much more authority if I spoke of the Republic in my own person'. Cicero was convinced by Sallustius' arguments, and he makes clear in the letter to Quintus that he intended to carry out this redraft. However, he must have changed his mind soon after, as the treatise as it survives is still set in Scipio Aemilianus' time.
+
+
+== Content ==
+Apart from the Greek philosophers mentioned above, Polybius was also an important source of inspiration for Cicero's political views.
+Since not all of the work survives, some of the content is surmised from references by other ancient authors.
+Book One: Contains a discussion between the protagonists of the political situation of their time. The theme of the work is given and some comments are made about the theory of constitutions.
+Book Two: An outline of Roman history and the development of the constitution.
+Book Three: The role of justice in government is examined, as are the different types of constitutions.
+Book Four: A discourse about education.
+Book Five: The characters converse about the qualities of the ideal citizen in government.
+Book Six: Little of this book survives except the Somnium Scipionis, which functions as the conclusion to the work.
+
+
+== Style ==
+Cicero carefully edited De re publica in order to achieve exalted style. Cicero used several archaic expressions in the treatise, even though he hadn't supported an archaistic movement in Latin literature. The causes were the setting of De re publica in the past and discussion of historical and legal matters. His later works contain fewer archaic words, but more neologisms. Archaistic words in De re publica are distributed irregularly. Among the surviving volumes, the frequency of outmoded words in Book II devoted to historical matters is two times higher compared to Book I where theoretical issues are discussed. Cicero tried to emulate speech of the dialogue's participants by reconstructing several aspects of spoken language of the Scipionic age. The treatise has other stylistic features: a large number of antitheses compared to other philosophical works and elements of archaic grammar, still in use in official language, but completely outmoded in public speeches.
+
+
+== History of the text ==
+
+Cicero wrote the six books of De re publica, along with several other documents, between 54 and 51 BC. 
+Large parts of the text are missing: especially from the fourth and the fifth books, only minor fragments have survived. All other books have some passages missing. Scipio's dream, which is only a part from the sixth book, is nearly all that survives from that book. The Somnium Scipionis, as it is known, survives because it was the subject of a commentary by Macrobius, who excerpted large portions; both he and his readers in the Middle Ages and Renaissance were mainly interested in its discussion of astrology and astronomy, especially given the loss of the rest of the book. An enterprising copyist early in the textual tradition appended a copy of the Somnium to a copy of Macrobius's Commentary, but this copy appears to be inferior to the one Macrobius was reading. This text became so popular that its transmission was polluted by multiple copies; it has been impossible to establish a stemma for it.
+The largest part of the surviving text was uncovered as a palimpsest in 1819 in a Vatican Library manuscript (Vat Lat 5757) of a work by Augustine and published in 1822. Before that date, Scipio's dream was the only larger excerpt of the text that was known to have survived the Middle Ages. The other fragments are mainly quotes found in the work of other authors (for example Augustine and Nonius Marcellus). Through these other authors' discussion of Cicero's treatise, the main topics of each book can be surmised.
+The discovery in 1819 by Cardinal Angelo Mai was one of the first major recoveries of an ancient text from a palimpsest, and although Mai's techniques were crude by comparison with later scholars', his discovery of De Republica heralded a new era of rediscovery and inspired him and other scholars of his time to seek more palimpsests.
+A copy was published in the 19th century by the Vatican Library, and a transcript is available in the 1908 Supplementary Proceedings of the American School of Rome. Uncertainty continues over several corruptions in the text that affect key data, such as the structure and size of the Comitia Centuriata in early Rome as described by Scipio in Book II. Another key area of debate is the one corrective hand present in Vat Lat 5757; some scholars believe the corrective hand was a more skilled copyist, perhaps a supervisor, who had access to the same text as the copyist and was correcting the first work; others have concluded that the corrective hand had access to a different version of the text.
+It is worth noting that in one letter to his friend Atticus, Cicero asks him to make a correction to the copy of De Republica Cicero has sent him. This correction is not present in the Vat Lat 5757 version of the text.
+
+
+== Quotes ==
+This excessive liberty soon brings the people, collectively and individually, to an excessive servitude. (Latin: Nimiaque illa libertas et populis et privatis in nimiam servitutem cadit) (I, 68)
+... you will not any longer attend to the vulgar mob's gossip nor put your trust in human rewards for your deeds; virtue, through her own charms, should lead you to true glory. Let what others say about you be their concern; whatever it is, they will say it anyway. (Latin: Neque sermonibus vulgi dederis te, nec in præmiis spem posueris rerum tuarum; suis te oportet illecebris ipsa virtus trahat ad verum decus. Quid de te alii loquantur, ipsi videant, sed loquentur tamen.) (VI.23)
+
+
+== Text, translations and commentaries ==
+
+
+=== Text ===
+Cicero: On Friendship and The Dream of Scipio by J. Powell (1990) Wiltshire: Aris & Phillips Ltd
+Cicero: De Re Publica ed. J. E. G. Zetzel (1995) Cambridge: Cambridge UP
+Cicero: On the Commonwealth and On the Laws ed. and trans. J. E. G. Zetzel (1999) Cambridge: Cambridge UP
+Cicero: The Republic and The Laws ed. and trans. N. Rudd (1998) New York: Oxford UP
+Cicero: De re publica ed. and trans. Gesine Manuwald (2024) Liverpool: Liverpool University Press
+
+
+=== Translations ===
+Republic - a translation neglecting the first word of the Latin title (De), which is the equivalent of On or Of; other translations of the title include On the republic or Treatise on the republic.
+Although "republic" can appear a neutral translation of "res publica", it is infected by the many interpretations given to the word republic afterwards, as mentioned above. So, the translation of "Res publica" (literally the "public thing" or the public cause) has many variants:
+Sometimes "Res publica" is translated into Commonwealth, hence Treatise on the Commonwealth is a possible translation of the title (the major translation by G.H. Sabine & S.B. Smith, 1929, is, thus, On the Commonwealth).
+On Government or On the State – Cicero's intention was however probably more specific, the type of government that had been established in Rome since the kings, and that was challenged by amongst others Julius Caesar, by the time Cicero wrote his De re publica. (see: Roman Republic)
+
+
+=== Commentaries ===
+Büchner, Karl (1984). M. Tullius Cicero, De re publica (Wissenschaftliche Kommentare zu griechischen und lateinischen Schriftstellern). Heidelberg: Winter, ISBN 3-533-03032-6.
+Höffe, Otfried (ed.) (2017). Ciceros Staatsphilosophie. Ein kooperativer Kommentar zu De re publica und De legibus [Cicero's philosophy of state. A co-operative commentary on De re publica and De legibus]. Berlin/Boston: De Gruyter, ISBN 978-3-11-053477-1.
+
+
+== References ==
+
+
+== Bibliography ==
+Fott, David, Marcus Tullius Cicero: On the Republic and On the Laws (Agora Editions), Cornell University Press (December 19, 2013).
+How, W. W. (1930) "Cicero's Ideal in his De re publica". Journal of Roman Studies, 20: 24–42.
+Keyes, C. W. (1921) "Original Elements in Cicero's Ideal Constitution". American Journal of Philology 42: 309–323.
+Powell, J. G. F. (1994) "The rector rei publicae of Cicero's De Republica". Scripta Classica Israelica 13: 19–29.
+Sharples, R. (1986). "Cicero's Republic and Greek Political Theory". Polis. 5 (2): 30–50. doi:10.1163/20512996-90000291.
+Wood, N. Cicero's Social and Political Thought. (1988) Berkeley; Los Angeles: University of California Press.
+Hamza, G. Il potere (lo Stato) nel pensiero di Cicerone e la sua attualità. Revista Internacional de Derecho Romano (RIDROM) 10 (2013) 1-25. http://www.ridrom.uclm.es
+
+
+== External links ==
+ Latin Wikisource has original text related to this article: De re publica
+Project Gutenberg: On the Commonwealth is contained in C. D. Yonge's literal translation of three philosophical works by Cicero, with notes and some quotes in Latin
+On the Republic, translated by C.W.Keyes at attalus.org
+Latin original at The Latin Library

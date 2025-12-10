@@ -1,0 +1,102 @@
+The Venus Equilateral series is a set of 13 science fiction short stories by American writer George O. Smith, concerning the Venus Equilateral Relay Station, an interplanetary communications hub located at the L4 Lagrangian point of the Sun-Venus system.  Most of the stories were first published in Astounding Science Fiction between 1942 and 1945.
+
+
+== Venus Equilateral Relay Station ==
+The setting for most of the stories in the series is Venus Equilateral, a space station three miles long and one mile in diameter that serves as a communications relay between Venus, Earth, and Mars whenever interference from the Sun prevents line-of-sight communication between them.  Venus Equilateral was formed out of a nickel-iron asteroid that was moved into Venus' L4 point.  At the time the stories take place, the asteroid has been completely reworked, resulting in a burnished steel cylinder with a large docking port at one end and a bank of communications dishes at the other.
+Venus Equilateral spins on its axis to provide its roughly 3000 inhabitants with centrifugal pseudo-gravity.  On the outermost level, with just over one Earth gravity, are living quarters for the station's crew.  The next level in consists of offices, recreation centers, stores, churches, the cafeteria, and Joe's: the station's only bar.  The innermost level, surrounding the station's zero-gravity axis, houses automatic machinery, the hydroponic farms, storerooms, the servogyroscopes and their beam finders, and the air plant (which consists of genetically engineered Martian sawgrass that efficiently renews the station's air supply via photosynthesis).
+The Venus Equilateral Relay Station is owned and operated by Venus Equilateral, Inc., a closed corporation.  Venus Equilateral, Inc. is licensed by the Interplanetary Communications Commission to maintain interplanetary communications.  Under the terms of the license, Venus Equilateral must relay at least one message every twenty-four hours.  Venus Equilateral, Inc. also owns and operates an interplanetary spaceship called the Relay Girl that is based at the station.
+
+
+== Characters and plot ==
+Most of the stories feature Dr. Donald A. Channing, Director of Communications at Venus Equilateral; Walter Franks, Beam Control Engineer; and Arden Westland, Channing's secretary turned fiancée turned wife.  Other regular characters include heads of development Charles and Freddie Thomas, Master Mechanic Michael Warren, Martian archeologists Barney Carroll and James Baler, Baler's sister Christine, Terran Electric Company lawyer Mark Kingman, Terran Electric physicist Wesley Farrell, and neurosurgeon-turned-evil-genius Allison "Hellion" Murdoch. A frequent background character is Joe, operator of the "best Bar in Twenty-Seven Million Miles, Minimum!", upon whose tablecloths the engineers do much of their brainstorming.
+The typical plot of a Venus Equilateral story consists of the station's engineers inventing new devices that allow them to solve the story problem.
+
+
+== Technology and cosmology ==
+Since the stories were written before the invention of solid state electronic components, all the electronic technology in this 21st century setting is based on vacuum tubes. At the series' opening there is one major addition to mid-20th century technology called the "driver tube". This is a specialized vacuum tube which (through mechanisms not explained) very efficiently converts the matter of its anode to massive amounts of thrust upon excitation by a low-power source. Powered by batteries, the driver tube enables the multi-G constant-boost spaceships seen throughout the series.
+At the series opening both Mars and Venus have been colonized. Both are described as having shirt-sleeve environments in at least some regions.
+
+
+== Stories ==
+Eleven of the thirteen Venus Equilateral stories were published in Astounding Science Fiction between 1942 and 1945.  They were:
+
+"QRM—Interplanetary", October, 1942
+"Calling the Empress", June, 1943
+"Recoil", November, 1943
+"Lost Art", December, 1943
+"Off the Beam", February, 1944
+"The Long Way", April, 1944
+"Beam Pirate", October, 1944
+"Firing Line", December, 1944
+"Special Delivery", March, 1945
+"Pandora's Millions", June, 1945
+"Identity", November, 1945
+Smith wrote a 12th story, "Mad Holiday", for the first book collection Venus Equilateral (1947) (which omitted "Lost Art" and "Identity"), and a 13th story, "The External Triangle", for Harry Harrison's 1973 anthology Astounding. All 13 stories were included in the 1976 Ballantine collection The Complete Venus Equilateral and the 1980 reprint published by its SF imprint Del Rey Books. Previously they had all appeared in the British 1975 Orbit Books publication in two parts Venus Equilateral: Volume One and Venus Equilateral: Volume Two.
+
+
+== Plot summaries ==
+
+
+=== QRM—Interplanetary ===
+The staff of Venus Equilateral must cope with an incompetent manager named Francis Burbank who is appointed Director of the station by the Interplanetary Communications Commission. Disaster looms when Burbank disposes of the air plant, thinking that the Martian sawgrass is simply a collection of weeds that sprouted up in an empty compartment.  Channing is able to avert disaster, and Burbank is recalled in disgrace and replaced by Channing. The "QRM" in the title is a Q code meaning "Are you being interfered with?"
+
+
+=== Calling the Empress ===
+Channing is contracted by Interplanetary Transport to find a way of communicating with a spaceship that must be diverted from Venus to avoid being caught in a quarantine. Channing is able to use an electron gun to activate the ship's meteor detector and uses it to send the necessary message in Morse Code.
+
+
+=== Recoil ===
+Neurosurgeon-turned-space-pirate Allison "Hellion" Murdoch attacks Venus Equilateral.  Channing is able to use a super-electron-gun to short out the attacking ships' electrical systems.
+
+
+=== Lost Art ===
+Martian archeologists Carroll and Baler discover an ancient Martian electronic device.  After getting the device running and experimenting with it, the two are able to deduce that the device is a relay unit for a wireless power transmission system.  The Martian relay becomes the basis for power transmission networks throughout the Solar System.
+
+
+=== Off the Beam ===
+Channing is on board the Ariadne when a meteor strike leaves it crippled and off course.  He is able to turn the ship into a signalling device, and Franks on Venus Equilateral, anticipating him, is able to work out a means of receiving his signal and tracking down the ship.
+
+
+=== The Long Way ===
+While negotiating with Terran Electric's hardnosed chief lawyer Mark Kingman for a licence on Carroll and Baler's Martian power transmitter, which they had sold to TE, Channing works out a way to use the transmitter to harness solar energy.  Channing cuts a deal with Kingman allowing Terran Electric to operate the solar power tube on planetary surfaces while Venus Equilateral operates it in space. It turns out, though, that an atmosphere blocks the tube's reception, so it can't operate on the surface of any inhabited world.
+
+
+=== Beam Pirate ===
+When the engineering staff of Terran Electric use a Martian power transmitter to create a faster-than-light communicator, Kingman uses it to manipulate Venus Equilateral's stock price in an effort to gain a controlling interest in the company.  When Venus Equilateral independently reproduces the FTL communicator, Channing discovers Kingman's plot, and manipulates him back.
+
+
+=== Firing Line ===
+After escaping from prison, Hellion Murdoch teams up with Kingman.  Kingman will use Terran Electric's research lab to create energy weapons, and Murdoch will mount the weapons in his ship, the Black Widow, and blackmail interplanetary commerce.  When news of Murdoch's escape reaches Venus Equilateral, Channing realizes the station will be his first target.  The station's staff design a set of missiles that will home in on the Black Widow, and they succeed in destroying it.  Kingman is able to hide his association with Murdoch.
+
+
+=== Special Delivery ===
+Wes Farrell, now employed at Venus Equilateral, uses the Martian power transmitter to construct a matter transmitter.  Kingman sues on behalf of Terran Electric, arguing that the matter transmitter is essentially a power transmitter, and thus falls within Terran Electric's licence.  Channing successfully argues that the device is not a transmitter by using it as a matter duplicator, to create multiple copies of the judge's antique watch.
+
+
+=== Pandora's Millions ===
+Now that it is possible to duplicate money and precious metals, an economy based on scarcity collapses.  The people of the Solar System must fall back on barter, and those too poor to buy matter duplicators are left to their own devices.  It is not until the staff of Venus Equilateral invents a material that cannot be duplicated that a monetary system can be re-established.
+
+
+=== Mad Holiday ===
+Use of the matter duplicator allows the staff of Venus Equilateral to invent a method of instantaneous communication.  Since line-of-sight is no longer necessary for communication, Venus Equilateral itself is obsolete, and the staff prepare to abandon the relay station. Meanwhile, Kingman sneaks aboard the station, rigs a power transmitter to lower the station's temperature to absolute zero, and kidnaps Walt Franks and Christine Baler, leaving them to freeze to death.  Not knowing of the new instantaneous communication, Kingman assumes that the station has stopped relaying messages because of his sabotage, and he sues to gain VE's communications franchise for Terran Electric. Following a Christmas party set against the backdrop of the station's falling temperature, the Channings and Farrell rescue Franks and Baler, and the entire staff of VE departs, leaving Kingman to try to maintain the frigid station alone.
+
+
+=== The External Triangle ===
+Twenty-seven years after "Mad Holiday", the Channing and Franks families live on a thoroughly terraformed Pluto, and the Channings' daughter Diane is married to the Franks' son Jeffrey.  Don Channing, Walt Franks and Jeffrey Franks get together to try to come up with a teleportation device that will allow original objects, and not just their duplicates, to be transmitted across interplanetary space. They succeed in teleporting mice from Pluto to Triton, but the mice only live for five minutes.  The plot thickens when Diane Channing Franks' newborn twins need urgent treatment for a blood disorder, and only the teleport can get them that treatment. Don Channing finally realizes that the teleport system was inverting the mice, and that their inverted hemoglobin was unable to carry oxygen, leading to their deaths.  By teleporting an object twice, the inversion is cancelled out, so the twins are saved by teleporting them to a hospital on Earth via a relay on Triton.
+
+
+=== Epilogue: Identity ===
+350 years after the invention of the matter duplicator, the technology has been improved to the point where human beings can be duplicated, and it is common medical practice for surgeons to test their surgical procedures on duplicates of their patients before operating on the originals. As a result, the greatest insult that can be offered to a person is to claim that they are a duplicate rather than the original (the slang expression is "dupe").  This is the reason identical twins such as Calvin and Benjamin Blair tend to hate each other's guts, as Cal and Benj do.
+Cal Blair hates space travel, and he's not very keen on surgery either, which is why his relationship with Tinker Elliot, a spacefaring surgeon, has never blossomed into marriage. When the long-lost electronic key to Hellion Murdoch's hidden treasure finds its way into Blair's hands, though, he winds up deeply involved in both. Cal, a cryptographer, uses his skills to decipher the key, build a device that will allow him to use it to find Murdoch's treasure, and travels to Venus to locate it. His nasty brother Benj kidnaps Elliot and follows him, intent on gaining the treasure for himself.  Elliot suffers a serious spinal injury when Benj's aircraft crashes in the Venusian swamps, and Cal must defeat his twin in a duel using three-foot soldering irons before he can help her. With Benj disposed of, Cal learns that Murdoch's treasure is actually a database of Murdoch's illegal medical experiments. Overcoming his deep aversion to surgery, Cal uses Murdoch's treasure to repair Elliot's spinal injury and save her life.
+
+
+== References ==
+
+
+== External links ==
+A review of the Venus Equilateral stories by John Walker.
+
+ Venus Equilateral at Project Gutenberg
+Venus Equilateral - Series Bibliography series listing at the Internet Speculative Fiction Database
+Venus Equilateral title listing at the Internet Speculative Fiction Database
+The Complete Venus Equilateral title listing at the Internet Speculative Fiction Database

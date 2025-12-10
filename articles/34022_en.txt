@@ -1,0 +1,74 @@
+An Essay in Aid of a Grammar of Assent (commonly abbreviated Grammar of Assent) is Saint John Henry Newman's seminal book on the philosophy of faith. Completed in 1870, the book took Newman 20 years to write, he confided to friends. It was dedicated to his friend and fellow convert, the lawyer Edward Bellasis.
+Newman's aim was to show that the scientific standards for evidence and assent are too narrow and inapplicable in concrete life. He argued that logic and its conclusions are not transferable to real life decision making as such. As a result, it is inappropriate to judge the validity of assent in concrete faith by conventional logical standards because paper logic is unequal to the task. "Logic is loose at both ends," he said, meaning that the process of logic initially depends on restrictive assumptions and is thus unable to fit its conclusions neatly into real world situations. 
+Instead, Newman argued our beliefs come from what he called "the illative sense", that which weighs evidence from all kinds of inputs, logical, instinctive, and authoritative, among others, to reach or fall short of assent. “It is the mind that reasons, and that controls its own reasonings, not any technical apparatus of words and propositions. This power of judging and concluding, when in its perfection, I call the Illative Sense.”
+
+
+== Aim and content ==
+
+
+=== Part I. Assent and Apprehension ===
+The Grammar was an apologia for faith. Newman was concerned with defending faith as a legitimate product of rational human activity—that assent is not contrary to human nature. He wrote this book against the background of British Empiricism which restricted the strength and legitimacy of assent to the evidence presented for it. John Locke, David Hume and John Stuart Mill, a contemporary of Newman, were the primary Empiricists that Newman was engaged with philosophically.
+The Grammar is divided into two sections. The first is entitled "Assent and Apprehension", which deals with believing what one does not understand. The second, entitled "Assent and Inference", addresses the issue of believing what cannot be absolutely proven.
+Both parts deal with assent or belief. The first part discussed the relationship between assent and apprehension—what level of intelligent appropriation of a teaching is necessary to believe in that teaching. This section ultimately turns on a distinction between apprehension and understanding. Newman's view was that one can believe as long as one apprehends, even if one does not understand. For example, one may not understand the doctrine of the Trinity, i.e., resolve the individual propositions of the doctrine into one clear whole conception, yet legitimately believe it because apprehension is possible without understanding.
+Apprehension, according to Newman, is simply an "intelligent acceptance of the idea or of the fact which a proposition enunciates." So while the regular unlearned Christian, or anyone for that matter, may not be able to conceive that God is one and three, the words of the propositions that define the doctrine are clear and intellectually accessible and assent may legitimately follow.
+Newman distinguishes between notional and real assent. Notional assent acknowledges an abstract proposition as true, while real assent occurs when one's deeper faculties of reason and judgment directly perceive the truth. Someone notionally ascending to the creed of Christianity might find its apologetics intellectually convincing, but someone who has really assented will have their instincts, emotions and will aligned with Christian doctrine, and so will worship God, and pray. "In its notional assents, the mind contemplates its own creations instead of things. In real [assent] it is directed towards things, represented by the impressions which they have left on the imagination."  
+Newman refutes the idea that one needs an infallible judgment in order to believe that the church's judgment is infallible. First, he points out that under this logic, one would need a way to infallibly judge the infallible judgment as infallible, and then a way to infallibly judge that judgment, and this would go on ad infinitum or until one accepts a judgement as infallible without itself having an infallible judge. Secondly, Newman argues that we accept things as true without needing infallibility all the time. If a clock has been broken and therefore displayed an incorrect time, we do not need to question its reading when it has been fixed. Similarly if we see a shadowy figure in the distance and misapprehend what it is, when we get up close to recognize it, we do not need to mistrust our judgement when it was wrong before.  
+
+
+=== Part II. Assent and Inference ===
+The second part further clarified assent by comparing it with inference. The key difference between assent and inference is that assent is unconditional and inference is conditional, i.e., dependent on other propositions or ideas and unable to stand by itself.
+For Newman, inference described a proposition that is intrinsically dependent on other propositions. For instance, the statement, "Therefore, the car is red," is clearly dependent on antecedent propositions for its meaning and those propositions would need to be disclosed before one could meaningfully assent. This is an inferential statement as opposed to "The car in front of the house is red," which is an assertion that can be assented to because it can stand on its own.
+There are three types of inferences: formal, informal and natural. Formal inference is logic in the deductive sense. For Newman, logic is indeed extremely useful especially in science and in society. However, its real-world applicability is very limited in that its usefulness is circumscribed by its initial assumptions. For Newman, to make logic work, human thought has to be trimmed to very specific and narrow meanings such that logical statements then lose real world applicability.
+Informal inference is akin to calculus. In informal inference one reaches a conclusion by considering the accumulation of converging antecedent probabilities. Natural inference is when the individual, in a simple and whole process, grasps the antecedent conditions and conclusions instantaneously. For instance, if one sees smoke, one may instantly infer the presence of fire. Natural inference, in Newman's view, is related to experience or innate ability.
+The second part of the Grammar is where Newman introduces the concept of the Illative Sense, which is for Newman the intellectual counterpart of Aristotle's phronesis. It is the faculty of the human mind that closes the logic-gap in concrete situations and thus allowing for assent. Logic/formal inference utilises dependable processes that lead to a certain and firm conclusion in the fields in which it is applied. However, Newman maintained that in concrete life formal incontrovertible proof in favour of a decision is not possible—the best one can achieve is converging probabilities in favour of a conclusion. For Newman it is impossible to attain the concrete existential equivalent of logical certainty. Thus, to close that gap between converging probabilities and full assent, one needs the aid of the Illative Sense to attain certitude in specific situations.
+Newman recognised that there are dangers associated with using the Illative Sense. In using it one may become vulnerable to superstition and eccentricity. But superstition is held in check, Newman suggests, by the moral element in the act of faith, that is, holiness, obedience, and the sense of duty will safeguard faith from becoming mere superstition.
+
+
+=== Chapter breakdown ===
+Part I. Assent and Apprehension
+Modes of holding and apprehending Propositions
+Assent considered as Apprehensive
+The Apprehension of Propositions
+Notional and Real Assent
+Apprehension and Assent in the matter of Religion
+Part II. Assent and Inference
+Assent Considered as Unconditional
+Certitude
+Inference
+The Illative Sense
+Inference and Assent in the matter of Religion.
+
+
+== Reception ==
+Newman wrote the Grammar of Assent as a response to the enlightenment empiricism of British thinkers like John Locke, David Hume, and John Stuart Mill to demonstrate that strict syllogistic, deductive reasoning standards are inappropriate for almost every part of a person's epistemology.
+At its release, the Grammar was read among scholars and theologians, but not among a general audience. The work's readership increased over time. 
+The work, along with Newman's other scholarship, had such a strong influence on Vatican II and its leading theologians Yves Congar, Henri de Lubac, and Jean Daniélou, that Pope Paul VI called it "Newman's Council".
+Philosopher Jay Newman wrote of the Grammar that it is "with good reason, one of the most famous of all philosophical approaches to the subject of belief."
+Oxford philosopher Anthony Kenny writes that Ludwig Wittgenstein's final notes on philosophy just before his death mention Newman and his "posthumously published On Certainty covers many of the same topics as the Grammar of Assent, uses many of the same illustrations, and draws some of the same conclusions".
+Bishop Barron called the Grammar a "wonderfully dense and seminal text".
+
+
+== See also ==
+Thomas Bayes
+Bayes' theorem
+Bayesian probability
+Development of doctrine
+Probabiliorism
+
+
+== Notes ==
+
+
+== References ==
+Collins, James, ed. (1961). Philosophical Readings in Cardinal Newman. Chicago: Henry Regnery.
+Cornwell, John (2010). Newman's Unquiet Grave: The Reluctant Saint. Continuum.
+Ker, Ian (1988). John Henry Newman: A Biography. New York, NY: Oxford. ISBN 0-19-282705-7.
+Newman, Jay (1986). The Mental Philosophy of John Henry Newman. Ontario, Canada: Wilfrid Laurier. ISBN 0-88920-186-2.
+Norris, Thomas J. (1977). Newman and His Theological Method: A Guide for the Theologian Today. Leiden: E. J. Brill. ISBN 90-04-04884-7.
+Walgrave, O.P., J. H., Newman the Theologian: The Nature of Belief and Doctrine as Exemplified in His Life and Works. Translated by A. V. Littledale (London: Geoffrey Chapman, 1960).
+
+
+== External links ==
+HTML etext of the Grammar of Assent at Newmanreader.org
+An Essay in Aid of a Grammar of Assent at Project Gutenberg
+An Essay in Aid of a Grammar of Assent at Internet Archive

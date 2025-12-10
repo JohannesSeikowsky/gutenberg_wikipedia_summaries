@@ -1,0 +1,130 @@
+Persian Letters (French: Lettres persanes) is a literary work, published in 1721, by Charles de Secondat, baron de Montesquieu, recounting the experiences of two fictional Persian noblemen, Usbek and Rica, who spend several years in France under Louis XIV and the Regency.
+
+
+== Plot summary ==
+In 1711, Usbek leaves his seraglio in Isfahan to make the long journey to France, accompanied by his young friend Rica. He leaves behind five wives (Zashi, Zéphis, Fatmé, Zélis, and Roxane) in the care of a number of black eunuchs, one of whom is the head or first eunuch. During the trip and their long stay in Paris (1712–1720), they comment, in letters exchanged with friends and mullahs, on numerous aspects of Western, Christian society, particularly French politics and manners, including a biting satire of the System of John Law. Over time, various disorders surface back in the seraglio, and, beginning in 1717 (Letter 139 [147]), that situation rapidly unravels. Usbek orders his head eunuch to crack down, but his message does not arrive in time, and the internal revolt brings about the death of his wives, including the vengeful suicide of his favorite, Roxane, and, it appears, most of the eunuchs.
+
+
+=== Chronology ===
+The chronology can be summarized as follows:
+
+Letters 1–21 (1–23): The journey from Isfahan to France, which lasts almost 14 months (from 19 March 1711 to 4 May 1712).
+Letters 22–89 (24–92): Paris in the reign of Louis XIV, 3 years in all (from May 1712 to September 1715).
+Letters 90–137 (93–143) plus [Supplementary Letter 8 (145)]: the Regency of Philippe d'Orléans, covering five years (from September 1715 to November 1720).
+Letters 138–150 (146–161): the collapse of the seraglio in Isfahan, approximately 3 years (1717–1720).
+
+
+=== Dénouement ===
+While Usbek appreciates the freer relations among men and women in the West, he remains, as master of a seraglio, in some measure a prisoner of his past. His wives play the role of languorous, abandoned lovers, he that of master and lover, with limited communication and little revelation of their true selves; Usbek's language with them is as constrained as theirs with him. Suspecting from the outset, moreover, that he is not assured of a return to Persia, Usbek is also already disabused with respect to the attitude of his wives (letters 6 and 19 [20]). The seraglio is a bed of tension from which he increasingly distances himself, trusting his wives no more than he really trusts his eunuchs (Letter 6).
+Everything cascades in the final letters (139–150 [147–161]), thanks to a sudden analepse of more than three years with respect to the sequence of letters by date. From letter 69 (71) to letter 139 (147) – chronologically from 1714 to 1720 – not a single letter from Usbek relates to the seraglio, which from letter 94 to 143 (and even in the posthumous edition from supplementary letter 97 to letter supplementary letter 8 [145]) is unmentioned in any guise. The letters from 126 to 137 (132 to 148) are from Rica, which, when examined closely, means that for about fifteen months (from 4 August 1719 to 22 October 1720) Usbek is silent. Although he has in the meantime received letters, they are unknown to the reader until the final series, which is more developed after the addition of supplementary letters 9–11 (157, 158, 160) of 1758, although Usbek has learned as early as October 1714 that "the seraglio is in disorder" (letter 63 [65]). As the spirit of rebellion advances, he decides to take action, but too late; with delays in the transmission of letters and the loss of some of them, the situation is beyond remedy.
+A dejected Usbek is apparently resigned to the necessity of returning, with little hope, to Persia; on 4 October 1719 he laments: "I shall deliver my head to my enemies" (147 [155]). He nevertheless does not do so: late in 1720 he is still in Paris, for letters 134–137 (140–145), which contain the history of Law's "System", are in fact posterior to Roxane's last missive (dated 8 May 1720), which he must already have received – the usual time for delivery being about five months – when he writes the latest in date of his own (supplementary letter 8 and letter 138 [145 and 146]), in October and November 1720. There is no reason to think he ever actually returns.
+
+
+== Analysis ==
+
+
+=== Epistolary novel ===
+
+Montesquieu never referred to Persian Letters as a novel until "Quelques remarques sur les Lettres persanes (1757)," which begins: "Nothing found more favor in Lettres persanes than to discover in them, unexpectedly, a sort of novel. One sees the beginning, the development, and the end; the various characters are placed in a chain that connects them." Initially, for most of its first readers as well as for its author, the book was not thought of primarily a novel, and even less an "epistolary novel" (as it is often classified now), which was not at that time in any sense a constituted genre. Indeed, it has little in common with the sole model at the time, Guilleragues's Lettres portugaises of 1669. A collection of "letters" in 1721 would more likely evoke the recent tradition of essentially polemical and political periodicals, such as Lettres historiques (1692–1728) or the Jesuits' famous Lettres édifiantes et curieuses (1703–1776), not to mention Mme Dunoyer's Lettres historiques et galantes (1707–1717) which, in the form of a correspondence between two women, provide a chronicle of the end of the reign of Louis XIV and the beginning of the Regency. Lettres persanes thus helped confirm the vogue of a format that was already more or less established. It is in its numerous imitations – such as Lettres juives (1738) and Lettres chinoises (1739) of Boyer d’Argens, Lettres d’une Turque à Paris, écrites à sa sœur (1730) by Poullain de Saint-Foix (published several times in conjunction with Lettres persanes), and perhaps especially Françoise de Graffigny’s Lettres d’une Péruvienne (1747) – not to mention the letter-novels of Richardson – which, between 1721 and 1754, had in effect transformed Lettres persanes into an "epistolary novel". Whence this remark in Montesquieu's Mes Pensées: "My Lettres persanes taught people to write letter-novels" (no. 1621).
+The epistolary structure is quite flexible, nineteen correspondents in all, with at least twenty-two recipients. Usbek and Rica by far dominate with sixty-six letters for the former and forty-seven for the latter (of the original 150). Ibben functions more as addressee than correspondent, writing only two letters but the recipient of forty-two. An unnamed person designated only as *** (if always the same) receives eighteen letters but writes none at all. There is even a particular anomaly, a letter from Hagi Ibbi to Ben Josué (Letter 37 [39]), neither of whom is mentioned anywhere else.
+The letters are all dated in accordance with a lunar calendar which, as Robert Shackleton showed in 1954, in fact corresponds to our own by simple substitution of Muslim names as follows: Zilcadé (January), Zilhagé (February), Maharram (March), Saphar (April), Rebiab I (May), Rebiab II (June), Gemmadi I (July), Gemmadi II (August), Rhegeb (September), Chahban (October), Rhamazan (November), Chalval (December).
+
+
+=== Social commentary ===
+In Paris, the Persians express themselves and elicit the opinions of others on a wide variety of subjects, from governmental institutions to salon caricatures. The difference of temperament of the two friends is notable, Usbek being more experienced and asking many questions, Rica less constrained and more attracted by aspects of French life. Both retain Montesquieu's rich satirical tone, as in Rica's letter 70 (72):
+
+The other day I happened to be in a company where I saw a man who was very content with himself. In fifteen minutes he decided three questions of morality, four historical problems, and five points of physics. I have never seen such a universal decider ; his mind was never suspended by the slightest doubt. They left the sciences, and took up news of the day ; he decided about the news of the day. I wanted to trip him up, and said to myself: I must make use of my strength ; I am going to take refuge in my country. I spoke to him of Persia ; but I had scarcely said four words before he twice refuted me, based on the authority of MM. Tavernier and Chardin. Oh good Lord, said I to myself, who is this man ? Next thing he will know the streets of Isfahan better than I do ! My decision was soon made: I said no more, and let him talk, and he is still deciding.
+Although this takes place soon before the death of the aged king, much of what he has accomplished is still admired in a Paris where the Invalides is just being completed and cafés and theatre proliferate. We observe the function of parliaments, tribunals, religious bodies (Capuchins, Jesuits, etc.), public places and their publics (the Tuileries, the Palais Royal), state foundations (the hospital of the Quinze-Vingts (three hundred) for the blind, Invalides for wounded veterans). They describe a buzzing culture, where even the presence of two Persians quickly becomes a popular phenomenon thanks to the proliferation of prints (letter 28 [30]). The café – where debates take place (letter 34 [36]) – has become established as a public institution, as were already the theatre and opera. There are still people foolish enough to search at their own expense for the philosopher's stone; the newsmonger and the periodical press are beginning to play a significant role in everyday life. Everything from institutions (the university, the Academy, Sciences, the Bull Unigenitus) to groups (fashion, dandies, coquettes) to individuals (the opera singer, the old warrior, the rake, and so forth) comes before the reader's eye.
+Usbek for his part is troubled by religious comparisons. Though it never occurs to him to cease being a Muslim, and while he still wonders at some aspects of Christianity (the Trinity, communion), he writes to austere authorities to inquire, for example, why some foods are considered to be unclean (letters 15–17 [16–18]). He also assimilates the two religions and even all religions with respect to their social utility.
+Certain sequences of letters by a single author develop a particular subject more fully, such as letters 11–14 from Usbek to Mirza about the Troglodytes, letters 109–118 (113–122) from Usbek to Rhedi on demography, letters 128–132 (134–138) from Rica on his visit to the library at Saint-Victor. They sketch numerous analyses that will later be developed in L’Esprit des lois for subjects such as the types of power, the influence of climate, and the critique of colonization.
+
+
+== Sources ==
+Montesquieu's sources are legion, which doubtless include purely oral transmissions. The impact of Jean Chardin’s Voyages en Perse, to which he owes most of his far from superficial information about Persia, must of course be recognized; he owned the two-volume edition of 1687 and purchased the extended edition in ten volumes in 1720. To a lesser degree, he drew on the Voyages of Jean-Baptiste Tavernier and Paul Rycaut, not to mention many other works which his vast library afforded him. Everything having to do with contemporary France or Paris, on the other hand, comes essentially from his own experience, or from conversations of anecdotes related to him.
+Various aspects of the book are doubtless indebted to particular models, of which the most important is Giovanni Paolo Marana’s L’Espion dans les cours des princes chrétiens (Letters Writ by a Turkish Spy), widely known at the time, even though Montesquieu’s characters obviously are Persians and not Turks. While the great popularity of Antoine Galland’s Mille et Une Nuits (The Thousand and One Nights) contributes, as do the Bible and the Qu’ran, to the general ambiance of oriental subjects, in fact it has almost nothing in common with Lettres persanes.
+
+
+== Publication ==
+The first edition of the novel, which consisted of 150 letters, appeared in May 1721 under the rubric Cologne: Pierre Marteau, a front for the Amsterdam publisher Jacques Desbordes whose business was now being run by his widow, Susanne de Caux. Referred to as edition A, this is the text utilized in the recent critical edition of Lettres persanes (2004) for the ongoing complete works of Montesquieu published in Oxford and Lyon/Paris beginning in 1998. A second edition (B) by the same publisher later in the same year, for which there is so far no entirely satisfactory explanation, curiously included three new letters but omitted thirteen of the original ones. All subsequent editions in the author's lifetime derive from one of these two. A posthumous edition in 1758, prepared by Montesquieu's son, included eight new letters – bringing the total at that point to 161 – and a short piece by the author entitled "Quelques réflexions sur les Lettres persanes". This edition has been the source of all subsequent editions prior to volume I of the Œuvres complètes in 2004, which reverts to the text of the original edition but includes the added letters marked as "supplementary." Letter references in this article will refer to this edition with, in parentheses, the numbering scheme of 1758.
+
+
+== Critical history ==
+Lettres persanes was an immediate and durable sensation and was often imitated, but it has been diversely read over time. Until the middle of the twentieth century, it was the "spirit" of the Regency which was largely admired, as well as the caricature in the classical tradition of La Bruyère, Pascal and Fontenelle. No one thought to attach it to the novelistic genre. The Persian side of the story tended to be considered as a fanciful decor, the true interest of the work lying in its factitious "oriental" impressions of French society, along with political and religious satire and critique.
+In the 1950s began a new era of studies based on better texts and renewed research. Particularly important were the extensively annotated edition by Paul Vernière for Classiques Garnier, long the standard edition, and the findings of Robert Shackleton regarding its use of Muslim chronology; also new perspectives by Roger Mercier, Roger Laufer, and Pauline Kra, which put new focus on the work's unity and integrated the seraglio into its overall meaning. Others who have followed have looked into the ramifications of epistolary form (Rousset, Laufer, Versini), the structure and meaning of the seraglio (Brady, Singerman), and Usbek's purported contradictions. In recent decades it has been religion (Kra) and especially politics (Ehrard, Goulemot, Benrekassa) which predominate, with a progressive return to the role of the seraglio with all its women and eunuchs (Grosrichard, Goldzink, McAlpin, Starobinski, Delon) or the cultural contrast of Orient and Occident.
+
+
+== Key themes ==
+Comparative religion
+Exile
+Humanism
+National identity and nationalism
+Race
+Reason
+
+
+== See also ==
+
+Persian embassy to Louis XIV
+Jewish Letters
+
+
+== Further reading ==
+Though the manuscripts from which were set editions A and B have not survived, there are notebooks of corrections and addenda ("Cahiers de corrections") at the Bibliothèque Nationale de France (n. a. fr. 14365): see Edgar Mass, "Les éditions des Lettres persanes," Revue française d’histoire du livre nos. 102–103 (1999), pp. 19–56.
+The most important modern French editions:
+
+Antoine Adam, Genève: Droz, 1954.
+Jean Starobinski, Paris: Gallimard "Folio," 1973, reprinted in 2003.
+Paul Vernière, Paris: Classiques Garnier, 1960, reprinted in 1965, 1975, 1992; revised edition by Catherine Volpilhac-Auger, Livre de Poche classique, 2001.
+Cecil Courtney, Philip Stewart, Catherine Volpilhac-Auger, Pauline Kra, Edgar Mass, Didier Masseau, Œuvres complètes, Oxford: Voltaire Foundation, vol. I, 2004. Critical edition based on the original 1721 edition.
+Philip Stewart, Paris, Classiques Garnier, 2013. Text of the original 1721 edition.
+There have been numerous English translations, usually under the title (The) Persian Letters, and based on the posthumous text of 1757:
+
+John Ozell, London, 1722.
+[Thomas] Flloyd, London, 4th edition 1762. Available in Eighteenth Century Collections Online to libraries which subscribe to that series.
+J. Robert Loy, New York: Meridian Books, 1961.
+George R Healy, Indianapolis: Bobbs-Merrill, 1964.
+C. J. Betts, Harmondsworth and New York: Penguin, 1973.
+Margaret Mauldon, Oxford University Press, 2008, based on the 1721 edition.
+Raymond N. MacKenzie, Indianapolis: Hackett, 2014.
+Stuart D. Warner and Stéphane Douard, South Bend: St. Augustine's Press, 2017.
+Philip Stewart, Société Montesquieu, 2020, based on the 1721 edition; open access on line [1].
+Critical studies:
+
+Robert Shackleton, "The Moslem chronology of the Lettres persanes", French Studies 8 (1954), pp. 17–27.
+Roger Laufer, "La réussite romanesque et la signification des Lettres persanes," Revue d’Histoire Littéraire de la France 61 (1961), pp. 188–203; reprinted in Style rococo, style des Lumières, Paris: Seuil, 1963.
+Jean Rousset, "Une forme littéraire: le roman par lettres," in Forme et signification, Paris: José Corti, 1962, pp. 65–103.
+Roger Mercier, "Le roman dans les Lettres persanes: structure et signification," Revue des Sciences Humaines 107 (1962), pp. 345–56.
+Patrick Brady, "The Lettres persanes: rococo or neo-classical? », Studies on Voltaire and the Eighteenth Century 53 (1967), pp. 47–77.
+Aram Vartanian, "Eroticism and politics in the Lettres persanes," Romanic Review 60  (1969), pp. 23–33.
+Georges Benrekassa, "Montesquieu et le roman comme genre littéraire", Roman et Lumières au XVIIIe siècle, Paris: Éditions Sociales, 19770, pp. 27–37.
+Jean Ehrard, "La signification politique des Lettres persanes", Archives des Lettres Modernes 116 (1970), pp. 33–50; reprinted in L’Invention littéraire au siècle des Lumières: fictions, idées, société, Paris, Presses Universitaires de France, 1997, pp. 17–32.
+Pauline Kra, Religion in Montesquieu's "Lettres persanes", Studies on Voltaire and the Eighteenth Century  72  (1970).
+Jean Starobinski, preface to Folio edition of Lettres persanes, 1973.
+Jean Marie Goulemot, "Questions sur la signification politique des Lettres Persanes," Approches des Lumières, Paris: Klincksieck, 1974, pp. 213–225.
+Michel Delon, "Un monde d'eunuques", Europe, February 1977.
+Alain Grosrichard, Structure du sérail: la fiction du despotisme asiatique dans l’Occident classique, Paris: Seuil, 1979.
+Laurent Versini, Le Roman épistolaire, Paris: Presses Universitaires de France, 1979, pp. 40–46.
+Alan Singerman, "Réflexions sur une métaphore: le sérail dans les Lettres persanes," Studies on Voltaire and the Eighteenth Century 185  (1980), pp. 181–198.
+Josué Harari, "The Eunuch’s Tale: Montesquieu’s imaginary of despotism," in Scenarios of the Imaginary, Ithaca: Cornell University Press, 1987, pp. 67–101.
+Jean Marie Goulemot, "Vision du devenir historique et formes de la révolution dans les Lettres persanes," Dix-Huitième Siècle 21  (1989), pp. 13–22.
+Sylvie Romanowski, "La quête du savoir dans les Lettres persanes," Eighteenth-Century Fiction 3 (1991), pp. 93–111.
+Diana J. Schaub, Erotic Liberalism: women and revolution in Montesquieu's "Persian Letters". Lanham, MD: Rowman & Littlefield, 1995.
+Céline Spector, Montesquieu, "Lettres persanes", de l’anthropologie à la politique, Paris: Presses Universitaires de France, 1997.
+Louis Desgraves, Chronologie critique de la vie et des œuvres de Montesquieu, Paris: Champion, 1998, pp. 36–94.
+Philip Stewart, "Toujours Usbek," Eighteenth-Century Fiction 11 (1999), pp. 141–150.
+Jean Pierre Schneider, "Les jeux du sens dans les Lettres persanes: temps du roman et temps de l’histoire," Revue Montesquieu 4 (2000), pp. 127–159: (https://montesquieu.ens-lyon.fr/IMG/pdf/RM04_Schneider_127-159.pdf)
+Mary McAlpin, "Between Men for All Eternity: feminocentrism in Montesquieu’s Lettres persanes," Eighteenth-Century Life 24 (2000), pp. 45–61.
+Lucas A. Swaine, "The Secret Chain: Justice and Self-Interest in Montesquieu's Persian Letters," History of Political Thought 22 (2001), pp. 84–105.
+Jean Goldzink, Montesquieu et les passions, Paris: Presses Universitaires de France, 2001.
+Christophe Martin (dir.), Les "Lettres persanes" de Montesquieu, Paris: Presses de l'Université Paris-Sorbonne, 2013.
+Philip Stewart (dir.), Les "Lettres persanes" en leur temps, Paris: Classiques Garnier, 2013.
+
+
+== Notes ==
+
+
+== External links ==
+(in French)  Lettres persanes public domain audiobook at LibriVox
+ Media related to Les Lettres persanes at Wikimedia Commons
+ Works related to Persian Letters at Wikisource
+ French Wikisource has original text related to this article: Lettres persanes

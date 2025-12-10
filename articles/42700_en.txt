@@ -1,0 +1,61 @@
+The Parallel Lives (Ancient Greek: Βίοι Παράλληλοι, Bíoi Parállēloi; Latin: Vītae Parallēlae) is a series of 48 biographies of famous men written in Greek by the Greco-Roman philosopher, historian, and Apollonian priest Plutarch, probably at the beginning of the second century. The lives are arranged in pairs to illuminate their common moral virtues or failings.
+The surviving Parallel Lives comprises 23 pairs of biographies, each pair consisting of one Greek and one Roman of similar destiny, such as Alexander the Great and Julius Caesar, or Demosthenes and Cicero. There are also four singular Lives, recounting the stories of Artaxerxes, Aratus, Galba, and Otho. Traces of other biographies point to an additional twelve single Lives that are now missing.
+It is a work of considerable importance, not only as a source of information about the individuals described, but also about the times in which they lived.
+
+
+== Motivation ==
+Parallel Lives was Plutarch's second set of biographical works, following the Lives of the Roman Emperors from Augustus to Vitellius. Of these, only the Lives of Galba and Otho survive.
+
+As he explains in the first paragraph of his Life of Alexander, Plutarch's interest was primarily ethical rather than historical ("For it is not Histories that I am writing, but Lives"). He was concerned with exploring the influence of character, good or bad, on the lives and destinies of famous men. He wished to shed light on the actions and achievements of the Greek men of the distant past through his comparisons with the more recent past of Rome. George Wyndham's introduction in the 1895 publication of the Lives writes of:[Plutarch's] desire, as a man, to draw the noble Grecians, long since dead, a little nearer to the noonday of the living...By placing them side by side, he gave back to the Greeks that touch which they had lost with the living in the death of Greece, and to the Romans that distinction from everyday life which they were fast beginning to lose.Because the men he wrote about had been dead nearly 300 years before Plutarch's time, his writing was largely based on manuscripts of uncertain accuracy. Plutarch himself had little faith in the historic truth found in resources from the past. In his life of Pericles, he states:It is so hard to find out the truth of anything by looking at the record of the past. The process of time obscures the truth of former times, and even contemporaneous writers disguise and twist the truth out of malice or flattery.
+
+
+== Translations ==
+
+The Lives were circulated enough throughout Rome after their original production that they survived the Dark Ages. However, many of the Lives which appear in a list of his writings have not been found. Among these are his biography of Hercules and his comparison of Epaminondas of Greece and Scipio Africanus of Rome.
+The first printed edition of his Parallel Lives appeared in Rome around 1470, translated into Latin from the original Greek. Several more translations would appear through the end of the fifteenth century, with an Italian translation in 1482 then in Spanish in 1491. A German translation would be written in 1541.
+The Lives would gain massive popularity after the 1559 French translation by Amyot, the Abbot of Bellozane. This reproduction of the work was an immediate success. Six authorized editions were published by the Parisian house of Vascosan by the end of 1579, and it was largely pirated.
+Amyot's translation served as a direct source for Thomas North's 1579 English translation, which phrase for phrase follows Amyot's French version. This rendition would become an important source-material for Shakespeare's Coriolanus, Julius Caesar, and Antony and Cleopatra.
+In 1683 a new English edition of the Lives was published, this time translated from the original Greek, unlike North's translation. This translation has come to be known as "Dryden's translation", despite the poet John Dryden only serving as the project's editor and ultimately having no role in the actual translation of the work. It was published by Jacob Tonson.
+
+
+== Content ==
+Plutarch structured Parallel Lives by pairing lives of famous Greeks with those of famous Romans. Eighteen of these close with a formal comparison between its characters.
+Plutarch's focus within the Lives is to create a neat depiction of character that fits into his comparison to the parallel life. Historical context is neglected in favor of moral analysis in order to create his desired anecdote. This can be seen in his deviation from the sources he used to understand the characters he represented: "His Eumenes is a far cry from any picture of Eumenes he can have found in the historical literature he used. It is an artificial creation to provide a counterpart to his Sertorius and can only be understood against the background of the Sertorius." The Parallel Lives, therefore, need to be understood primarily as literary biographies, not as histories.
+Within the biographies Plutarch presents both the positive and negative attributes of each character. Rather than speaking of the character’s lives in simple terms surrounding the events of their lives, he describes the moral and psychological motivations behind each figure. He uses them as ‘moral actors’, prompting self-examination and self-improvement from the reader. Even when making judgements on the characters within the text, Plutarch still “poses questions to his readers and suggests alternative trains of thought that might be possible for them to follow”. This encourages the reader to acknowledge and appreciate contradicting viewpoints and broaden their moral perspectives.
+The table below gives the list of the biographies. Its order follows the one found in the Lamprias Catalogue, the list of Plutarch's works made by his hypothetical son Lamprias. The table also features links to several English translations of Plutarch's Lives available online. While the four unpaired biographies are not considered to be parts of the Parallel Lives, they can be included in the term Plutarch's Lives.
+All dates are BC.
+
+Notes
+The two-volume edition of Dryden's translation contains the following biographies:
+Volume 1. Theseus, Romulus, Lycurgus, Numa, Solon, Publicola, Themistocles, Camillus, Pericles, Fabius, Alcibiades, Coriolanus, Timoleon, Aemilius Paulus, Pelopidas, Marcellus, Aristides, Cato the Elder, Philopoemen, Flamininus, Pyrrhus, Marius, Lysander, Sulla, Cimon, Lucullus, Nicias, Crassus.
+Volume 2. Sertorius, Eumenes, Agesilaus, Pompey, Alexander the Great, Julius Caesar, Phocion, Cato the Younger, Agis, Cleomenes, Tiberius Gracchus and Gaius Gracchus, Demosthenes, Cicero, Demetrius, Mark Antony, Dion, Marcus Brutus, Aratus, Artaxerxes II, Galba, Otho.
+
+^ The Perseus project also contains a biography of Caesar Augustus, in North's translation, but not from Plutarch's Parallel Lives: P
+^ Though the majority of the Parallel Lives were written with the Greek hero (or heroes) placed in the first position followed by the Roman hero, there are three sets of Lives where this order is reversed: Aemilius Paulus/Timoleon, Coriolanus/Alcibiades and Sertorius/Eumenes.
+^ At the time of composing this table there appears some confusion in the internal linking of the Perseus project webpages, responsible for this split in two references.
+
+
+== Reception ==
+Plutarch's Parallel Lives has received widespread praise from notable figures throughout its centuries of popularity. The 1559 first French edition was hailed by French author and philosopher Montaigne, who commented "We dunces would have been lost if this book had not raised us out of the dirt". Beethoven, with the progression of his deafness, wrote in 1801, "I have often cursed my Creator and my existence.  Plutarch has shown me the path of resignation.  If it is at all possible, I will bid defiance to my fate, though I feel that as long as I live there will be moments when I shall be God's most unhappy creature ... Resignation, what a wretched resource!  Yet it is all that is left to me." British General Gordon wrote "Certainly I would make Plutarch's Lives a handbook for our young officers.  It is worth any number of 'Arts of War' or 'Minor Tactics'." Ralph Waldo Emerson called the Lives "a bible for heroes."
+The individual biographies have their own receptions in addition to responses to the work as a whole. The life of Antonius has been cited by multiple scholars as one of the masterpieces of the series. Peter D'Epiro praised his depiction of Alcibiades as "a masterpiece of characterization." Academic Philip A. Stadter singled out Plutarch's Pompey and Caesar as the greatest figures in the Roman biographies. His biography of Caesar has been cited as proof that Plutarch is "loaded with perception". Carl Rollyson's Essays in Biography states that "no biographer has surpassed him in summing up the essence of a life – perhaps because no modern biographer has believed so intensely as Plutarch did in 'the soul of men'."
+Within each translation and reiteration of Plutarch's Lives, translators and editors have manipulated his original work in order to put forward their own ideologies. George Wyndham's 1895 introduction to the Lives denounces how
+
+Men cut down the genuine Lives to convenient lengths, for summaries and 'treasuries'...[they] epitomized Plutarch's matter and pointed his moral, grinding them to the dust of a classical dictionary and the ashes of a copybook headline.
+Here he is speaking of incomplete republications of Plutarch's original work, which had gained popularity but had been rehashed into brief, incomplete outlines that lacked Plutarch's original depth. Rebecca Nesvet argues that the 1683 translation of the text was constructed with the intention of incorporating a message of religious tolerance. Jacob Tonson, with assistance from John Dryden, republished Lives confirming Plutarch's paganism and demonstrating clearly that "adherence to a faith outside the one his readers were expected to follow should not disqualify a rational individual from political involvement in leadership". While the original text of Parallel Lives was produced to progress certain moral ideals, translators of the work have deviated from the original text to incorporate their own ethics.
+Plutarch's Parallel Lives has remained relevant centuries after being authored. His merging of biography and ethical commentary continues to be an invaluable reflection on human nature. Put quite plainly: "We find Plutarch surprisingly relevant today because nothing really has changed in human nature over the nineteen centuries since Plutarch wrote".
+
+
+== See also ==
+Historic recurrence
+
+
+== References ==
+
+
+== Further reading ==
+Schettino, Maria Teresa (2013). "The Use of Historical Sources". A Companion to Plutarch. John Wiley & Sons. pp. 417–436. doi:10.1002/9781118316450.ch28. ISBN 978-1-118-31645-0.
+
+
+== External links ==
+University of Chicago English text of Plutarch's Parallel Lives.
+ Parallel Lives of the Noble Greeks and Romans public domain audiobook at LibriVox

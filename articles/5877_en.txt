@@ -1,0 +1,87 @@
+The Reina Valera is a Spanish translation of the Bible originally published in 1602 when Cipriano de Valera revised an earlier translation produced in 1569 by Casiodoro de Reina. Since that date, it has undergone various revisions, notably those of 1865, 1909, 1960, 1977, 1995, 2004, 2011, and 2015.
+
+
+== History ==
+
+
+=== Starting point ===
+Casiodoro de Reina, a former Catholic monk of the Order of St. Jerome, and later an independent Lutheran theologian, with the help of several collaborators produced the first complete Bible printed in Spanish. It was first published on September 28, 1569, in Basel, Switzerland. (Earlier translations, such as the 13th-century Alfonsina Bible, translated from Jerome's Vulgate, had been copied by hand.) This Bible was known as the "Biblia del Oso" (in English: Bear Bible) because the illustration on the title page showed a bear trying to reach a container of honeycombs hanging from a tree.
+The translation was based on the Hebrew Masoretic Text (Bomberg's edition of 1525) and the Greek Textus Receptus (Stephanus' edition of 1550). As secondary sources, de Reina used the Ferrara Bible for the Old Testament and the Latin Edition of Santes Pagnino throughout. For the New Testament, he was greatly aided by the translations of Francisco de Enzinas and Juan Pérez de Pineda. The 1569 version included the deuterocanonical books within the Old Testament and the 1602 version included the deuterocanonical books sandwiched between the Old and New Testaments.
+
+
+=== Edition by Cipriano de Valera ===
+In 1602 Cipriano de Valera, a student of de Reina, printed in Amsterdam a revision of the Biblia del Oso in which the deuterocanonical books were placed in a section between the Old and New Testaments called the Apocrypha. Among the reasons for the revision was that in the intervening period words had changed their meanings or gone out of use. For a time, it was known simply by de Valera's name.
+
+
+=== Further revisions ===
+The British and Foreign Bible Society, the American Bible Society and the United Bible Societies published a total of fifteen revisions between 1808 and 1995 of which those of 1909, 1960 and 1995 are the most significant today and remain in print and a further revision appeared in 2011. Modern editions often omit the Apocrypha. The principle behind these revisions has been to remain as close to the original Reina Valera as possible without causing confusion or misunderstanding. Even the 1995 New Testament is based on the traditional Textus Receptus despite the fact that the United Bible Societies use modern critical Greek texts as the basis for other translations. It retains the traditional form of the name of God, "Jehová" (with the notable exceptions of the Nueva Reina Valera 1990, revision which replaces "Jehová" with "El Eterno" and the Reina Valera Contemporánea, revision of 2011 which replaces "Jehová" with "El Señor"). In addition, it uses for the second-person plural the pronoun "vosotros" (except for the Reina Valera Contemporánea which replaces "vosotros" with "ustedes"), which is obsolete outside Spain. 
+Apart from updating the vocabulary where necessary, its major innovations lie in the area of visual presentation: Hebrew verse is printed in a way that reflects its structure rather than as if it were prose, and while the numbering of verses has been retained; the text is laid out clearly in paragraphs.
+Since the resurgence of the King James Only movement in the United States (and its exportation to other countries), there has been much debate among Christian groups who use the Reina Valera Bible. However, the 1960 revision became the common Bible of many millions of Spanish-speaking Protestants around the world, surpassing the 1909 in its reception. Almost all Hispanic churches use it, despite the existence of projects to further revise it, such as the Reina Valera Gómez edition of 2004.
+The Reina Valera Bible is authorized to be used in Spanish-language services by many religious groups, including the Church of Christ, Scientist and the Anglican Communion.
+
+
+=== Additional revisions ===
+The Reina–Valera 1865, edited by Dr. Ángel Herreros de Mora in Spain, was subsequently adopted and printed by the American Bible Society. This edition served as the ABS's standard Spanish Bible until the 1950s, when it was replaced by newer revisions. It was reprinted in 2000 by Local Church Bible Publishers of Lansing, Michigan, and the Valera Bible Society of Miami, Florida, primarily for churches preferring pre-1909 textual traditions.
+The Reina-Valera Revisada 1977 (RVR1977), published by Editorial CLIE, represents a significant scholarly attempt to return to Casiodoro de Reina's original 1569 text while updating the language for contemporary readers. The revision committee compared the original Bear Bible with over 468 16th-century biblical editions and translations to understand the translation dynamics of Reina and Valera. The revisors chose to preserve the Textus Receptus foundation while marking disputed passages in brackets rather than removing them, reflecting a compromise between textual criticism and traditional preservation. As stated in their introduction: "The text has been revised respecting always the base text of Reina and according to the norms that govern the living Castilian of our days. Its substance has been preserved, as well as the beauty and cadence of its Castilian form, sacrificing only archaic words and obsolete forms in pursuit of clarity in current language."
+The Reina Valera Gómez (2004), produced in Matamoros, Mexico, represents a revision of the 1909 edition by advocates of King James Onlyism. This project, led by Humberto Gómez Caballero, seeks to align the Spanish text more closely with the King James Version's underlying Greek and Hebrew texts, particularly the Textus Receptus and Masoretic Text. However, critics argue that it relies more heavily on the English KJV than on original Hebrew and Greek sources, and it has faced criticism for claiming to be the "perfect" Spanish Bible despite multiple revisions due to evident errors.
+The Biblia Textual Reina-Valera (2008), produced by the Sociedad Bíblica Iberoamericana, represents a significant departure from traditional Reina-Valera textual foundations. This version uses critical text editions (Biblia Hebraica Stuttgartensia for the Old Testament and Novum Testamentum Graece, 28th edition for the New Testament) rather than the traditional Textus Receptus. The project aims to present what the translators consider a more accurate reflection of the earliest available manuscripts, though this approach has generated controversy among traditional Reina-Valera advocates who view it as abandoning the textual tradition that defined the translation for over 400 years.
+The Reina-Valera 2020, published by the Spanish Bible Society (Sociedad Bíblica de España), represents the most recent major institutional revision. Released in September 2020, this version aims to modernize the language while preserving what the translators call "the aroma of the Reina-Valera." The revision team, led by Ricardo Moraleja, emphasized maintaining continuity with the original translation choices of Casiodoro de Reina and Cipriano de Valera while updating grammar and vocabulary for contemporary Spanish readers.
+The Reina-Valera Contemporánea (RVC 2011), produced by the United Bible Societies, adopts a more dynamic equivalence approach compared to earlier formal equivalence revisions. This version substitutes "Señor" for "Jehová" following Septuagint tradition and employs more modern Spanish syntax, moving away from Hebrew grammatical structures toward contemporary Castilian patterns.
+The Church of Jesus Christ of Latter-day Saints published in 2009 their first official Spanish edition of the Bible, based on the 1909 Reina–Valera with what church officials described as "a very conservative update of outdated grammar and vocabulary" to improve readability while maintaining textual fidelity. This edition includes LDS-specific footnotes, cross-references, and study aids integrated with other LDS standard works.
+The Biblia del Siglo de Oro (2009), published jointly by Spain's National Library and the Spanish Bible Society to commemorate the 440th anniversary of the Bear Bible, represents the first time in over four centuries that the work of Reina and Valera was published in Spain exactly as its authors intended, including the deuterocanonical books following Valera's arrangement.
+The Nueva Reina-Valera 1990 (NRV1990), published by Sociedad Bíblica Emanuel in Miami, represents the Seventh-day Adventist Church's denominational adaptation of the Reina-Valera tradition. After seven years of intensive work updating the 1909 revision, this version was refined and reviewed by 49 biblical scholars from 12 different confessions and 10 countries, including Catholics, Evangelicals, and Hebrew scholars. The translators described it as "cordially ecumenical" and emphasized that it maintains the classic Reina-Valera foundation while clarifying and updating the text. A notable characteristic is its substitution of "Eterno" (Eternal) for "Jehová" in many passages.
+The Nueva Reina-Valera 2000 (NRV2000), also published by Sociedad Bíblica Emanuel for Adventist use, follows similar principles but substitutes "Señor" (Lord) for "Jehová," reflecting ongoing denominational preferences in divine name usage.
+The Andrews Study Bible (Spanish edition, 2015), published by Asociación Casa Editora Sudamericana (ACES), uses the Reina-Valera 1995 as its base text and includes over 12,000 study notes written by an international team of Adventist scholars. This comprehensive study Bible was designed to make Bible reading and comprehension more accessible for both new believers and experienced students, featuring cross-reference systems, maps, and study aids specifically tailored to Adventist theological perspectives.
+The Reina-Valera Actualizada (RVA 2015), published by Casa Bautista de Publicaciones/Editorial Mundo Hispano, represents a Baptist denominational revision of the 1909 edition that was partially released from 1982 and completed in 1989, with subsequent revisions in 1999, 2006, and 2015.
+The Reina-Valera Portuguese (RVP 2009), a Brazilian translation project that began in 1999, represents a unique approach of translating the Spanish Reina-Valera into Portuguese rather than working directly from Hebrew and Greek sources. The project involved Spanish translators, linguists, and literature specialists working under both technical-institutional and linguistic directives.
+
+
+=== Reina Valera Only movement ===
+
+Much like the case with the King James Version in English, the Reina Valera has a number of devotees who believe that it is a superiorly authentic translation in the Spanish language, or, more broadly, that the Reina Valera especially the 1960 revision is to be preferred over all other Spanish translations of Scripture or even later subsequent revisions of the Reina Valera.
+However, the Reina-Valera translations have generally attempted to preserve much of the older literary style. As a result, contemporary readers often encounter numerous archaisms and false friends (words that appear familiar but in fact carry obsolete or now-nonexistent meanings). Consequently, the use of the RV60 presents difficulties in comprehension for the modern reader.
+
+
+==== Cultural and linguistic arguments ====
+Proponents of Reina Valera preference often cite factors beyond textual criticism, including the translation's cultural impact and linguistic legacy in the Spanish-speaking world. The Reina Valera's distinctive translation choices have become deeply embedded in Hispanic Christian culture, with many of its phrases transcending religious contexts to become part of popular Spanish proverbial expressions. For example, passages like "El que esté libre de pecado, que tire la primera piedra" (John 8:7) function both as biblical quotations and as common sayings in everyday Spanish discourse.
+Supporters argue that the translation's 16th-century Castilian Spanish created a unique register that balances solemnity with accessibility, achieving what some scholars describe as a "proverbial architecture" that makes biblical passages memorable and quotable in ways that more contemporary translations have not replicated. This linguistic phenomenon is particularly notable in the Psalms, where the Reina Valera's rhythmic and poetic qualities have made certain passages integral to Hispanic Christian liturgical and devotional practices.
+
+
+==== Scholarly and apologetic responses ====
+Biblical scholars and apologists have opposed the exclusivist view, arguing that while the Reina Valera is an important translation in Spanish Bible translation history, it should not be elevated above critical evaluation. They point to new manuscript discoveries and advances in biblical scholarship that have enhanced understanding of original texts since the 16th century. Critics note that some popular passages in the Reina Valera, such as the pericope adulterae (John 8:1-11), are absent from the earliest and most reliable manuscripts, though they acknowledge these passages' cultural and theological significance in Christian tradition.
+Modern translation scholars emphasize that the proliferation of Spanish Bible versions—over 30 contemporary translations—reflects legitimate attempts to make biblical texts accessible to diverse Spanish-speaking communities while incorporating advances in textual criticism and linguistic understanding. They argue that preferential use of the Reina Valera based on familiarity and cultural resonance differs from claims about its superior textual authenticity.
+
+
+=== Contemporary influence ===
+Despite the availability of numerous modern Spanish translations, the Reina Valera maintains significant influence in Hispanic Protestant churches and continues to be widely memorized and quoted. Its phrases appear frequently in contemporary discourse, including social media discussions, political debates, and popular culture, suggesting that its cultural impact extends well beyond formal religious contexts. This phenomenon has led some scholars to characterize the Reina Valera not merely as a biblical translation but as a foundational text in Hispanic cultural identity, comparable to the role of the King James Version in English-speaking Protestant culture.
+
+
+== See also ==
+
+Bible translations
+Bible translations into Spanish
+
+
+== References ==
+
+
+== Further reading ==
+Raymond S. Rosales. Casiodoro de Reina, patriarca del Protestantismo hispano, in Serie de monografías [de las] Publicaciones del Seminario Concordia, no. 5. Saint Louis, Mo.: Concordia Seminary Publications, 2002. ISBN 0-911770-74-7
+
+
+== External links ==
+Text of the Biblia del Oso (1569)
+Text of the original Reina Valera (1602)
+Text of the Reina Valera (1865)
+Text of the Biblia Reina Valera 1909
+Text of the Reina Valera Antigua
+Text of the Reina Valera 1960
+Valera-1977-RVR1977/ Text of the Reina Valera 1977
+Text of the Reina Valera 1995
+Valera-Contemporanea-Biblia-RVC/ Text of the Reina Valera Contemporánea
+Text of the Reina Valera Gomez Bible. Revision 2004 Archived 2012-08-31 at the Wayback Machine
+LDS Text of the "Santa Biblia: Reina Valera 2009"
+History of Reina Valera in Spanish by Baptist Church
+Website of the Reina Valera Contemporánea (in Spanish)
+Works by or about Reina Valera at the Internet Archive
+Works by Reina Valera at LibriVox (public domain audiobooks)

@@ -1,0 +1,33 @@
+Layamon's Brut (c. 1190 – c. 1215), also known as The Chronicle of Britain, is a Middle English alliterative verse poem compiled and recast by the English priest Layamon. Layamon's Brut is 16,096 lines long and narrates a fictionalized version of the history of Britain up to the Early Middle Ages. It was the first work of history written in English since the Anglo-Saxon Chronicle. Named for Britain's mythical founder, Brutus of Troy, the poem is largely based on the Anglo-Norman French Roman de Brut by Wace, which is in turn a version of Geoffrey of Monmouth's Latin Historia Regum Britanniae. Layamon's poem, however, is longer than both and includes an enlarged section on the life and exploits of King Arthur. It is written in the alliterative verse style commonly used in Middle English poetry by rhyming chroniclers, the two halves of the alliterative lines being often linked by rhyme as well as by alliteration.
+Like the earlier Latin works, it is now regarded as valueless as history. It gives the history of the Britons, largely ignoring the Anglo-Saxons.  Its narrative ends with the Welsh king Cadwallon ap Cadfan, who died in 634.
+
+
+== Language and style ==
+The versification of the Brut has proven extremely difficult to characterise. Written in a loose alliterative style, sporadically deploying rhyme as well as a caesural pause between the hemistichs of a line, it is perhaps closer to the rhythmical prose of Ælfric of Eynsham than to verse, especially in comparison with later alliterative writings such as Sir Gawain and the Green Knight and Piers Plowman. Layamon's alliterating verse is difficult to analyse, seemingly avoiding the more formalised styles of the later poets.
+Layamon's Middle English is notably "native" in its vocabulary, i.e. devoid of words borrowed from Norman French; the scholar B.S. Monroe counted a mere 150 words derived from French in the poem's 16,000 lines. It is remarkable for its abundant Anglo-Saxon vocabulary, including deliberately archaic Saxon forms that were quaint even by Anglo-Saxon standards. Imitations in the Brut of certain stylistic and prosodic features of Old English alliterative verse show a knowledge and interest in preserving its conventions.
+Layamon's Brut remains one of the best extant examples of early Middle English. During an era in English history when most prose and poetry were composed in French, Layamon wrote for his illiterate, impoverished religious audience in Worcestershire.
+In 1216, around the time Layamon wrote, King Henry III of England came to the throne. Henry regarded himself as an Englishman above any other nationality, unlike many of his recent predecessors, and moved his kingdom away from the Old French dialects that had ruled the country's cultural endeavors.
+Several original passages in the poem — at least in accordance with the present knowledge of extant texts from the Middle Ages — suggest Layamon was interested in carving out the history of the Britons as the people 'who first possessed the land of the English'.
+
+
+== Manuscripts, editions and translations ==
+Two copies of the manuscript are known; one in the MS. Cotton Caligula A ix, dating from the third quarter of the 13th century, and in the Cotton Otho C xiii, copied about fifty years later (though the extant, damaged, text is shorter). Both manuscripts are in the British Library.
+The text is online from the University of Michigan and a translation exists on Project Gutenberg.
+
+
+== References ==
+
+
+== Bibliography ==
+Le Saux, Francoise H M, Layamon's Brut:The Poem and its Sources, 1989, Boydell and Brewer
+Tiller, Kenneth, Layamon's Brut and the Anglo-Norman Vision of History, 2007, University of Wales Press, ISBN 9780708319024
+
+
+=== Editions ===
+Brook, G. L. and R. F. Leslie (ed.), Laȝamon: Brut, Edited from British Museum MS. Cotton Caligula A. ix and British Museum MS. Cotton Otho C. xiii, Early English Text Society, 250, 277, 2 vols (London: Oxford University Press, 1963–78), http://quod.lib.umich.edu/cgi/t/text/text-idx?c=cme;idno=LayCal. The standard edition.
+W. R. J. Barron and S. C. Weinberg (ed. and trans.), Laȝamon's Arthur: The Arthurian Section of Laȝamon's ‘Brut’ (Lines 9229-14297) (Harlow: Longman, 1989). Facing text and translation, based on the Caligula MS.
+Allen, Rosamund (trans.), Laȝamon: Brut (London, 1992)
+Wace and Layamon, Arthurian chronicles, trans. by Eugene Mason (London: Dent, 1962)
+Layamon (1847) [c. 1215]. Madden, Frederic (ed.). Layamons Brut, or Chronicle of Britain; A Poetical Semi-Saxon Paraphrase of The Brut of Wace. Vol. I. Translated by Madden. London: The Society of Antiquaries of London.
+Layamon (1847) [c. 1215]. Madden, Frederic (ed.). Layamons Brut, or Chronicle of Britain; A Poetical Semi-Saxon Paraphrase of The Brut of Wace. Vol. II. Translated by Madden. London: The Society of Antiquaries of London.
+Layamon (1847) [c. 1215]. Madden, Frederic (ed.). Layamons Brut, or Chronicle of Britain; A Poetical Semi-Saxon Paraphrase of The Brut of Wace. Vol. III. Translated by Madden. London: The Society of Antiquaries of London.

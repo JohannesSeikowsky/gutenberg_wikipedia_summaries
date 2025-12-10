@@ -1,0 +1,107 @@
+The Laches (; Greek: Λάχης) is a Socratic dialogue written by Plato.  Participants in the discourse present competing definitions of the concept of courage or "manliness", ἀνδρεία in Greek.
+
+
+== Characters ==
+Socrates
+Lysimachus – Son of the Athenian general and statesman, Aristides.
+Melesias – A friend of Lysimachus.
+Nicias – Athenian general and statesman, son of Niceratus.
+Laches - Athenian general and statesman, son of Melanopus.
+Aristides – Son of Lysimachus and grandson of the eponymous general and statesman.
+
+
+== Summary ==
+
+
+=== Education and the value of military training ===
+
+
+==== Has military education a place in higher education? [178a–180a] ====
+Lysimachus, son of Aristides, and Melesias, son of Thucydides (not the historian Thucydides), request advice from Laches and Nicias on whether or not they should have their sons (who are named after their famous grandfathers) trained to fight in armour.  After each gives their opinion, Nicias for and Laches against, they seek Socrates for counsel.
+
+
+==== Laches introduces Socrates to the discussion [180a–181d] ====
+Socrates questions what the initial purpose of the training is meant to instill in the children. Once they determine that the purpose is to instill virtue, and more specifically courage, Socrates discusses with Laches and Nicias what exactly courage is. The bulk of the dialogue is then the three men (Laches, Nicias and Socrates) debating various definitions of courage.
+
+
+==== Nicias on the advantages of fighting in armour [181e–182d] ====
+Nicias argues in favor of an education in fighting in armour for young men. He mentions that it promotes physical fitness, prepares a man for military duties, gives an advantage over untrained opponents, helps one understand military strategy, makes one braver, and gives one a martial appearance.
+
+
+==== Laches on the futility of fighting in armour [182e–184c] ====
+Laches argues against the need for fighting in armour by claiming that the Spartans do not practice it; the instructors that Laches has seen are not brave soldiers and so have not benefitted from this knowledge; and it causes cowards to make foolish decisions and elevates military risks.
+
+
+==== The need for expert advice: are the generals qualified to speak about education? [184d–187d] ====
+Melesias and Lysimachus ask Socrates to decide which side is correct. Socrates begins by trying to clarify what the actual topic is. He determines that the issue is the care of young men's character and asks if there are qualified teachers for this. Socrates confesses not to be skilled in this and assumes that Laches and Nicias are either versed in character building or else know of experts in that field. Socrates proposes to question them about this to see if they have qualified expertise.
+
+
+==== The generals agree to cooperate with Socrates and put their expertise to the test [187e–189d] ====
+Nicias warns about Socrates' philosophical methods of getting the interlocutor to examine their own conscience. Laches states that he likes to hear discussions that are "musical", when a person's discourse is in tune with their actions. Paraphrasing Solon, Laches agrees to participate in Socrates' inquiry because he likes to learn from good men.
+
+
+=== An inquiry into the nature of bravery ===
+
+
+==== The need to define bravery [189d–190d] ====
+Socrates uses a medical analogy to help define goodness: If eyes can be improved by adding sight to them, then a boy's character can be improved by adding goodness to it. As one must know what sight is before one can consider it an improvement, so too it is necessary to have knowledge of what good is before it is used to improve a character.  Rather than try to define what the whole of goodness is, Socrates thinks it would be easier to define an aspect of goodness that is relevant to the question: bravery.
+
+
+==== Laches' first definition: to be brave is to stand and fight [190e–192b] ====
+Laches advances that to be brave is to be a soldier who can hold his position in combat without running away. Socrates explains that his definition is very specific to military infantry and what he was really looking for is a notion of bravery that pertains to all military situations and extends to all situations in life.
+
+
+==== Laches' second definition: bravery is endurance [192b–193d] ====
+Laches offers an opinion that courage is "a certain perseverance of the soul". However, Socrates challenges this idea by arguing that there are many instances in battle when the prudent thing to do is to withdraw or flee. Since courage is a virtue, Socrates argues, it cannot contradict prudence, and therefore the idea that courage always demands perseverance must be false. Laches is forced to admit this contradiction.
+
+
+==== Impasse: Nicias is asked to help [193e–194c] ====
+Socrates expresses his perplexity in trying to account for bravery. Laches wishes to pursue the conversation, saying that he has a sense of what bravery is, but is not able to express it properly.  Socrates states that like a good huntsman pursuing a trail, they must persevere in the search for their quarry. They invite Nicias to give his definition of bravery.
+
+
+==== Nicias' definition: bravery is a special kind of knowledge [194d–196c] ====
+Nicias then offers another definition. He suggests that courage is "knowledge of what is to be feared and hoped for both in war and in all other matters".
+
+
+==== Implications of Nicias' definition: can animals and children be brave? [196d–197e] ====
+Since bravery is the knowledge of what is fearful and encouraging, Socrates asks if a pig could be brave. Nicias denies that animals can be brave as he believes that a certain amount of wisdom is necessary for bravery and that very few people can be considered brave. Socrates playfully suggests that Nicias is being influenced by a sophist named Damon and offers to respond to Nicias' assertion.
+
+
+==== Nicias has defined goodness, not bravery [198a–199e] ====
+Nicias agrees that something 'fearful' is the expectation of a future evil and something 'hopeful' is the expectation of a future good.  Socrates then argues that full knowledge of any subject involves an understanding not only of future matters, but also of past and present. Thus if courage is the knowledge of future evils and goods, it must also necessarily be the knowledge of those of the present and past too.  He then asserts that Nicias' definition actually amounts to a definition of all virtue (since it implies knowledge of all good and evil) and therefore, since courage is in fact only a part of virtue, a contradiction arises and the definition must be false.
+
+
+==== The discussion breaks up: Socrates suggests they all have much to learn [200a–201a] ====
+And so, in the end, Socrates finds both his companions' theories to be unsatisfactory, and the dialogue ends in aporia, an English term derived from the ancient Greek ἀπορία meaning "philosophical confusion".
+
+
+== Critical commentary ==
+There are many different interpretations as to why the dialogue ends in aporia. Certain commentators, such as Iain Lane, view the Socratic method of elenchus as an end in itself; that debate is the central premise and function of the dialogue. Others, such as Gregory Vlastos, see the dialogue ending because of the specific deficiencies of the characters' definitions.
+Some of the characters in this dialogue were famous military statesman who died in battle. Nicias was a prominent Athenian politician and general who died during the Sicilian expedition. Laches was also a general and died at the Battle of Mantinea in the Peloponnesian War. It is not surprising that Socrates would question them on the importance of military training and the definition of courage. This gives the dialogue's place in ancient Greek history a clearer importance.
+
+
+== Texts and translations ==
+Plato: Laches, Protagoras, Meno, Euthydemus. Greek with translation by W. R. M. Lamb. Loeb Classical Library 165. Harvard Univ. Press (originally published 1924). ISBN 978-0674991835 HUP listing
+Lamb translation at Perseus
+Benjamin Jowett's 1892 translation
+Plato. Opera, volume III. Oxford Classical Texts. ISBN 978-0198145424
+Plato. Complete Works. Ed. J. M. Cooper and D. S. Hutchinson. Hackett, 1997. ISBN 978-0872203495
+
+
+== See also ==
+Papyrus Oxyrhynchus 228
+
+
+== Further reading ==
+Walter T. Schmid, On Manly Courage: A Study of Plato's Laches, SIU Press, 1992.
+Linda R. Rabieh, Plato and the Virtue of Courage, JHU Press, 2006.
+J.P. Mahaffy, An Ancient Papyrus Fragment of the Laches of Plato Hermathena vol. VIII, 1893, p. 310-321.
+Curtolo Maria Vittoria, La tradizione testuale del Lachete di Platone. Rapporti stemmatici fra i manoscritti della terza famiglia, Graeco-Latina Brunensia 26/2 (2021), publisher: Masarykova univerzita, Filozofická fakulta, Brno, pp. 41-53.
+
+
+== External links ==
+
+Laches, in a collection of Plato's Dialogues at Standard Ebooks
+Greek text at Perseus
+Approaching Plato: A Guide to the Early and Middle Dialogues
+ Laches public domain audiobook at LibriVox

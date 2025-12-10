@@ -1,0 +1,199 @@
+Prometheus Unbound is a four-act lyrical drama by Percy Bysshe Shelley, first published in 1820. It is concerned with the torments of the Greek mythological figure Prometheus, who defies the gods and gives fire to humanity, for which he is subjected to eternal punishment and suffering at the hands of Zeus. It is inspired by the classical Prometheia, a trilogy of plays attributed to Aeschylus (although only Prometheus Bound is fully extant). Shelley's play concerns Prometheus' release from captivity, but unlike Aeschylus' version, there is no reconciliation between Prometheus and Jupiter (Zeus). Instead, Jupiter is abandoned by his supportive elements and falls from power, which allows Prometheus to be released.
+Shelley's play is a closet drama, meaning it was not intended to be produced on the stage. In the tradition of Romantic poetry, Shelley wrote for the imagination, intending his play's stage to reside in the imaginations of his readers. However, the play is filled with suspense, mystery and other dramatic effects that make it, in theory, performable.
+
+
+== Background ==
+
+Mary Shelley, in a letter on 5 September 1818, was the first to describe her husband Percy Shelley's writing of Prometheus Unbound. On 22 September 1818, Shelley, while in Padua, wrote to Mary, who was at Este, requesting "The sheets of 'Prometheus Unbound,' which you will find numbered from one to twenty-six on the table of the pavilion." There is little other evidence as to when Shelley began Prometheus Unbound while he was living in Italy, but Shelley first mentions his progress in a letter to Thomas Love Peacock on 8 October 1818: "I have been writing – and indeed have just finished the first act of a lyrical and classical drama, to be called 'Prometheus Unbound'."
+Shelley stopped working on the poem following the death of his daughter Clara Everina Shelley on 24 September 1818. After her death, Shelley began to travel across Italy, and would not progress with the drama until after 24 January 1819. By April, the majority of the play was completed, and Shelley wrote to Peacock on 6 April 1819: "My Prometheus Unbound is just finished, and in a month or two I shall send it". Shelley also wrote to Leigh Hunt to tell him that the play was finished. However, the play was not yet published; Shelley would be delayed in editing and finishing the work by another death, that of his son William Shelley, who died on 7 June 1819.
+On 6 September 1819, Shelley wrote to Charles and James Ollier to say, "My 'Prometheus,' which has been long finished, is now being transcribed, and will soon be forwarded to you for publication." The play was delayed in publication, because John Gisborne, whom Shelley trusted to go to England with the text, delayed his journey. It was not until December 1819 that the manuscript with the first three acts of Prometheus Unbound was sent to England. The fourth act was incomplete by this time, and on 23 December 1819, Shelley wrote to Gisborne, "I have just finished an additional act to 'Prometheus' which Mary is now transcribing, and which will be enclosed for your inspection before it is transmitted to the Bookseller."
+While in Italy, Shelley became concerned about the progress of publishing Prometheus Unbound. He wrote many letters to Charles Ollier from March until April asking about the drama's progress and wanted to know if the text was accurate because he was unable to check the proofs himself. Both Percy and Mary Shelley were eager to hear when the book was published, and inquired Gisborne's wife, Thomas Medwin, and John Keats about its release throughout July 1820. It was not until late August that they received word that the book was published. They were eager to read the published version and obtained one by November 1820.
+After they procured a copy, Shelley wrote to the Olliers on 10 November 1820: "Mr. Gisborne has sent me a copy of the 'Prometheus,' which is certainly most beautifully printed. It is to be regretted that the errors of the press are so numerous, and in many respects so destructive of the sense of a species of poetry which, I fear, even with this disadvantage, very few will understand or like." A corrected edition was sent on 20 January 1821 along with a letter from Shelley that explains "the Errata of 'Prometheus,' which I ought to have sent long since – a formidable list, as you will see". Shelley did not forget the printing errors, and even criticised Charles Ollier later when Shelley sent Adonais to be published.
+
+
+=== Æschylus ===
+Shelley's own introduction to the play explains his intentions behind the work and defends the artistic freedom he has taken in his adaptation of Aeschylus' myth:
+
+The "Prometheus Unbound" of Æschylus supposed the reconciliation of Jupiter with his victim as the price of the disclosure of the danger threatened to his empire by the consummation of his marriage with Thetis. Thetis, according to this view of the subject, was given in marriage to Peleus, and Prometheus, by the permission of Jupiter, delivered from his captivity by Hercules. Had I framed my story on this model, I should have done no more than have attempted to restore the lost drama of Æschylus; an ambition which, if my preference to this mode of treating the subject had incited me to cherish, the recollection of the high comparison such an attempt would challenge might well abate. But, in truth, I was averse from a catastrophe so feeble as that of reconciling the Champion with the Oppressor of mankind. The moral interest of the fable, which is so powerfully sustained by the sufferings and endurance of Prometheus, would be annihilated if we could conceive of him as unsaying his high language and quailing before his successful and perfidious adversary.
+When Shelley wrote Prometheus Unbound, the authorship of the Prometheia and its connection as a trilogy was not in question. Of the three works, Prometheus Bound is the only tragedy that survived intact, although fragments of Prometheus Unbound remained, allowing a fairly detailed outline based on the Prometheus myth told by Hesiod and extensive prophesying in the first work. It is this assumed trilogy, including Prometheus' reconciliation with Zeus, thought to occur in the final part of the cycle, which Shelley considers in the introduction.
+
+
+== Play ==
+
+
+=== Act I ===
+Act I begins in the Indian Caucasus, where the Titan Prometheus is bound to a rock face, and he is surrounded by the Oceanides Panthea and Ione. As morning breaks, Prometheus cries out against the "Monarch of Gods and Daemons", Jupiter, and his tyrannous kingship. From his bound position, Prometheus claims to be greater than Jupiter before relating his suffering to the conditions of nature, including the Earth, Heaven, Sun, Sea, and Shadow. He turns to how nature has aided in his torture along with the constant tearing at his flesh by "Heaven's winged hound", the hawks of Jupiter. As he accounts his sufferings more and more, he reaches a peak of declaring that he would recall "The curse / Once breathed on thee..." Four voices, from the mountains, springs, air, and whirlwinds, respond to Prometheus through describing how they see the world and how "we shrank back: for dreams of ruin / To frozen caves our flight pursuing / Made us keep silence". The Earth then joins in to describe how all parts of the world cried out "Misery!".
+Prometheus reflects on the voices before returning to his own suffering at Jupiter's hands and recalling his love for the Oceanid Asia. Shortly after, he demands to hear his curse against Jupiter, and the Earth tells Prometheus "I dare not speak like life, lest Heaven's fell King / Should hear, and link me to some wheel of pain / More torturing than the one whereon I roll" and also that he is "more than God / Being wise and kind". Prometheus asks who he is talking to, and the Earth admits to being the mother of all who suffers under Jupiter's tyranny. Prometheus praises her, but demands that she recalls the curse he laid upon Jupiter. The Earth responds by describing Zoroaster and that there are two realities: the current and the shadow reality that exists "Till death unite them and they part no more". She then mentions Demogorgon, "the supreme Tyrant" of the shadow realm, and asks Prometheus to call upon "Thine own ghost, or the ghost of Jupiter, / Hades, or Typhon or what mightier Gods / From all-prolific Evil" if he wishes to hear his curse spoken again.
+Taking her advice, Prometheus calls upon the Phantasm of Jupiter, and Ione and Panthea describe the phantasm's appearance soon after. The phantasm first asks, "Why have the secret / powers of this strange world / Driven me, a frail and empty phantom, hither/ On direst storms?" Prometheus commands the phantasm to recall the curse against Jupiter, and the phantasm obeys:
+
+Fiend, I defy thee! with a calm, fixed mind,
+All that thou canst inflict I bid thee do;
+Foul Tyrant both of Gods and Human-kind,
+One only being shalt thou not subdue....
+Thou art omnipotent.
+O'er all things but thyself I gave thee power,
+And my own will....
+I curse thee! let a sufferer's curse
+Clasp thee, his torturer, like remorse;
+'Till thine Infinity shall be
+A robe of envenomed agony;
+And thine Omnipotence a crown of pain,
+To cling like burning gold round thy dissolving brain.
+After hearing these words, Prometheus repents and claims, "I wish no living thing to suffer pain." The Earth laments that Prometheus is vanquished and Ione responds by claiming that he has not been, but both are interrupted by the appearance of Mercury. With him appear a group of Furies who hope to torture Prometheus, but Mercury keeps them from interfering as he brings his message from Jupiter: "I come, by the great Father's will driven down, / To execute a doom of new revenge."
+Although Mercury admits to pitying Prometheus, he is bound to oppose Prometheus who stands against Jupiter. He asks Prometheus to reveal the secret of Jupiter's fate only Prometheus knows, and Prometheus refuses to submit to Jupiter's will. Mercury tries to barter with Prometheus, offering him the pleasure of being free from bondage and being welcomed among the gods, but Prometheus refuses. At the refusal, Jupiter makes his anger known by causing thunder to ring out across the mountains. Mercury departs at the omen, and the furies begin to taunt Prometheus by saying that they attack people from within before they attack Prometheus without. After all of the furies but one leave, Panthea and Ione despair over Prometheus's tortured body. Prometheus describes his torture as part of his martyrdom and tells the remaining fury, "Thy words are like a cloud of winged snakes; / And yet I pity those they torture not," to which the fury departs.
+Soon after, Prometheus declares that peace comes with death, but that he would never want to be mortal. The Earth responds to Prometheus, "I felt thy torture, son, with such mixed joy / As pain and virtue give." At that moment, a Chorus of Spirits appears and celebrates Prometheus's secret knowledge, which then break into accounts of dying individuals and the ultimate triumph of good people over evil. The spirits together tell Prometheus, "Thou shalt quell this horseman grim, / Woundless though in heart or limb," an act which shall happen because of Prometheus's secret. The spirits depart, leaving Ione and Panthea to discuss the spirits' message with Prometheus, and Prometheus recalls the Oceanid Asia, and the Act ends with Panthea telling Prometheus that Asia awaits him.
+
+
+=== Act II ===
+Act II Scene I begins in an Indian Caucasus valley where the Oceanid Asia proclaims that "This is the season, this the day, the hour;/ At sunrise thou shouldst come, sweet sister mine" and so Panthea enters. Panthea describes to Asia how life for her and Ione has changed since Prometheus's fall and how she came to know of Prometheus's love in a dream. Asia asks Panthea to "lift/ Thine eyes, that I may read his written soul!" to which Panthea agreed, and the dream of Prometheus was revealed to Asia. Asia witnesses another dream in Panthea's eyes, and the two discuss the many new images of nature that both of their minds are filled with and the words "Follow! Follow!" are repeated in their minds. Their words are soon repeated by Echoes, which join in telling the two to follow. Asia questions the Echoes, but the Echoes only beckon them further, "In the world unknown/ sleeps a voice unspoken;/ By thy step alone/ Can its rest be broken", and the two begin to follow the voices.
+Scene II takes place in a forest with a group of spirits and fauns. Although the scene moves quickly to the next one, the spirits describe Asia's and Panthea's journey and how "There those enchanted eddies play/ Of echoes, music-tongued, which draw,/ By Demogorgon's mighty law,/ With melting rapture, or sweet awe,/ All spirits on that secret way". Scene III takes place in mountains, to which Panthea declares, "Hither the sound has borne us – to the realm/ Of Demogorgon". After Asia and Panthea are overwhelmed by their surroundings and witness the acts of nature around the mountains, a Song of Spirits begins, calling them "To the deep, to the deep,/ Down, down!" Asia and Panthea descend, and Scene IV begins in the cave of the Demogorgon. Panthea describes Demogorgon upon his ebon throne: "I see a mighty darkness/ Filling the seat of power, and rays of gloom/ Dart round, as light from the meridian sun,/ Ungazed upon and shapeless; neither limb,/ Nor form, nor outline; yet we feel it is/ A living Spirit."
+Asia questions Demogorgon about the creator of the world, and Demogorgon declares that God created all, including all of the good and all of the bad. Asia becomes upset that Demogorgon will not reveal the name of God, first demanding, "Utter his name: a world pining in pain/ Asks but his name: curses shall drag him down." Asia continues to question Demogorgon, and accounts the history of Saturn and Jupiter as rulers of the universe. She declares that "Then Prometheus/ Gave wisdom, which is strength, to Jupiter,/ And with this law alone, 'Let man be free,'/ Clothed him with the dominion of wide Heaven. To know nor faith, nor love, nor law; to be/ Omnipotent but friendless is to reign". She criticises Jupiter for all of the problems of the world: famine, disease, strife and death. Prometheus, she continues, gave man fire, the knowledge of mining, speech, science, and medicine. Demogorgon simply responds, "All spirits are enslaved which serve things evil:/ Thou knowest if Jupiter be such or no", and, when Asia continues to press Demogorgon for answers, Demogorgon claims that "Fate, Time, Occasion, Chance and Change?—To these/ All things are subject but eternal Love".
+Asia declares that Demogorgon's answer is the same as that her own heart had given her, and then asks when Prometheus will be freed. Demogorgon cries out "Behold!" and Asia watches as the mountain opens and chariots moves out across the night sky, which Demogorgon explains as being driven by the Hours. One Hour stays to talk to Asia, and Asia questions him as to who he is. The Hour responds, "I am the shadow of a destiny/ More dread than is my aspect: ere yon planet/ Has set, the darkness which ascends with me/ Shall wrap in lasting night heaven's kingless throne." Asia questions as to what the Hour means, and Panthea describes how Demogorgon has risen from his throne to join the Hour to travel across the sky. Panthea witnesses another Hour come, and that Hour asks Asia and Panthea to ride with him. The chariot takes off, and Scene V takes place upon a mountaintop as the chariot stops. The Hour claims that his horses are tired, but Asia encourages him onwards. However, Panthea asks the hour to stay and "tell whence is the light/ Which fills the cloud? the sun is yet unrisen", and the Hour tells her "Apollo/ Is held in heaven by wonder; and the light... Flows from thy mighty sister."
+Panthea realises that Asia is changed, and described how her sister radiates with beauty. A song fills the air singing the "Life of Life", a song about the power of love. Asia tells of her current state and describes, "Realms where the air we breathe is love,/ Which in the winds on the waves doth move,/ Harmonizing this earth with what we feel above." It is through her love that she witnesses how people move through time, and ends with the idea of a coming paradise.
+
+
+=== Act III ===
+Act III Scene I takes place in heaven, with Jupiter upon his throne before other gods. Jupiter speaks to the gods and calls them to rejoice over his omnipotence. He claims to have conquered all but the soul of mankind, "which might make/ Our antique empire insecure, though built/ On eldest faith, and hell's coeval, fear". Jupiter admits that "Even now have I begotten a strange wonder,/ That fatal child, the terror of the earth,/ Who waits but till the distant hour arrive,/ Bearing from Demogorgon's vacant throne/ The dreadful might of ever-living limbs/ Which clothed that awful spirit unbeheld,/ To redescend, and trample out the spark." He commands the gods to drink before saying, "even then/ Two mighty spirits, mingling, made a third/ Mightier than either, which, unbodied now,/ Between us floats, felt, although unbeheld,/ Waiting the incarnation, which ascends... from Demogorgon's throne/ Victory! victory! Feel'st thou not, O world,/ The earthquake of his chariot thundering up/ Olympus? Awful shape, what art though? Speak!" Demogorgon appears and answers – Eternity. He proclaims himself to be Jupiter's child and more powerful than Jupiter. Jupiter pleads for mercy, and claims that not even Prometheus would have him suffer. When Demogorgon does not respond, Jupiter declares that he shall fight Demogorgon, but as Jupiter moves to attack, the elements refuse to help him and so Jupiter falls.
+Scene II takes place at a river on Atlantis, and Ocean discusses Jupiter's fall with Apollo. Apollo declares that he will not dwell on the fall, and the two part. Scene III takes place on the Caucasus after Hercules has unbound Prometheus. Hercules tells Prometheus: "Most glorious among spirits! thus doth strength/ To wisdom, courage, and long-suffering love,/ and thee, who art the form they animate,/ Minister like a slave." Prometheus thanks Hercules, and then turns to Asia and describes to her a cave in which they could call home and be with each other forever. Prometheus requests the Hour to take Ione, with the conch shell of Proteus, over the earth so she can "breathe into the many-folded shell, Losing its mighty music; it shall be/ As thunder mingled with clear echoes: then/ Return; and thou shalt dwell besides our cave." He calls upon the Earth, and she responds that she feels life and joy. She then proclaims, "And death shall be the last embrace of her/ Who takes the life she gave, even as a mother/ Folding her child, says, 'Leave me not again.'"
+Asia questions Earth as to why she mentions death, and the Earth responds that Asia could not understand because she is immortal. She then describes the nature of death, of war, and faithless faith. She then calls forth a spirit, her torch bearer, who would guide Prometheus, Asia, and the others to a temple that was once dedicated to Prometheus and will become their cave to dwell in. Scene IV takes place in a forest near the cave, the place the spirit guided them. Panthea describes how the spirit was once close to Asia, and Asia and the spirit begin to talk to each other about nature and love. The Hour comes and tells of a change: "Soon as the sound had ceased whose thunder filled/ The abysses of the sky and the wide earth,/ There was a change: the impalpable thing air/ And the all-circling sunlight were transformed,/ As if the sense of love dissolved in them/ Had folded itself round the sphered world." He then describes a revolution within mankind: thrones were abandoned and men treated each other as equals and with love. Mankind no longer feared Jupiter the tyrant, men no longer acted as tyrants themselves, and "The painted veil, by those who were, called life,/ Which mimicked, as with colours idly spread,/ All men believed and hoped, is torn aside;/ The loathsome mask has fallen, the man remains/ Sceptreless, free, uncircumscribed, but man/ Equal, unclassed, tribeless, and nationless,/ Exempt from awe, worship, degree, the king/ Over himself; just, gentle, wise: but man/ Passionless; no, yet free from guilt or pain".
+
+
+=== Act IV ===
+Act IV opens as a voice fills the forest near Prometheus's cave as Ione and Panthea sleep. The voice describes the dawn before a group of dark forms and shadows, who claim to be the dead Hours, begin to sing of the King of the Hours' death. Ione awakes and asks Panthea who they were, and Panthea explains. The voice breaks in to ask "where are ye" before the Hours describe their history. Panthea describes spirits of the human mind approaching, and these spirits soon join in with the others singing and rejoice in love. Eventually, they decide to break their song and go across the world to proclaim love. Ione and Panthea notice a new music, which Panthea describes as "the deep music of the rolling world/ Kindling within the strings of the waved air,/ Æolian modulations." Panthea then describes how the two melodies are parted, and Ione interrupts by describing a beautiful chariot with a winged infant whose "two eyes are heavens/ Of liquid darkness, which the Deity/ Within seems pouring, as a storm is poured/ From jagged clouds" and "in its hand/ It sways a quivering moon-beam". Panthea resumes describing a sphere of music and light containing a sleeping child who is the Spirit of the Earth.
+The Earth interrupts and describes "The joy, the triumph, the delight, the madness!/ The boundless, overflowing, bursting gladness,/ The vapourous exultation not to be confined!" The Moon responds by describing a light which has come from the Earth and penetrates the Moon. The Earth explains how all of the world "Laugh with a vast and inextinguishable laughter". The Moon then describes how all of the moon is awakening and singing. The Earth sings of how man is restored and united: "Man, oh, not men! a chain of linked thought,/ Of love and might to be divided not,/ Compelling the elements with adamantine stress". The Earth continues by declaring that man now controls even lightning, and that the Earth has no secrets left from man.
+Panthea and Ione interrupt the Earth and the Moon by describing the passing of the music as a nymph rising from water. Panthea then claims, "A mighty Power, which is as darkness,/ Is rising out of Earth, and from the sky/ Is showered like night, and from within the air/ Bursts, like eclipse which has been gathered up/ Into the pores of sunlight". Demogorgon appears and speaks to the Earth, the Moon, and "Ye kings of suns and stars, Dæmons and Gods,/ Ætherial Dominations, who possess/ Elysian, windless, fortunate abodes/ Beyond Heaven's constellated wilderness".
+The Demogorgon speaks to all of the voices the final lines of the play:
+
+This is the day, which down the void abysm
+At the Earth-born's spell yawns for Heaven's despotism,
+And Conquest is dragged captive through the deep:
+Love, from its awful throne of patient power
+In the wise heart, from the last giddy hour
+Of dead endurance, from the slippery, steep,
+And narrow verge of crag-like agony, springs
+And folds over the world its healing wings.
+Gentleness, Virtue, Wisdom, and Endurance,
+These are the seals of that most firm assurance
+Which bars the pit over Destruction's strength;
+And if, with infirm hand, Eternity,
+Mother of many acts and hours, should free
+The serpent that would clasp her with his length;
+These are the spells by which to re-assume
+An empire o'er the disentangled doom.
+To suffer woes which Hope thinks infinite;
+To forgive wrongs darker than death or night;
+To defy Power, which seems omnipotent;
+To love, and bear; to hope till Hope creates
+From its own wreck the thing it contemplates;
+Neither to change, nor falter, nor repent;
+This, like thy glory, Titan, is to be
+Good, great and joyous, beautiful and free;
+This is alone Life, Joy, Empire, and Victory.
+
+
+=== Characters ===
+Prometheus
+Demogorgon
+Jupiter
+The Earth
+Ocean
+Apollo
+Mercury
+Hercules
+Asia (Oceanides)
+Panthea (Oceanides)
+Ione (Oceanides)
+The Phantasm of Jupiter
+The Spirit of the Earth
+Spirits of the Hours
+Spirits
+Echoes
+Fawns
+Furies
+
+
+== Themes ==
+
+
+=== Satanic hero ===
+Shelley compares his Romantic hero Prometheus to Milton's Satan from Paradise Lost.
+
+The only imaginary being, resembling in any degree Prometheus, is Satan; and Prometheus is, in my judgment, a more poetical character than Satan, because, in addition to courage, and majesty, and firm and patient opposition to omnipotent force, he is susceptible of being described as exempt from the taints of ambition, envy, revenge, and a desire for personal aggrandizement, which, in the hero of Paradise Lost, interfere with the interest. The character of Satan engenders in the mind a pernicious casuistry which leads us to weigh his faults with his wrongs, and to excuse the former because the latter exceed all measure. In the minds of those who consider that magnificent fiction with a religious feeling it engenders something worse. But Prometheus is, as it were, the type of the highest perfection of moral and intellectual nature, impelled by the purest and the truest motives to the best and noblest ends.
+In other words, while Milton's Satan embodies a spirit of rebellion, and, as Maud Bodkin claims, "The theme of his heroic struggle and endurance against hopeless odds wakens in poet and reader a sense of his own state as against the odds of his destiny", his character is flawed because his aims are not humanistic. Satan is like Prometheus in his struggle against the universe, but Satan loses his heroic aspect after being turned into a serpent who desires only revenge and becomes an enemy to mankind. Also according to Andrew Sanders, unlike Satan, "Prometheus is seen battling against despair and arbitrary tyranny, and his achievement is presented as a liberation of both body and spirit and as a heightened state of consciousness which implies a wider liberation from enemies which are both internal and external". But Bodkin, unlike Shelley, believes that humans would view Prometheus and Satan together in a negative way:
+
+We must similarly recognize that within our actual experience the factors we distinguish are more massively intangible, more mutually incompatible and more insistent than they can appear as translated into reflective speech. Take, for example, the sense of sin imaginatively revived as we respond to Milton's presentation of Satan, or to the condemnation, suggested by Aeschylus' drama, of the rebellion of Prometheus in effecting the 'progress' of man. What in our analysis we might express as the thought that progress is evil or sinful, would, in the mind of Aeschylus, Abercromer comments, 'more likely be a shadowy relic of loyalty to the tribe' – a vague fear of anything that might weaken social solidarity. Not in the mind of Aeschylus only but in the mind of the reader of to-day.
+If the reader sympathises with Prometheus or Satan, he views Jupiter and God as omnipotent and unchallengeable beings that rely on their might to stay in power. Furthermore, Æschylus's Jupiter is a representation of Destiny, and it is a force that is constantly at odds with the individual's free will. In Milton, God is able to easily overthrow Satan. Although both divine beings represent something that is opposed to the human will, both represent something inside of the human mind that seeks to limit uncontrolled free will: reason and conscience. However, Shelley's version of Jupiter is unable to overwhelm the will of Prometheus, and Shelley gives the power of reason and conscience to his God: the Unseen Power of "Hymn to Intellectual Beauty".
+The character Demogorgon represents, according to Bodkin, the Unconscious. It is "the unknown force within the soul that, after extreme conflict and utter surrender of the conscious will, by virtue of the imaginative, creative element drawn down into the depths, can arise and shake the whole accustomed attitude of a man, changing its established tensions and oppressions." The Demogorgon is the opposite of Jupiter who, "within the myth, is felt as such a tension, a tyranny established in the far past by the spirit of a man upon himself and his world, a tyranny that, till it can be overthrown, holds him straightened and tormented, disunited from his own creative energies."
+
+
+=== Apocalyptic ===
+In his Prometheus, Shelley seeks to create a perfect revolutionary in an ideal, abstract sense (thus the difficulty of the poem). Shelley's Prometheus could be loosely based upon the Jesus of the Bible and Christian orthodox tradition, as well as Milton's character of the Son in Paradise Lost. While Jesus or the Son sacrifices himself to save mankind, this act of sacrifice does nothing to overthrow the type of tyranny embodied, for Shelley, in the figure of God the Father. Prometheus resembles Jesus in that both uncompromisingly speak truth to power, and in how Prometheus overcomes his tyrant, Jupiter; Prometheus conquers Jupiter by "recalling" a curse Prometheus had made against Jupiter in a period before the play begins. The word "recall" in this sense means both to remember and to retract, and Prometheus, by forgiving Jupiter, removes Jupiter's power, which all along seems to have stemmed from his opponents' anger and will to violence.
+However, in Act I, Shelley relies on the Furies as the image of the crucifixion of Jesus. When Prometheus is tortured by the furies, Panthea describes Prometheus as "a youth/ With patient looks nailed to a crucifix." Soon after, Prometheus asks a fury "Remit the anguish of that lighted stare;/ Close those wan lips; let that thorn-wounded brow/ Stream not with blood" and "So thy sick throes shake not that crucifix".
+The regeneration of mankind and the world is symbolised by the union of Prometheus and Asia. To achieve this, Shelley relies on classical myth to draw upon the idea of Saturn's Golden Age, and then he combines it with the Biblical ideas of the fall and the millennium.
+
+
+=== Political ===
+Prometheus, then, is also Shelley's answer to the mistakes of the French Revolution and its cycle of replacing one tyrant with another. Shelley wished to show how a revolution could be conceived which would avoid doing just that, and in the end of this play, there is no power in charge at all; it is an anarchist's paradise.
+Shelley finishes his "Preface" to the play with an evocation of his intentions as a poet:
+
+My purpose has hitherto been simply to familiarize the highly refined imagination of the more select classes of poetical readers with beautiful idealisms of moral excellence; aware that, until the mind can love, and admire, and trust, and hope, and endure, reasoned principles of moral conduct are seeds cast upon the highway of life which the unconscious passenger tramples into dust, although they would bear the harvest of his happiness.
+Essentially, Prometheus Unbound, as re-wrought in Shelley's hands, is a fiercely revolutionary text championing free will, goodness, hope and idealism in the face of oppression.
+The Epilogue, spoken by Demogorgon, expresses Shelley's tenets as a poet and as a revolutionary:
+
+Shelley's Prometheus Unbound responds to the revolutions and economic changes affecting his society, and the old views of good and evil needed to change to accommodate the current civilisation.
+
+
+== Technical aspects ==
+
+
+=== Later editing ===
+Shelley continued working on the play until his death on 8 July 1822. After his death, his father Timothy Shelley refused to allow Mary Shelley to publish any of Shelley's poems, which kept any immediate corrected editions of the play from being printed. Although reluctant to help the Parisian publishers A. and W. Galignani with an edition of Shelley's works, she eventually sent an "Errata" in January 1829. The Galignanis relied on most of her punctuation changes, but only a few of her spelling changes. The next critical edition was not released until 1839, when Mary Shelley produced her own edition of Shelley's work for Edward Moxon. Included with the edition were Mary Shelley's notes on the production and history of Prometheus Unbound.
+Before his death, Shelley completed many corrections to a manuscript edition of his work, but many of these changes were not carried over into Mary Shelley's edition. William Rossetti, in his 1870 edition, questioned Mary Shelley's efforts: "Mrs. Shelley brought deep affection and unmeasured enthusiasm to the task of editing her husband's works. But ill health and the pain of reminiscence curtailed her editorial labours: besides which, to judge from the result, you would say that Mrs. Shelley was not one of the persons to whome the gift of consistent accuracy has been imparted". Later, Charles Locock, in his 1911 edition of Shelley's works, speculated: "May we suppose that Mrs. Shelley never made use of that particular list at all? that what she did use was a preliminary list, – the list which Shelley "hoped to despatch in a day or two" (10 November 1820) – not the "formidable list"... which may in the course of nine years have been mislaid? Failing this hypothesis, we can only assume that Shelley's 'formidable list' was not nearly so formidable as it might have been".
+Although Mary Shelley's editing of Prometheus Unbound has its detractors, her version of the text was relied on for many of the later editions. G. G. Foster, in 1845, published the first American edition of Shelley's poems, which relied on both Mary Shelley's edits and her notes. Foster was so attached to Mary Shelley's edition that, when Edgar Allan Poe suggested changing some of the text, Foster responded "But I have not felt at liberty to change the text sanctioned by Mrs. Shelley – whom I regard as the evangelist of her transifigured lord". However, he, like Rossetti, tended to differ from Mary Shelley when it came to punctuation and capitalisation. Rossetti went beyond Foster, and, prefaced his edition with: "I have considered it my clear duty and prerogative to set absolutely wrong grammar right... and to set absolutely wrong rhyming right... and to set absolutely wrong metre right..."  but made sure to point out that his purpose was to respect Shelley's original poetic intent.
+
+
+=== Allegory or myth ===
+Earl Wasserman believed that Prometheus personified "One Mind" among humanity, and thus "the drama is the history of the One Mind's evolution into perfection."
+
+
+=== Critical response ===
+Melvin Solve believed that Prometheus Unbound is so highly idealised and so remote from the conditions of life that the moral lesson is not essential to the enjoyment of the piece, and is, in fact, so well disguised that the critics have differed widely as to its interpretation. William Butler Yeats famously called it "among the sacred books of the world."
+
+
+== Musical adaptations ==
+Hubert Parry set extracts of the poem in Scenes from Shelley's "Prometheus Unbound" (1880), first performed on 7 September 1880 at the Three Choirs Festival in Gloucester. It has been described as "a fitting poetic choice for an orchestral choral cantata that spoke to Parry's radical political commitments at the time". Havergal Brian set parts one and two complete in his Prometheus Unbound for chorus and orchestra, which he composed between 1937 and 1944.
+
+
+== Notes ==
+
+
+== References ==
+Abrams, M. H. Natural Supernaturalism. New York: W. W. Norton & Company, 1973.
+Bloom, Harold. Shelley's Mythmaking. New Haven, 1959.
+Bodkin, Maud. Archetypal Patterns in Poetry. London: Oxford University Press, 1963.
+Brisman, Susan Hawk. "'Unsaying His High Language': The Problem of Voice in 'Prometheus Unbound'." Studies in Romanticism, Vol. 16, No. 1, Romanticism and Language (Winter, 1977), pp. 51–86.
+De Luca, V. A. "The Style of Millennial Announcement in Prometheus Unbound." Keats-Shelley Journal, Vol. 28, (1979), pp. 78–101.
+Grabo, Carl. A Newton Among Poets: Shelley's Use of Science in Prometheus Unbound. Chapel Hill, University of North Carolina Press, 1930.
+Grabo, Carl Henry. Prometheus Unbound: An Interpretation. New York: Gordian Press, 1968.
+Hughes, D. J. "Potentiality in 'Prometheus Unbound'." Studies in Romanticism, Vol. 2, No. 2 (Winter, 1963), pp. 107–126.
+Isomaki, Richard. "Love as Cause in Prometheus Unbound." SEL: Studies in English Literature 1500–1900, Vol. 29, No. 4, Nineteenth Century (Autumn, 1989), pp. 655–673.
+Knight, G. Wilson. The Starlit Dome. Oxford, 1941.
+Locock, Charles D. The Poems of Percy Bysshe Shelley. London: Methuen and Company, 1911.
+Pierce, John B. "'Mont Blanc' and 'Prometheus Unbound': Shelley's Use of the Rhetoric of Silence." Keats-Shelley Journal, Vol. 38, (1989), pp. 103–126.
+Rajan, Tilottama. "Deconstruction or Reconstruction: Reading Shelley's Prometheus Unbound." Studies in Romanticism, Vol. 23, No. 3, Percy Bysshe Shelley (Fall, 1984), pp. 317–338.
+Ross, Marlon B. "Shelley's Wayward Dream-Poem: The Apprehending Reader in Prometheus Unbound." Keats-Shelley Journal, Vol. 36, (1987), pp. 110–133.
+Rossetti, William Michael, ed. The Poetical Works of Percy Bysshe Shelley. Revised, with notes, and a memoir. London: E. Moxon, Son, & Company, 1870.
+Shelley, Percy. Prometheus Unbound. London: C and J Ollier, 1820.
+Shelley, Percy. Complete Works (Julian Edition). Edited by Roger Ingpen and Walter Peck. London: Benn, 1930.
+Smith, Wiltrude L. "An Overlooked Source for Prometheus Unbound." Studies in Philology, XLVIII (1951), 783–792.
+Solve, Melvin Theodor. Shelley: His Theory of Poetry. Chicago: University of Chicago Press, 1927. (Ann Arbor, University Microfilms, 1976).
+Sperry, Stuart M. "Necessity and the Role of the Hero in Shelley's Prometheus Unbound." PMLA, Vol. 96, No. 2 (March 1981), pp. 242–254.
+Twitchell, James B. "Shelley's Metapsychological System in Act IV of 'Prometheus Unbound'." Keats-Shelley Journal, Vol. 24, (1975), pp. 29–48.
+Wasserman, Earl. Shelley's "Prometheus Unbound". Baltimore: Johns Hopkins University Press, 1965
+Waldoff, Leon. (1975). "The Father-Son Conflict in Prometheus Unbound: The Psychology of a Vision." Psychoanalytical Review, 62:79–96.
+Zillman, Lawrence. Shelley's Prometheus Unbound. Seattle: University of Washington Press, 1959.
+
+
+== External links ==
+
+Online version on Bartleby.com.

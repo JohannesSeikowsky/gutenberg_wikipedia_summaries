@@ -1,0 +1,69 @@
+Hippias Minor (Greek: Ἱππίας ἐλάττων), or On Lying, is thought to be one of Plato's early works. Socrates matches wits with an arrogant polymath, who is also a smug literary critic. Hippias believes that Homer can be taken at face value, and he also thinks that Achilles may be believed when he says he hates liars, whereas Odysseus' resourceful (πολύτροπος) behavior stems from his ability to lie well (365b). Socrates argues that Achilles is a cunning liar who throws people off the scent of his own deceptions and that cunning liars are actually the "best" liars. Consequently, Odysseus was equally false and true and so was Achilles (369b). Socrates proposes, possibly for the sheer dialectical fun of it, that it is better to do evil voluntarily than involuntarily. His case rests largely on the analogy with athletic skills, such as running and wrestling.  He says that a runner or wrestler who deliberately sandbags is better than the one who plods along because he can do no better.
+
+
+== Authenticity ==
+Despite Hippias Minor's relative unpopularity, its antiquity is the subject of no doubt: Aristotle (in Metaphysics, V, 120), Cicero (in De Oratore, III, 32) and Alexander of Aphrodisias all reference it. However, only Alexander of Aphrodisias ascribes it to Plato. Some contend that it may have been written by Antisthenes. The fact that the dialogue ends with the conclusion being that it is better to lie voluntarily than involuntarily also contradicts many of Plato's later dialogues.
+
+
+== Characters ==
+Socrates, who defends a thesis he explicitly rejects in Crito.  Socrates says in the Crito that a man should never intentionally commit injustice.  In this dialogue, he says that a man who does wrong intentionally is better than the man who does it unwittingly. However, in this dialogue, he also says that he changes his opinion on this from time to time.
+Hippias of Elis: a famous sophist, originally from Elis. Known throughout ancient Greece, he was reputed to have mastered mathematics, astronomy and rhetoric; he boasted that he could speak on any subject at Olympia without preparation.  Plato presents him as setting himself up as an expert on Homeric criticism, and over-reaching his expertise. Hippias is exactly the sort of man Socrates complains about in the Apology, a man who develops expertise in one or more areas, and then imagines he knows everything.
+Eudicus, the son of Apemantus: Hippias' host in Athens. He admires Hippias, and his role in the dialogue is as a facilitator. He is likely in this dialogue only so that Socrates would not have to engage with a sophist on his own accord.
+
+
+== A conversation about lies ==
+In Hippias Minor, Socrates argues with Hippias about which kind of liar is the best, the man who deliberately contrives a lie, or the man who lies unwittingly, from not paying attention to what he is saying, or changing his mind. Socrates argues that the voluntary lie is better than the involuntary lie.
+The debate is rooted in a literary question about whom Homer intended to portray as the better man, Achilles or Odysseus.  Socrates says he has heard Eudicus' father, Apemantus, declare that there is a parallel analogy between the artistic quality of the Iliad and the moral quality of its main character, Achilles, and the quality of the Odyssey and the quality of its main character, Odysseus. The men do not pursue this thesis, that the moral status of the characters in a work of literature has some bearing on its artistry. Socrates does resurrect the idea in the Republic, however, when he argues that Homer's classics would be better books if Achilles and the other warriors were presented as always righteous. Socrates says that they ought to be rewritten to this effect.
+
+
+=== Introductory scene ===
+The sophist Hippias is visiting Athens from his home city of Elis on the occasion of the Olympic festival. An artisan, poet, rhetor, astronomer and arithmetician, Hippias has also appointed himself an expert on Homer. He has been favoring the crowds with displays of his literary opinions. Hippias' most recent display of oratory concerned who is the better man, Achilles or Odysseus. Socrates says that he could not follow his argument, but did not want to interrupt.  Now that the three men are separated from the crowd, Socrates, encouraged by Eudicus, quizzes Hippias on the particulars of his opinion.
+Socrates asks Hippias if Homer has not portrayed Achilles as a wily man.  Hippias counters that Achilles is the most straightforward of men, simple and true, and cites a passage where Achilles declares his hatred for men who think one thing and say another, or who do not do what they say they will do.  Socrates does not object to Hippias' literalism, and seems to abandon the literary question, saying that Homer is dead, and the thing cannot be resolved (365d). He tells Hippias that because he agrees with Homer that a simple and true man is better than a wily and cunning one, he will let him speak for Homer.
+
+
+=== Wise liars ===
+Socrates gets Hippias to agree that the more a man knows about a subject, the better position he will be in to lie about it. He argues that the man who knows the subjects about which he tells lies, whether arithmetic, geometry, or astronomy, is twice as powerful as the man who does not know his subjects. The simple man might accidentally tell the truth when asked a question because he does not actually know the answer and is guessing while the knowledgeable has access to both true and false and can tell the false from the true always. Socrates never indicates what a man might stand to gain from lying about such matters, but brings the conversation back around to Achilles, and what kind of man Homer intended to portray.
+
+
+=== Achilles is an expert liar ===
+Socrates argues that Achilles is such a good liar in the Iliad that he fools even Odysseus, who never notices his duplicity (371a). Citing the passages where Achilles tells Odysseus that he will not rejoin the war but will sail away with the early dawn, and Ajax a different story, that he will wait for Hector to come and burn his ship and tent himself. Socrates says this is a cunning man (Iliad, IX, 357–363.) If Achilles is so shifty that even Odysseus, whose middle name is cunning, cannot spot it, Achilles must be the better liar. Achilles, of course, never carried out his threat to leave, but remained at his camp. Hippias, quite foolishly, insists that Achilles told two different stories "in innocence."
+
+
+=== Hippias objects ===
+Hippias objects, saying that the laws punish people who harm others deliberately with purposeful lies, and are more apt to excuse those who do harm by making mistakes.  Socrates insists that those who injure people, tell deliberate lies, and err voluntarily are better than people who simply make mistakes (372d). Hippias suspects at this point that Socrates is being dishonest in the debate.  Socrates counters that if he is troublesome, it is unintentional, that if he were being difficult deliberately, then he would be wily, which he is not. This is a kind of liar's paradox.
+
+
+=== Debate and athletics compared ===
+Socrates invokes a comparison between athletic competitions and debate.  He argues that a runner or wrestler who throws the contest by doing worse than he is capable of doing is a more skillful combatant than the one who does his best and loses. Socrates multiplies the analogy, adding that, whether it is a singer off key, a gymnast who appears ungraceful, or a man who pretends to be lame or blind, it is always better to have the power to do it right and pretend to do it wrong than to be helpless to do it right.
+
+
+==== Justice is power and knowledge ====
+Socrates convinces Hippias that Justice is a matter of both power and knowledge, and that the powerful (i.e., truly skilled) man is "better" than the clumsy one who makes mistakes from lack of knowledge and skill.  The dialogue ends with Hippias' incredulity and helplessness at Socrates' verbal dexterity. Socrates tells Hippias that he does not agree with himself, and is perplexed about his own conclusion.
+
+
+== Texts ==
+Hippias Minor or The Art of Cunning introduction and artwork by Paul Chan, translation by Sarah Ruden, essay by Richard Fletcher, Badlands Unlimited, 2015, ISBN 978-1-936440-89-4
+Plato: Cratylus, Parmenides, Greater Hippias, Lesser Hippias. With translation by Harold N. Fowler. Loeb Classical Library 167. Harvard Univ. Press (originally published 1926). ISBN 9780674991859 HUP listing
+Translation by Nicholas D. Smith in Complete Works, Hackett, 1997
+Hippias mineur translation and comments by Jean-François Pradeau, GF-Flammarion, 2005, ISBN 2-08-070870-8
+Premiers dialogues, GF-Flammarion n°129, 1993, ISBN 2-08-070129-0
+Platon : Œuvres complètes, Tome 1, Gallimard, Bibliothèque de la Pléiade, 1940, ISBN 2-07-010450-8
+
+
+== References ==
+
+
+== Bibliography ==
+"Alain", Platon, Champs-Flammarion, 2005, ISBN 2-08-080134-1
+François Châtelet, Platon, Folio, Gallimard, 1989, ISBN 2-07-032506-7
+Jean-François Pradeau, Les mythes de Platon, GF-Flammarion, 2004, ISBN 2-08-071185-7
+Jean-François Pradeau, Le vocabulaire de Platon, Ellipses Marketing, 1998, ISBN 2-7298-5809-1
+Kraut, Richard, ed. The Cambridge Companion to Plato. Cambridge University Press, 1992.
+Vlastos, Gregory, Studies in Greek Philosophy, Princeton University Press, 1995.
+
+
+== External links ==
+ Works related to Lesser Hippias at Wikisource
+Hippias Minor, in a collection of Plato's Dialogues at Standard Ebooks
+"Approaching Plato: A Guide to the Early and Middle Dialogues"
+ Lesser Hippias public domain audiobook at LibriVox

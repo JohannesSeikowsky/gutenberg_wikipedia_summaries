@@ -1,0 +1,90 @@
+De re coquinaria ou L'Art culinaire est le nom donné à une compilation de recettes culinaires romaines en dix livres constituée à la fin du IVe siècle (ex. : « Cochon de lait à la sauce piquante » « Saucisses de Lucanie » « Sauces pour le faisan »…).
+Bien que placé sous l'autorité de Marcus Gavius Apicius, célèbre riche romain, cuisinier et gastronome du début du Ier siècle, qui se serait suicidé parce qu'il ne lui restait que dix millions de sesterces, sa rédaction est en fait beaucoup plus tardive (IVe siècle très probablement) et rédigée dans un latin très dégradé (par rapport au latin classique de l’Empire romain). 
+Transmise par deux manuscrits de l'époque carolingienne, elle fut connue tout au long du Moyen Âge et non pas redécouverte par des humanistes italiens de la Renaissance.
+
+
+== Histoire du texte ==
+
+
+=== Date de parution initiale ===
+Le nom d'Apicius était devenu proverbial à Rome dès le Ier siècle pour désigner un gastronome voluptueux. Mais nul ne parle d'un livre qui lui serait attribué avant la fin du IVe siècle : Columelle (milieu du Ier siècle), citant les « écrivains de la nation latine » qui ont « apporté une contribution à la nourriture des hommes » (XII, 4, 2), ne parle d'aucun Apicius, et pour lui l'auteur latin de référence en matière de cuisine urbaine et sophistiquée est Caius Matius (XII, 44, 1) ; c'est saint Jérôme qui, dans l'Adversus Jovinianum (I, 40), accuse le moine Jovinien de se consacrer aux « sauces d'Apicius et de Paxamus » (ce dernier étant l'auteur d'un livre de cuisine en grec, Ὀψαρτυτικά, cité entre autres par la Souda). 
+L'analyse linguistique des versions qui nous sont parvenues du texte, plaide pour une rédaction à la fin du IVe siècle.
+
+
+=== Ce qui nous est parvenu ===
+Les Apici Excerpta (Extraits d'Apicius) nous sont d'abord parvenus, attribués à un certain Vinidarius, qui porte un nom ostrogothique (l'arrière-grand-père de Théodoric le Grand s'appelait Vinitharius). Ce petit recueil de trente-et-une recettes a sans doute été constitué en Italie du nord au VIe siècle. Il est conservé dans le manuscrit Paris. lat. 10318 (célèbre codex à écriture onciale datant du VIIIe siècle, venant également d'Italie du nord).
+Ensuite, deux manuscrits carolingiens, dénommés E et V sont apparus, constituant l'ensemble du texte connu. - le manuscrit E (57 feuillets) sort du scriptorium de l'abbaye de Fulda, sans doute à l'époque de l'abbatiat de Raban Maur (822-842) ; - le manuscrit V (58 feuillets), illustré, vient du scriptorium de Saint-Martin de Tours, sans doute écrit à l'époque carolingienne, vers 830 (et les illustrations datent peut-être du temps de l'abbé Vivien). Ces deux manuscrits ne dérivent pas l'un de l'autre ; ils ont été copiés sur un modèle commun.
+Ces deux manuscrits carolingiens ont été oubliés dans les siècles suivants. 
+L'existence du manuscrit de Fulda est signalée en 1431 par Niccolò Niccoli (sur la foi d'une liste de livres transmise par un moine allemand venu à Rome en 1425 ou 1427) ; 
+En 1455, le manuscrit est apporté en Italie par Enoch d'Ascoli, envoyé à la recherche de vieux livres par le pape Nicolas V ; il intéresse peu les humanistes. Il échoue sans doute dans la bibliothèque du cardinal Bessarion, sans être recopié. 
+Vers la même époque, on ne sait comment, le manuscrit de Tours (beau manuscrit illustré) se retrouve aussi en Italie où il commence à être recopié à Florence vers 1460. À partir de 1482, il est mentionné dans le catalogue dans la bibliothèque ducale d'Urbino. C'est de ce manuscrit V que dérivent les quelques exemplaires copiés en Italie entre 1460 et 1500. 
+Actuellement, E se trouve à New York (Academy of Medicine I) et V à la Bibliothèque du Vatican (Urbinate. Lat. 1146). Les manuscrits Bodl. Libr. Add. B 110, Paris. lat. 8209, Vatic. lat. 6803, sont des manuscrits italiens de la seconde moitié du XVe siècle, dérivés de V. Le nom Apicius Cælius utilisé par les humanistes de la Renaissance vient de la mention « Incipit Api/cæ » qui figure au début de V, et qui est interprétée diversement (peut-être « Api[ci artis magiri]cæ [libri X] » selon Friedrich Vollmer, magirus voulant dire « cuisinier »). Dans E, il n'y a aucun titre ni nom d'auteur, car le premier feuillet manque.
+L’editio princeps est celle de Johannes Passiranus de Asula (Milan, 9 novembre 1497, reproduite anonymement à Venise vers 1500. 
+Vient ensuite l'édition de Johannes Tacuinus (Venise, 1503), imitant en fait la précédente. Puis Alban Thorer publie une édition où il a corrigé la langue du texte pour la rapprocher du latin des humanistes (Bâle, puis Lyon, 1541). 
+L'année suivante, Gabriel Humelberg publie une autre édition, basée sur un antiquum manuscriptum exemplar a priori perdu (Zurich, 1542).
+
+
+== Éditions ==
+Le livre a été édité de nombreuses fois, sous diverses variantes de titre, dont :
+
+Apicii Coelii. De opsoniis et condimentis, sive arte coquinaria, libri decem. Cum annotationibus Martini Lister.
+Londres, 1705 (tiré à 220 exemplaires).
+2e édition, Amsterdam, apud Janssonio-Waesbergios, 1709.
+Caelii Apicii De opsoniis et condimentis sive arte coquinaria libri X. Cum lectionibus variis atque indice edidit Joannes Michael Bernhold, Marktbreit, Johann Valentin Knenlein, 1787.
+De re coquinaria libri decem. Novem codicum ope adiutus auxit, restituit, emendavit et correxit, variarum lectionum parte potissima ornavit, strictim et interim explanavit Chr. Theophil. Schuch, Heidelberg, C. Winter, 1874.
+Apicii Librorum X qui dicuntur De Re Coquinaria quae extant, éd. C. Giarratano/F. Vollmer, Leipzig, Teubner, 1922.
+Nicole van der Auwera et Ad Meskens, « Apicius, De Re Coquinaria-De Romeinse kookkunst », Archief- en Bibliotheekwezen in België, Extranummer 63, Koninklijke Bibliotheek-Bibliothèque royale, Brussel-Bruxelles, 2001.
+
+
+=== Éditions critiques modernes ===
+En 1922 à Leipzig, Cesare Giarratano et Friedrich Vollmer publient une première édition critique, gravée d'erreurs et de fautes typographiques ;
+En 1933, B. Guégan propose une première traduction d'Apicius en français (sans texte latin) sous le titre : Les dix livres de cuisine d'Apicius, critiqué, car « trop souvent sans rapport avec le texte latin véritable » ;
+En 1957, Marsili, en propose une autre version, avec les mêmes défauts (et mêmes fautes typographiques) que la version de Giarratano/Vollmer, selon Eugène de Saint-Denis ;
+En 1958, B. Rosenbaum publie une nouvelle édition (avec traduction anglaise), plus fidèle au texte original.
+
+
+== Contenus ==
+Les manuscrits qui nous sont parvenus livrent :
+
+) une collection de recettes de plats, laquelle a subi au cours de l'histoire des pertes, mais aussi des ajouts ;
+) recettes de sauces du De condituris d'Apicius ;
+) près d'une trentaine de prescriptions issues d'un traité médical, présentant certaines similitudes et différences avec certains préceptes que Galien mentionne dans son De alimentorum facultatibus et De ptisana ;
+) des recettes traduites du grec, qui selon sa langue pourrait dater de l'an 400.
+Les éditeurs n'ont souvent publié le corpus apicien (les manuscrits) qu'après l'avoir corrigé pour l'accorder à la syntaxe et aux formes classiques du latin. 
+Quelques auteurs comme Marsili, puis J. André, l'ont au contraire édité dans la langue dans laquelle il nous est parvenu (latin des IVe – Ve siècles, et, pour les extraits, du VIe siècle »). Ce dernier a intégré dans son édition d' Apicius cinq index lexicographiques : 1) noms d'hommes et de lieux ; 2) vocabulaire relatif aux poids et mesures ; 3) termes de botanique ; 4) batterie et instruments de cuisine ; 5) mets. 
+
+
+== Intérêt culinaire ==
+Il est partiellement limité par des lacunes et probablement des dizaines d'erreurs de copie (il semble par exemple improbable que l'auteur ait demandé de gâcher de la farine) qui ont rendu certaines parties du texte incertaines voire incompréhensible, et par certains noms d'aliments qui ont changé (poissons par exemple ; une recette demande d'écailler des lagites (lagitis en latin d'époque), qui est a priori un poisson, mais dont on ignore aujourd'hui l'espèce ; Humelberg a converti le mot en lacertis qui pourrait alors désigner le maquereau, mais sans certitude). Et on ignore aujourd'hui ce que désignent certains mots. 
+Selon Eugène de Saint-Denis, s'appuyant sur la traduction du latiniste et philologue Jacques André (philologue et latiniste, auteur d'une thèse sur les couleurs, ayant étudié le vocabulaire de la botanique et de la viticulture, édité Pline l'Ancien et publié (en 1961) dans la collection Études et Commentaires « L'alimentation et la cuisine à Rome »), se montre enthousiasmé par des recettes complexes et fines, très éloignées de l'image de goinfreries souvent associées à l’Empire romain décadent ; il donne comme exemple une entrée renversée , « où entrent des bettes, des poireaux, du céleri, des bulbes, des escargots, des gésiers et des ailes de poulet, des quenelles, des feuilles de mauves, des pruneaux, des petites saucisses, du garum, de l'huile, du vin, du vinaigre, du poivre, de la livèche, du gingembre, un peu de pyrèthre, des œufs, de la fécule ; en tout, plus d'une douzaine d'opérations successives pour une seule entrée ! ».
+Une autre recette de « patina au lait », associe des ingrédients dont la variété peut aujourd'hui surprendre : légumes, poulet, cervelles, saucisses, œufs, poissons, fruits de mer et fromages. 
+Les recettes mettent en avant des mets rares et prisés des romains de classe sociale élevées, comme les vulves de truie.
+
+
+== Intérêt scientifique ==
+Cet ouvrage contient un nombre très élevé de recettes alimentaires et médicinales. 
+On y découvre qu'une centaine de recettes (sur un total de 450) citent le plomb ou un produit pour lequel le plomb a une importance pour la recette.
+Une large majorité des recettes utilisaient du vin ou du sirop de raisin édulcoré au plomb : le jus de raisin (non fermenté) était concentré par évaporation à chaud jusqu'à en faire un sirop, et on avait remarqué à l'époque que ces jus prenaient un goût apparemment plus sucré et agréable quand il était cuit dans une marmite en plomb (l'oxyde de plomb, hautement toxique a un pouvoir sucrant). Le jus de raisin est naturellement acide, ce qui facilite sa contamination par le plomb. Le saturnisme alors dénommé choléra Pictonum a été décrit dès l’Antiquité chez les patriciens romains ; c'est seulement en 1696 que le médecin ulmois Eberhard Gockel attribue le saturnisme chez les habitants des régions viticoles d'Europe à la pratique consistant à « corriger » les vins en les sucrant par des composés chimiques du plomb. Nombre des recettes d'Apicius, tout comme les pratiques de correction d'aliments au plomb aux XVIIe et XVIIIe siècles ont probablement contribué à des épidémies d'intoxications par le plomb (impliquant des lésions, notamment neurologiques et rénales) qui se sont par exemple manifestées par trois épidémies de goutte ayant touché les classes supérieures romaines, la noblesse anglaise des XVIIIe et XIXe siècles ou encore, au début des années 1990, les consommateurs de moonshine d'Alabama, l’alcool de contrebande consommé dans les comtés ruraux de cet État et illégalement distillé dans des dispositifs utilisant des radiateurs d'automobiles contenant des pièces soudées au plomb.
+
+
+== Notes et références ==
+
+
+== Bibliographie ==
+(la) M. G. Apicius, M. G., N. Van der Auwera, A. Meskens et V. Vinidarius, De re coquinaria : Reclam. (lire en ligne).
+(la) Apicius, Apici Caeli De re coquinaria libri decem, Winter, 1867 (lire en ligne)
+Carl Deroux, « Du poivre et du sel : Apicius, ‘De Re Coquinaria’ IX, 13, 1 [430] André », Latomus, Paris, vol. 73, no 2,‎ 2014, p. 503-5 (lire en ligne, consulté le 26 août 2022).
+Bruno Laurioux, « Cuisiner à l'Antique : Apicius au Moyen Âge », Médiévales, Paris, vol. 13, no 2,‎ 1994, p. 17-38.
+John Edwards, « Philology and Cuisine in De Re Coquinaria », The American Journal of Philology, vol. 122, no 2,‎ 2001, p. 255–263 (ISSN 0002-9475, lire en ligne, consulté le 19 août 2021)
+A. C. Montagner, « De re coquinaria », Principia, no 19,‎ 2009, p. 91-99 (lire en ligne).
+(en) « Health and Culinary Art in Antiquity and Early Byzantium in the Light of De re coquinaria », Studia Ceranea. Journal of the Waldemar Ceran Research Centre for the History and Culture of the Mediterranean Area and South-East Europe, no 2,‎ 2012, p. 145–164 (ISSN 2084-140X et 2449-8378, lire en ligne, consulté le 19 août 2021)
+(en) Mary Ella Milham, Apicius, Decem libri qui dicuntur De re coquinaria et Excerpta a Vinidario conscripta, Leipzig, Teubner, coll. « Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana », 1969, xvi,116.
+(en) Chuck Johnson, An etymological exploration of foodstuffs and utensils : the sociolinguistic fortune of culinary terms of Apicius' “De re coquinaria”, Chapel Hill, ProQuest Dissertations Publishing, 2006 (lire en ligne).
+Birger Munk Olsen, L'étude des auteurs classiques latins aux XIe et XIIe siècles. Tome I. Catalogue des manuscrits classiques latins copiés du XIe au XIIe siècle. Apicius - Juvénal, Aubervilliers, Institut de Recherche et d'Histoire des Textes (IRHT), coll. « Documents, études et répertoires de l'Institut de Recherche et d'Histoire des Textes » (no 26), 1982, 632 p. (lire en ligne).
+
+
+== Liens externes ==
+
+Le De re coquinaria, histoire d'un texte stratifié, article de référence sur le site de l'association Nunc est bibendum
+Traduction en anglais de De re coquinaria
+ Portail de l’histoire   Alimentation et gastronomie   Portail de la cuisine italienne   Portail de la Rome antique

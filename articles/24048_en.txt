@@ -1,0 +1,56 @@
+The Book of Rites, also known as the Liji (禮記), is a collection of texts that describe the social forms, administrative structures, and ceremonial rites of the Zhou dynasty, as interpreted during the Warring States period and the early Han dynasty. Together with the Rites of Zhou (Zhōulǐ, 周禮) and the Book of Etiquette and Rites (Yílǐ, 儀禮), it forms part of the "Three Li" (Sānlǐ, 三禮), which comprise the ritual (lǐ, 禮) component of the Five Classics—a foundational set of texts in the Confucian tradition. Each of the Five Classics is a compilation of works rather than a single text. 
+As a core Confucian text, the Book of Rites is also referred to as the Classic of Rites or Lijing (禮經). Some scholars suggest that Lijing was the original title before it was changed by the Han dynasty scholar Dai Sheng.
+
+
+== History ==
+The Book of Rites is a diverse compilation of texts of uncertain origin and date. Unlike the Rites of Zhou and the Book of Etiquette and Ceremonial, it lacks a consistent overall structure. Some sections provide definitions of ritual terminology—particularly those found in the Book of Etiquette and Ceremonial—while others contain details concerning the life and teachings of Confucius. Portions of the text have been traced to pre-Han works such as the Xunzi and the Lüshi Chunqiu, while other sections are believed to have been composed during the Former Han period.
+During the reign of Qin Shi Huang, many Confucian texts were destroyed in the 213 BCE "Burning of the Books." However, the Qin dynasty collapsed within a decade, and Confucian scholars who had memorised the classics or hidden written copies helped to reconstruct them during the early Han dynasty. The Book of Rites was said to have been fully recovered, although the Classic of Music could not be recompiled. Only fragments of the latter survive, primarily within the "Record of Music" (Yueji) chapter of the Book of Rites.
+Subsequent efforts were made to edit and organise the recompiled texts. According to the Book of Sui, the scholar Dai De revised the collection in the 1st century BCE, reducing it from 214 books to 85, known as the Ritual Records of Dai the Elder (大戴禮記; Dà Dài Lǐjì). His nephew, Dai Sheng, later abridged this to 46 books, known as the Ritual Records of Dai the Younger (小戴禮記; Xiǎo Dài Lǐjì). The scholar Ma Rong subsequently added three additional books, bringing the total to 49. However, later scholarship has questioned this account, noting a lack of reliable evidence attributing these specific revisions to Dai De or Dai Sheng, although both were known Confucian scholars with expertise in ritual texts. 
+During this period, both old-script and new-script versions of the text were in circulation, and the content was not yet standardised. Zheng Xuan, a student of Ma Rong, produced an annotated edition of the Rites by synthesising multiple ritual traditions. His compilation of 49 books became the authoritative version, and it remains the standard edition today. Zheng Xuan's annotated version later formed the basis for the Right Meaning of the Ritual Records (禮記正義; Lǐjì Zhèngyì), the imperially sanctioned text and commentary on the Book of Rites, established in 653 CE.
+In 1993, a copy of the "Black Robes" chapter was discovered in Tomb 1 of the Guodian tombs in Jingmen, Hubei province. As the tomb was sealed around 300 BCE, the discovery reignited scholarly debate regarding the dating of other chapters of the Liji, particularly their possible origins in the Warring States period.
+
+
+== Li ==
+
+Confucius described li (禮) as encompassing all traditional forms that provided a standard of conduct. While li is often translated as "rites," it may also refer to "ceremonial practices" or "rules of conduct." Over time, the term has come to be broadly associated with concepts such as "good form," "decorum," and "politeness."
+Confucius emphasised that li should reflect a spirit of piety and respect for others, expressed through appropriate behaviour and ritual observance. As outlined in the Book of Rites, li serves to restore the value of traditional practices by drawing upon the simplicity and order of the past. Confucius believed that a return to these standards of conduct would help stabilise society amid the decline of the Zhou dynasty.
+The importance of li is highlighted in the Book of Rites, which states: "Of all things to which the people owe their lives, the rites are the most important..." Over time, the concept of li became closely linked to human nature, ethics, and social harmony, as individuals integrated these practices into their daily lives.
+Li is viewed as beneficial to society because it guides individuals in recognising and fulfilling their responsibilities toward others, thereby contributing to social cohesion and moral order.
+
+
+== Legacy ==
+Several chapters of the Book of Rites provided the foundation for later works, including the Great Learning and the Doctrine of the Mean. These two texts are traditionally attributed to disciples of Confucius, with one—the Doctrine of the Mean—commonly believed to have been authored by his grandson, Zisi.
+During the Song dynasty, the Neo-Confucian scholar Zhu Xi compiled and edited versions of the Great Learning and the Doctrine of the Mean, elevating their status within the Confucian tradition. Together with the Analects and Mencius, these texts became known as the Four Books. Zhu Xi's interpretations significantly influenced Chinese society, education, and state ideology.
+Following the decision of the Yuan dynasty—and later upheld by the Ming and Qing dynasties—to adopt the Five Classics and the Four Books as the orthodox texts of Confucianism, these works became the standard curriculum for the imperial civil service examinations. From 1313 to 1905, mastery of these texts was essential for anyone pursuing official positions, and thus, the Book of Rites, along with its derivative works, played a central role in shaping Chinese intellectual and bureaucratic life for centuries.
+
+
+=== Comparisons ===
+The editor of the Han Feizi, W.K. Liao (1939), contrasted the sixth chapter of the Han Feizi with the Book of Rites (Li Ji), interpreting parts of the chapter as "diametrically opposed to the Confucian spirit" and the vision of the "Great Community of Confucius." Elements of the Han Feizi have also been compared to the Daodejing, highlighting philosophical differences between Confucianism, Legalism, and Daoism.
+
+
+== Contents ==
+
+
+== References ==
+
+
+== Bibliography ==
+Buckley Ebrey, Patricia. Confucianism and the Family Rituals in Imperial China. New Jersey: Princeton University Press, 1991, ISBN 978-0-691-03150-7
+Chen, Jingpan. Confucius as a Teacher. Beijing: Foreign Languages Press, 1990, ISBN 978-0-8351-2240-5
+Confucius; James Legge; Chʻu Chai; Winberg Chai. Li Chi: Book of Rites. An encyclopedia of ancient ceremonial usages, religious creeds, and social institutions, New Hyde Park, N.Y., University Books [1967]. (originally published in 1885)
+Creel, H.G. Confucius and the Chinese Way. New York: Harper & Row, Publishers, 1949
+Dawson, Raymond (1981), Confucius, Great Britain: The Guernsey Press, ISBN 978-0-19-287536-5.
+de Bary, Wm. Theodore, Wing-tsit Chan, and Buton Watson. Sources of Chinese Tradition. New York and London: Columbia University Press, 1960, ISBN 978-0-231-02255-2
+Holm, Jean, and John Bowker. Sacred Writings. London: Printer Publishers Ltd., 1994
+Lin Yutang. The Wisdom of Confucius. New York: Random House, Inc., 1938
+Nylan, Michael (2001), The five "Confucian" classics, Yale University Press, ISBN 978-0-300-08185-5.
+Puett, Michael. "Centering the Realm: Wang Mang, the Zhouli, and Early Chinese Statecraft." in Elman, Benjamin A. and Kern, Martin, eds., Statecraft and Classical Learning: the Rituals of Zhou in East Asian History, pp. 129–154.[1]
+Riegel, Jeffrey K. (1993), "Li chi" 禮記, in Loewe, Michael (ed.), Early Chinese Texts: A Bibliographical Guide, Society for the Study of Early China, pp. 293–297, ISBN 978-1-55729-043-4.
+Smith, Howard. Confucius. Great Britain: Charles Scribner's Sons, 1973
+
+
+== External links ==
+
+The Book of Rites (Chinese and English, James Legge's 1885 translation) - Chinese Text Project
+Confucian Documents (English)
+Liji 禮記 The Book of Rites, Ulrich Theobald, Chinese Literature, 24 July 2010.

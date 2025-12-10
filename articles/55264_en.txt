@@ -1,0 +1,217 @@
+On Growth and Form is a book by the Scottish mathematical biologist D'Arcy Wentworth Thompson (1860–1948). The book is 793 pages in the first edition of 1917, 1116 pages in the second edition of 1942.
+The book covers many topics including the effects of scale on the shape of animals and plants, large ones necessarily being relatively thick in shape; the effects of surface tension in shaping soap films and similar structures such as cells; the logarithmic spiral as seen in mollusc shells and ruminant horns; the arrangement of leaves and other plant parts (phyllotaxis); and Thompson's own method of transformations, showing the changes in shape of animal skulls and other structures on a Cartesian grid.
+The work is widely admired by biologists, anthropologists and architects among others, but is often not read by people who cite it. Peter Medawar explains this as being because it clearly pioneered the use of mathematics in biology, and helped to defeat mystical ideas of vitalism; but that the book is weakened by Thompson's failure to understand the role of evolution and evolutionary history in shaping living structures. Philip Ball and Michael Ruse, on the other hand, suspect that while Thompson argued for physical mechanisms, his rejection of natural selection bordered on vitalism.
+
+
+== Overview ==
+
+D'Arcy Wentworth Thompson was a Scottish biologist and pioneer of mathematical biology. His most famous work, On Growth and Form was written in Dundee, mostly in 1915, but publication was put off until 1917 because of the delays of wartime and Thompson's many late alterations to the text. The central theme of the book is that biologists of its author's day overemphasized evolution as the fundamental determinant of the form and structure of living organisms, and underemphasized the roles of physical laws and mechanics. At a time when vitalism was still being considered as a biological theory, he advocated structuralism as an alternative to natural selection in governing the form of species, with the smallest hint of vitalism as the unseen driving force.
+Thompson had previously criticized Darwinism in his paper Some Difficulties of Darwinism. On Growth and Form explained in detail why he believed Darwinism to be an inadequate explanation for the origin of new species. He did not reject natural selection, but regarded it as secondary to physical influences on biological form.
+
+Using a mass of examples, Thompson pointed out correlations between biological forms and mechanical phenomena. He showed the similarity in the forms of jellyfish and the forms of drops of liquid falling into viscous fluid, and between the internal supporting structures in the hollow bones of birds and well-known engineering truss designs. He described phyllotaxis (numerical relationships between spiral structures in plants) and its relationship to the Fibonacci sequence.
+Perhaps the most famous part of the book is Chapter 17, "The Comparison of Related Forms," where Thompson explored the degree to which differences in the forms of related animals could be described, in work inspired by the German engraver Albrecht Dürer (1471–1528), by mathematical transformations.
+The book is descriptive rather than experimental science: Thompson did not articulate his insights in the form of hypotheses that can be tested. He was aware of this, saying that "This book of mine has little need of preface, for indeed it is 'all preface' from beginning to end."
+
+
+== Editions ==
+The first edition appeared in 1917 in a single volume of 793 pages published by Cambridge University Press.  A second edition, enlarged to 1116 pages, was published in two volumes in 1942. Thompson wrote in the preface to the 1942 edition that he had written "this book in wartime, and its revision has employed me during another war. It gave me solace and occupation, when service was debarred me by my years. Few are left of the friends who helped me write it." An edition of 346 pages was abridged by John Tyler Bonner, and is widely published under the same title. The book, often in the abridged edition, has been reprinted more than 40 times, and has been translated into Chinese, French, German, Greek, Italian, and Spanish.
+
+
+== Contents ==
+The contents of the chapters in the first edition are summarized below. All but Chapter 11 have the same titles in the second edition, but many are longer, as indicated by the page numbering of the start of each chapter. Bonner's abridgment shortened all the chapters, and removed some completely, again as indicated at the start of each chapter's entry below.
+
+
+=== 1. Introductory ===
+(1st edition p. 1 – 2nd edition p. 1 – Bonner p. 1)
+
+Thompson names the progress of chemistry towards Kant's goal of a mathematical science able to explain reactions by molecular mechanics, and points out that zoology has been slow to look to mathematics. He agrees that zoologists rightly seek for  reasons in animals' adaptations, and reminds readers of the related but far older philosophical search for teleology, explanation by some Aristotelian final cause. His analysis of "growth and form" will try to show how these can be explained with ordinary physical laws.
+
+
+=== 2. On Magnitude ===
+
+(1st p. 16 – 2nd p. 22 – Bonner p. 15)
+
+Thompson begins by showing that an animal's surface and volume (or weight) increase with the square and cube of its length, respectively, and deducing simple rules for how bodies will change with size. He shows in a few short equations that the speed of a fish or ship rises with the square root of its length. He then derives the slightly more complex scaling laws for birds or aircraft in flight. He shows that an organism thousands of times smaller than a bacterium is essentially impossible.
+
+
+=== 3. The Rate of Growth ===
+(1st p. 50 – 2nd p. 78 – Bonner removed)
+
+Thompson points out that all changes of form are phenomena of growth. He analyses growth curves for man, noting rapid growth before birth and again in the teens; and then curves for other animals. In plants, growth is often in pulses, as in Spirogyra, peaks at a specific temperature, and below that value roughly doubles every 10 degrees Celsius. Tree growth varies cyclically with season (less strongly in evergreens), preserving a record of historic climates. Tadpole tails regenerate rapidly at first, slowing exponentially.
+
+
+=== 4. On the Internal Form and Structure of the Cell ===
+(1st p. 156 – 2nd p. 286 – Bonner removed)
+
+Thompson argues for the need to study cells with physical methods, as morphology alone had little explanatory value. He notes that in mitosis the dividing cells look like iron filings between the poles of a magnet, in other words like a force field.
+
+
+=== 5. The Forms of Cells ===
+
+(1st p. 201 – 2nd p. 346 – Bonner p. 49)
+
+He considers the forces such as surface tension acting on cells, and Plateau's experiments on soap films. He illustrates the way a splash breaks into droplets and compares this to the shapes of Campanularian zoophytes (Hydrozoa). He looks at the flask-like shapes of single-celled organisms such as species of Vorticella, considering teleological and physical explanations of their having minimal areas; and at the hanging drop shapes of some Foraminifera such as Lagena. He argues that the cells of trypanosomes are similarly shaped by surface tension.
+
+
+=== 6. A Note on Adsorption ===
+(1st p. 277 – 2nd p. 444 – Bonner removed)
+
+Thompson notes that surface tension in living cells is reduced by substances resembling oils and soaps; where the concentrations of these vary locally, the shapes of cells are affected. In the green alga Pleurocarpus (Zygnematales), potassium is concentrated near growing points in the cell.
+
+
+=== 7. The Forms of Tissues, or Cell-aggregates ===
+(1st p. 293 – 2nd p. 465 – Bonner p. 88)
+
+Thompson observes that in multicellular organisms, cells influence each other's shapes with triangles of forces. He analyses parenchyma and the cells in a frog's egg as soap films, and considers the symmetries bubbles meeting at points and edges. He compares the shapes of living and fossil corals such as Cyathophyllum and  Comoseris, and the hexagonal structure of honeycomb, to such soap bubble structures.
+
+
+=== 8. The same (continued) ===
+(1st p. 346 – 2nd p. 566 – Bonner merged with previous chapter)
+
+Thompson considers the laws governing the shapes of cells, at least in simple cases such as the fine hairs (a cell thick) in the rhizoids of mosses. He analyses the geometry of cells in a frog's egg when it has divided into 4, 8 and even 64 cells. He shows that uniform growth can lead to unequal cell sizes, and argues that the way cells divide is driven by the shape of the dividing structure (and not vice versa).
+
+
+=== 9. On Concretions, Spicules, and Spicular Skeletons ===
+
+(1st p. 411 – 2nd p. 645 – Bonner p. 132)
+
+Thompson considers the skeletal structures of diatoms, radiolarians, foraminifera and sponges, many of which contain hard spicules with geometric shapes. He notes that these structures form outside living cells, so that physical forces must be involved.
+
+
+=== 10. A Parenthetic Note on Geodetics ===
+(1st p. 488 – 2nd p. 741 – Bonner removed)
+
+Thompson applies the use of the geodetic line, "the shortest distance between two points on the surface of a solid of revolution", to the spiral thickening of plant cell walls and other cases.
+
+
+=== 11. The Logarithmic Spiral ['The Equiangular Spiral' in 2nd Ed.] ===
+
+(1st p. 493 – 2nd p. 748 – Bonner p. 172)
+
+Thompson observes that there are many spirals in nature, from the horns of ruminants to the shells of molluscs; other spirals are found among the florets of the sunflower. He notes that the mathematics of these are similar but the biology differs. He describes the spiral of Archimedes before moving on to the logarithmic spiral, which has the property of never changing its shape: it is equiangular and is continually self-similar. Shells as diverse as Haliotis, Triton, Terebra and Nautilus (illustrated with a halved shell and a radiograph) have this property; different shapes are generated by sweeping out curves (or arbitrary shapes) by rotation, and if desired also by moving downwards. Thompson analyses both living molluscs and fossils such as ammonites.
+
+
+=== 12. The Spiral Shells of the Foraminifera ===
+(1st p. 587 – 2nd p. 850 – Bonner merged with previous chapter)
+
+Thompson analyses diverse forms of minute spiral shells of the foraminifera, many of which are logarithmic, others irregular, in a manner similar to the previous chapter.
+
+
+=== 13. The Shapes of Horns, and of Teeth or Tusks: with A Note on Torsion ===
+
+(1st p. 612 – 2nd p. 874 – Bonner p. 202)
+
+Thompson considers the three types of horn that occur in quadrupeds: the keratin horn of the rhinoceros; the paired horns of sheep or goats; and the bony antlers of deer.
+In a note on torsion, Thompson mentions Charles Darwin's treatment of climbing plants which often spiral around a support, noting that Darwin also observed that the spiralling stems were themselves twisted. Thompson disagrees with Darwin's teleological explanation, that the twisting makes the stems stiffer in the same way as the twisting of a rope; Thompson's view is that the mechanical adhesion of the climbing stem to the support sets up a system of forces which act as a 'couple' offset from the centre of the stem, making it twist.
+
+
+=== 14. On Leaf-arrangement, or Phyllotaxis ===
+
+(1st p. 635 – 2nd p. 912 – Bonner removed)
+
+Thompson analyses phyllotaxis, the arrangement of plant parts around an axis. He notes that such parts include leaves around a stem; fir cones made of scales; sunflower florets forming an elaborate crisscrossing pattern of different spirals (parastichies). He recognises their beauty but dismisses any mystical notions; instead he remarks that
+When the bricklayer builds a factory chimney, he lays his bricks in a certain steady, orderly way, with no thought of the spiral patterns to which this orderly sequence inevitably leads, and which spiral patterns are by no means "subjective".
+The numbers that result from such spiral arrangements are the Fibonacci sequence of ratios 1/2, 2/3, 3.5 ... converging on 0.61803..., the golden ratio which is
+
+beloved of the circle-squarer, and of all those who seek to find, and then to penetrate, the secrets of the Great Pyramid. It is deep-set in Pythagorean as well as in Euclidean geometry.
+
+
+=== 15. On the Shapes of Eggs, and of certain other Hollow Structures ===
+(1st p. 652 – 2nd p. 934 – Bonner removed)
+
+Eggs are what Thompson calls simple solids of revolution, varying from the nearly spherical eggs of owls through more typical ovoid eggs like chickens, to the markedly pointed eggs of cliff-nesting birds like the guillemot. He shows that the shape of the egg favours its movement along the oviduct, a gentle pressure on the trailing end sufficing to push it forwards. Similarly, sea urchin shells have teardrop shapes, such as would be taken up by a flexible bag of liquid.
+
+
+=== 16. On Form and Mechanical Efficiency ===
+
+(1st p. 670 – 2nd p. 958 – Bonner p. 221)
+
+Thompson criticizes talk of adaptation by coloration in animals for presumed purposes of crypsis, warning and mimicry (referring readers to E. B. Poulton's The Colours of Animals, and more sceptically to Abbott Thayer's Concealing-coloration in the Animal Kingdom). He considers the mechanical engineering of bone to be a far more definite case. He compares the strength of bone and wood to materials such as steel and cast iron; illustrates the "cancellous" structure of the bone of the human femur with thin trabeculae which formed "nothing more nor less than a diagram of the lines of stress ... in the loaded structure", and compares the femur to the head of a building crane. He similarly compares the cantilevered backbone of a quadruped or dinosaur to the girder structure of the Forth Railway Bridge.
+
+
+=== 17. On the Theory of Transformations, or the Comparison of Related Forms ===
+
+(1st p. 719 – 2nd p. 1026 – Bonner p. 268)
+
+Inspired by the work of Albrecht Dürer, Thompson explores how the forms of organisms and their parts, whether leaves, the bones of the foot, human faces or the body shapes of copepods, crabs or fish, can be explained by geometrical transformations. For example:
+
+Among the fishes we discover a great variety of deformations, some of them of a very simple kind, while others are more striking and more unexpected. A comparatively simple case, involving a simple shear, is illustrated by Figs. 373 and 374. Fig. 373 represents, within Cartesian co-ordinates, a certain little oceanic fish known as Argyropelecus olfersi. Fig. 374 represents precisely the same outline, transferred to a system of oblique co-ordinates whose axes are inclined at an angle of 70°; but this is now (as far as can be seen on the scale of the drawing) a very good figure of an allied fish, assigned to a different genus, under the name of Sternoptyx diaphana. Thompson 1917, pages 748–749
+In similar style he transforms the shape of the carapace of the crab Geryon variously to that of Corystes by a simple shear mapping, and to Scyramathia, Paralomis, Lupa, and Chorinus (Pisinae) by stretching the top or bottom of the grid sideways. The same process changes Crocodilus porosus to  Crocodilus americanus and  Notosuchus terrestris; relates the hip-bones of fossil reptiles and birds such as Archaeopteryx and Apatornis; the skulls of various fossil horses, and even the skulls of a horse and a rabbit. A human skull is stretched into those of the chimpanzee and baboon, and with "the mode of deformation .. on different lines" (page 773), of a dog.
+
+
+=== Epilogue ===
+(1st p. 778 – 2nd p. 1093 – Bonner p. 326)
+
+In the brief epilogue, Thompson writes that he will have succeeded "if I have been able to shew [the morphologist] that a certain mathematical aspect of morphology ... is ... complementary to his descriptive task, and helpful, nay essential, to his proper study and comprehension of Form."  More lyrically, he writes that "For the harmony of the world is made manifest in Form and Number, and the heart and soul and all the poetry of Natural Philosophy are embodied in the concept of mathematical beauty" and quotes Isaiah 40:12 on measuring out the waters and heavens and the dust of the earth. He ends with a paragraph praising the French entomologist Jean-Henri Fabre who "being of the same blood and marrow with Plato and Pythagoras, saw in Number 'la clef de voute' [the key to the vault (of the universe)] and found in it 'le comment et le pourquoi des choses' [the how and the why of things]".
+
+
+== Reception ==
+
+
+=== Contemporary ===
+"J. P. McM[urrich]", reviewing the book in Science in 1917, wrote that "the book is one of the strongest documents in support of the mechanistic view of life that has yet been put forth", contrasting this with "vitalism". The reviewer was interested in the "discussion of the physical factors determining the size of organisms, especially interesting being the consideration of the conditions which may determine the minimum size".
+J. W. Buchanan, reviewing the second edition in Physiological Zoology in 1943, described it as "an imposing extension of his earlier attempt to formulate a geometry of Growth and Form" and "beautifully written", but warned that "the reading will not be easy" and that "A vast store of literature has here been assembled and assimilated". Buchanan summarizes the book, and notes that Chapter 17 "seems to the reviewer to contain the essence of the long and more or less leisurely thesis... The chapter is devoted to comparison of related forms, largely by the method of co-ordinates. Fundamental differences in these forms are thus revealed", and Buchanan concludes that the large "gaps" indicate that Darwin's endless series of continuous variations is not substantiated. But he does have some criticisms: Thompson should have referenced the effects of hormones on growth; and the relation of molecular configuration and form; genetics is barely mentioned, and experimental embryology and regeneration [despite Thompson's analysis of the latter] are overlooked. The mathematics used consists of statistics and geometry, while thermodynamics is "largely absent".
+Edmund Mayer, reviewing the second edition in The Anatomical Record in 1943, noted that the "scope of the book and the general approach to the problems dealt with have remained unchanged, but considerable additions have been made and large parts have been recast". He was impressed at the extent to which Thompson had kept up with developments in many sciences, though he thought the mentions of quantum theory and Heisenberg uncertainty unwise.
+George C. Williams, reviewing the 1942 edition and Bonner's abridged edition for the Quarterly Review of Biology (of which he was the editor), writes that the book is "a work widely praised, but seldom used. It contains neither original insights
+that have formed a basis for later advances nor instructive fallacies that have stimulated fruitful attack. This seeming paradox is brilliantly discussed by P. B. Medawar [in] Pluto's Republic." Williams then attempts a "gross simplification" of Medawar's evaluation:
+
+It was a compelling demonstration of how readily one can use physical and geometric principles in trying to understand biology. This was a major contribution in 1917 when vitalism was still being defended by prominent biologists. The battle was as won as it is ever likely to be by the time of the 1942 edition. The book was deficient because of Thompson's lack of understanding of evolution and antipathy for any concepts of historical causation."
+
+
+=== Modern ===
+The architects Philip Beesley and Sarah Bonnemaison write that Thompson's book at once became a classic "for its exploration of natural geometries in the dynamics of growth and physical processes." They note the "extraordinary optimism" in the book, its vision of the world as "a symphony of harmonious forces", and its huge range, including:
+
+the laws governing the dimension of organisms and their growth, the statics and dynamics at work in cells and tissues including the phenomena of geometrical packing, membranes under tension, symmetries, and cell division; as well as the engineering and geodesics of skeletons in simple organisms.
+Beesley and Bonnemaison observe that Thompson saw form "as a product of dynamic forces .. shaped by flows of energy and stages of growth." They praise his "eloquent writing and exquisite illustrations" which have provided inspiration for artists and architects as well as scientists.
+The statistician Cosma Shalizi writes that the book "has haunted all discussion of these matters ever since."
+Shalizi states that Thompson's goal is to show that biology follows inevitably from physics, and to a degree also from chemistry. He argues that when Thompson says "the form of an object is a 'diagram of forces'", Thompson means that we can infer from an object the physical forces that act (or once acted) upon it. Shalizi calls Thompson's account of the physics of morphogenesis
+
+ingenious, extremely elegant, very convincing and, significantly, aimed at very large features of the organism: the architecture of the skeleton, the curve of horns or shells, the outline of the organism as a whole.
+Shalizi notes Thompson's simplicity, explaining the processes of life "using little that a second-year physics undergrad wouldn't know. (Thompson's anti-reductionist admirers seldom put it this way.)". He notes that Thompson deliberately avoided invoking natural selection as an explanation, and left history, whether of species or of an individual's life, out of his account. He quotes Thompson's "A snow-crystal is the same today as when the first snows fell": adding "so, too, the basic forces acting upon organisms", and comments that we have forgotten other early twentieth century scientists who scorned evolution. In contrast, he argues,
+
+Thompson owes his continuing influence to the fact that his alternative doesn't beg questions at every turn. (Also, of course, he wrote beautifully, better than the poets of his day.)
+The anthropologist Barry Bogin writes that Thompson's book
+
+is a tour de force combining the classical approaches of natural philosophy and geometry with modern biology and mathematics to understand the growth, form, and evolution of plants and animals.
+Bogin observes that Thompson originated the use of transformational grids to measure growth in two dimensions, but that without modern computers the method was tedious to apply and was not often used. Even so, the book stimulated and lent intellectual validity to the new field of growth and development research.
+Peter Coates recalls that
+
+Peter Medawar famously called On Growth and Form "beyond comparison the finest work of literature in all the annals of science that have been recorded in the English tongue."
+Coates argues however that the book goes far beyond expressing knowledge elegantly and influentially, in a form "that can be read for pleasure by scientists and nonscientists"; it is in his view
+
+one of the most peculiar and original works of modern science, advancing an idiosyncratic view of how organisms develop, a view that was deeply at odds with the intellectual climate of Thompson's time ... and a textbook on how to think in any field.
+The science writer Philip Ball observes that
+
+Like Newton's Principia, D’Arcy Thompson's On Growth and Form is a book more often cited than read."
+Ball quotes the 2nd Edition's epigraph by the statistician Karl Pearson: "I believe the day must come when the biologist will—without being a mathematician—not hesitate to use mathematical analysis when he requires it." Ball argues that Thompson "presents mathematical principles as a shaping agency that may supersede natural selection, showing how the structures of the living world often echo those in inorganic nature", and notes his "frustration at the 'Just So' explanations of morphology offered by Darwinians." Instead, Ball argues, Thompson elaborates on how not heredity but physical forces govern biological form. Ball suggests that "The book's central motif is the logarithmic spiral", evidence in Thompson's eyes of the universality of form and the reduction of many phenomena to a few principles of mathematics.
+The philosopher of biology Michael Ruse wrote that Thompson "had little time for natural selection." Instead, Thompson emphasised "the formal aspects of organisms", trying to make a case for self-organization through normal physical and chemical processes. Ruse notes that, following Aristotle, Thompson used as an example the morphology of jellyfish, which he explained entirely mechanically with the physics of a heavy liquid falling through a lighter liquid, avoiding natural selection as an explanation. Ruse is not sure whether Thompson believed he was actually breaking with "mechanism", in other words adopting a vitalist (ghost in the machine) view of the world. In Ruse's opinion, Thompson can be interpreted as arguing that "we can have completely mechanical explanations of the living world" – with the important proviso that Thompson apparently felt there was no need for natural selection. Ruse at once adds that "people like Darwin and Dawkins undoubtedly would disagree"; they would insist that
+
+the adaptive complexity that we see in the living world simply cannot be explained by physics and chemistry. If D'Arcy Thompson thought otherwise, it can only be because in some way he was putting special direction into his physical models. He may not have been an explicit vitalist, but there is certainly the odor of spirit forces about what he claims.
+
+
+== Influence ==
+For his revised On Growth and Form, Thompson was awarded the Daniel Giraud Elliot Medal from the United States National Academy of Sciences in 1942.
+On Growth and Form has inspired thinkers including the biologists Julian Huxley and Conrad Hal Waddington, the mathematician Alan Turing and the anthropologist Claude Lévi-Strauss. The book has powerfully influenced architecture and has long been a set text on architecture courses.
+On Growth and Form has inspired artists including Richard Hamilton,  Eduardo Paolozzi, and Ben Nicholson. In 2011 the University of Dundee was awarded a £100,000 grant by The Art Fund to build a collection of art inspired by his ideas and collections, much of which is displayed in the D'Arcy Thompson Zoology Museum in Dundee.
+To celebrate the centenary of On Growth and Form numerous events were staged around the world, including New York, Amsterdam, Singapore, London, Edinburgh, St Andrews and in Dundee where the book was written. The On Growth and Form 100 website was set up in late 2016 to map all of this activity.
+
+
+== See also ==
+Evolutionary developmental biology
+Kunstformen der Natur
+
+
+== References ==
+
+
+== Bibliography ==
+Thompson, D. W., 1917. On Growth and Form. Cambridge University Press.
+1945 reprint at Internet Archive
+1961 abridged edition at Google Books
+
+
+== External links ==
+D'Arcy Wentworth Thompson
+D'Arcy Thompson Zoology Museum Archived 14 April 2012 at the Wayback Machine
+Using a computer to visualise change in organisms
+D'Arcy Thompson 150th anniversary homepage

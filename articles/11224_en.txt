@@ -1,0 +1,95 @@
+Utilitarianism is an 1861 essay written by English philosopher and economist John Stuart Mill, considered to be a classic exposition and defense of utilitarianism in ethics. It was originally published as a series of three separate articles in Fraser's Magazine in 1861 before it was collected and reprinted as a single work in 1863. The essay explains utilitarianism to its readers and addresses the numerous criticism against the theory during Mill's lifetime. It was heavily criticized upon publication; however, since then, Utilitarianism gained significant popularity and has been considered "the most influential philosophical articulation of a liberal humanistic morality that was produced in the nineteenth century."
+
+
+== Summary ==
+Mill took many elements of his version of utilitarianism from Jeremy Bentham, the great nineteenth-century legal reformer and the propounder of utilitarianism, who along with William Paley were the two most influential English utilitarians prior to Mill.  Like Bentham, Mill believed that happiness (or pleasure, which both Bentham and Mill equated with happiness) was the only thing humans do and should desire for its own sake. Since happiness is the only intrinsic good, and since more happiness is preferable to less, the goal of the ethical life is to maximize happiness. This is what Bentham and Mill call "the principle of utility" or "the greatest-happiness principle." Both Bentham and Mill thus endorse "classical" or "hedonistic" forms of utilitarianism.
+Although Mill agreed with Bentham about many of the foundational principles of ethics, he also had some major disagreements. In particular, Mill tried to develop a more refined form of utilitarianism that would harmonize better with ordinary morality and highlight the importance in the ethical life of intellectual pleasures, self-development, high ideals of character, and conventional moral rules.
+
+
+=== Chapter 1 ===
+In Chapter 1, titled "General Remarks," Mill notes that there has been little progress in ethics. Since the beginning of philosophy, the same issues have been debated over and over again, and philosophers continue to disagree sharply over the basic starting points of ethics. Mill argues that these philosophical disputes have not seriously damaged popular morality, largely because conventional morality is substantially, though implicitly, utilitarian. He concludes the chapter by noting that he will not attempt to give a strict "proof" of the greatest-happiness principle. Like Bentham, Mill believed that ultimate ends and first principles cannot be demonstrated, since they lie at the foundation of everything else that we know and believe. Nevertheless, he claims, "[c]considerations may be presented capable of determining the intellect," which amount to something close to a proof of the principle of utility.
+
+
+=== Chapter 2 ===
+In the second chapter, Mill formulates a single ethical principle, the principle of utility or greatest-happiness principle, from which he says all utilitarian ethical principles are derived: "The creed which accepts as the foundation of morals utility, or the greatest happiness principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain; by unhappiness, pain, and the privation of pleasure."
+Mill then spends the bulk of Chapter 2 responding to a number of common criticisms of utilitarianism. These include charges that utilitarianism:
+
+is a doctrine worthy only of swine (for holding that pleasure is the only thing that is desirable for its own sake) (p. 17)
+Is overly permissive because, critics argue, most humans will prefer the lower kinds of happiness out of laziness.
+is an unrealistic ethos, because as critics argue, many masses live in societies with overwhelming pain and deep unhappiness.
+fails to recognize that sustained happiness is unobtainable (p. 23)
+is too demanding (for claiming that it is always our duty to create the greatest possible happiness in the world) (p. 29)
+makes people cold and unsympathetic (by focusing solely on the consequences of actions, rather than on features such as motives and character, which require a more sensitive and empathetic response) (p. 31)
+is a godless ethics (by failing to recognize that ethics is rooted in God's commands or will) (p. 33)
+confuses goodness with expediency (p. 34)
+fails to recognize that in making ethical decisions there usually is no time to calculate long-term consequences (p. 35)
+tempts people to disobey ordinary moral rules (by inviting them to ignore such rules when they appear to conflict with the general happiness) (p. 37)
+In response to the charge that utilitarianism is a doctrine fit only for swine, Mill abandons Bentham's apparent view that pleasures differ only in quantity, not quality. He notes that most people who have experienced both physical and intellectual pleasures tend to greatly prefer the latter. Few people, he claims, would choose to trade places with an animal, a fool, or an ignoramus for any amount of bodily pleasure they might thereby acquire. And since "the sole evidence it is possible to produce that something is desirable, is that people do actually desire it," it follows that intellectual pleasures (e.g., the pleasures of friendship, art, reading, and conversation) are higher and more desirable kinds of pleasures than bodily pleasures, and that a rational pursuit of one's long-term happiness requires development of one's higher faculties.
+In reply to the objection that there generally is not enough time to calculate how a given act might affect the long-term general happiness, Mill sketches a kind of "two-tier" approach to ethics that accords an important place to moral rules in ethical decision-making. Mill argues that traditional moral rules such as "Keep your promises" and "Tell the truth" have been shown by long experience to promote the welfare of society. Normally we should follow such "secondary principles" without reflecting much on the consequences of our acts. As a rule, only when such second-tier principles conflict is it necessary (or wise) to appeal to the principle of utility directly.
+
+
+=== Chapter 3 ===
+In the third chapter, Mill asks what "sanctions" (that is, rewards and punishments) undergird the obligation to promote the general happiness. He explores a variety of ways in which both external and internal sanctions – that is, the incentives provided by others and the inner feelings of sympathy and conscience – encourage people to think about how their actions affect the happiness of others. The ultimate sanction, Mill claims, is internal. Humans are social animals who naturally desire "to be in unity with our fellow creatures." To prefer selfish goals over the public good runs counter to this deep-seated natural impulse.
+
+
+=== Chapter 4 ===
+In the fourth chapter Mill offers his famous quasi-proof of the greatest-happiness principle. The core of his argument is this:
+
+Everyone desires happiness.
+The only proof that something is desirable is that people do actually desire it.
+So, each person's happiness is a good to that person.
+Therefore, the general happiness is a good to the aggregate of all persons.
+Many critics have claimed that this argument relies on a dubious assumption about how individual happiness is related to the general happiness. There might be times when the general happiness can only be promoted by sacrificing the happiness of certain individuals. In such cases, is the general happiness a good to those individuals? Other critics have questioned whether it makes sense to speak of aggregates as having desires, or whether the fact that something is desired proves that it is desirable.
+
+
+=== Chapter 5 ===
+The fifth and longest chapter concludes by discussing what Mill considers "the only real difficulty" with utilitarian ethics: whether it might sometimes license acts of flagrant injustice. Critics of utilitarianism often claim that judging actions solely in terms of their effects on the general happiness is incompatible with a robust respect for individual rights and a duty to treat people as they deserve.  Mill appreciates the force of this objection and argues
+
+that feelings of justice are rooted in both a natural human desire to retaliate for injuries and a natural instinct for sympathy for those who have been wrongly injured;
+that justice has a utilitarian basis since an injustice is committed only when a person's rights have been violated, and an alleged right should be protected by society only when doing so promotes the general happiness;
+that people disagree deeply about what sorts of things are and are not just, and utilitarianism provides the only rational basis for resolving such conflicts.
+
+
+== Influence ==
+Mill's Utilitarianism remains "the most famous defense of the utilitarian view ever written" and is still widely assigned in university ethics courses around the world. Largely owing to Mill, utilitarianism rapidly became the dominant ethical theory in Anglo-American philosophy. Though some contemporary ethicists would not agree with all elements of Mill's moral philosophy, utilitarianism remains a live option in ethical theory today.
+
+
+== See also ==
+Annals of the Parish, by John Galt
+
+
+== References ==
+
+
+== Bibliography ==
+Mill, John Stuart (1998). Crisp, Roger (ed.). Utilitarianism. Oxford University Press. ISBN 0-19-875163-X.
+
+
+== Further reading ==
+Alican, Necip Fikri (1994). Mill's Principle of Utility: A Defense of John Stuart Mill's Notorious Proof. Amsterdam and Atlanta: Editions Rodopi B.V. ISBN 978-90-518-3748-3.
+Bayles, M. D. (1968). Contemporary Utilitarianism. Anchor Books, Doubleday.
+Bentham, Jeremy (2009). An Introduction to the Principles of Morals and Legislation (Dover Philosophical Classics). Dover Publications Inc. ISBN 978-0486454528.
+Brandt, Richard B. (1979). A Theory of the Good and the Right. Clarendon Press. ISBN 0-19-824550-5.
+Lyons, David (1965). Forms and Limits of Utilitarianism. Oxford University Press(UK). ISBN 978-0198241973.
+Mill, John Stuart (2011). A System of Logic, Ratiocinative and Inductive (Classic Reprint). Forgotten Books. ISBN 978-1440090820.
+Mill, John Stuart (1981). "Autobiography". In Robson, John (ed.). Collected Works, volume XXXI. University of Toronto Press. ISBN 0-7100-0718-3.
+Moore, G.E. (1903). Principia Ethica. Prometheus Books UK. ISBN 0879754982. {{cite book}}: ISBN / Date incompatibility (help)
+Rosen, Frederick (2003). Classical Utilitarianism from Hume to Mill. Routledge.
+Scheffler, Samuel (August 1994). The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions, Second Edition. Clarendon Press. ISBN 978-0198235118.
+Smart, J. J. C.; Williams, Bernard (January 1973). Utilitarianism: For and Against. Cambridge University Press. ISBN 978-0521098229.
+
+
+== External links ==
+
+Full text version of "Utilitarianism.com"
+Fraser's Magazine, vol. 64, containing the first version (1861) of Mill's Utilitarianism as a series of three articles (p. 391-406, 525-534, 659-673).
+Mill, J.S. Utilitarianism. Parker, Son, and Bourn: London, 1863, a digitised copy from the Internet Archive.
+Mill, J.S. Utilitarianism, second edition. Longman, Green, Longman, Roberts, and Green: London, 1864, a digitised copy from Google Book Search.
+Mill, J.S. Utilitarianism, third edition. Longmans, Green, Reader, and Dyer: London, 1867, a digitised copy from Google Book Search.
+Contains Utilitarianism, slightly modified for easier reading
+Mill, J.S. Utilitarianism, fourth edition. Longmans, Green, Reader, and Dyer: London, 1871, a digitised copy from Google Book Search.
+Utilitarianism, 7th edition, 1879 at Project Gutenberg
+ Utilitarianism public domain audiobook at LibriVox
+Utilitarianism (1871 edition, transcribed by the Fair Use Repository)
+Utilitarianism (1863 edition, transcribed by the University of Adelaide Library) Archived 23 June 2005 at the Wayback Machine
+Internet Encyclopedia of Philosophy: John Stuart Mill: Utilitarianism

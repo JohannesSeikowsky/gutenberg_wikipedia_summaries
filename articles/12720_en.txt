@@ -1,0 +1,58 @@
+Shakespeare's Sonnet 40 is one of the sequence addressed to a well-born, handsome young man to whom the speaker is devoted. In this poem, as in the others in this part of the sequence, the speaker expresses resentment of his beloved's power over him.
+
+
+== Paraphrase ==
+Go and take all of my loves, my beloved—how would doing so enrich you? It would not give you anything you do not already have. All that I possessed was already yours before you took this. (The second quatrain is obscure and contested.) If, instead of loving me, you love the person I love, I can't blame you, because you are merely taking advantage of my love. (For possible readings of lines 7–8, see below). Yet I forgive you, even though you steal the little that I have, and even though it is well known that an injury inflicted by a supposed lover is far worse than an insult from an enemy. Oh lustful grace (i.e., the beloved), in whom everything bad is made to look good, even if you kill me with these wrongs against me, I will not be your enemy.
+
+
+== Structure ==
+Sonnet 40 is an English or Shakespearean sonnet, composed of three quatrains followed by a final couplet. It follows the typical rhyme scheme of the English sonnet, ABAB CDCD EFEF GG. It is written in iambic pentameter, a type of poetic metre based on five pairs of metrically weak/strong syllabic positions. Line four exemplifies a regular iambic pentameter:
+
+×    /    ×    /     × /     ×   /      ×   / 
+All mine was thine, before thou hadst this more. (40.4)
+
+All four lines in the second quatrain have a final extrametrical syllable or feminine ending:
+
+ ×   /   ×   /     ×    /    ×  /    × / (×) 
+But yet be blam'd, if thou thy self deceivest (40.7)
+
+/ = ictus, a metrically strong syllabic position. × = nonictus. (×) = extrametrical syllable.
+In prose, which syllables receive emphasis within a string of monosyllables can be very open. The following two lines are mis-scanned by reversing every ictus/nonictus (except those on "before" which are lexically determined):
+
+  /   ×     /    ×   /     ×    /   ×     ×  /
+What hast thou then more than thou hadst before?
+
+ /  ×     /  ×      /    ×   /      ×   /    ×
+No love, my love, that thou mayst true love call; (40.2-3)
+
+Although a little awkward, these emphases yield an acceptable prose sense; yet we can be quite sure they were not intended by Shakespeare. The following more likely scansion (which retains one reversal) shows how Shakespeare works with meter to convey meaning:
+
+  ×   /    ×     /   /     ×    ×   /     ×  /
+What hast thou then more than thou hadst before?
+
+ ×  /     ×  /     ×     /   ×      /   ×    /   
+No love, my love, that thou mayst true love call; (40.2-3)
+
+
+== Source and analysis ==
+Commonly viewed as parallel to the situation in Sonnets 133, 134, and 144, the sonnet appears in this light to reflect a situation in which the speaker's beloved has seduced the speaker's mistress. While the seeming specificity of the reference has tantalized biographical critics, it has also been likened (for instance, by Geoffrey Bullough) to the central situation of The Two Gentlemen of Verona. The situation described, if not wholly unique to Shakespeare, is at least highly unusual, as Sidney Lee notes. Parallels have been noted in Petrarch and in Theodore Beza's Poematica, but these are not as implicitly sexual as Shakespeare's poem.
+Line 5 is glossed by Edward Dowden as "If for love of me thou receivest her whom I love"; George Wyndham, though, has it "If, instead of my love, you take the woman whom I love." Line 8, the next vague line, has received even more varied interpretations. Dowden has it "Deceive yourself by an unlawful union while you refuse lawful wedlock"; Beeching has it "by taking in willfulness my mistress whom you yet do not love"; Lee says "'What thou refusest is that lascivious indulgence which in reality thou disdainest." C. C. Stopes relates the line to other sonnets written in condemnation of illicit lust.
+
+
+== Notes ==
+
+
+== References ==
+Baldwin, T. W. On the Literary Genetics of Shakespeare's Sonnets. Urbana: University of Illinois, 1950.
+Lee, Sidney. Elizabethan Sonnets. Westminster: Constable, 1904.
+Stopes, C. C. Shakespeare's Sonnets. London: Alexander Morig, 1904.
+Wilson, George. The Five Gateways of Knowledge. Cambridge: Macmillan, 1856.
+First edition and facsimile
+
+Variorum editions
+
+Modern critical editions
+
+
+== External links ==
+Analysis

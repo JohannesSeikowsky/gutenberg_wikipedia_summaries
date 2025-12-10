@@ -1,0 +1,44 @@
+The World English Bible (WEB) is an English translation of the Bible freely shared online. The translation work began in 1994 and was deemed complete in 2020. Created by Michael Paul Johnson with help from volunteers, the WEB is an updated revision of the American Standard Version from 1901.
+The WEB has several versions available on its website, including both American and British styles of English. Another important distinction is two types of Old Testament: one limited to protocanon, while the other includes deuterocanon/apocrypha.
+
+
+== History ==
+In 1994, Michael Paul Johnson felt commissioned by God "to create a new modern English translation of the Holy Bible that would be forever free to use, publish, and distribute." As he did not have any formal training in this regard, he studied Greek and Hebrew, as well as how to use scholarly works. His first translated books were the gospel and letters of John. The drafts were shared on Usenet and a mailing list, where he received several suggestions from others and incorporated them. Estimating he would be 150 years old by the time this style of work would be finished, Johnson decided to base further work on the American Standard Version (ASV) of 1901, which is regarded as an accurate translation and is wholly in the public domain.
+Johnson's main goal became modernizing the language of ASV. He created custom computer programs to organize this process, resulting in the initial draft of 1997 which "was not quite modern English, in that it still lacked quotation marks and still had some word ordering that sounded more like Elizabethan English or maybe Yoda than modern English." This draft was soon named World English Bible (WEB), as Johnson intended it to be for any English speaker, while the acronym indicates that the Web is its means of distribution.
+Over the years, numerous volunteers have assisted Johnson. The entire translation effort was deemed complete in 2020, but relatively minor changes are still made. Future substantial revisions will be forked to a separate World English Bible Update project.
+
+
+== Features ==
+The translation philosophy of the WEB is to be mostly formally equivalent, like the American Standard Version it is based on, but with modernized English. There are a modest amount of footnotes for cross-references and brief translation notes.
+The WEB originally followed the ASV's decision to transliterate the Tetragrammaton, but used "Yahweh" instead of "Jehovah" throughout the Old Testament. However, this was relegated to the Classic version of the WEB; all other versions now use the word "LORD".
+
+
+=== WEB and ASV comparison ===
+
+
+== Licensing ==
+All of the text of the World English Bible is dedicated to the public domain. The ebible.org project maintains a trademark on the phrase "World English Bible" and forbids any derivative work that substantially alters the text from using the name "World English Bible" to describe it. The reasons given were that they felt copyright was an ineffective way of protecting the text's integrity and the fact that the Creative Commons licenses did not exist at the time the project began.
+
+
+== Critical reception ==
+The Provident Planning website uses the World English Bible because it is free of copyright restrictions and because the author considers it to be a good translation.
+The Bible Megasite review of the World English Bible says it is a good revision of the American Standard Version of 1901 (ASV) into contemporary English, which also corrects some textual issues with the ASV.
+The World English Bible is widely published in digital formats by a variety of publishers.
+
+
+== See also ==
+Literal English Version – A derivative of the WEB
+New American Standard Bible
+Open English Bible – A primarily digitally published translation
+Modern Literal Version – A primarily digitally published translation
+New English Translation – A primarily digitally published translation
+
+
+== References ==
+
+
+== External links ==
+
+Official website
+Works by or about World English Bible at the Internet Archive
+Works by World English Bible at LibriVox (public domain audiobooks)

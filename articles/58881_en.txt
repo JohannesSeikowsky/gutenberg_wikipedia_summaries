@@ -1,0 +1,33 @@
+A Philosophical Essay on Probabilities is a work by Pierre-Simon Laplace on the mathematical theory of probability. The book consists of two parts, the first with five chapters and the second with thirteen.
+
+
+== Table of Contents ==
+Part I - A Philosophical Essay on Probabilities
+Introduction
+Concerning Probability
+General Principles of the Calculus of Probability
+Concerning Hope
+Analytical Methods of the Calculus of Probability
+Part II - Application of the Calculus of Probabilities
+Games of Chance
+Concerning the Unknown Inequalities which may Exist among Chances Supposed to be Equal
+Concerning the Laws of Probability which result from the Indefinite Multiplication of Events
+Application of the Calculus of Probabilities to Natural Philosophy
+Application of the Calculus of Probabilities to the Moral Sciences
+Concerning the Probability of Testimonies
+Concerning the Selections and Deliberations of Assemblies
+Concerning the Probability of the Judgements of Tribunals
+Concerning Tables of Mortality, and the Mean Durations of Life, Marriage and Some Assemblies
+Concerning the Benefits of Institutions which Depend on the Probability of Events
+Concerning Illusions in the Estimation of Probabilities
+Concerning the Various Means of Approaching Certainty
+Historical Note of the Calculus of Probabilities to 1816
+
+
+== References ==
+
+
+== External links ==
+ The full text of A Philosophical Essay on Probabilities at Wikisource
+A Philosophical Essay on Probabilities at Project Gutenberg
+A Philosophical Essay on Probabilities at Internet Archive

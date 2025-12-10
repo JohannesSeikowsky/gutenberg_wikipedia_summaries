@@ -1,0 +1,36 @@
+Free as in Freedom: Richard Stallman's Crusade for Free Software (ISBN 0-596-00287-4) is a free book licensed under the GNU Free Documentation License about the life of Richard Stallman, written by Sam Williams and published by O'Reilly Media on March 1, 2002.
+Williams conducted several interviews with Stallman during the writing of the book, as well as with classmates, colleagues of Stallman, and his mother. The book has received positive reviews.
+
+
+== Structure ==
+The book is divided into a preface, thirteen chapters, an epilogue, three appendices and an index. A copy of the GNU Free Documentation License (GFDL) is included as Appendix C.
+
+
+== License ==
+Free as in Freedom was published under the GNU Free Documentation License version 1.1, which allows modification and redistribution of the text, photographs contained therein, as well as the cover: its texts, photograph and elements of design.
+
+
+== Writing ==
+Williams has written an article about the process of writing FaiF, recording the license negotiations that led to this book being published under a free license. OnLamp also interviewed Williams in 2002 about the writing process.
+
+
+== Reception ==
+Andrew Leonard in Salon complimented the amount of new information Williams reveals about Stallman, given the amount of material already published. He describes the book as a "nuanced, detailed picture of Stallman". In Computer User, Jende Huang referred to the book as "straightforward" and wrote, "the juxtaposition of Stallman's public and private personae is the key to the book's appeal." He summarized that the book is "a worthwhile read for its chronicle of an important part of the free software movement, as well as its insight into Stallman as a person." In Italian VITA, Bernardo Parrella described its "greatest merit" to be its "new perspective" on the issues at stake for Free Software and the computer industry as a whole, and its interweaving of Stallman's personal life and complex technical developments to be "gripping". He noted that the book is an important "real time" biography, full of references to other books, publications and web links, about a man who is misunderstood, and underestimated. In a review for Sys-Con, Mike McCallister describes the book as an "easy introduction to Stallman's career and ideas, but at this length cannot go into great depth." He mentions one section as "very funny", but "all too-brief" coverage of another topic, or none at all (GNOME).
+
+
+== Free as in Freedom 2.0 ==
+After reading Free as in Freedom in 2009, Richard Stallman made extensive revisions and annotations to the original text. As the book was published under the GFDL, it enabled Stallman to address factual errors and clarify some of the author's mistaken or incoherent statements, bringing in his first-hand experiences and technical expertise where appropriate. This new revised edition  Free as in Freedom 2.0 was published by GNU Press in October 2010 and is available at FSF online shop and as a free PDF download. Sam Williams wrote a new foreword for the revised edition.
+
+
+== See also ==
+
+Free software
+Free Software, Free Society, selected essays by Stallman
+
+
+== References ==
+
+
+== External links ==
+
+Free as in Freedom listing at O'Reilly Media

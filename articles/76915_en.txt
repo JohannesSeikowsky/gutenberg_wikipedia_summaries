@@ -1,0 +1,103 @@
+United States copyright registrations, renewals, and other catalog entries since 1978 are published online at the United States Copyright Office website. Entries prior to 1978 are not published in the online catalog. Copyright registrations and renewals after 1890 were formerly published in semi-annual softcover catalogs called The Catalog of Copyright Entries (CCE) or Copyright Catalog, or were published in microfiche.
+
+
+== Publication history and format ==
+The Copyright Office published the Catalog of Copyright Entries in print format from 1891 through 1978. These volumes may often be available at federal depository libraries. From 1979 through 1982, the CCE was issued in microfiche format. The catalog was divided into parts according to the classes of works registered. Each CCE segment covered all registrations made during a particular period of time. Renewal registrations made from 1979 through 1982 are found in section 8 of the catalog. Renewals prior to that time were generally listed at the end of the volume containing the class of work to which they pertained. Effective with registrations made since 1982, the only way to see the CCE is by using the Internet to access the Copyright Office automated catalog. The automated catalog contains entries from 1978 forward. The catalog is accessible through copyright.gov.
+
+
+== Nature of catalog entries and access to copies of documents ==
+The Catalog of Copyright Entries, the Copyright Card Catalog, and the online files are indexes, not reproductions of original documents. To view or copy the original documents, one must visit the Copyright Office. Information such as registration numbers may be obtained from these files. Providing this information rather than paying a fee to have the Office search for it will reduce the cost of obtaining records and copies from the Copyright Office.
+
+
+== Copyright categories ==
+Part 1. BOOKS AND PAMPHLETS, INCLUDING SERIALS AND CONTRIBUTION TO PERIODICALS
+
+Books
+Books in foreign languages published abroad
+Books in the English language first published abroad
+Contributions to periodicals
+Renewal registrations
+Part 2. PERIODICALS
+
+Periodicals
+Periodicals in foreign languages published abroad
+Periodicals in the English language first published abroad
+Renewal registrations
+Parts 3–4. DRAMAS AND WORKS PREPARED FOR ORAL DELIVERY
+
+Lectures and other works prepared for oral delivery
+Dramatic and dramatico-musical works published abroad
+Published dramatic and dramatico-musical works
+Unpublished dramatic and dramatico-musical works
+Renewal registrations
+Part 5. MUSIC
+
+Musical compositions published abroad
+Musical compositions published in the United States
+Unpublished music
+Renewal registrations
+Part 6. MAPS AND ATLASES
+
+Maps
+Renewal registrations
+Parts 7–11A. WORKS OF ART, REPRODUCTIONS IN WORKS OF ART, SCIENTIFIC AND TECHNICAL DRAWINGS, PHOTOGRAPHIC WORKS, PRINTS AND PICTORIAL ILLUSTRATIONS
+
+Published works of art and designs for works of art
+Unpublished works of art and designs for works of art
+Reproductions of works of art published in the United States
+Published drawings of plastic works of a scientific or technical character
+Published photographs
+Unpublished photographs
+Prints and pictorial illustrations published in the United States
+Prints and pictorial illustrations published abroad
+Renewal registrations
+Part 11B. COMMERCIAL PRINTS AND LABELS
+
+Commercials prints and labels
+Renewal registrations
+Parts 12–13. MOTION PICTURES AND FILMSTRIPS
+
+Published motion picture photoplays
+Unpublished motion picture photoplays:
+Published motion pictures other than photoplays
+Unpublished motion pictures other than photoplays:
+Renewal registrations
+
+
+== Cumulative copyright catalogs ==
+For selected categories, the Library of Congress published hardcover books of copyright registrations covering ten or more years. These include:
+
+Dramatic Compositions Copyrighted in the United States 1870 to 1916, a two-volume set, published in 1918. Volume 1 (pages 1 – 1662) has alphabetized works with titles from A through N (consecutively numbered 1 – 33,176). Volume 2 (pages 1663–2830) has alphabetized works with titles from O through Z (consecutively numbered 33,177 – 56,066); page 2831 has titles that begin with numerals. Pages 2832–33 have Additions and Corrections. Page 2834 is blank. Pages 2835 – 3547 is an alphabetical index of authors, with each name followed by that author's works.
+Catalog of Copyright Entries: Cumulative Series. Motion Pictures 1912–1939 (51,112 films), published in 1951. LCCN 51-60018.(copy)
+Motion Pictures 1894–1912 Identified from the Records of the United States Copyright Office by Howard Lamarr Wells (8,506 films), published in 1953. This is the only cumulative copyright catalog with an author credit. LCCN 53-60033.
+Catalog of Copyright Entries: Cumulative Series. Motion Pictures 1940–1949 (18,767 films and early TV programs), published in 1953. LCCN 53-60032.
+Catalog of Copyright Entries: Cumulative Series. Motion Pictures 1950–1959 (27,310 films and TV programs), published in 1960. LCCN 53-60032.
+Catalog of Copyright Entries: Cumulative Series. Motion Pictures 1960–1969 (34,277 films and TV programs), published in 1971. LCCN 53-60032.
+
+
+== Catalog reprints ==
+All of the cumulative Copyright Catalogs listed above are out of print, but the complete text of registrations and indexes in the four volumes of motion pictures from 1894 through 1959 have been reprinted in the Film Superlist series.
+A number of entities have scanned all or some of the volumes of the CCE. The Stanford Library and the University of Pennsylvania library have each scanned a section of the records and put them into a database. At the University of Pennsylvania, they have scanned book and serials renewals, searchable by year at The Catalog of Copyright Entries. Stanford has also placed renewal records into a Copyright Renewals searchable database. More recently, Google has indexed many volumes of the CCE into a searchable index, available at Searching Google's Scans of the Catalog of Copyright Entries. The Internet Archive has similarly scanned and indexed the volumes of the CCE, as well as many other US Copyright Office works, and makes the works both searchable and viewable as scans by searching for the "collection:copyrightrecords" at Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine.
+
+
+== Criticism ==
+
+
+=== Privacy ===
+The Copyright Catalog has been criticized in that the public catalog includes personally identifiable information like home addresses and phone numbers of artists; removing or replacing that data may be hard.
+
+
+== See also ==
+United States Copyright Office
+Work for hire
+
+
+== Notes ==
+
+
+== External links ==
+
+Catalogues of Copyright Entries: full database – University of Pennsylvania Libraries
+Catalogues of Copyright Entries: 1924–1949 – University of Pennsylvania Libraries
+"Copyright Term and the Public Domain in the U.S." (chart on determining copyright status) by Peter B. Hirtle, Cornell University Library
+Project Gutenberg, subject "Copyright – United States – Catalogs"

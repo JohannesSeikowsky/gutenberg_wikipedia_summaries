@@ -1,0 +1,73 @@
+The Huainanzi is an ancient philosphical and governmental Chinese text made up of essays from scholarly debates held at the court of Liu An, Prince of Huainan, before 139 BCE. Compiled as a handbook for an enlightened sovereign and his court, the work attempts to define the conditions for a perfect socio-political order, derived mainly from a perfect ruler. With a notable Zhuangzi 'Taoist' influence, alongside Chinese folk theories of yin and yang and Wu Xing, the Huainanzi draws on Taoist, Legalist, Confucian, and Mohist concepts, but subverts the latter three in favor of a less active ruler, as prominent in the early Han dynasty before the Emperor Wu.
+The early Han authors of the Huainanzi likely did not yet call themselves Taoist, and differ from Taoism as later understood. But K.C. Hsiao and the work's modern translators still considered it a 'principal' example of Han 'Taoism', retrospectively. Although the Confucians classified the text as Syncretist (Zajia), its ideas theoretically contributed to the later founding of the Taoist church in 184 c.e. Sima Tan may have even had the "subversive 'syncretism'" of the Huainanzi in mind when he coined the term Taoist, claiming to "pick what is good among the Confucians and Mohists."
+
+
+== Dating ==
+Said to have been compiled for presentation to the Emperor Wu of Han, while the modern translators of the Huainanzi did believe it had been compiled by a Liu An, they believed much of it's material had earlier been written during the reign of Wu's father, Emperor Jing of Han, under whome debates on organization of the government had already begun. Liu An himself would already have been around during Jing's reign, and the process of debate and organization were not quick; although increasing under Jing, they date back to the founding of the Han dynasty.
+
+
+== Major influences ==
+If Dong Zhongshu was familiar with the Huainanzi, its "syncretism" would likely have infuriated him, deciding for itself the relation between fundamental Confucian texts and relegating them to one quarter of the "fundamentals of rulership."
+Although the first and twelfth chapters of the work are based on the Tao Te Ching, the Huainanzi most strongly resonates with the Zhuangzi, with influences including such works as the Lüshi Chunqiu, Han Feizi, Mozi, Guanzi, Classic of Poetry, and Xunzi. Quantitatively, its most major influences are the Zhuangzi and encyclopedic Lüshi Chunqiu, and about half as much the Tao Te Ching and Han Feizi, including traces of the Han Feizi's predecessor Shen Buhai. But the work disparages the Han Feizi's combination of Shang Yang and Shen Buhai, glossing them together as penal.
+Zhuangzi influences only existed as traces in the earlier, late Warring States period Han Feizi, and the Mawangdui silk texts Huangdi sijing, entombed in the early Han dynasty, still did not associate Laozi and Zhuangzi together. In these terms, the Huainanzi is notable as the main evidence of Zhuangzi influence in the Han dynasty. Scattered anecdotes are comparable to Mencius, though sometimes differing.
+
+
+== The work ==
+Scholars are reasonably certain regarding the date of composition for the Huainanzi. Both the Book of Han and Records of the Grand Historian record that when Liu An paid a state visit to his nephew the Emperor Wu of Han in 139 BC, he presented a copy of his "recently completed" book in twenty-one chapters. Recent research shows that Chapters 1, 2, and 21 of the Huainanzi were performed at the imperial court.
+The Huainanzi is an eclectic compilation of chapters or essays that range across topics of religion, history, astronomy, geography, philosophy, science, metaphysics, nature, and politics. It discusses many pre-Han schools of thought, especially the Huang–Lao form of religious Daoism, and contains more than 800 quotations from Chinese classics. The textual diversity is apparent from the chapter titles, listed under the table of contents (tr. Le Blanc, 1985, 15–16).
+Some passages are philosophically significant, with one example combining Five Phase and Daoist themes.  
+
+When the lute-tuner strikes the kung note [on one instrument], the kung note [on the other instrument] responds: when he plucks the chiao note [on one instrument], the chiao note [on the other instrument] vibrates. This results from having corresponding musical notes in mutual harmony. Now, [let us assume that] someone changes the tuning of one string in such a way that it does not match any of the five notes, and by striking it sets all twenty-five strings resonating. In this case there has as yet been no differentiation as regards sound; it just happens that that [sound] which governs all musical notes has been evoked.
+Thus, he who is merged with Supreme Harmony is beclouded as if dead-drunk, and drifts about in its midst in sweet contentment, unaware how he came there; engulfed in pure delight as he sinks to the depths; benumbed as he reaches the end, he is as if he had not yet begun to emerge from his origin. This is called the Great Merging. (chapter 6, tr. Le Blanc 1985:138)
+
+
+== Conservatism ==
+Though positively receiving earlier reunification of the empire, the Huainanzi opposed a growing expansion of centralized government, with its upcoming class of attending (Confucian) scholar-officials. To this end, it places heavenly prognosticators higher than (Confucian) ritual specialists, and advocates ideas of wuwei nonaction, recommending the ruler put aside trivial matters to abide in Pure Unity as Empty Nothingness, following the ways of Fuxi and Nüwa. Aiming to demonstrate how every text before it is part of its own integral unity, the Huainanzi posed a threat to the Han court.
+
+ When the First Emperor of Qin conquered the world, he feared that he would not be able to defend it. Thus, he attacked the Rong border tribes, repaired the Great Wall, constructed passes and bridges, erected barricades and barriers, equipped himself with post stations and charioteers, and dispatched troops to guard the borders of his empire. When, however, the house of Liu Bang took possession of the world, it was as easy as turning a weight in the palm of your hand.
+In ancient times, King Wu of Zhou vanquished tyrant Djou... (and then) distributed the grain in the Juqiao granary, disbursed the wealth in the Deer Pavilion, destroyed the war drums and drumsticks, unbent his bows and cut their strings. He moved out of his palace and lived exposed to the wilds to demonstrate that life would be peaceful and simple. He lay down his waist sword and took up the breast tablet to demonstrate that he was free of enmity. As a consequence, the entire world sang his praises and rejoiced in his rule, while the Lords of the Land came bearing gifts of silk and seeking audiences with him. [His dynasty endured] for thirty-four generations without interruption.
+
+Therefore, the Laozi says: "Those good at shutting use no bolts, yet what they shut cannot be opened; those good at tying use no cords, yet what they tie cannot be unfastened." Chapter 12.47
+
+
+== Table of contents ==
+
+
+== Notable translations ==
+Major, John S.; Queen, Sarah A.; Meyer, Andrew Seth; Roth, Harold D. (2010). The Huainanzi. Columbia University Press. ISBN 978-0-231-52085-0.
+Le Blanc, Charles; Mathieu, Rémi (2003). Philosophes Taoïstes II: Huainan zi (in French). Paris: Gallimard.
+Translations that focus on individual chapters include:
+
+Balfour, Frederic H. (1884). Taoist Texts, Ethical, Political, and Speculative. London: Trübner.
+Morgan, Evan (1933). Tao, the Great Luminant: Essays from the Huai-nan-tzu. London: Kegan Paul, Trench, Trübner & Co.
+Wallacker, Benjamin (1962). The Huai-nan-tzu, Book Eleven: Behavior Culture and the Cosmos. New Haven: American Oriental Society.
+Kusuyama, Haruki (1979–1988). E-nan-ji 淮南子 [Huainanzi]. Shinshaku kanbun taikei (in Japanese). Vol. 54, 55, 62.
+Larre, Claude (1982). Le Traité VIIe du Houai nan tseu: Les esprits légers et subtils animateurs de l'essence [Huainanzi Chapter 7 Translation: Light Spirits and Subtle Animators of Essence]. Variétés sinologiques (in French). Vol. 67.
+Ames, Roger T. (1983). The Art of Rulership: A Study in Ancient Chinese Political Thought. Honolulu: University of Hawaii Press.
+Le Blanc, Charles (1985). Huai nan tzu; Philosophical Synthesis in Early Han Thought: The Idea of Resonance (Kan-ying) With a Translation and Analysis of Chapter Six. Hong Kong: Hong Kong University Press.
+Major, John S. (1993). Heaven and Earth in Early Han Thought: Chapters Three, Four and Five of the Huainanzi. Albany: State University of New York Press.
+Ames, Roger T.; Lau, D.C. (1998). Yuan Dao: Tracing Dao to Its Source. New York: Ballantine Books.
+
+
+== Television series ==
+The Legend of Huainanzi
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+== External links ==
+
+淮南子 - Chinese Text Project
+淮南子, original text in Chinese 21 chapters
+淮南子, original text in Chinese 21 chapters
+淮南子, original text in Chinese 21 chapters
+Tao, the Great Luminant, Morgan's translation
+Huainan-zi, Sanderson Beck's article
+Huainanzi, Chinaknowledge article

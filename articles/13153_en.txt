@@ -1,0 +1,68 @@
+The String Quartet No. 15 in A minor, Op. 132, by Ludwig van Beethoven, was written in 1825, given its public premiere on November 6 of that year by the Schuppanzigh Quartet and was dedicated to Count Nikolai Galitzin, as were Opp. 127 and 130. The number traditionally assigned to it is based on the order of its publication; it is actually the thirteenth quartet in order of composition. 
+
+
+== Music ==
+The five movements of the quartet are:
+
+The performance of the work takes around 45 minutes.
+
+
+=== I. Assai sostenuto – Allegro ===
+The slow introduction to the first movement, like that of the thirteenth quartet, is based on a motif that recurs throughout the late quartets and in the Große Fuge as well: the second tetrachord of the harmonic minor scale. The movement is in a modified sonata form which involves three full rotations of the expositional primary and secondary thematic material, each with a different tonal plan, in contrast to the usual sonata form which only cycles fully through this material twice (for the exposition and recapitulation).
+The first expositional rotation begins in the tonic and moves down a third to VI (F major) for the second key area (m. 48), while the second – following a developmental episode – is almost a direct transposition that begins in E minor (m. 103) and moves similarly down a third to C major. The final abbreviated rotation (m. 193) remains in the tonic throughout, followed by a coda (m. 232) featuring a dominant pedal point.
+The movement's unusual structure has invited a variety of analytical interpretations. Composer Roger Sessions describes the form as more of a triple exposition than a normal sonata form, and the second rotation could be interpreted as a simulation of the expositional repeat seen in many classical sonata form expositions, with the added interest of transposition. Conversely, other analysts have interpreted the second rotation as the onset of the recapitulation or as a "double recapitulation effect" rather than as an expositional repeat, with Hepokoski and Darcy describing it as a "tonally 'wrong' recapitulatory rotation followed by a notably varied, 'right' one in the tonic". and Joseph Kerman referring, albeit with reservations, to an "E-minor recapitulation" and an "A-minor recapitulation".
+Charles Rosen, on the other hand, considered this structure to be governed, as all of Beethoven's works, by the principle of sonata resolution, pointing to Haydn's 75th and 89th symphonies as precedents. For Rosen, the exposition comprises the A minor and F major sections; the brief developmental episode is a true development; and the middle section that directly transposes the exposition is a harmonic development (in the dominant and mediant keys, on the sharp side of the tonic) while acting thematically as a recapitulation. This allows the final section to act as a harmonic recapitulation (as it remains in the tonic throughout), while incorporating thematic development.
+
+
+=== II. Allegro ma non tanto ===
+The second movement is a minuet with trio, rather than the scherzo with repeated trio that Beethoven used most often in his works starting with his second symphony.  The trio evokes a musette with its melodies over sustained tonic (here, A) tones. It partly reuses Beethoven's Allemande WoO 81.
+To begin this movement (Listen), Beethoven exposes the fourth in a three-note gesture (G♯–A–C♯) four times, with the violins and viola in unison and the cello an octave below. In m. 5, this motive is combined with an inverted variation (outlining a descending fifth) in mixed rhythm.
+
+Philip Radcliffe (1965, p. 114) says that the three-note gesture shares with the opening of the first movement “the unusual feature of beginning on the leading note of the scale.”  Daniel Chua (1995, p. 113) points out that this creates “rhythmic ambivalence”, especially when the two motives combine in bar 5: “In this way, as the two patterns interlock a gentle tension is induced by the differing rhythmic currents and admits the possibility of two contradictory metrical interpretations.”
+The trio adds to parts of his Alemande WoO 81 (also in A major) an A pedal note (first on the first violin and then on the other instruments) that creates a sound atmosphere reminiscent of old or popular music played on bagpipes or hurdy-gurdies.
+
+
+=== III. Molto adagio – Andante ===
+At about 15 to 20 minutes in duration, the third movement is the longest of the quartet.  Formally described, it alternates slow sections in a modal F major with faster sections, "Neue Kraft fühlend" ("feeling new strength"), in D. The slow sections each have two elements, (1) a passage reminiscent of the opening of the first movement in which the instruments overlap each other with a brief motive; (2) a chorale, the actual song.  In the three instances of the slow section, the overlapping motives become increasingly complex rhythmically, while the chorale is pared down, and the two elements become increasingly integrated. There is a characteristic intensification of the head-motif toward the end of the movement.
+Beethoven wrote this piece after recovering from a serious intestinal illness which he had feared would be fatal because it afflicted him for the entire winter of 1824–5. He thus headed the third movement with the words, "Heiliger Dankgesang eines Genesenen an die Gottheit, in der lydischen Tonart" ("Holy song of thanksgiving of a convalescent to the Deity, in the Lydian mode").
+
+
+=== IV. Alla marcia, assai vivace ===
+This brief (2-minute) march in A major leads directly into the rondo-finale through a recitative-like passage.
+
+
+=== V. Allegro appassionato ===
+The movement is in sonata rondo form (A B A C A B A).
+Beethoven's sketches show that this theme was originally meant for an instrumental conclusion to the Ninth Symphony, but was abandoned for the now famous choral ending. The movement ends with a coda in A major.
+
+
+== Reception ==
+Beethoven’s nephew Karl van Beethoven reported about the premiere to his uncle: "The quartet received a lot of applause, it went very well together and Linke played better than ever". Mark Swed has argued that the quartet represents the "psychology of pain and illness" as it was written after Beethoven had recovered from a painful bowel inflammation.
+
+
+== Influence ==
+Some credit this quartet as T. S. Eliot's impetus to write the Four Quartets; certainly he was recorded in a letter to Stephen Spender as having a copy of the A-minor quartet on the gramophone: 'I find it quite inexhaustible to study. There is a sort of heavenly or at least more than human gaiety about some of his later things which one imagines might come to oneself as the fruit of reconciliation and relief after immense suffering; I should like to get something of that into verse before I die.'
+In his novel Point Counter Point, Aldous Huxley makes extended reference and description of this quartet in the final chapter concerning the death/suicide of the character Maurice Spandrell. Colm Tóibín's 2021 novel The Magician depicts Thomas Mann’s reflections on his own work, as inspired by listening to this quartet.
+
+
+== See also ==
+Late String Quartets (Beethoven)
+
+
+== References ==
+
+
+== Further reading ==
+Noorduin, Marten (2023). "Transcending Slowness in Beethoven's Late Style." In Cooper, Barry, and Matthew Pilcher (eds.). Manchester Beethoven Studies. Manchester: Manchester University Press. p. 224. eISBN 9781526155696.
+Sessions, Roger. The Musical Experience of Composer, Performer, Listener. Princeton, New Jersey: Princeton University Press, 1958. Paperback.
+Vernon, David. Beethoven: The String Quartets. Edinburgh: Candle Row Press, 2023. ISBN 978-1739659929.
+
+
+== External links ==
+Composers's Datebook Entry on the Work's Premiere
+Project Gutenberg – Score and MIDI of this piece
+Performance by the Orion String Quartet from the Isabella Stewart Gardner Museum in MP3 format
+From Sickness to Health: Narrative in Beethoven's Heiliger Dankgesang, lecture by Robert Kapilow on the third movement of Beethoven's String Quartet Op. 132, followed by a performance by the St. Lawrence Quartet
+NPR - In Performance
+The Takacs Quartet on Beethoven's Message to God - Live recording of the 3rd movement of the String Quartet No. 15
+String Quartet No. 15: Scores at the International Music Score Library Project

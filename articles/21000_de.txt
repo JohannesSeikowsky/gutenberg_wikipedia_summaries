@@ -1,0 +1,478 @@
+Faust. Eine Tragödie (auch Faust. Der Tragödie erster Teil oder kurz Faust I) von Johann Wolfgang von Goethe gilt als eines der bedeutendsten und meistzitierten Werke der deutschsprachigen Literatur. Die 1808 veröffentlichte Tragödie greift die Geschichte des historischen Doktor Faustus auf und wird in Faust II zu einer Menschheitsparabel ausgeweitet.
+
+
+== Inhalt ==
+
+
+=== Figuren ===
+Dr. Heinrich Faust, ein Gelehrter
+Mephistopheles (Mephisto), Teufel
+Margarete, genannt Gretchen, ein junges Mädchen
+Marthe Schwerdtlein, Gretchens Nachbarin
+Wagner, Fausts Famulus
+Valentin, Gretchens Bruder
+Hexe
+Schüler
+Frosch, Brander, Siebel, Altmayer, „lustige Gesellen“ in Auerbachs Keller
+Lieschen, eine Bekannte Gretchens
+Direktor, ein Theaterdirektor
+Dichter
+Lustige Person, ein Schauspieler
+Raphael, Gabriel und Michael, drei Erzengel
+Der Herr, Gott
+Geist, Erdgeist
+Außerdem: Chor der Engel, Chor der Weiber, Chor der Jünger, Spaziergänger aller Art, Bauern, Geister, Hexentiere, Böser Geist, Walpurgisnacht-Figuren, Stimme von oben, ein Pudel, Meerkatzen der Hexe.
+
+
+=== Übersicht ===
+Die Handlung von „Faust I“ verbindet die „Gelehrtentragödie“ (Tragödie des Gelehrten Faust) und die „Gretchentragödie“.
+Heinrich Faust, wie sein historisches Vorbild Johann Georg Faust (ca. 1480–1538) ein nicht mehr junger, aber angesehener Forscher und Lehrer, zieht eine selbstkritische Lebensbilanz: Als Wissenschaftler fehle es ihm an tiefer Einsicht und brauchbaren Ergebnissen und als Mensch sei er unfähig, das Leben in seiner Fülle zu genießen. Tief deprimiert und lebensmüde geworden, verspricht er Mephisto seine Seele, wenn es diesem gelingen sollte, Faust von seiner Unzufriedenheit zu befreien und für stetige Abwechslung zu sorgen. Mephisto schließt mit Faust einen Pakt in Form einer Teufelswette. Mephisto, der als Teufel angesehen werden kann und dem neben Zauberkräften auch Humor und Charme zu Gebote stehen, ist bestrebt, Faust vom rechten Weg abzubringen. Er verwandelt ihn zurück in einen jungen Mann, nimmt ihn mit auf eine Reise durch die Welt und hilft ihm, die Liebschaft mit der jungen Margarete (Gretchen) einzufädeln, einer zunächst naiv dargestellten, jungen Frau, in die sich Faust sofort verliebt, nachdem ihm Mephisto einen Zaubertrank übergeben hat. Faust bringt Gretchen in eine Lebenskrise, indem er sie verführt und dabei schwängert und indem er den Tod von Gretchens Mutter und Bruder herbeiführt. Gretchen bringt ein uneheliches Kind zur Welt, tötet es aus Verzweiflung und wird daraufhin verhaftet. Faust will sie mit des Teufels Hilfe vor der Hinrichtung retten; er versucht vergeblich, sie zur Flucht zu überreden, kann sie aber nicht davon überzeugen. Er muss sie schließlich ihrem Schicksal und der Gnade Gottes überlassen.
+
+
+=== Detaildarstellung ===
+Die Handlung (Szenentitel nach Goethe, Einzelheiten und Zitate kursiv)
+
+
+==== Einleitung ====
+
+
+===== Zueignung =====
+
+Bei dem Gedicht „Zueignung“ handelt es sich inhaltlich um eine Elegie, formal um eine Stanze. Goethe spricht darin die Personen des Dramas selbst an, berichtet vom Erwachen des Schaffensprozesses und gibt die Gefühle wieder, die sich seiner dabei bemächtigt haben. Er trauert den vergangenen Zeiten nach, seiner Jugend, seiner ersten Liebe und Leidenschaft und den verlorenen Gefährten dieser Zeit.
+
+
+===== Vorspiel auf dem Theater =====
+Ein Theaterdirektor, ein Dichter und die Lustige Person (gemeint ist ein Schauspieler) streiten über Sinn und Zweck eines gelungenen Theaterspiels. Der Direktor betont dessen unternehmerische, der Dichter die künstlerische, die Lustige Person die unterhaltende Absicht. Ihr Kompromiss sei das nun folgende Universalstück, der Faust: So schreitet in dem engen Bretterhaus / den ganzen Kreis der Schöpfung aus / und wandelt mit bedächt’ger Schnelle / vom Himmel durch die Welt zur Hölle! (V. 239–242).
+
+
+===== Prolog im Himmel =====
+Der Prolog im Himmel beginnt mit einer Verherrlichung der Werke des Herrn (Gottes) durch die Dreiergruppe der Erzengel. Deren positive Sichtweise wird durch Mephisto spöttisch in Frage gestellt. Darauf folgend schließen Mephisto und der Herr eine Wette ab, die an die Hiobswette im Alten Testament angelehnt ist. Der Herr bringt die Sprache auf Doktor Faust, seinen Knecht (V. 299), der ihm bisher nur verworren diene (V. 308). Mephisto wettet, er könne Faust verführen, vom rechten Weg abzuweichen. Der Herr lässt Mephisto gewähren (Nun gut, es sei dir überlassen! (V. 323)), sagt aber voraus, dass Mephisto verlieren werde: Und steh beschämt, wenn du bekennen musst: / Ein guter Mensch in seinem dunklen Drange / ist sich des rechten Weges wohl bewusst (V. 327–329).
+
+
+==== Der Tragödie erster Teil ====
+
+
+===== Nacht – Faust, Erdgeist, Wagner =====
+
+Der promovierte Gelehrte Heinrich Faust zweifelt am Erkenntniswert der Wissenschaft, die weit davon entfernt sei, zu erklären, was die Welt im Innersten zusammenhält (V. 383). Er zieht die Summe seiner langjährigen Studien und sieht, dass wir nichts wissen können! (V. 364). Um der realwissenschaftlichen Sackgasse zu entkommen, greift er zur Magie und beschwört den Erdgeist, die wirkende Kraft der Natur.
+Er hofft, durch ihn zur Teilhabe am Leben des göttlichen Alls zu gelangen: Der Du die weite Welt umschweifst, / geschäftiger Geist, wie nah fühl ich mich dir! (V. 510–511), wird aber von jenem Geist nur verhöhnt und schmerzvoll an seine eigene Sterblichkeit erinnert: Wo ist der Seele Ruf? / Wo ist die Brust, die eine Welt in sich erschuf? […] Wo bist Du, Faust, des Stimme mir erklang? […] Ein furchtsam weggekrümmter Wurm! (V. 490–491, V. 494, V. 498). So entzieht sich der Erdgeist Faust, und Wagner tritt auf.
+Aus Verzweiflung und einem letzten Bedürfnis nach Grenzüberschreitung beschließt Faust, sich durch Gift das Leben zu nehmen, wird jedoch durch das Glockengeläut zum Ostersonntag, das ihn weniger an die christliche Botschaft als an glückliche Kindertage erinnert, davon abgehalten, das Gift auszutrinken.
+
+
+===== Vor dem Tor – Osterspaziergang =====
+
+Am nächsten Tag, dem Ostersonntag, unternimmt Faust mit Wagner einen festtäglichen Frühlingsspaziergang und mischt sich unter das promenierende Volk. Bei dieser Gelegenheit zeigt sich, welch hohe Achtung Faust seiner medizinischen Verdienste wegen bei der Landbevölkerung genießt. Die Szene zeigt einen Querschnitt der Gesellschaft: Es treten Bürger und Bauern auf, Studenten, Handwerksburschen und Soldaten, Bürgertöchter und Mägde. In ihren Gesprächen werden unterschiedliche Anschauungen der verschiedenen Stände und Generationen deutlich.
+Faust offenbart Wagner sein inneres Zerrissensein zwischen körperlichen und geistigen Bedürfnissen, zwischen irdischen und himmlischen Ambitionen: Zwei Seelen wohnen, ach! in meiner Brust, / die eine will sich von der andern trennen: / die eine hält, in derber Liebeslust, / sich an die Welt mit klammernden Organen; / die andre hebt gewaltsam sich vom Dust / zu den Gefilden hoher Ahnen. (V. 1112–1117).
+Ein seltsamer schwarzer Pudel folgt den beiden Spaziergängern; Faust nimmt ihn mit in sein Studierzimmer.
+
+
+===== Studierzimmer (I) – Pudelszene: Faust, Mephisto =====
+Faust übersetzt den Anfang des Johannesevangeliums (Joh 1,1 ). Um den Sinn des griechischen Wortes logos zu erfassen, zieht er die Übersetzungen Wort, Sinn und Kraft in Erwägung und entscheidet sich dann für Tat: Im Anfang war die Tat! (V. 1237).
+Unterdessen wird der ihm zugelaufene Pudel unruhig. Von Faust zur Rede gestellt und mit Zaubersprüchen beschworen, entpuppt sich das Tier schließlich als Mephisto (Das also war des Pudels Kern! (V. 1323)), der sich vorstellt als ein Teil von jener Kraft, / die stets das Böse will und stets das Gute schafft (V. 1335–1336) und als Geist, der stets verneint (V. 1338).
+
+
+===== Studierzimmer (II) – Teufelspakt, Schülerszene =====
+
+Im sogenannten Teufelspakt verpflichtet sich Mephistopheles, Faust im Diesseits zu dienen und hier alle Wünsche zu erfüllen. Im Gegenzug ist Faust bereit, dem Teufel seine Seele zu überantworten, falls es diesem gelinge, ihm Erfüllung und Lebensglück zu verschaffen (Faust: Werd’ ich zum Augenblicke sagen: / Verweile doch! du bist so schön! / Dann magst du mich in Fesseln schlagen, / Dann will ich gern zugrunde gehn! (V. 1699–1702)).
+Mephistopheles knüpft an Fausts Enttäuschung über sein Studierstubenleben an, um ihm den banalen Lebensgenuss schmackhaft zu machen: Wir müssen das gescheiter machen / Eh’ uns des Lebens Freude flieht. (V. 1818–1819) Hinter seinem Rücken verhöhnt er ihn: Verachte nur Vernunft und Wissenschaft … (V. 1851).
+In Fausts Professorentalar gekleidet, hält Mephisto einen soeben neu angekommenen Studenten mit einer zynischen Studienberatung zum Narren und holt aus zu einem satirischen Rundumschlag gegen die Universitätsgelehrsamkeit im Allgemeinen und die Engstirnigkeit einzelner Fakultäten im Besonderen.
+Die Begegnung mit dem Schüler endet mit dem Eintrag in dessen Stammbuch: Eritis sicut Deus scientes bonum et malum (Ihr werdet sein wie Gott und wissen, was gut und böse ist (V. 2047)). Damit zitiert Mephisto die Worte, die die Schlange der Bibel zufolge an Adam und Eva richtete, um sie zur Sünde zu verführen. Indem Mephisto in seinem anschließenden Kurzmonolog die Szene mit den Worten Dir wird gewiss einmal bei deiner Gottähnlichkeit bange! (V. 2049) verspottet, bewertet er zugleich indirekt Fausts Streben nach Gottesebenbildlichkeit (V. 614) als Wiederholung des Sündenfalls.
+
+
+===== Auerbachs Keller in Leipzig =====
+Vier angetrunkene Studenten in Auerbachs Keller versuchen, sich mit zotigen Scherzen und ordinären Liedern in Laune zu bringen. Mephisto führt Faust ins Lokal, um ihm zu zeigen, wie leicht sich’s leben läßt (V. 2160). Als Ortsfremde erregen beide das Interesse der Zechenden. Durch ein Lied versteht Mephisto, sich schnell in deren Kreis einzuschmeicheln, und als er jedem die gewünschte Weinsorte aus dem Tisch zaubert, steigt die Stimmung. Faust hat davon bald genug, aber Mephisto bittet um Geduld: Gib nur erst acht, die Bestialität / wird sich gar herrlich offenbaren (V. 2297–2298). Der Wein verwandelt sich plötzlich in Feuer und die Betrunkenen versuchen daher, Mephisto mit Messern anzugreifen. Dank seiner magischen Kräfte gelingt es diesem jedoch, die Gefahr zu bannen und mit Faust zu entfliehen. Die Studenten bleiben verwundert zurück: Nun sag mir eins, man soll kein Wunder glauben! (V. 2336).
+
+
+===== Hexenküche =====
+Mephisto führt Faust in eine Hexenküche, in der ihm – unter der Deklamation des Hexeneinmaleins – ein Zaubertrank verabreicht wird, der ihn verjüngt und ihm jede Frau begehrenswert erscheinen lässt. Faust legt zunächst Widerworte ein, fügt sich dann aber doch. Überrumpelt von Mephistos schmeichelnden Verheißungen und der verwirrenden Umgebung in diesem Wust von Raserei (V. 2339), trinkt er das Zaubergebräu. Noch bevor seine körperliche Verjüngung einsetzt, erblickt er in einem Spiegel das Idealbild einer Frau und ist von deren Anblick vollkommen verzückt – Oh Liebe, leihe mir den schnellsten deiner Flügel / und führe mich in ihr Gefild! (V. 2431–2432). Von diesem Bild will er nicht lassen, doch Mephisto führt ihn, unter Hinweis auf zukünftige Liebesfreuden, mit den Worten fort: Du siehst, mit diesem Trank im Leibe, / Bald Helenen in jedem Weibe (V. 2603–2604).
+
+
+===== Straße (I) – Begegnung mit Gretchen =====
+
+Faust bietet dem von der Beichte kommenden Gretchen seine Begleitung an. Das aus einfachen Verhältnissen stammende Mädchen weist ihn jedoch zurück. Faust ist von Gretchen eingenommen: So etwas hab ich nie gesehn (V. 2610).
+Mit der Drohung, andernfalls den Pakt zu brechen, fordert Faust von Mephisto, Gretchen noch am gleichen Tag zu seiner Geliebten zu machen. Mephisto, der sie bei der Beichte belauscht hat, wendet ein, er habe keine Gewalt über das unschuldige Mädchen. Faust entgegnet: Ist über vierzehn Jahr doch alt (V. 2627). Mephisto, Fausts Lüsternheit verspottend (Ihr sprecht schon fast wie ein Franzos! (V. 2645)), mahnt zu mehr Geduld und List. Vorerst soll Faust sich damit begnügen, in Gretchens Zimmer ein Geschenk für sie zu hinterlegen.
+
+
+===== Abend =====
+Zu Hause angekommen fragt sich Gretchen, wer wohl der Herr gewesen sei, der sie auf der Straße angesprochen hat. Aufgrund seiner stattlichen Erscheinung und seines kecken Auftretens hält sie Faust für einen Edelmann.
+In Gretchens Abwesenheit führt Mephisto Faust in deren Zimmer und lässt ihn allein. An diesem Ort spürt Faust süße Liebespein (V. 2689). Er malt sich Gretchens bisheriges Leben aus und erfreut sich an der Vorstellung eines reinen, in seiner ärmlichen, aber ordentlichen Umwelt verwurzelten Mädchens. Hier möcht ich volle Stunden säumen (V. 2710), erklärt er beim Betrachten ihres Bettes.
+Unversehens erkennt Faust sein Eindringen als Frevel und ist von seinem eigenen Vorgehen befremdet: Armselger Faust, ich kenne dich nicht mehr! (V. 2720). Mephisto drängt wegen Gretchens baldiger Rückkehr zur Eile. Er versteckt ein Schmuckkästchen, das von ihm vermutlich gestohlen wurde, im Schrank und nimmt Fausts Bedenken nicht ernst.
+
+Gretchen kommt zurück, entkleidet sich und singt dabei das Lied vom König in Thule. Sie findet das Kästchen und rätselt über dessen Herkunft. Probeweise legt sie sich den wertvollen Schmuck um und posiert damit vor dem Spiegel.
+
+
+===== Spaziergang =====
+Mephisto berichtet Faust, Gretchen habe den Schmuck ihrer Mutter gezeigt, die daraufhin einen Pfarrer kommen ließ. Der habe den Schmuck für die Kirche eingezogen und himmlischen Lohn dafür versprochen. Mephisto verhöhnt die Bereitwilligkeit, mit der die Kirche Güter einstreiche, ohne sich um deren Herkunft zu scheren. Gleichzeitig versichert er Faust, Gretchen denkt ans Geschmeide Tag und Nacht, / noch mehr an den, ders ihr gebracht (V. 2851–2852). Faust verlangt umgehend ein neues, noch wertvolleres Geschenk. Außerdem solle Mephisto Gretchens Nachbarin zu seiner Komplizin machen.
+
+
+===== Der Nachbarin Haus =====
+
+Nachbarin Marthe Schwerdtlein denkt an ihren verschollenen Mann, der sie auf dem Stroh allein (V. 2868) zurückgelassen habe. Sie will ihn in seiner Abwesenheit nicht betrügen, hätte nur gern, falls er tot sei, eine amtliche Bestätigung dafür.
+Gretchen kommt und zeigt Marthe den neuen Schmuck. Diese rät ihr, ihn diesmal vor der Mutter zu verbergen und einstweilen nur heimlich in Marthes Haus zu tragen.
+Mephisto bringt Marthe eine Nachricht: Ihr Mann ist tot und lässt Sie grüßen (V. 2916). Der Verstorbene liege in Padua begraben. Unter dem Vorwand, einen zweiten Zeugen – nämlich Faust – für den Totenschein zu benötigen, arrangiert er ein abendliches Treffen in Marthes Garten. Nachdem er Gretchen zuvor bereits geschmeichelt hat, reif für einen vornehmen Verehrer zu sein, beschreibt er diesen Zeugen als feinen Gesellen (V. 3015), der Fräuleins alle Höflichkeit erweist (3020). Marthe sichert zu, auch Gretchen werde beim Treffen zugegen sein.
+Mephisto kokettiert mit Marthe, zieht sich aber schnell zurück, als die frischgebackene Witwe auf seine Avancen einzugehen bereit ist: Die hielte wohl den Teufel selbst beim Wort (V. 3005).
+
+
+===== Straße (II) =====
+Faust erkundigt sich nach Mephistos Fortschritten bei seinem Werben um Gretchen. Mephisto hofft hier auf Marthes Hilfe, im Gegenzug müsse Faust aber den Tod ihres Gatten bezeugen. Zunächst will Faust dies nur tun, wenn er zuvor das Grab in Padua in Augenschein nehmen könne. Da verhöhnt Mephisto Fausts Doppelmoral: Habe dieser als Wissenschaftler nicht auch Aussagen über Gott, Welt und Menschen gemacht, ohne mehr davon zu wissen als jetzt von Marthes Ehemanns Tod? Werde er bei Gretchen nicht bald Versprechungen von ewiger Treu und Liebe abgeben, die er nicht einhalten könne? – Faust ärgert Mephistos Unterstellung, wonach sein tiefes Wahrheitsstreben nichts anderes als ein teuflisch Lügenspiel und wonach seine Liebe zu Gretchen nicht tief und nachhaltig sei. Trotzdem lässt sich Faust auf den Betrug ein.
+
+
+===== Garten =====
+
+Beim verabredeten Treffen spazieren Faust mit Gretchen und Mephisto mit Marthe auf getrennten Wegen in Marthes Garten auf und ab. Mephisto hat dabei alle Mühe, die unverhüllten Eheanträge der Hausherrin abzuwehren.
+Gretchen schildert Faust ihren arbeitsreichen Alltag. Dennoch sei sie zufrieden. Einen tiefen Eindruck habe die Liebe und der frühe Tod ihres kleinen Schwesterchens, das Gretchen anstelle der kranken Mutter selbst aufgezogen hatte, bei ihr hinterlassen.
+Faust und Gretchen kommen einander näher. Sie gesteht, dass sie schon bei ihrer ersten gemeinsamen Begegnung Zuneigung für ihn empfunden habe. Er spricht von der Möglichkeit, Sich hinzugeben ganz und eine Wonne / Zu fühlen, die ewig sein muß (V. 3191 f.).
+
+
+===== Ein Gartenhäuschen =====
+In dem Gartenhäuschen küssen sich Faust und Gretchen. Mephisto drängt Faust zum Aufbruch. Das zurückbleibende Gretchen fragt sich beschämt, was ein so gebildeter Mann wie Faust an ihr wohl reizvoll finden könne: Bin doch ein arm unwissend Kind (V. 3215).
+
+
+===== Wald und Höhle =====
+Faust hat sich in die Einsamkeit einer Waldhöhle zurückgezogen und dankt dem Erdgeist dafür, ihm alle seine Wünsche an ihn erfüllt zu haben. Statt die Natur wie früher nur mit der kühlen Distanz des Wissenschaftlers zu betrachten, könne er sie nun direkt erfassen und in ihre tiefe Brust schauen. Doch Faust beklagt auch seine wachsende Abhängigkeit von Mephisto und dessen Verlockungen. Prompt tritt dieser auf den Plan und beginnt über Fausts Begeisterung an der öden Natur zu spotten (Dir steckt der Doktor noch im Leib!) und dessen Seligkeit mit bloßer Selbstbefriedigung zu vergleichen. Derweil, so Mephisto, warte Gretchen sehnsüchtig auf den Geliebten.
+Faust verdammt Mephisto, weil dieser seinen inneren Frieden störe und seine Begierde erneut entfache (Und nenne nicht das schöne Weib!), kann sich des Sogs der sehnsüchtigen Gedanken an Gretchen aber nicht erwehren. Sei die Verführung des Mädchens durch höllischen Einfluss schon unvermeidlich, so mag’s gleich geschehn, auch wenn Gretchen dann mit ihm zugrunde gehn werde.
+
+
+===== Gretchens Stube =====
+Am Spinnrad sitzend, sinniert Gretchen über den Verlust ihres seelischen Gleichgewichts: Meine Ruh ist hin, mein Herz ist schwer,| ich finde sie nimmer und nimmermehr. All ihre Gedanken werden von Faust bestimmt, den sie umarmen und küssen möchte, bis sie an seinen Küssen vergehen sollt.
+
+
+===== Marthens Garten – Gretchenfrage =====
+Gretchen spürt, wie distanziert Faust der Kirche gegenübersteht, und stellt ihm daher die „Gretchenfrage“: Nun sag, wie hast du’s mit der Religion? Widerstrebend und ausweichend erläutert Faust, wie unzulänglich ihm traditionelle Religiosität erscheine. An feste Begriffe wie „Gott“ oder „Glauben“ will er seinen Pantheismus nicht binden: Ich habe keinen Namen / Dafür! Gefühl ist alles; / Name ist Schall und Rauch / Umnebelnd Himmelsglut. (V. 3455 ff) Gretchen akzeptiert zwar Fausts Antwort, hält ihm aber vor, kein Christentum zu haben. In diesem Zusammenhang erwähnt sie ihre starke Abneigung gegen Mephisto, der ihr ein heimlich Grauen einflöße. Zum Abschied klagt Faust: Ach kann ich nie / Ein Stündchen ruhig dir am Busen hängen / Und Brust an Brust und Seel in Seele drängen? (V. 3503–3505) Er gibt Gretchen ein angeblich harmloses, letztlich jedoch (wie sich später herausstellt) tödliches Schlafmittel, das sie ihrer Mutter am nächsten Abend verabreichen soll, damit er Gretchen unbemerkt aufsuchen kann.
+
+
+===== Am Brunnen =====
+
+Beim Wasserholen trifft Gretchen auf Lieschen. Diese erzählt, eine gemeinsame Bekannte, Bärbelchen, sei von ihrem Liebhaber geschwängert und dann verlassen worden. Lieschen fordert Gretchen dazu auf, kein Mitleid zu empfinden, da Bärbelchen sich ihr Geschick aufgrund von Eitelkeit und Koketterie selbst zuzuschreiben habe: War doch so ehrlos, sich nicht zu schämen, Geschenke von ihm anzunehmen.
+Wieder allein, bereut Gretchen, früher ähnlich den Stab über gefallene Mädchen gebrochen zu haben. Nun sei sie selbst eine Sünderin: Doch – alles, was dazu mich trieb, Gott! war so gut! ach, war so lieb!
+
+
+===== Zwinger =====
+Vor einem Andachtsbild ruft Gretchen die Mater Dolorosa an, ihr in ihrer Not beizustehen und sie vor Schmach und Tod zu bewahren, denn nur sie, die um ihren gekreuzigten Sohn trauernde Maria, könne Gretchens Leid nachvollziehen.
+
+
+===== Nacht, Straße vor Gretchens Türe =====
+Gretchens Bruder Valentin, Soldat und einst stolz auf die Tugend seiner Schwester, hat von deren Fehltritt erfahren. Er fürchtet die Schande, die über seine Familie kommen werde. Vor dem elterlichen Hause wartet er auf den nahenden Verführer. Dieser solle ihm nicht mit dem Leben davonkommen.
+Faust und Mephisto schmieden Pläne, den Kirchenschatz zu stehlen. Faust hofft, ein Halsband als Geschenk für Gretchen zu finden. Mephisto bietet an, Gretchen einstweilen durch ein Lied auf eine weitere Nacht mit Faust einzustimmen.
+Valentin tritt hervor und zerschlägt die Zither des singenden Mephisto. Angestachelt von Mephisto und mit dessen Hilfe, ficht Faust mit Valentin. Als Letzterem die Hand erlahmt (Ich glaub’, der Teufel ficht! Was ist denn das? Schon wird die Hand mir lahm), nutzt Faust nach Mephistos Aufforderung Stoß zu! die Gelegenheit und ersticht Gretchens Bruder. Faust und Mephisto fliehen vor dem drohenden Blutbann aus der Stadt.
+Gretchen wird vom sterbenden Valentin vor herbeigeeilten Bürgern der Zuchtlosigkeit beschuldigt. Er prophezeit seiner Schwester ein Ende als gewöhnliche Hure. Marthes Ermahnung, sich nicht im Tode noch zu versündigen, kontert er mit bitteren Vorwürfen an das schändlich kupplerische Weib. Er sterbe durch Gretchens Schuld, aber als Soldat und brav.
+
+
+===== Dom =====
+Gretchen nimmt an einem Gottesdienst teil. Ein böser Geist erinnert sie angesichts jener Schuld, die sie nun am Tod von Mutter und Bruder trägt, an die verlorenen Tage ihrer kindlichen Unschuld und bestätigt Gretchens Ahnung, schwanger zu sein.
+Als der Chor den Hymnus Dies irae intoniert, der auf das Jüngste Gericht vorausweist, fällt Gretchen in Ohnmacht.
+
+
+===== Walpurgisnacht =====
+
+Faust wird von Mephisto zum Hexentanz der Walpurgisnacht auf den Blocksberg gelockt. Sie geraten in eine Windsbraut, ein Gewimmel von Hexen, die zur Bergspitze hinauf reiten, wo der Teufel Hof hält. Faust wünscht sich, bis zum Gipfel vorzudringen: Dort strömt die Menge zu dem Bösen; Da muss sich manches Rätsel lösen. Mephisto aber überredet Faust, stattdessen an einer Hexenfeier teilzunehmen. Er bietet ihm an, dort als Fausts Kuppler zu fungieren. Bald ergehen sich beide im Tanz und anzüglichem Wechselgesang mit zwei lüsternen Hexen.
+Faust bricht den Tanz ab, als seiner Partnerin ein rotes Mäuschen aus dem Mund springt und ihm ein blasses, schönes Kind erscheint, das ihn an Gretchen erinnert und ein rotes Schnürchen um den Hals trägt (eine Vorausdeutung auf Gretchens Hinrichtung). Um Faust von diesem Zauberbild abzulenken, führt Mephisto ihn auf einen Hügel, wo ein Theaterstück aufgeführt werden soll.
+
+
+===== Walpurgisnachtstraum =====
+
+Der Walpurgisnachtstraum ist ein auf dem Blocksberg zur goldenen Hochzeit des Elfenkönigspaares Oberon und Titania aufgeführtes Theaterstück, ein „Stück im Stück“ mit zahlreichen zeitgenössischen Anspielungen (vor 1808).
+
+
+===== Trüber Tag, Feld =====
+Einige Monate später hat Gretchen (wie der Zuschauer später erfährt) in ihrer Verzweiflung ihr neugeborenes Kind ertränkt, ist dafür zum Tode verurteilt worden und erwartet nun ihre Hinrichtung. Faust macht Mephisto Vorhaltungen, ihm die Entwicklung der Dinge verheimlicht und ihn mit den Ausschweifungen der Walpurgisnacht abgelenkt zu haben. Mephisto verhöhnt Fausts Reaktion als typisch für einen Menschen, der sich zwar mit teuflischen Mächten einlasse, aber die Konsequenzen nicht tragen könne: Willst fliegen und bist vorm Schwindel nicht sicher? Drangen wir uns dir auf, oder du dich uns?
+Faust fordert Mephisto auf, Gretchen zu retten. Dieser erinnert ihn an Fausts eigene Verantwortung: Wer war’s, der sie ins Verderben stürzte? Ich oder du?
+Trotz der schweren Strafe, die ihn wegen Valentins Tod in der Stadt erwartet, will Faust zu Gretchen in den Kerker gebracht werden. Mephisto erklärt, er könne zwar den Wächter einschläfern und Zauberpferde für die Flucht stellen, befreien müsse Faust Gretchen aber selbst.
+
+
+===== Nacht, offen Feld =====
+Faust und Mephisto sind auf schwarzen Pferden unterwegs, um Gretchen zu befreien. Sie passieren den Rabenstein, also den Hinrichtungsplatz. Faust beobachtet schwebende Wesen, die streuen und weihen. Mephisto nennt sie eine Hexenzunft.
+
+
+===== Kerker – Gretchens Erlösung =====
+
+Faust dringt in den Kerker ein. Das verwirrte und von Schuldgefühlen gequälte Gretchen hält ihn zunächst für ihren Henker. Als sie ihn schließlich erkennt, schwankt sie zwischen ihrer Liebe und ihrer Angst, noch tiefer ins seelische Verderben gezogen zu werden. Faust will sie zur Flucht überreden, doch sie weigert sich: Von hier ins ewige Ruhebett und weiter keinen Schritt! Als Gretchen Mephisto hinter Faust auftauchen sieht, erschrickt sie und empfiehlt sich Gott: Gericht Gottes! dir hab ich mich übergeben!
+Mephisto drängt Faust aus dem Gefängnis: Sie ist gerichtet. Doch eine Stimme von oben offenbart Gretchens Erlösung: Ist gerettet. Mephisto und Faust fliehen.
+(In Faust II wird die Tragödie fortgesetzt und in andere dramaturgische Dimensionen überführt.)
+
+
+== Hinweise zum Verständnis ==
+
+
+=== Gliederung ===
+Nach der Zueignung und dem Vorspiel auf dem Theater, die nicht bei jeder Aufführung des Faust gespielt werden, gehört der Prolog im Himmel bereits zur Handlung, da die Wette zwischen dem Herrn und Mephisto den Anlass für Fausts Schicksal gibt.
+Die beiden Haupthandlungsstränge sind die Tragödie des verzweifelten Wissenschaftlers, der sich dem Teufel verschreibt, sowie die daraus erwachsende Tragödie des verführten und ins Unglück gestürzten Mädchens Gretchen. Man unterscheidet daher zwischen „Gretchentragödie“ und der „Gelehrtentragödie“. Mit Gretchens Hinrichtung und der Errettung ihrer Seele endet der erste Teil des Faust; die Gelehrtentragödie findet ihre Fortsetzung und Erfüllung im zweiten Teil.
+Die Szenen Auerbachs Keller in Leipzig und Walpurgisnacht treiben die Handlung eigentlich nicht voran. Sie sind Beispiele für tiefere Einblicke in das Weltgeschehen, die dem nach Erkenntnis suchenden Faust von Mephisto ermöglicht werden.
+Die Szene Walpurgisnachtstraum oder Oberons und Titanias goldne Hochzeit ist im Untertitel als Intermezzo gekennzeichnet und wird ebenfalls nicht bei jeder Inszenierung des Faust aufgeführt.
+
+
+=== Sprache ===
+
+Mit Ausnahme der Szene Trüber Tag. Feld ist der Faust in Versen geschrieben. Goethe verwendete den am Versende reimenden Knittelvers, wie er in ähnlicher Form schon zu Lebzeiten des historischen Doktor Faust, etwa von Hans Sachs, benutzt wurde, und den Madrigalvers. Das Versmaß des Faust passt also nicht nur gut zum historischen Hintergrund, es ermöglicht auch eine lebensechte Sprache der Personen.
+Der Endreim unterstützt überdies die zahlreichen komödiantischen Dialoge im Faust. Einige Beispiele:
+Wagner: Verzeiht! ich hör Euch deklamieren;Ihr last gewiss ein griechisch Trauerspiel?In dieser Kunst möcht ich was profitieren,denn heutzutage wirkt das viel.  (522) 
+Bürger: Nichts bessers weiß ich mir an Sonn- und Feiertagenals ein Gespräch von Krieg und Kriegsgeschrei,wenn hinten, weit, in der Türkei,die Völker aufeinanderschlagen. (860)
+Faust: Und was soll ich dagegen dir erfüllen?Mephisto: Dazu hast du noch eine lange Frist.Faust: Nein, nein! Der Teufel ist ein Egoistund tut nicht leicht um Gottes Willen,was einem andern nützlich ist. (1649)
+Faust: Mich dünkt, die Alte spricht im Fieber.Mephisto: Das ist noch lange nicht vorüber. (2553)
+Ein bekanntes Beispiel für einen unreinen Reim im Faust weist auf die mundartliche Prägung des Verfassers hin („dialektischer Reim“). Gretchens Anrufung Mariens, Ach, neige, | Du Schmerzenreiche (3587–3588), reimt sich nicht in der Standardsprache, aber im Frankfurter Hessisch, in dem Goethe aufwuchs.
+Die Sprache ist zuweilen poetisch überhöht, etwa in Gretchens Klagen. Zum Beispiel lässt Fausts großer Monolog zu Beginn der Handlung an Klarheit nichts zu wünschen übrig; so spricht ein frustrierter Intellektueller: „Habe nun ach! Philosophie, Juristerei und Medizin, und leider auch Theologie! durchaus studiert mit heißem Bemühn. Da steh ich nun, ich armer Tor! und bin so klug als wie zuvor; heiße Magister, heiße Doktor gar, und ziehe schon an die zehen Jahr herauf, herab und quer und krumm meine Schüler an der Nase herum – und sehe, dass wir nichts wissen können! Das will mir schier das Herz verbrennen!“ (354–365)
+
+
+=== Historischer Hintergrund ===
+Ort der Handlung ist Deutschland, unter anderem Leipzig und der Harz. Die Zeit ist etwa die Lebenszeit des historischen Faust (ca. 1480–1538), also die Wende vom Mittelalter zur Neuzeit.
+Der Leser begegnet Faust in seiner gotischen Studierstube. Als Zeitgenosse Luthers (1483–1546) beschäftigt er sich mit einer Bibelübersetzung. Die mittelalterliche Alchemie, wie sie sein eigener Vater betrieben hat, beurteilt er sehr kritisch. Er selbst setzt dagegen auf Magie und Geisterbeschwörung, auf Offenbarungen aus einer anderen Sphäre – hierin Nostradamus (1503–1566), einem anderen Zeitgenossen, ähnelnd.
+Es kommen Anachronismen vor, zum Beispiel Marthe Schwerdtleins Wunsch, einen „Totenschein“ zu erhalten (2872), um das Hinscheiden ihres Mannes im „Wochenblättchen“ anzeigen zu können (3013). Beides gab es zu Fausts Zeiten noch nicht. Auch sind Anspielungen auf technische Errungenschaften des 18. Jahrhunderts zu finden, z. B. den Heißluftballon (2065–2072).
+
+
+=== Verweise, Anspielungen und Konnotationen ===
+Goethes Tragödie steht in einer Reihe von literarischen Bearbeitungen des Faust-Stoffes, und es lassen sich entsprechende Bezüge zu den Vorgängertexten herstellen. Durch die Übernahme des Hiob-Motivs ist die Szene Prolog im Himmel eine Neugestaltung der Bibel-Stelle im Buch Hiob (Ijob 1,6–12 ).
+Besonders in den Szenen Walpurgisnacht und Walpurgisnachtstraum hat Goethe Anspielungen eingearbeitet, die für seine Zeitgenossen unmissverständlich waren. So ist zum Beispiel mit der Figur Proktophantasmist (deutsch: Steißgeisterseher) der Schriftsteller Friedrich Nicolai gemeint.
+Bei Betrachtung von Goethes vielfältigem Gesamtwerk lassen sich zahlreiche Stellen im Faust mit anderen Texten Goethes in Verbindung bringen. So gilt zum Beispiel Mephistos Einlassung über Herkunft und Eigenschaften des Lichtes (Vers 1350 ff.) als Hinweis auf Goethes Farbenlehre.
+Zum Verständnis der Figur Faust ist es auch hilfreich, diese mit Figuren in anderen Werken Goethes zu vergleichen, die (quasi als „ältere Brüder“ der Figur Faust) ebenfalls narzisstische Züge aufweisen, wie Werther, Torquato Tasso oder der Zauberlehrling.
+
+
+=== Die Beziehung von Gretchen und Faust ===
+In vielerlei Hinsicht werden Gretchen und Faust als zumindest teilweise konträre Figuren beschrieben: Gretchen ist tugendhaft und fühlt sich zur bürgerlichen Moral verpflichtet, ist also gefestigt, während Faust eher ratlos nach höheren Erkenntnissen strebend lebt. In der Forschung existieren widersprüchliche Aussagen dazu, ob man davon sprechen kann, dass Faust Liebe für Gretchen empfindet. Einerseits begehrt er Gretchen körperlich, was unter anderem an den Aussprüchen Fausts wie „Hör, du musst mir die Dirne schaffen!“ (2618) oder auch „Schaff mir ein Halstuch von ihrer [Gretchens] Brust, / Ein Strumpfband meiner Liebeslust!“ (2661f) zu erkennen ist. Walter Nicolai sieht allerdings auch Liebe gegeben, da sich Faust entschließt, Gretchen aus dem Kerker zu befreien. Er spricht von der Gefahr, dass er sich bei ihr verliegt und damit die Wette mit Mephisto verlieren würde. Ein tatsächliches Ausleben der Gefühle Fausts für Gretchen wäre demnach nicht möglich, ohne dass er die Wette mit Mephisto verliert.
+Ein Aspekt, der die beiden trennt, ist die Frage der Religion. Auf die Frage von Gretchen „Nun sag, wie hast du's mit der Religion?“ (3415) antwortet Faust ausweichend und beschreibt ein eher pantheistisches Weltbild. Er scheint nicht an einen Gott als höhere Gestalt zu glauben, wohingegen sie eher klassisch religiös bzw. gläubig ist, also an einen schaffenden Gott glaubt. Ebenso spielt für Faust die Glaubenspraxis keine Rolle, für Gretchen hingegen schon. Gretchen entscheide sich dennoch gegen die bürgerliche Moral und für die Sinnlichkeit. Dadurch werde die Ambivalenz zwischen der Emanzipation und der bürgerlichen Moral deutlich.
+Gretchen befindet sich zweifelsohne in einer niedrigeren sozialen Rolle als Faust. Während sie einerseits „über vierzehn Jahr doch alt“ (2627) ist und damit deutlich jünger als er, stammt sie andererseits auch aus einer niedrigeren sozialen Schicht.
+
+
+== Entstehungsgeschichte ==
+
+„Goethes Faust entstand in einem sechs Jahrzehnte währenden, zeitweise auf Jahre unterbrochenen, nicht überall eindeutig zu erhellenden Schaffensvorgang; Partien des zweiten Teils (…) waren schon angelegt, als der Dichter noch am ersten arbeitete.“ Für das Verständnis von Faust I ist daher relevant, dass für Faust II die letztliche Belohnung der Faust-Figur durch seine Aufnahme in den Himmel relativ früh feststand. Denn in wichtigen Akten und Szenen sind der erste und der zweite Teil des Faust parallel konzipiert und, mit kürzeren und längeren Pausen, nach und nach ausgearbeitet worden. Der erste Teil wurde 1808 und damit 24 Jahre vor dem zweiten Teil veröffentlicht, aber „schon um 1800“, also acht Jahre vor der Veröffentlichung von Faust I, arbeitete Goethe am zentralen 3. Akt von Faust II und beschäftigte sich mit Fausts Tod für das Ende des ganzen Werks: allerdings habe er „nur die mir gerade interessantesten Stellen durchgearbeitet.“ Das Ende von Faust I (Regieanweisung: Mephisto „verschwindet mit Faust“) und das Ende von Faust II (die Engel „entführen Faustens Unsterbliches“ in den Himmel) wurden perspektivisch verbunden erdacht: Seiner Entstehung nach ist der Faust ein zusammenhängendes Werk mit einem für Fausts Seele letztlich, trotz allem, positiven Ausklang.
+Die Legenden um Leben, Charakter und Schicksal von Johann Faust waren seit Erscheinen des Volksbuches 1587 ein bekannter und vielfach bearbeiteter literarischer Stoff. Goethe war mit dem Fauststoff durch eine Puppenspiel-Aufführung vertraut. 1801 entlieh er sich aus der Herzoglichen Bibliothek in Weimar mehrere Bücher zur Arbeit am ersten Teil der Tragödie, darunter Das ärgerliche Leben und schreckliche Ende des viel berüchtigten Ertz-Schwarzkünstlers D. Johannis Fausti (1684) von Georg Rudolf Widmann und Johann Nicolaus Pfitzer sowie die Disquisitio historica de Fausto praestigiatore (1683) von Johann Georg Neumann.
+Urfaust – Goethe begann die Arbeit an seinem Faust um 1770, angeregt von dem Prozess gegen die Kindesmörderin Susanna Margaretha Brandt (deren Hinrichtung Goethe wahrscheinlich miterlebt hat), weshalb in dieser ersten, Urfaust genannten Fassung die Liebestragödie um Gretchen im Vordergrund steht. Der Urfaust beginnt mit Fausts Monolog im Studierzimmer. Mephisto tritt auf, aber der eigentliche Teufelspakt fehlt. Nach der Szene in Auerbachs Keller nimmt die Gretchentragödie ihren Lauf; die Hexenküche und die Walpurgisnacht fehlen. Der Text wurde 1887 im Nachlass der Luise von Göchhausen gefunden und im gleichen Jahr von Erich Schmidt unter dem Titel „Goethes Faust in ursprünglicher Gestalt“ herausgegeben.
+Faust. Ein Fragment – Aus dem Urfaust entwickelte Goethe die Fassung Faust, ein Fragment, die 1788 vollendet war und 1790 gedruckt wurde. Gegenüber dem Urfaust ist das Faustfragment um einen Dialog mit Mephisto erweitert, in dem der Teufelspakt jedoch noch unausgesprochen bleibt. Neu hinzugekommen ist die Szene Hexenküche, dafür fehlt Gretchens Ende im Kerker. Neben der Liebestragödie um Gretchen wird die Tragödie des zweifelnden und scheiternden Wissenschaftlers sichtbar.
+Faust. Eine Tragödie – 1797 fügte Goethe dem Fragment die einleitenden Szenen Zueignung, Vorspiel auf dem Theater und Prolog im Himmel hinzu. Die endgültige Fassung der bereits im Urfaust und im Fragment enthaltenen Szenen sowie die Ausführung der Walpurgisnacht erfolgten bis 1806. Das Werk ging als Faust. Eine Tragödie. für die Ostermesse 1808 in Druck. Einige spätere Ausgaben sind mit den ab 1816 gezeichneten Umrissen von dem Künstler Moritz Retzsch herausgegeben worden.
+
+
+== Interpretationen ==
+
+
+=== Hindernisse ===
+„Von (…) den Schwierigkeiten der Deutung gibt die Tausende von Titeln umfassende Bibliographie der Interpretationen, Teilanalysen, Übersetzungen (…) einen Eindruck.“
+Nach Victor Lange habe sich kein Werk der Weltliteratur so sehr der Interpretation entzogen wie Goethes Faust. Neben dem Umfang von Faust I und Faust II mit 12.000 Versen und den vielen Anspielungen auf Geschichte, Wissenschaft und Mythologie gebe es weitere wichtige Hürden der Interpretation: insbesondere der zweite Teil fordere wegen seiner „labyrinthischen Topographie des Textes ein ungewöhnliches Maß an Umsicht und Wissen“. Darüber hinaus habe Goethe wissentlich zu diesen Verständnishürden beigetragen: Er erwähnt 1827 in einem Brief an K. J. L. Iken, dass er mit Faust II das Mittel des Dramas gewählt habe, um so „den geheimeren Sinn dem Aufmerksamen zu offenbaren“, „da sich manches unserer Erfahrungen nicht rund aussprechen und direkt mitteilen läßt.“ Goethe vermutet, dass, „wer sich nicht etwas umgetan hat und einiges erlebt hat […] nichts damit anzufangen wissen“ wird. Er sei zufrieden gewesen, in den Text viel „hineingeheimnisst“ zu haben, und habe das Werk nach eigner Darstellung so konzipiert, dass „alles zusammen ein offenbares Rätsel bleibe, die Menschen fort und fort ergetze und ihnen zu schaffen mache“.
+Zudem hat Goethe das Manuskript vor seinem Tod 1831 versiegeln lassen mit der Anweisung, es erst nach seinem Tod zu öffnen – nicht einmal seinen Freunden hat er den vollständigen Text gezeigt. Das weist auf eine besondere Bedeutung des in mehr als 30 Jahren geschaffenen Werks für das Selbstverständnis seines Autors hin. Im Zusammenhang mit seiner Trennung von Lili Schönemann schrieb Goethe in seiner Autobiografie: „Hier war ich zum ersten Mal schuldig.“ Dieses „zum ersten Mal“ rückt nicht nur das Gretchen-Drama in einen Kontext der Schuld und nachträglichen Rechtfertigung: Der Faust könnte eine poetische Bearbeitung seiner Lebenskrisen und Wirkungsbereiche sein, die in Faust I mit der Abgrenzung von einer dogmatischen, eher scholastischen Wissenschaft und der Bearbeitung seiner ersten großen Liebe beginnt, und sich in Faust II seinen anderen Tätigkeiten und ihrem poetologischen und philosophischen Hintergrund widmet: „Was die Vollendung des Werks, das in den letzten Jahren immer wieder in seinem Tagebuch das ‚Hauptgeschäft‘ genannt wurde, für Goethe bedeutete, bezeugen Briefe aus dieser Zeit und die Gespräche mit Eckermann; hier heißt es (6.6.1831): Mein ferneres Leben kann ich nunmehr als reines Geschenk ansehen (…).“
+
+
+=== Deutungen ===
+Goethe beschäftigte sich im Faust mit dem für das 19. Jahrhundert neuen Thema der Dynamik in Natur und Gesellschaft, das gleichzeitig Hegel in der Philosophie, später auch Darwin in der Biologie, Marx in der Ökonomie und Wagner in der Musik auf jeweils ihre Weise zum Thema gemacht haben. Eines der zentralen Motive des Faust ist das irrende, rastlose menschliche „Streben“, das durch die Mitwirkung Mephistos, der nach einigen Interpretationsansätzen ein Alter Ego der Faust-Figur ist, immer wieder Katastrophen auslöst. Oswald Spengler sah im Faust vor allem eine Darstellung der technologischen Beherrschung und Ausbeutung der Natur durch die Anwendung von Naturgesetzen, die er kritisch als „faustisch“ bezeichnete. Für Walter Hinderer formuliert der Faust eine extreme Kritik der zeitgenössischen Kultur, wobei in der Schlussszene von Faust II, in der Himmelfahrt Fausts, die Schattenseite dieser Kultur mit einem humanistischen Menschheitsideal versöhnt werde.
+Nach Friedrich/Scheithauer ist Faust „zum problematischen Vertreter des genialen Menschen geworden“: Faust als „Person“, als „denkendem Subjekt“ stünden fast alle anderen nur als Objekte, als „passive Masse“ gegenüber und würden Rohmaterial seiner Ideen, deren Realisierung durch Mephisto immer wieder zu Katastrophen führe. Der ganze Faust mit dieser Apologie des rücksichtslosen, auch über Leichen gehenden Strebens und seiner paradiesischen Belohnung sei wegen seines Mangels an moralischer Selbstkontrolle ein „geistiges Ärgernis des (19.) Jahrhunderts“ gewesen. Die „Selbstverstrickung in Schuld bei redlichstem Wollen“ sei uns aber nicht fremd – heute würde ein Faust mit vergleichbaren Eingriffen in Natur und Gesellschaft als Technokrat verstanden und kritisiert werden.
+
+
+== Äußerungen zum Faust ==
+
+
+=== Stimmen des literarischen Lebens ===
+
+
+=== Goethes Äußerungen über seinen Faust ===
+
+
+== Goethes „Faust“ als Vorlage für Äußerungen und Texte ==
+
+
+=== Geflügelte Worte ===
+Wegen seines großen Bekanntheitsgrades und der Bedeutung, die man dem Text und seinem Autor beimisst, und auch wegen der leichten Reproduzierbarkeit von Versen, ist Goethes Faust die Quelle zahlreicher geflügelter Worte, die bis heute oft zitiert werden, vielfach auch, ohne dass dem Zitierenden ihre Herkunft bewusst ist. Dabei entwickelten die Verse aus ihrem Textkontext herausgenommen teilweise eine andere als die ursprünglich intendierte Bedeutung. Ein Beispiel hierfür ist das Zitat Die Botschaft hör ich wohl, allein mir fehlt der Glaube, das im ursprünglichen Kontext des Osterfestes eindeutig auf den Zweifel an der Auferstehungsbotschaft bezogen ist, als geflügeltes Wort aber meist allgemein als Bild für den Zweifel an einer Botschaft/Wahrheit auch außerhalb des religiösen Bereichs verstanden wird. Büchmann führt über fünfzig geflügelte Worte aus dem ersten Teil des Faust an. Einige Beispiele:
+
+Der Worte sind genug gewechselt, lasst mich auch endlich Taten sehn!  (214)
+Es irrt der Mensch so lang er strebt.  (317)
+Da steh ich nun, ich armer Tor, und bin so klug als wie zuvor! (358)
+Die Botschaft hör ich wohl, allein mir fehlt der Glaube.  (765) – Ausdruck des Zweifels an der christlichen Botschaft
+Hier bin ich Mensch, hier darf ich’s sein  (940) – Betreten eines persönlichen Freiraumes, wo die gesellschaftlichen Sittlichkeitsvorschriften nicht durchgesetzt werden.
+Zwei Seelen wohnen, ach! in meiner Brust! (1112) – Ausdruck eines inneren Interessenkonflikts
+Das also war des Pudels Kern!  (1323) – In der abgeleiteten Redensart steht „des Pudels Kern“ für einen wesentlichen Sachverhalt, der lange Zeit verborgen war und plötzlich aufgedeckt wird.
+Name ist Schall und Rauch  (3457)
+Grau, teurer Freund, ist alle Theorie  (2038) – Mit der Kurzform Grau ist alle Theorie warnt man heute davor, vor lauter Theorie die Wirklichkeit aus den Augen zu verlieren.
+
+
+=== Übernahme des szenischen Arrangements ===
+1862 veröffentlichte Friedrich Theodor Vischer eine Parodie auf Goethes Faust mit dem Titel Faust III.
+Bertolt Brecht parodiert den Prolog im Himmel durch ein „Vorspiel in den höheren Regionen“ in dem 1943 geschriebenen und 1957 uraufgeführten Drama Schweyk im Zweiten Weltkrieg, in dem Adolf Hitler im Stile Goethes wie „der Herr“ auftritt; Joseph Goebbels, Hermann Göring und Heinrich Himmler treten wie die drei Engel in Goethes Vorlage auf und huldigen „dem Herrn“, d. h. Hitler. Tatsächlich verhält sich Hitler in Brechts Vorspiel wie ein „kleiner Gott der Welt“, wie Mephisto es ausdrücken würde, und ist „tierischer als jedes Tier“(281–286).
+Eine weitere Übernahme eines szenischen Arrangements findet sich in Brechts 1941 verfasstem und 1958 uraufgeführtem Drama Der aufhaltsame Aufstieg des Arturo Ui. Szene 13 spielt im Blumenladen des Giuseppe Givola (= Joseph Goebbels). Paarweise treten dort Givola und Ignatius Dullfeet (= Engelbert Dollfuß) sowie Arturo Ui (= Adolf Hitler) und Dullfeets Frau Betty auf, die immer wieder aus dem Blumenarrangement erscheinen und in dieses wieder verschwinden, um dem jeweils anderen Paar Platz zu machen. Ui ist in dem Stück der Anführer einer Gang in Chicago, der auch Givola angehört. Diese Szene ist der Szene Garten in Faust I nachempfunden.
+Als „Sekundärstück“ wurde 2012 Elfriede Jelineks Drama FaustIn and out im Anschluss an eine Aufführung des Faust (anders als zu erwarten, nicht des Urfausts) uraufgeführt. Das Stück behandelt die Beziehung der Geschlechter zueinander und knüpft an Mephistos Bemerkung gegenüber dem Schüler an: Besonders lernt die Weiber führen; / Es ist ihr ewig Weh und Ach / So tausendfach / Aus einem Punkte zu kurieren […] (2023–2026). Die Faust-Szene „Kerker“ greift Jelinek auf, indem sie Elisabeth Fritzl, die von ihrem Vater, Josef Fritzl, in einem Keller gefangen gehalten und regelmäßig vergewaltigt wird, an die Stelle Gretchens treten lässt.
+
+
+=== Übernahme vorgetragener Gedanken ===
+Bereits der Titel des Romans Doktor Faustus von Thomas Mann signalisiert die Bedeutung von Goethes Drama für Manns Werk.
+Mephistos Bemerkung nach seiner Begegnung mit dem Schüler: Dir wird gewiss einmal bei deiner Gottähnlichkeit bange! (2050) erlangt im Atomzeitalter eine erschreckende Aktualität. Mehrere Dramenautoren des 20. Jahrhunderts knüpfen an den Grundgedanken des Faust-Dramas an, dass der Erwerb von Wissen, Fähigkeiten und Fertigkeiten durch Wissenschaftler „sündhaft“ sein könne. Diese Perspektive ergab sich in der zweiten Hälfte des 20. Jahrhunderts angesichts der sichtbar werdenden Umweltzerstörung und insbesondere angesichts der entfesselten Nuklearkräfte, durch die die Menschheit ausgelöscht werden kann. Die Frage: „Wie weit darf ein Wissenschaftler gehen?“, die sich Goethes Faust eigentlich stellen müsste, steht im Zentrum wissenschaftskritischer Stücke wie Dürrenmatts Die Physiker oder Kipphardts In der Sache J. Robert Oppenheimer. In Gustaf Gründgens’ Verfilmung des Faust aus dem Jahre 1960 wird unvermittelt eine Atombombenexplosion eingeblendet, um den Bezug des Dramas zum Atomzeitalter zu verdeutlichen.
+Zugleich wird in dieser Argumentation der enge Zusammenhang von Goethes Faust mit seiner 1797 entstandenen Ballade Der Zauberlehrling deutlich: Nur dem, der wirklich Meister ist, (so die Lehre des Gedichts) steht es zu, übernatürliche Kräfte zu mobilisieren. So betrachtet, hat Faust Glück, dass der Erdgeist ihn, den (spöttisch so genannten?) „Übermenschen“(490), nicht als seinesgleichen, nicht als jemanden akzeptiert, der ihm gebieten dürfte.
+
+
+== Bedeutende Inszenierungen ==
+
+1819/1820 – In Berlin kam es zur Aufführung einzelner Szenen zur Musik von Fürst Anton Radziwiłł. Dieser hatte sich seit 1808 an Compositionen zu Göthe’s Faust versucht und im privaten Kreise darbieten lassen. Goethe zeigte sich von einem Gesangsvortrag Radziwiłłs in Weimar 1814 so begeistert, dass er zwei neue Librettoeinlagen beisteuerte. Ab 1816 arbeitete Radziwiłł an einer dramaturgischen Einbettung seiner Lieder bzw. an der Durchkomposition des gesamten Stoffes. Proben, einige davon vor der Hofgesellschaft des preußischen Königs Friedrich Wilhelm III., wurden nun von Lesungen nicht vertonter Passagen begleitet. Neben Laien nahmen geschulte Schauspieler teil. Gleichzeitig gab es erste öffentliche Konzerte mit Radziwiłłs Faust-Musik, an deren Ausarbeitung auch Komponisten wie Carl Friedrich Zelter, auf dessen Anregung Radziwiłł komponiert hatte, und Georg Abraham Schneider mitwirkten. Am 24. Mai 1819 kam es zu einer ersten dramatischen Aufführung der Studierzimmer-Szenen im Theatersaal von Schloss Monbijou in Berlin. Gesang und Sprechvortrag waren personell getrennt. Für die Erdgeist-Erscheinung benutzte Radziwiłł die Laterna-magica-Projektion eines Goethekopfes, wodurch der Dichter sich sehr geehrt fühlte. Die Aufführung wurde gleichen Orts am 13. Juni 1819 wiederholt. Sechsstündige Aufführungen am 24. Mai 1820, zum 50. Geburtstag der Gattin Radziwiłłs, Luise, im Palais Radziwiłł (als Reichskanzlei später Amtssitz der deutschen Reichskanzler) und am 7. Juni 1820 im Schloss Monbijou waren dann die bis dahin vollständigsten Darbietungen eines über Jahre gewachsenen Bühnenprojekts, an dem die Berliner Geisteswelt trotz des Laiencharakters regen Anteil nahm. Der Schwerpunkt lag auf der Gelehrtentragödie bis zu Auerbachs Keller, ergänzt durch einzelne Gretchen-Szenen. Wegen des höfischen Rahmens stand Goethe dem Unternehmen insgesamt offenbar skeptisch gegenüber, ließ sich aber von Vertrauten regelmäßig darüber berichten. Das Werk, erst drei Jahre vor Radziwiłłs Tod von ihm fertiggestellt, wurde noch bis um 1860 alljährlich von der Sing-Akademie zu Berlin, in der Radziwiłł selbst aktives Mitglied war und als Sänger wirkte, zu Gehör gebracht. Am 25. Oktober 2005 kam es zu einer Wiederaufführung durch die Sing-Akademie, nachdem das Stimmenmaterial mit dem Archiv des Chores, welches Jahrzehnte als verschollen galt, aus der Ukraine nach Berlin zurückgegeben worden war.
+1829 – Hoftheater in Braunschweig am 19. Januar. Zur Uraufführung kam eine textlich, inhaltlich und vom Handlungsablauf gegenüber dem als unspielbar gehaltenen Originaltext Goethes radikal veränderte, für die Bühne redigirte Fassung in sechs Abteilungen. Gestrichen waren unter anderem die beiden Vorspiele sowie die Szenen „Abend“ und „Walpurgisnacht“. Die Inszenierung von Ernst August Friedrich Klingemann betonte vor allem die Gretchentragödie. Die Aufführung dauerte über dreieinhalb Stunden und war ein großer Erfolg.
+1829 – Hoftheater in Weimar am 29. August zu Goethes achtzigstem Geburtstag, zeitgleich zu Aufführungen in Leipzig, Dresden und Frankfurt am Main. Es handelte sich um eine an die Braunschweiger Inszenierung angelehnte Fassung, deren Text Johann Peter Eckermann, Friedrich Wilhelm Riemer und Regisseur Friedrich August Durand so überarbeitet hatten, dass acht statt sechs Szenen gespielt wurden. Die begleitende Musik stammte von Franz Carl Adelbert Eberwein. Zensurbedingte Streichungen betrafen vor allem als anzüglich empfundene und kirchenkritische Passagen; auch alle Verweise auf Gott mussten entfallen. – Goethe, der verärgert war, weil man den Beschluss zur Aufführung des „Faust“ getroffen hatte, ohne ihn zu konsultieren, hielt sich offiziell von den Vorbereitungsarbeiten fern. Trotzdem nahm er über Eckermann Einfluss auf Inszenierung und Textänderungen. Mit Carl von La Roche, dem Mephisto, probte er privat so intensiv, dass der Schauspieler später meinte, jede Gebärde, jeder Schritt, jede Grimasse, jedes Wort stamme von Goethe selbst. In einer insgesamt kritischen Stellungnahme zur Weimarer Inszenierung verglich Karl von Holtei La Roches jovialen Mephisto dann auch positiv mit der blassen Faust-Darstellung Durands. An der Uraufführung nahm Goethe ebenso wenig teil wie an einer zweiten Aufführung am 8. November 1829, der letzten in Weimar zu seinen Lebzeiten. Bis 1873 wurde die Inszenierung insgesamt neununddreißig Mal in der Stadt auf die Bühne gebracht.
+1875/76 – Uraufführung, inklusive des postum 1832 veröffentlichten zweiten Teils, im Hoftheater zu Weimar unter der Regie Otto Devrient mit der Musik von Eduard Lassen. Diese Inszenierung, die Devrient auch in Berlin, Köln und Düsseldorf zur Aufführung brachte, hatte noch einen starren dreigliedrigen Bühnenbau. Zusätzliche Aufbauten waren für schnelle Szenenwechsel erforderlich.
+1895 – Jocza Savits arbeitete bereits variabler mit offenen Verwandlungen.
+1909/11 – Max Reinhardt nutzte am Deutschen Theater in Berlin die neue Drehbühne für beide Teile des Faust.
+1932 – Aufführungsserie von Lothar Müthels Faust I mit Gustaf Gründgens als Mephisto am Preußischen Staatstheater in Berlin, die bis zum Ende des Zweiten Weltkriegs andauerte. Hier begann der gefeierte Schauspieler und (ab 1935) Generalintendant Gründgens die klassische schwarz-weiße Maske zu entwickeln, die man heutzutage mit dem Mephisto identifiziert. Anlässlich des 100. Todestages des Autors erhielt Hermann Simon den Auftrag eine neue Schauspielmusik zu Faust. Eine Tragödie zu komponieren.
+1933 – Max Reinhardt inszenierte die erste Aufführung von Faust I bei den Salzburger Festspielen als Freiluftspiel in der Felsenreitschule. Clemens Holzmeister baute hierfür eine bis zu 20 Meter hohe, durch versteckte Gänge und Treppen verbundene Fauststadt mit Zitaten aus der Architektur Salzburgs. Auch die Galerien wurden ins Schauspiel einbezogen. Die Ausstattung war naturalistisch, da Reinhardt eine perfekte Illusion des ausgehenden Mittelalters erzeugen wollte. Den Schwerpunkt legte er auf die kleinstädtische Welt Gretchens. Weil alle Szenenorte von Faust I erstmals gleichzeitig zur Verfügung standen, konnte auf Umbaupausen verzichtet werden. Eine raffinierte Beleuchtungsdramaturgie betonte die Simultanität von Ereignissen und durch Farbgebung die Grundstimmung einer Szene. Bernhard Paumgartner komponierte eine auf akustischen Realismus ausgerichtete Begleitmusik sowie Lieder, die dem Lokalkolorit angepasst waren. Die Leitung der Bühnenmusik oblag dem jungen Herbert von Karajan. Premiere war am 17. August 1933. Ein Teil der Aufführung musste wegen Regens ins Festspielhaus verlegt werden. Erst am 25. August gelang eine komplette Vorführung in der Felsenreitschule. Die Kritiken waren gespalten: Lobten einige Rezensenten die Sinnenfreude der Inszenierung, bemängelten andere eine opernhafte Melodramatik und eine Vernachlässigung von Goethes Text gegenüber optischen Effekten. Kritik an Reinhardt und Mephisto-Darsteller Max Pallenberg hatte dabei auch antisemitische Untertöne. Einhellig gelobt wurde die ungewohnt unsentimentale Gretchen-Interpretation Paula Wesselys. Den Faust spielte Ewald Balser. Die Inszenierung wurde mit wechselnden Mephisto-Darstellern (Raoul Aslan, Franz Schafheitlin, Werner Krauß) bis 1937 gezeigt, nach der Machtübernahme der Nationalsozialisten in Österreich aber abgesetzt.
+1933 – Auch im Theater in der Josefstadt inszenierte Reinhardt den Faust I in der Intendanzzeit seines Nachfolgers als Direktor Otto Preminger. Die Premiere war dort am 4. September 1933. Die Realisierung seines Projekts Faust II wurde durch die Machtergreifung der Nationalsozialisten verhindert.
+1938 – Marie Steiner inszenierte die erste ungekürzte Aufführung beider Teile als weltanschaulich-anthroposophisches Weihe- oder Festspiel.
+1939 – Das Burgtheater in Wien setzte Faust I mit Ewald Balser als Faust ins Repertoire. Diese gefeierte Serie dauerte bis zum Ende des Zweiten Weltkriegs.
+1948 – Im Ronacher in Wien spielte das Burgtheater-Ensemble (das Haus an der Wiener Ringstraße war zerstört) Faust I. Regie: Ewald Balser, Oskar Werner als Schüler.
+1949 – In Hannover machte Alfred Noller mit seinem „Aluminium-Faust“, in der Titelrolle Gerhard Just, den Neuanfang nach dem Krieg. Ostern war Faust I zu sehen und Faust II am 28. August. Noller brach mit den Prinzipien der Faust-Inszenierungen des 19. Jahrhunderts. Die Bühne von Rudolf Schulz bestand aus einem halb-kugelförmigen Gerüst aus Leichtmetall. Im Hintergrund spiegelte eine Aluminiumwand die Lichtreflexe (der Phantasie). Das Metallische symbolisiert das Kosmische. Die Räumlichkeiten vom Studierzimmer bis zum Kerker wurden nur angedeutet. Die fünfstündige Version von Faust I wies nur einen Strich auf: der Walpurgisnachtstraum entfiel. Auerbachs Keller war eine derbe Saufszene, die Walpurgisnacht mit Lichtreflexen auf der metallenen Wand eine Sinnesorgie. Faust war nicht mehr die wohlredende Prunkfigur des 19. Jahrhunderts, sondern der an seinem Wissen und Denken verzweifelnde Mensch, der abtrünnige Humanist.
+1949 – Am Broadway in New York inszenierte der Wiener Schauspieler und Regisseur Leon Askin den Faust I mit großem Erfolg.
+1952 – Das Berliner Ensemble unter der Regie von Egon Monk inszenierte den Urfaust als provokative Neudeutung vor dem Hintergrund spießiger Inszenierungen in der DDR. Parteischelte war die Folge. Bert Brecht formte Goethes Vorlage episch um: Im Prolog macht Mephisto den Zuschauer mit den wichtigsten Dramengestalten bekannt. Da der Urfaust ein Fragment ist, füllte Brecht diese Leerstellen mit Brückenversen, die dem Zuschauer aus einem voluminösen Buch vorgelesen werden. Wirkungsgeschichtlich begann mit dieser Urfaust-Inszenierung die Abkehr vom realistisch-naturalistischen Bühnenbau, die von Gustaf Gründgens und Claus Peymann fortgesetzt wurde.
+1954 – Im Deutschen Theater in Berlin spielten Kurt Oligmüller (Faust) und Ernst Busch (Mephisto) unter der Regie von Wolfgang Langhoff den Faust I. Der westliche Vorwärts-Verlag kritisierte am 7. Januar 1954: „Die Aufführung trug alle Merkmale der kommunistischen Schauspielkunst Ernst Buschs. Nicht die Worte Goethes in ihrer Bedeutung standen im Mittelpunkt der Interpretation, sondern die weltanschauliche Sinngebung des Handlungsganges, aus der ostzonalen ‚Hexenküche‘…“ So ideologisch vorbehaltvoll blieb die westliche Kritik bis in die 1960er Jahre, die östliche sogar bis in die 1980er Jahre.
+1955 – Staatsakt im Burgtheater am 14. Oktober zur Neueröffnung nach dem Wiederaufbau infolge der Zerstörungen des 2. Weltkriegs: Vorspiel auf dem Theater; Werner Krauß (Der Direktor), Raoul Aslan (Der Dichter), Hermann Thimig (Lustige Person).
+1956/1957 – Im Deutschen Schauspielhaus in Hamburg erfolgte unter der Regie und Intendanz von Gustaf Gründgens die Neuinszenierung des Faust mit Will Quadflieg (Faust), Gründgens (Mephisto), Ella Büchi (Gretchen), Elisabeth Flickenschildt (Marthe), Max Eckard (Valentin), Eduard Marks (Wagner), Uwe Friedrichsen (Schüler). Gründgens erarbeitete mit seinem Bühnenbildner Teo Otto Schritt für Schritt eine entrümpelte Fassung. Beide bekannten sich zu ihrer „Einfallslosigkeit“ und zeigten die Bühne als nacktes Gerippe. Gründgens entwickelte seine Konzeption anhand des Vorspiels auf dem Theater. Entsprechend ist alles (Himmel, Hölle, große oder kleine Welt) die Welt des Theaters. Die Inszenierung gastierte auch in Moskau und wurde 1960 mit großem Erfolg verfilmt.
+1976 – Am Wiener Burgtheater, in der Intendanzzeit Gerhard Klingenbergs entstand ein weiterer Höhepunkt des avantgardistischen Regietheaters von Otomar Krejča: Faust I mit Rolf Boysen als Faust und Heinz Reincke als Mephistopheles. Dies war bis 2009 die letzte Burg-Inszenierung von Goethes Faust im Haus am Ring.
+1977 – In Stuttgart inszenierten Claus Peymann, Achim Freyer und Hermann Beil einen frivolen Spieltext. Faust I und II an zwei Tagen als zusammenhängendes Stück zur Geschichte des Heraustretens aus dem Mittelalter bis zur Entwicklung des Bürgertums. Das Bühnengerüst war zum Teil dreistufig. Ganz oben residierte der Herr mit seinen Engeln, Fausts Welt blieb zunächst dunkel. Die Beleuchtungstechnik erschloss beispielsweise die Gretchen-Szene. Alle Szenen wurden durch Striche gekürzt mit Ausnahme der Zueignung und des Prologs im Himmel. Die Vorstellungen waren zwei Jahre lang ausverkauft. Große Teile des jugendlichen Publikums umjubelten die Darsteller. Als Peymann Stuttgart 1979 aus politischen Gründen verlassen musste, lagen so viele schriftliche Bestellungen vor, dass der Faust fünf Jahre hätte gespielt werden können. Martin Lüttge (Faust), Therese Affolter (Gretchen).
+1979 – In Schwerin inszenierte Christoph Schroth Faust I und Faust II an einem Abend mit einer Reihe politischer Bezüge. So spielte alles hinter einem „Eisernen Vorhang“. Die Inszenierung wurde über 100-mal in ausverkauften Häusern gezeigt u. a. 1982 zur Tagung der Goethe-Gesellschaft in Weimar.
+1984 – Das Berliner Ensemble spielte unter Horst Sagert Faust-Szenen mit Hermann Beyer (Faust) und Corinna Harfouch (Gretchen). Sagert knüpfte an die fragmentarische Brecht/Monk-Inszenierung von 1952/53 an und verwendete für seine Inszenierung Texte aus dem Umkreis der Dichtung, die zu einer Abrechnung mit dem „Sturm und Drang“ wird. So grenzte er Fausts Titanismus und den Titan Prometheus gegeneinander ab.
+1986 – Dieter Dorns Inszenierung an den Münchner Kammerspielen (siehe auch Verfilmungen).
+1990 – Faust I & II als drei Abende dauerndes Stück am Staatsschauspiel Dresden von Wolfgang Engel. u. a. mit Freunde der italienischen Oper
+1990 – Faust I im Schauspiel Frankfurt von Einar Schleef.
+2000 – von Peter Stein; Erste professionelle Gesamtaufführung beider Teile. – mit Bruno Ganz als „altem“ und Christian Nickel als „jungem“ Faust. Johann Adam Oest und Robert Hunger-Bühler teilten sich die Rolle des Mephisto. Dorothee Hartinger gab die Margarete. Insgesamt waren 80 Mitarbeiter, davon 33 Ensemble-Schauspieler beschäftigt. Dieses 15-Mio.-Euro-Großprojekt wurde durch das bis dato größte Kunstsponsoring Europas aus privater und öffentlicher Hand finanziert. Das Projektmarketing beinhaltete neben dem üblichen Programmbuch, einen preisgekrönten, hochprofessionellen Web-Auftritt und Online-Videos im ZDF. Die Sponsoren waren: EXPO 2000, Deutsche Bank, DaimlerChrysler, Mannesmann, Ruhrgas, die Deutsche Bundesregierung, der Berliner Senat, die Stadt Wien und 850 Privatsponsoren. Premiere am 22./23. Juli und Serie bis 24. September 2000 auf der EXPO 2000 in Hannover, Gastspiel in Berlin (21. Oktober 2000 bis 15. Juli 2001) und Wien (8. September bis 16. Dezember 2001). Die Aufführungsdauer incl. Pausen betrug 21 Stunden; reine Spielzeit 15 Stunden, aufgeteilt auf 3 Wochenend- bzw. 4 (oder 5?) Abendvorstellungen, in eigens für dieses Großprojekt adaptierten Hallen. In den beiden Spielhallen wurden 18 unterschiedliche Bühnenräume realisiert, zwischen denen das Publikum gehend wechselte. Der einheitliche Eintrittspreis betrug 233 €. Eine vierteilige DVD-Ausgabe erschien 2005 mit einer Laufzeit von 814 Minuten (DVD 9 mit 2 Layern).
+2009 – Unter der Intendanz und Regie von Matthias Hartmann, mit Tobias Moretti als Faust und Gert Voss als Mephisto, werden beide Teile auf die Bühne des Wiener Burgtheaters gebracht. Die Gesamtspieldauer beträgt 7 Stunden. Premiere war am 4. September. Dies ist die erste Neuinszenierung des Faust am Haus am Ring seit 1976, und die Erstaufführung des – allerdings stark gestrichenen – zweiten Teils an der Burg.
+2011 – Erstmals in der Geschichte der Salzburger Festspiele inszeniert Nicolas Stemann Faust I und II als Marathonvorstellung an einem Abend. Mit Pausen dauert die Vorstellung etwa 8 ½ Stunden. Im ersten Teil spielen die drei Schauspieler Sebastian Rudolph, Philipp Hochmair und Patrycia Ziółkowska alle Rollen, teilweise einander abwechselnd und überlappend. Premiere der Koproduktion mit dem Thalia Theater Hamburg war am 28. Juli 2011.
+
+
+== Adaptionen ==
+
+
+=== Verfilmungen ===
+
+Faust – eine deutsche Volkssage. Deutschland 1926, Regie: Friedrich Wilhelm Murnau, mit Gösta Ekman als Faust, Emil Jannings als Mephisto
+Faust. BR Deutschland 1960, Regie: Peter Gorski, mit Will Quadflieg als Faust und Gustaf Gründgens als Mephistopheles.
+Faust – Vom Himmel durch die Welt zur Hölle. ZDF-Theaterkanal, Deutschland 1987/88, Regie: Dieter Dorn, mit Helmut Griem als Faust und Romuald Pekny als Mephistopheles.
+Lekce Faust. Tschechien 1994, Regie: Jan Švankmajer, mit Petr Čepek als Faust.
+Peter Stein inszeniert FAUST von Johann Wolfgang Goethe. Deutschland 2000, Fernsehregie: Peter Schönhofer und Bruno Grimm, mit Christian Nickel und Bruno Ganz als Faust. Die Verfilmung von Peter Steins Mammutprojekt, das bei der Uraufführung auf der EXPO 2000 erstmals die Gesamtinszenierung von Goethes Faust auf die Bühne brachte.
+Faust. Der Tragödie erster Teil. Deutschland 2008/09, Regie: Ingo J. Biermann, mit Adolfo Assor als Faust und Robert Gwisdek als Mephistopheles.
+Faust. Russland 2011, Regie: Alexander Sokurov
+Goethes Faust. Deutschland 2020, Regie: Karsten Prühl
+
+
+=== Vertonungen ===
+Ignaz Walter, veröffentlichte 1797 die erste Oper basierend auf Goethes Faust
+Fürst Anton Radziwiłł, komponierte erstmals 1808 Musik zum Faust (vgl. Abschnitt „Bedeutende Inszenierungen“).
+Ludwig van Beethoven, aus Goethes Faust „Es war einmal ein König“ (op. 75/3) (1809).
+Franz Schubert, „Gretchen am Spinnrade“ (1814), „Szene aus Goethes Faust“ und „Der König von Thule“ (1816).
+Louis Spohr, Oper Faust (1818/1852)
+Felix Mendelssohn Bartholdy, Scherzo aus dem Oktett in Es-Dur, op. 20, (1825), „Gretchen (Meine Ruh’ ist hin)“, op. 112.
+Albert Lortzing, „Don Juan und Faust“ (1829)
+Richard Wagner, „Eine Faust-Ouvertüre“ (1840), „Sieben Kompositionen zu Goethes Faust“, op. 5 (1831, revidiert 1832) und „Gretchens Bitte“ (1817).
+Hector Berlioz, La damnation de Faust (1846).
+Robert Schumann, „Szenen aus Goethes Faust“ (1853).
+Franz Liszt, „Faust-Sinfonie“ (1857).
+Franz Liszt, „Mephisto-Walzer“ (1856–1861, 1878–1881, 1883, 1885).
+Charles Gounod, Oper Faust (1859).
+Anton Rubinstein, „Faust, musikalisches Bild nach Goethe“ (1864)
+Arrigo Boito, Oper Mefistofele (1868) auf der Textgrundlage von Faust I.
+Pablo Sarasate, „Nouvelle fantaisie sur ‚Faust‘“ (1874)
+Eduard Lassen, „Musik zu Goethes Faust. I. und II. Theil“ (1876)
+Gustav Mahler, 8. Sinfonie (1910).
+Ferruccio Busoni, „Lied des Mephistopheles aus Goethes Faust“ (1919).
+Paul Dessau, „7 Lieder zu Goethes Faust“ (1949), Faust I (1949) und Urfaust (1952).
+Else Marie Pade, Faust Suite (1962).
+Rudolf Volz: Faust I – Die Rockoper (1997), Faust II – Die Rockoper (2003).
+Faust-Rausch mit Musik von Christopher Noodt. Sprecher: Otto Strecker, Jana Kozewa, Felix Isenbuegel.
+Bela B und Thomas D, Hörbuch Faust vs. Mephisto (2004).
+
+
+=== Weiteres ===
+Mephistopholes und Margaretta, Hyderabad, Skulptur (19. Jh.)
+Der Nummer-eins-Hit Das Omen (Teil 1) von Mysterious Art ist textlich an Faust angelehnt, im Musikvideo wird zu Beginn Mephistopheles zitiert.
+Faust: Eine Tragödie als feministischer Comic von Roya Soraya (2022)
+Berndeutsche Fassung: Marcus Pfister: Dr Bärner Fuuscht. Inschpiriert vom Johann Wolfgang Goethe sym Faust. Zytglogge, Bern 2025, ISBN 978-3-7296-5183-8.
+
+
+== Ausgaben von Faust. Der Tragödie erster Teil ==
+
+
+=== Ausgaben zu Lebzeiten Goethes ===
+
+1790: Faust. – Ein Fragment von Goethe. – Aechte Ausgabe. G. J. Göschen, Leipzig, 168 S. Digitalisat und Volltext im Deutschen Textarchiv
+1808: Faust. – Eine Tragödie. Cotta’sche Verlagsbuchhandlung, Tübingen, 309 S. Digitalisat und Volltext im Deutschen TextarchivErste vollständige Ausgabe des ersten Teils.
+
+
+=== Textausgaben mit wissenschaftlichem Anspruch ===
+Faust. Der Tragödie erster Theil. Bearbeitet von Erich Schmidt. Böhlau, Weimar 1887 (Goethes Werke. Herausgegeben im Auftrage der Großherzogin Sophie von Sachsen [Weimarer Ausgabe]. Abteilung I, Bd. 14). Bislang einzige historisch-kritische Ausgabe, die abgeschlossen wurde. Darlegung der Überlieferung (Handschriften und Drucke). Variantenapparat.
+Faust. Eine Tragödie. In: Goethes Werke. Hamburger Ausgabe in 14 Bänden. Textkritisch durchgesehen und kommentiert von Erich Trunz, Bd. 3: Dramatische Dichtungen, Bd. 1. Christian Wegner Verlag, Hamburg 1949, S. 7–145. 16. Auflage: C. H. Beck, München 1998, ISBN 3-406-31234-9.
+Der Tragödie erster Theil. Bearbeitet von Ernst Grumach und Inge Jensen. Akademie-Verlag, Berlin 1958 (Werke Goethes. Herausgegeben von der Deutschen Akademie der Wissenschaften zu Berlin unter Leitung von Ernst Grumach. Faust, Bd. 2). Angelegt als historisch-kritische Ausgabe. Vor Erscheinen des Apparatbands eingestellt.
+Faust. Eine Tragödie. In: Johann Wolfgang Goethe: Faust. Texte. Hrsg. von Albrecht Schöne. Deutscher Klassiker Verlag, Frankfurt am Main 1994, ISBN 3-618-60270-7, S. 9–199. Taschenbuch: Insel Verlag, Frankfurt am Main 2003, ISBN 3-458-34700-3. Der Text folgt der Ausgabe letzter Hand bzw. der Druckvorlage zu ihr.
+Faust. Eine Tragödie [1808]. Historisch-kritisch ediert und kommentiert von Karl Heinrich Hucke. Aschendorff, Münster 2008, ISBN 978-3-402-12755-1 (Inhaltsverzeichnis). Der Text folgt dem Erstdruck.
+Faust. Eine Tragödie. In: Johann Wolfgang Goethe: Faust-Dichtungen. Faust, erster Theil. Faust, zweyter Theil. Frühere Fassung („Urfaust“). Paralipomena. Hrsg. und kommentiert von Ulrich Gaier, Reclam, Stuttgart 2010 (Reclam Bibliothek), S. 7–213. Der Text folgt der Ausgabe letzter Hand.
+Historisch-kritische Edition von Goethes Faust. DFG-Projekt unter der Leitung von Anne Bohnenkamp-Renken (Freies Deutsches Hochstift), Silke Henke (Goethe- und Schiller-Archiv) und Fotis Jannidis (Julius-Maximilians-Universität Würzburg). Seit 2009 in Arbeit.
+
+
+=== Ausgaben mit kunstgeschichtlichem Aspekt ===
+Goethe. Faust. Gesamtausgabe, Textreversion von Hans Gerhard Gräf, enthält Urfaust, Fragment, Faust eine Tragödie, Paralipomena. Dünndruckausgabe Insel-Verlag Leipzig 1909
+Goethe. Faust. Mit einer Einleitung Faust und die Kunst von Max von Boehn. Hundertjahrs Ausgabe im Askanischen Verlag. Berlin: Carl Albert Kindle, 1924. Die Einleitung umfasst 221 Seiten mit zahlreichen Abbildungen zur Kunstgeschichte.
+
+
+=== Leseausgaben ===
+Faust. Tragödie von Goethe. Erster Teil und zweiter Teil (mit Illustrationen von Josef Weiß), Hugo-Schmidt-Verlag, München, um 1920
+Johann Wolfgang Goethe: Faust. Der Tragödie Erster Teil. Reclam, Stuttgart 1986 [u.ö.] (Reclams Universal-Bibliothek Nr. 1), 136 Seiten, ISBN 978-3-15-000001-4 Ausgabe für Schüler, mit Nachwort und Anmerkungen.
+Johann Wolfgang von Goethe: Faust. Der Tragödie erster Teil. Hamburger Lesehefte Verlag, Husum 2019 (Hamburger Leseheft Nr. 29), 160 Seiten, ISBN 978-3-87291-028-8Ausgabe für Schüler, mit Nachwort und Anmerkungen.
+Johann Wolfgang Goethe: Faust. Eine Tragödie (Faust I). Textedition: Albrecht Schöne. Mit einem Kommentar von Ralf-Henning Steinmetz. Suhrkamp, Frankfurt am Main 2009, 8. Aufl. 2018 (Suhrkamp BasisBibliothek, Bd. 107), 299 Seiten, ISBN 978-3-518-18907-8Wissenschaftliche Textausgabe für Studium und Schule, mit Worterklärungen, Vergleichsszenen aus Faust – Frühe Fassung und ausführlichem Kommentar
+
+
+=== Bibliophile Ausgaben ===
+Faust. Jahrhundertausgabe im Askanischen Verlag. Druck mit Kopfgoldschnitt und einer Einleitung Faust und die Kunst von Max von Boehn. Druck zu „Ehren des Schirmherrn des Deutschen Schrifttums Dr. Joseph Goebbels [sic!]“. Askanischer Verlag Carl Albert Kindle, Berlin 1938.
+Faust. Von Hand gebundene und nummerierte Vorzugsausgabe von 250 Exemplaren mit Illustrationen von Max Beckmann und Bernhard Heisig sowie zwei beigefügten Originalgraphiken von Beckmann und Heisig. Verlag Philipp Reclam jun. Leipzig und Deutscher Bücherbund GmbH & Co., Stuttgart/Hamburg/München 1982.
+
+
+== Sekundärliteratur ==
+
+
+=== Periodika ===
+Knittlinger Doktor-Faust-Archiv. Knittlingen 1956–1961, später Faust-Blätter. Knittlingen 1967–1980, dann Publikationen des Faust-Archivs und der Faust-Gesellschaft, Knittlingen 1983–1999.
+Publikationen des Faust-Archivs. Maulbronn  1982–1996
+Faust-Jahrbuch. Bielefeld 2005–2020
+
+
+=== Forschungsgeschichte ===
+Rüdiger Scholz: Die Geschichte der Faust-Forschung. Weltanschauung, Wissenschaft und Goethes Drama. 2. Auflage, 2 Bände Würzburg 2023, 1239 S., ISBN 978-3-8260-7601-5. 1. Auflage, 2 Bände Würzburg 2011, 906 S., ISBN 978-3-8260-4508-0.
+
+
+=== Kommentare und Interpretationen ===
+Hans Arens: Kommentar zu Goethes Faust I. Winter, Heidelberg 1982, ISBN 3-533-03184-5. [Wissenschaftlicher Standardkommentar. Zeilenkommentar.]
+Rüdiger Bernhardt: Johann Wolfgang von Goethe, Faust Teil I. In: Königs Erläuterungen: Textanalyse und Interpretation. Band 21. C. Bange Verlag, Hollfeld 2011, ISBN 978-3-8044-1943-8.
+Alwin Binder: Faustische Welt. Interpretationen von Goethes Faust in dialogischer Form. Urfaust – Faust-Fragment – Faust I. LIT, Münster u. a. 2002, ISBN 3-8258-5924-X. [Kommentare und Interpretationen.]
+Wilhelm Böhm: Goethes „Faust“ in neuer Deutung. Ein Kommentar für unsere Zeit. Seemann, Köln 1949.
+Heinrich Düntzer: Goethes Faust. Erster Teil. Erläutert von Heinrich Düntzer. 6. Auflage. Dyk, Leipzig 1899 (1. Aufl. 1850).
+Karl Eibl: Das monumentale Ich – Wege zu Goethes „Faust“. Insel Verlag, Frankfurt am Main / Leipzig 2000, ISBN 3-458-34363-6.
+Kuno Fischer: Goethes Faust. 4 Bände (Bd. 1: Die Faustdichtung vor Goethe; Band 2: Entstehung, Idee und Composition des Goetheschen Faust; Band 3–4: Die Erklärung des Goetheschen Faust nach der Reihenfolge seiner Szenen). In: Goethe-Schriften. Band 6–9. Winter, Heidelberg 1902–1913.
+Theodor Friedrich, Lothar J. Scheithauer: Kommentar zu Goethes Faust. Mit einem Faust-Wörterbuch und einer Faust-Bibliographie. In: Reclams Universal-Bibliothek. Nr. 7177. Reclam, Stuttgart 1996 (1. Aufl. 1932), ISBN 3-15-007177-1.
+Ulrich Gaier: Faust-Dichtungen. Band 2. Kommentar 1. Reclam, Stuttgart 1999, ISBN 3-15-030019-3. [Szenen- und Zeilenkommentar in verschiedenen Lesarten.]
+Heinz Hamm: Goethes ‚Faust‘. Werkgeschichte und Textanalyse. 6., völlig neu bearbeitete Auflage. Volk-und-Wissen-Verlag, Berlin 1997, ISBN 3-06-102821-8.
+Beate Herfurth-Uber: Goethe, Faust 1, Hören & Lernen, Wissen kompakt in 80 Minuten. Mit Schlüsselszenen einer Inszenierung am Staatstheater Braunschweig. Interview mit dem Regisseur Wolfgang Gropper. MultiSkript Verlag, 2008, ISBN 978-3-9812218-3-1 (Audio-CD).
+Wolfgang Kröger: Johann Wolfgang Goethe: Faust I. Reclam Lektüreschlüssel. Reclams Universal-Bibliothek. Nr. 15301. Reclam, Stuttgart 2001. ISBN 978-3-15-015301-7.
+Georg Lukács: Faust und Faustus. Vom Drama der Menschengattung zur Tragödie der modernen Kunst. Rowohlt, 1967.
+Eudo C. Mason: Goethe’s Faust. Its genesis and purport. University of California Press, Berkeley 1967.
+Paul Requadt: Goethes „Faust I“: Leitmotivik und Architektur. Fink, München 1972.
+Heinrich Rickert: Goethes Faust. Die dramatische Einheit der Dichtung. J.C.B. Mohr (Paul Siebeck), Tübingen 1932.
+Wilhelm Scherer: Betrachtungen über Goethes Faust. Goethe-Jahrbuch, Band 6 (1885), S. 231–261http://vorlage_digitalisat.test/1%3D%7B%7B%7B1%7D%7D%7D~GB%3D~IA%3Dgoethejahrbuchv00unkngoog~MDZ%3D%0A~SZ%3Dn255~doppelseitig%3D~LT%3DS.%20231%E2%80%93261~PUR%3D
+Jochen Schmidt: Goethes Faust. Erster und Zweiter Teil. Grundlagen – Werk – Wirkung. 2. Auflage. C. H. Beck, München 2001, ISBN 3-406-48448-4.
+Albrecht Schöne: Faust. Kommentare. In: Friedmar Apel u. a. (Hrsg.): Johann Wolfgang von Goethe. Sämtliche Werke, Briefe, Tagebücher und Gespräche. Abt. 1, Band 7. Deutscher Klassiker Verlag, Frankfurt am Main 1994, ISBN 3-618-60270-7. [Moderner Kommentar. Zeilenkommentar]
+Ralf Sudau: Johann Wolfgang Goethe, Faust I und Faust II. Interpretiert von Ralf Sudau. 2. Auflage. Oldenbourg Schulbuchverlag GmbH, München 1998, ISBN 3-637-88663-4.
+Ernst Traumann: Goethes ‚Faust‘. Nach Entstehung und Inhalt erklärt. Band 1: Der Tragödie erster Teil. Beck, München 1924 (ursprünglich 1913).
+Erich Trunz (Hrsg.): Faust. Der Tragödie erster und zweiter Teil, Urfaust. Beck, München 2007, (Hamburger Ausgabe, zuerst erschienen 1949), ISBN 978-3-406-55250-2.
+Johannes Wahl: Johann Wolfgang von Goethe, Der Tragödie erster Teil [inklusive Abitur-Fragen mit Lösungen]. Klett Lerntraining Lektürenhilfen, Stuttgart 2011, ISBN 978-3-12-923063-3.
+200 Jahre Faust. In: Die Zeit. Nr. 13/2008.
+
+
+=== Einzeldarstellungen ===
+Gottfried Diener: Fausts Weg zu Helena: Urphänomen und Archetypus. Darstellung und Deutung einer symbolischen Szenenfolge aus Goethes Faust. Klett, Stuttgart 1961.
+Anne Uhrmacher: Hexenangst und Hexenverfolgung in Goethes „Faust“. Die Deutung verschwiegener Spuren in der Literatur. De Gruyter, Berlin/Boston 2023, ISBN 978-3-11-131077-0.
+
+
+== Siehe auch ==
+Goethes Faust 
+
+
+== Weblinks ==
+
+Faust. Der Tragödie erster Teil bei Zeno.org.
+Gedicht Goethes, zur Erklärung seiner Faustdichtung gehörig. johannfaust.de
+Faust I nach Kapiteln geordnet, mit Versnummerierung sciencesoft.at
+Faust I Leseprobe
+Faust. Der Tragödie erster Teil als kostenloses Hörbuch bei LibriVox
+Faust. Eine Tragödie im Projekt Gutenberg-DE
+Faust. Eine Tragödie im Project Gutenberg (1808)
+Faust. Der Tragödie erster Teil im Project Gutenberg
+Faust- und Gretchenmotive im Goethezeitportal
+Moritz Retzsch: Umrisse zu Goethes Faust. 1820.
+Faust-Edition, digitale historisch-kritische Ausgabe
+
+
+== Einzelnachweise ==

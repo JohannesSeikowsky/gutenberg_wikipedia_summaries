@@ -1,0 +1,26 @@
+Elementary Principles in Statistical Mechanics, published in March 1902, is a scientific treatise by Josiah Willard Gibbs which is considered to be the foundation of modern statistical mechanics. Its full title was Elementary Principles in Statistical Mechanics, developed with especial reference to the rational foundation of thermodynamics.
+
+
+== Overview ==
+In this book, Gibbs carefully showed how the laws of thermodynamics would arise exactly from a generic classical mechanical system, if one allowed for a certain natural uncertainty about the state of that system.
+
+The themes of thermodynamic connections to statistical mechanics had been explored in the preceding decades with Rudolf Clausius, James Clerk Maxwell, and Ludwig Boltzmann, together writing thousands of pages on this topic. One of Gibbs' aims in writing the book was to distill these results into a cohesive and simple picture. Gibbs wrote in 1892 to his colleague Lord RayleighJust now I am trying to get ready for publication something on thermodynamics from the a-priori point of view, or rather on 'statistical mechanics' [...] I do not know that I shall have anything particularly new in substance, but shall be contented if I can so choose my standpoint (as seems to me possible) as to get a simpler view of the subject." He had been working on this topic for some time, at least as early as 1884 when he produced a paper (now lost except for its abstract) on the topic of statistical mechanics.
+Gibbs' book simplified statistical mechanics into a treatise of 207 pages. At the same time, Gibbs fully generalized and expanded statistical mechanics into the form in which it is known today. Gibbs showed how statistical mechanics could be used even to extend thermodynamics beyond classical thermodynamics, to systems of any number of degrees of freedom (including microscopic systems) and non-extensive systems.
+At the time of the book's writing, the prevailing understanding of nature was purely in classical terms: quantum mechanics had not yet been conceived, and even basic facts taken for granted today (such as the existence of atoms) were still contested among scientists. Gibbs was careful in assuming the least about the nature of physical systems under study, and as a result the principles of statistical mechanics laid down by Gibbs have retained their accuracy (with some changes in detail but not in theme), in spite of the major upheavals of modern physics during the early 20th century.
+
+
+== Content ==
+Viswanathan Kumaran wrote the following comment regarding Elementary Principles in Statistical Mechanics:
+
+... In this, he introduced the now standard concept of ‘ensemble’, which is a collection of a large number of indistinguishable replicas of the system under consideration, which interact with each other, but which are isolated from the rest of the universe. The replicas could be in different microscopic states, as determined by the positions and momenta of the constituent molecules, for example, but the macroscopic state determined by the pressure, temperature and / or other thermodynamic variables are identical.
+Gibbs argued that the properties of the system, averaged over time, is identical to an average over all the members of the ensemble if the ‘ergodic hypothesis’ is valid. The ergodic hypothesis, which states that all the microstates of the system are sampled with equal probability, is applicable to most systems, with the exception of systems such as quenched glasses which are in metastable states. Thus, the ensemble averaging method provides us an easy way to calculate the thermodynamic properties of the system, without having to observe it for long periods of time.
+
+Gibbs also used this tool to obtain relationships between systems constrained in different ways, for example, to relate the properties of a system at constant volume and energy with those at constant temperature and pressure. Even today, the concept of ensemble is widely used for sampling in computer simulations of the thermodynamic properties of materials, and has subsequently found uses in other fields such as quantum theory.
+
+
+== References ==
+
+
+== External links ==
+
+Freely available digitized version on the Internet Archive

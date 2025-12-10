@@ -1,0 +1,131 @@
+The Spirit of Law (French: De l'esprit des lois, originally spelled De l'esprit des loix), also known in English as The Spirit of [the] Laws, is a treatise on political theory, as well as a pioneering work in comparative law by Montesquieu, published in 1748. Originally published anonymously, as was the norm, its influence outside France was aided by its rapid translation into other languages. In 1750 Thomas Nugent published an English translation, many times revised and reprinted in countless editions. In 1751 the Roman Catholic Church added De l'esprit des lois to its Index Librorum Prohibitorum ("List of Prohibited Books"). 
+Montesquieu's treatise, already widely disseminated, had an enormous influence on the work of many others, most notably: Catherine the Great, who produced Nakaz (Instruction); the Founding Fathers of the United States Constitution; and Alexis de Tocqueville, who applied Montesquieu's methods to a study of American society, in Democracy in America. British historian and politician Macaulay referenced Montesquieu's continuing importance when he wrote in his 1827 essay entitled "Machiavelli" that "Montesquieu enjoys, perhaps, a wider celebrity than any political writer of modern Europe" [1].
+Montesquieu spent about ten years and a lifetime of thought researching and writing De l'esprit des lois,  covering a wide range of topics including law, social life, and anthropology. In this treatise Montesquieu argues that political institutions need, for their success, to reflect the social and geographical aspects of the particular community.  He pleads for a constitutional system of government with separation of powers, the preservation of legality and civil liberties.
+
+
+== Structure ==
+
+Preface
+Part I
+
+Book I: On law in general:
+Book II: On laws which derive directly from the nature of the government -This book contained a great deal of information about popular sovereignty.
+Book III: On the principles of the three governments
+Book IV: That laws on education must relate to the principles of the government
+Book V: That the laws made by the legislator must be relative to the principle of the government
+Book VI: Consequences of the principles of the various governments with respect to the simplicity of the civil and criminal laws, the form of judgments, and the establishment of punishments
+Book VII: Consequences of the different principles of the three governments with respect to sumptuary laws, to luxury, and to the condition of women
+Book VIII: On the corruption of the principles of the three governments
+Part II
+
+Book IX: On the laws in their relations to the defensive force
+Book X: On the laws in their relation to offensive strength
+Book XI: On the laws that constitute political freedom in their relation to the constitution
+Book XII: On laws that constitute political liberty in its relation to the citizen
+Book XIII: On the relations which the levying of tributes and the magnitude of public revenues have with liberty
+Part III
+
+Book XIV: On the laws in their relation to the nature of the climate
+Book XV: How the laws of civil slavery relate to the nature of the climate
+Book XVI: How the laws of domestic slavery relate to the nature of the climate
+Book XVII: How the laws of political servitude are related to the nature of the climate
+Book XVIII: On laws in their relationship to the nature of the terrain
+Book XIX: On the laws in the relation they have to the principles that constitute the general spirit, the ways, and the manners of a nation
+Part IV
+
+Book XX: On laws in their relationship with commerce, considered in its nature and its distinctions
+Book XXI: On laws in the relation they have to commerce, considered in the transformations it has seen in the world
+Book XXII: On the laws in their relation to the use of money
+Book XXIII: On laws in their relation to the number of inhabitants
+Part V
+
+Book XXIV: On laws in their relation with religion, considered in its doctrines and in itself
+Book XXV: On laws in their relation with the establishment of religion and its external policy
+Book XXVI: On laws in the relation they must have with the order of things on which they bear
+Part VI
+
+Book XXVII: On the origin and transformations of the Roman laws on successions
+Book XXVIII: On the origin and transformations of the civil laws among the French
+Book XXIX: On the manner of composing laws
+Book XXX: Theory of feudal laws among the Franks, in the relation they have to the establishment of the monarchy
+Book XXXI: Theory of feudal laws among the Franks, in their relation to the transformations in their monarchy
+
+
+== Constitutional theory ==
+In his classification of political systems, Montesquieu defines three main kinds: republican, monarchical, and despotic. As he defines them, Republican political systems vary depending on how broadly they extend citizenship rights—those that extend citizenship relatively broadly are termed democratic republics, while those that restrict citizenship more narrowly are termed aristocratic republics. The distinction between monarchy and despotism hinges on whether or not a fixed set of laws exists that can restrain the authority of the ruler: if so, the regime counts as a monarchy; if not, it counts as despotism.
+
+
+=== Principles that motivate citizen behavior according to Montesquieu ===
+Driving each classification of political system, according to Montesquieu, must be what he calls a "principle". This principle acts as a spring or motor to motivate behavior on the part of the citizens in ways that will tend to support that regime and make it function smoothly.
+
+For democratic republics (and to a somewhat lesser extent for aristocratic republics), this spring is the love of virtue—the willingness to put the interests of the community ahead of private interests.
+For monarchies, the spring is the love of honor—the desire to attain greater rank and privilege.
+Finally, for despotisms, the spring is the fear of the ruler—the fear of consequences to authority.
+A political system cannot last long if its appropriate principle is lacking. Montesquieu claims, for example, that the English failed to establish a republic after the Civil War (1642–1651) because the society lacked the requisite love of virtue.
+
+
+== Liberty and the separation of powers ==
+A second major theme in The Spirit of Law concerns political liberty and the best means of preserving it. "Political liberty" is Montesquieu's concept of what we might call today personal security, especially in so far as this is provided for through a system of dependable and moderate laws. He distinguishes this view of liberty from two other views of political liberty. The first is the view that liberty consists in collective self-government—i.e. that liberty and democracy are the same. The second is the view that liberty consists in being able to do whatever one wants without constraint. Not only are these latter two not genuine political liberty, he maintains, but they can both be hostile to it.
+Political liberty is not possible in a despotic political system, but it is possible, though not guaranteed, in republics and monarchies. Generally speaking, establishing political liberty on a sound footing requires two things:
+
+The separation of the powers of government.
+Building on and revising a discussion in John Locke's Second Treatise of Government, Montesquieu argues that the executive, legislative, and judicial functions of government should be assigned to different bodies, so that attempts by one branch of government to infringe on political liberty might be restrained by the other branches. (Habeas corpus is an example of a check that the judicial branch has on the executive branch of government.) In a lengthy discussion of the English political system, he tries to show how this might be achieved and liberty secured, even in a monarchy. He also notes that liberty cannot be secure where there is no separation of powers, even in a republic.
+The appropriate framing of civil and criminal laws so as to ensure personal security.
+Montesquieu intends what modern legal scholars might call the rights to "robust procedural due process", including the right to a fair trial, the presumption of innocence and the proportionality in the severity of punishment. Pursuant to this requirement to frame civil and criminal laws appropriately to ensure political liberty (i.e., personal security), Montesquieu also argues against slavery and for the freedom of thought, speech and assembly.
+This book mainly concerns explicit laws, but also pays considerable attention to cultural norms that may support the same goals. "Montesquieu believed the hard architecture of political institutions might be enough to constrain overreaching power — that constitutional design was not unlike an engineering problem," as Levitsky and Ziblatt put it.
+
+
+== Political sociology ==
+The third major contribution of The Spirit of Law was to the field of political sociology, which Montesquieu is often credited with more or less inventing. The bulk of the treatise, in fact, concerns how geography and climate interact with particular cultures to produce the spirit of a people. This spirit, in turn, inclines that people toward certain sorts of political and social institutions, and away from others. Later writers often caricatured Montesquieu's theory by suggesting that he claimed to explain legal variation simply by the distance of a community from the equator.
+While the analysis in The Spirit of Law is much more subtle than these later writers perceive, many of his specific claims lack rigour to modern readers. Nevertheless, his approach to politics from a naturalistic or scientific point of view proved very influential, directly or indirectly inspiring modern fields of political science, sociology, and anthropology.
+
+
+== See also ==
+Comparative law
+Democracy
+Doux commerce
+Letter and spirit of the law
+Rule of law
+Mutual liberty
+
+
+== Notes ==
+
+Cohler, A. M., Miller, B. C., & Stone, H. S. (1989). Montesquieu: The spirit of the laws. Cambridge University Press.
+
+
+== References ==
+Montesquieu, L'esprit des loix. Texte établi et présenté par Jean Brethe de La Gressaye (Paris: Societe Les Belles Lettres, 1950–1961. Takes account of variants in all editions issued between 1748 and 1757.
+Montesquieu: The Spirit of the Laws, trans. Anne M. Cohler, Basia Carolyn Miller, and Harold Samuel Stone.  Cambridge Texts in the History of Political Thought. Cambridge: Cambridge UP, 1989.
+Montesquieu: The Spirit of Law, trans. Philip Stewart, 2018. http://montesquieu.ens-lyon.fr/spip.php?rubrique186
+Bok, Hilary,  "Baron de Montesquieu, Charles-Louis de Secondat", Stanford Encyclopedia of Philosophy.
+Volpilhac-Auger, Catherine, Montesquieu, Paris: Gallimard, "Folio Biographies", 2017.
+
+
+== Further reading in English ==
+Sheila Mason, Montesquieu’s Idea of Justice, The Hague: Martinus Nijhoff, 1975.
+Mark Hulliung, Montesquieu and the Old Regime, Berkeley: University of California Press, 1976.
+Stephen J. Rosow, "Commerce, Power and Justice: Montesquieu on international politics," Review of Politics 46, no. 3 (July 1984): 346–366.
+Anne M. Cohler, Montesquieu’s Comparative Politics and the Spirit of American Constitutionalism, Lawrence KS: University Press of Kansas, 1988.
+Thomas L. Pangle, Montesquieu’s Philosophy of Liberalism: a commentary on "The Spirit of the Laws", Chicago: University of Chicago Press, 1989.
+David W. Carrithers, "Montesquieu’s philosophy of punishment," History of Political Thought 19 (1998), p. 213-240.
+David W. Carrithers, Michael A. Mosher, and Paul A. Rahe, eds., Montesquieu’s Science of Politics: essays on "The Spirit of Laws", Lanham, Maryland: Rowman & Littlefield, 2001.
+Robert Howse, "Montesquieu on Commerce, War, and Peace," Brookings Journal of International Law 31, no. 3 (2006): 693–708. http://www.law.nyu.edu/sites/default/files/ECM_PRO_060042.pdf
+Paul A. Rahe, Montesquieu and the Logic of Liberty, New Haven: Yale University Press, 2009.
+Andrea Radasanu, "Montesquieu on Moderation, Monarchy and Reform," History of Political Thought 31, no. 2 (2010), p. 283–307.
+Rolando Minuti, Studies on Montesquieu: mapping political diversity, Cham (Switzerland): Springer, 2018. (Translation by Julia Weiss of Una geografia politica della diversità: studi su Montesquieu, Naples, Liguori, 2015.)
+Andrew Scott Bibby, Montesquieu’s Political Economy, New York: Palgrave Macmillan, 2016.
+Joshua Bandoch, The Politics of Place: Montesquieu, particularism, and the pursuit of liberty, Rochester: University of Rochester Press, 2017.
+Vickie B. Sullivan, Montesquieu and the Despotic Ideas of Europe: an interpretation of "The Spirit of the laws", University of Chicago Press, 2017.
+Keegan Callanan, Montesquieu’s Liberalism and the Problem of Universal Politics, New York: Cambridge University Press, 2018.
+Sharon R. Krause, The Rule of Law in Montesquieu, Cambridge University Press, 2021.
+Vickie V. Sullivan, "Montesquieu on Slavery," in K. Callanan, The Cambridge Companion to Montesquieu, New York, 2023, p. 182-197.
+
+
+== External links ==
+
+de Secondat, Charles, Baron de Montesquieu, "The Spirit of Laws" (Free – The Internet Archive, High Resolution)
+de Secondat, Charles, Baron de Montesquieu, "The Spirit of Laws: Volume 1 ", 1793 (Free – Librivox, Audiobook)
+de Secondat, Charles, Baron de Montesquieu,  "The Spirit of Laws"  2 vols.  Originally published anonymously.  1748; Crowder, Wark, and Payne, 1777.  Trans.  Thomas Nugent (1750).  Rev.  J. V. Prichard.  ("Based on a public domain edition published in 1914 by G. Bell & Sons, Ltd., London.  Rendered into HTML and text by Jon Roland of The Constitution Society.")  Accessed May 16, 2007.
+A Montesquieu Dictionary, Société Montesquieu, open access: "[2] Archived 2022-02-27 at the Wayback Machine"
+Montesquieu: The Spirit of Law. Trans. Philip Stewart, 2018. Open access: "[3]".

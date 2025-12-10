@@ -1,0 +1,67 @@
+The Academica (also On Academic Skepticism, Academici Libri or Academic Books) is work in a fragmentary state written by the Academic Skeptic philosopher Cicero published in two editions. The first edition is referred to as the Academica Priora. It was released in May 45 BCE and comprised two books, known as the Catulus and the Lucullus. The Catulus has been lost. Cicero subsequently extensively revised and expanded the work, releasing a second edition comprising four books. Except for part of Book 1 and 36 fragments, all of the second edition has been lost. The second edition is referred to as Academica Posteriora or Academici Libri or Varro.
+The Academica was the second of five books written by Cicero in his attempt to popularise Greek philosophy in Ancient Rome, and it is the only one of the five books that exclusively focused on promoting Academic Skepticism, the school of Hellenistic philosophy to which Cicero belonged. It was preceded by the now-lost Hortensius which argued that the pursuit of philosophy is the most important endeavor one can engage in their leisure time.
+
+
+== Biographical background ==
+
+Just before Cicero turned his efforts to writing books on philosophy he experienced a series of hardships. Gaius Julius Caesar had become both dictator and consul in 46 BCE, and was subverting elements of the Roman Senate, of which the decidedly republican Cicero was a fervent supporter. Cicero had divorced his wife Terentia in 46 BCE, and in 45 BC he married Publilia, a rich young girl in his ward, although the marriage quickly fell apart. In February 45 BCE, Cicero's daughter, Tullia, whom he loved greatly, died after giving birth.
+These misfortunes shook him to his core, with the death of his daughter being most disturbing. In a letter to his friend, Titus Pomponius Atticus, Cicero wrote, "I have lost the one thing that bound me to life." Cicero soon found that the only thing which enabled him to get on with life was reading and writing. He retreated to his villa at Astura, where he isolated himself and composed his philosophical works.
+
+
+== Purpose ==
+In the Academica Cicero aimed to present a complicated series of philosophical debates that had spanned over 250 years.
+The first layer in this series has four main stages, and concerns the debates between the Stoics and Academic Skeptics about epistemology from the third and second centuries BCE.
+1. Zeno of Citium, the founder of Stoicism, made and defended his novel epistemological claims (katalepsis) which were attacked by his contemporary, Arcesilaus, scholarch of the Platonic Academy and the founder of Academic Skepticism. (Circa 275 to 240 BCE).
+2. Zeno's views were reformulated and defended against Arcesilaus by Chrysippus. (Circa 240 to 210 BCE).
+3. Chrysippus' defense was elaborated on by his student Diogenes of Babylon and attacked with renewed vigor by the Academic Skeptic Carneades. (Circa 170 to 150 BCE).
+4. Carneades' arguments were opposed by Diogenes' student Antipater of Tarsus, and the nature of Carneades' skepticism was disputed by Carneades' students Clitomachus and Metrodorus of Stratonicea. (Circa 140 to 110 BCE).
+The second layer of arguments is about intra-Academic disputes about the most consistent form of skepticism. This layer has three main stages.
+1. Philo of Larissa, scholarch of the Academy, abandoned the radical skepticism of his teacher, Clitomachus, and adopted a form of mitigated skepticism. (Circa 100 to 90 BCE).
+2. Philo's position was criticized and rejected by two of his students, Aenesidemus and Antiochus of Ascalon. Aenesidemus continued to adhere to radical skepticism. He left the Academy and adopted Pyrrhonism, in doing so either reviving or re-founding the school that Pyrrho had started and who had influenced Arcislaus to found Academic Skepticism. Antiochus abandoned skepticism and founded a syncretic school that revived the doctrines of the Old Academy, combining them with doctrines of the Peripatetic school, but relying on Stoic epistemology.  (Circa late 90s BCE).
+3. Due to pressure from his critics, Philo abandoned mitigated skepticism for a form of naturalistic fallibilism, which was criticized by Antiochus and by Academics who still adhered to skepticism. (Circa 80s BCE).
+The third and final layer of arguments is with the Roman interlocutors in Cicero's dialogues. These are set in 62 BCE in the first edition and 45 BCE in the second edition.
+
+
+== Structure ==
+The surviving parts of the Academica are structured with book 1 of the second edition serving as the beginning, abbreviated as "Ac. 1", with the Lucullus, the second book of the first edition, following, abbreviated as "Ac. 2".
+The first edition is set on two consecutive days in 62 BCE. The conversation is among four prominent Roman leaders: Quintus Lutatius Catulus Capitolinus, Quintus Hortensius, Lucius Licinius Lucullus, and Cicero. The conversation on the first day takes place in the seaside villa of Catullus, for the Catullus, The Lucullus takes place the second day in the seaside villa of Hortensius.  In the dialogue, Lucullus insists that he is repeating Antiochus' arguments from memory. Catullus says he is repeating his father's views, which appear to be the same as Philo's initial views. Hortensius denies that he has any philosophical expertise. Cicero champions the Academic Skeptic views of Clitomachus.
+The second edition Cicero titled Academici Libri ("Academic Books"). This edition comprised four books. All of this edition is lost except for a substantial portion of book 1 and 36 fragments. Cicero's motivation for the revision was that the characters he had chosen for the dialogue in the first edition were unsuitable for technical philosophical arguments the dialogue contained. He replaced all of the interlocutors except himself. The new interlocutors were Marcus Terentius Varro, who was a follower of Antiochus, and Titus Pomponius Atticus, an Epicurean. This edition was set in the spring of 45 BCE, at Varro's villa on Lucrine Lake.
+Book 1: Varro presents Antiochus' history of philosophy. Cicero gives an alternative history from the perspective of Academic Skepticism.
+Book 2: Cicero presents a series of skeptical arguments against the veridicality of the senses.
+Book 3: This book corresponded closely with the speech Lucullus gave in the Lucullus.
+Book 4: This book corresponded closely with the speech Cicero gave in the Lucullus.
+
+
+== Influence ==
+
+Augustine of Hippo (354–430 CE), who ultimately systematized Christian philosophy, was initially an adherent of Manichaeism. After eight or nine years of adhering to the Manichaean faith (as an "auditor", the lowest level in the sect's hierarchy), he turned from Manichaeism, taking up skepticism, which he subsequently rejected in favor of Christianity. In 386 CE, he published Contra Academicos (Against the Academic Skeptics) which argued against Cicero's claims in the Academica on the following grounds:  
+
+Objection from Error: Through logic, Augustine argued that philosophical skepticism does not lead to eudaimonia as the Academic Skeptics claimed. In summary:
+A wise man lives according to reason, and thus is able to be happy.
+Someone who is searching for knowledge but never finds it is in error.
+Imperfection objection: People in error are not happy, because being in error is an imperfection, and people cannot be happy with an imperfection.
+Conclusion: Someone who is still seeking knowledge cannot be happy.
+Error of Non-Assent: Augustine's argument that epoche (suspending belief) does not fully prevent one from error. In summary:
+Introduction of the error: Let P be true. If a person fails to believe P due to epoche in order to avoid error, this is committing an error.
+The Anecdote of the Two Travelers: Travelers A and B are trying to reach the same destination. At a fork in the road, a poor shepherd tells them to go left. Traveler A believes him and reaches the correct destination. Traveler B instead believes the advice of a well-dressed townsman to go right, because his advice seems more persuasive. However, the townsman is actually a samardocus (con man) so Traveler B never reaches the correct destination.
+The Anecdote of the Adulterer: A man suspends belief that adultery is bad, and commits adultery with another man's wife because it is persuasive to him. Under Academic Skepticism, this man cannot be charged because he acted on what was persuasive to him without assenting belief.
+Conclusion: Suspending belief exposes individuals to an error as defined by the Academic Skeptics.
+
+
+== References ==
+
+
+== Bibliography ==
+
+Brittain, Charles (2006). On Academic Scepticism. Indianapolis, IN: Hackett Publishing. ISBN 0-87220-774-9.
+Strauss, Barry (2016). The Death of Caesar: The Story of History's Most Famous Assassination. New York City, NY: Simon and Schuster. ISBN 978-1-4516-6881-0.
+Taylor, John Hammond (1963). "St. Augustine and the 'Hortensius' of Cicero". Studies in Philology. 60 (3): 487–498. JSTOR 4173424.
+Treggiari, Susan (2007). Terentia, Tullia and Publilia: The Women of Cicero's Family. London, UK: Routledge. ISBN 978-1-134-26456-8.
+Salisbury, Joyce E. (2001). Encyclopedia of Women in the Ancient World. Santa Barbara, CA: ABC-CLIO. ISBN 978-1-57607-092-5.
+Eder, Walter; Strothmann, Meret (2006). "Tullia". In Hubert Cancik; Helmuth Schneider; Christine F. Salazar; Manfred Landfester; Francis G. Gentry (eds.). Brill's New Pauly, Antiquity Volumes. doi:10.1163/1574-9347_bnp_e1222290. ISBN 9789004122598. Archived from the original on July 8, 2019. Retrieved February 12, 2018.(subscription required)
+
+
+== External links ==
+Academic_Questions translated by Charles Duke Yonge (1891), at Wikisource
+Cicero: Academica translated by H. Rackham (1933), at attalus.org
+The Academica of Cicero, Latin edition by James S. Reid (1874), at Project Gutenberg

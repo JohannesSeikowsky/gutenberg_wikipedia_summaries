@@ -1,0 +1,422 @@
+The poetry of Gaius Valerius Catullus was written towards the end of the Roman Republic in the period between 62 and 54 BC.
+The collection of approximately 113 poems includes a large number of shorter epigrams, lampoons, and occasional pieces, as well as nine long poems mostly concerned with marriage. Among the most famous poems are those in which Catullus expresses his love for the woman he calls Lesbia.
+
+
+== Dates of the poems ==
+If Catullus's girlfriend Lesbia is, as is usually assumed, a pseudonym for Clodia, the wife of Quintus Caecilius Metellus Celer, it may be that he first met her in 62 BC, when her husband was governor of Cisalpine Gaul. In poem 83 Metellus is spoken of as being still alive (he died in early 59 BC). It is thought that the earliest poems were written in this period.
+In 57 BC Catullus went abroad for a year as part of the entourage of the governor of Bithynia, Gaius Memmius. Poem 10 was evidently written after his return, as well as 28, in which he reports in obscene language how badly he was treated by Memmius.
+Poem 113 mentions that Pompey has become consul for the second time, dating it to 55 BC. Poems 11 and 29, mentioning the potential invasion of Britain, are also thought to date to 55 BC. Poem 55 mentions the colonnade attached to Pompey's theatre (dedicated 55 BC). None of the poems can be dated later than this. 
+It is often thought that Catullus may have died not long after this. If so he would have been about 28. Suetonius reports that even after Catullus's death, Julius Caesar maintained his friendship with Catullus's father and continued to accept his hospitality.
+
+
+== Sources of the poems ==
+
+Apart from a 9th-century manuscript containing poem 62 (the Codex Thuaneus), Catullus's poems are believed to have survived from antiquity in a single manuscript kept in the cathedral library in Catullus's home town of Verona. This manuscript was apparently read by Bishop Ratherius, who mentioned the poems in a sermon of 965 AD. The manuscript has now been lost, but three copies derived from it were made in the 14th century. These three surviving manuscript copies are stored at the Bibliothèque Nationale in Paris, the Bodleian Library at Oxford, and the Vatican Library in Rome.  They contain approximately 113 of Catullus's carmina. However, a few fragments quoted by later Roman editors but not found in the manuscripts indicate that there are some additional poems that have been lost.
+The poems of Catullus in modern editions follow the numbering used by Muretus in his edition of 1554 (see the illustration). Three of the poems, however—18, 19 and 20—are excluded from most modern editions because they are now considered not to have been written by Catullus, having been added by Muretus (which identified 113 poems existing in the Catullan manuscripts). Some modern editors (and commentators),  however, retain Poem 18 as genuine Catullan. Furthermore, some editors have considered that, in some cases, two poems have been brought together by previous editors, and, by dividing these, add 2b, 14b, 58b, 68b, 78b, and 95b as separate poems. Conversely, poem 58b is considered by some editors to be a fragment accidentally detached from 55, which is in the same rare metre; it has been suggested that it should be placed after line 13 or 14 of that poem. However, different editors disagree about these divisions in some cases.
+
+
+== Structure of the collection ==
+Catullus's carmina can be divided into three formal parts: short poems in varying metres, called polymetra (1–60); nine (if 68 is split into two) longer poems (61–68b), of which the last five are in elegiac couplets; and forty-eight epigrams (69–116), all in elegiac couplets. Since a scroll usually contained between 800 and 1100 verses, these three parts – approximately 860 (or more), 1138, and 330 lines respectively – would not easily fit onto a single scroll.
+Scholars disagree as to whether the collection of poems as it is now was arranged by Catullus himself and what Catullus means by the 'little book' (libellus) which he says he is dedicating to Cornelius Nepos in poem 1. One theory (Quinn 1973, p. xxi) is that Catullus published all the polymetric poems (1–60) himself, and presented this to Cornelius Nepos, but that the others were put together in haphazard order by an editor after Catullus's death. According to another theory (Hubbard (1983)), the libellus ('little book') consisted simply of poems 1–14 (15 poems in all, if 2b is a separate poem); 14b would then start a second collection.
+Helena Dettmer, on the other hand, assuming that the arrangement as it now stands is more or less as published by Catullus himself, sees the poems as divided into nine cycles or groups (1–14, 14a–24 (possibly incomplete), 25–33, 34–44, 45–60, 61–68b, 69–78, 78b–99, and 100–111) plus an epilogue of five poems (112–116). She argues that each of these cycles has its own internal structure, and that in several cases poems in the first half of a cycle are balanced chiastically by poems in the second half.
+Thus in the first cycle poems 1 and 14 balance each other, since both describe the gift of a new book of poetry. Within this frame, poems 2 and 3, both describing Lesbia's pet bird, are balanced by the two dinner-party poems (12 and 13) both mentioning a gift from or to Fabullus. Another balancing pair is 6 and 10, which contrast the mistresses (scorta) of Flavius and Varus.
+In some cases, Dettmer argues, two corresponding poems are linked not only thematically but also by verbal echoes. Thus in the first cycle poems 3 and 13 are linked by the phrases Veneres Cupidinesque 'Venuses and Cupids' and meae puellae 'of (or to) my girl'; in the 4th cycle, 38 and 40 are linked not only by the theme of anger, but by the phrase meos amores 'my love' in each. In the fifth cycle, the first and last poems (45 and 60), on the contrasting themes of love promised and love spurned, are linked by the mention of Libyan lions. In the same cycle, 47 (the shabby treatment of Veranius and Fabullus by Piso) is linked to 58 and 59 (the moral degradation of Lesbia) by the theme of cadging for dinner and the words for street corners (trivio 'three ways' in 47, quadriviis 'four ways' in 58).
+In the eighth cycle, the famous odi et amo 'I hate and I love' epigram (85), even though thematically different from the Caesar epigram (93), is paired with it by the structural similarity: both poems contain an indirect question, a contrast of opposites (hate vs love, white vs black), and the words nescio, nec scire 'I do not know' at the beginning of the second line of each. The two epigrams are also symmetrically positioned within the cycle, 8th from the beginning and 7th or 8th from the end of the cycle respectively.
+The last of the elegiac poems (116) is linked to the first elegiac poem (65) by the phrase carmina Battiadae 'songs of Callimachus', which occurs only in these two poems. Both poems concern the sending of poems.
+Dettmer also notes that the total length of the five long elegiac poems (65, 66, 67, 68a, 68b) (326 lines, or a little more if the missing lines are added) is almost exactly equal to the length of all the remaining fifty shorter elegiac poems (330 lines). She believes this is not a coincidence.
+Reviewing Dettmer's work on the polymetra, Phyllis Forsyth finds that the thematic links Dettmer finds between poems are sometimes strained and not firmly based; but adds "Patterns and parallels, however, do exist in the poems of Catullus, as many recent studies have shown".
+
+
+== Themes ==
+
+
+=== Polymetra and epigrams ===
+The polymetra and the epigrams can be divided into four major thematic groups (ignoring a rather large number of poems eluding such categorization):
+
+poems to and about his friends (e.g., an invitation such as Poem 13).
+erotic poems: some of them indicate homosexual penchants (48, 50, and 99), but most are about women, especially about one he calls "Lesbia" (in honour of the poet Sappho of Lesbos). Catullus displays a wide range of highly emotional and seemingly contradictory responses to Lesbia, ranging from tender love poems to sadness, disappointment, and bitter sarcasm.
+invectives: some of these often rude and sometimes downright obscene poems are targeted at friends-turned-traitors (e.g., Poem 16) and other lovers of Lesbia, but many well-known poets, politicians (e.g. Julius Caesar) and orators, including Cicero, are thrashed as well. However, many of these poems are humorous and craftily veil the sting of the attack. For example, in poem 84 Catullus makes fun of the pronunciation of a less well educated man who adds "h" to words which shouldn't have it.
+condolences: some poems of Catullus are serious in nature. One poem, 96, comforts a friend for the death of his wife, while several others, most famously 101, lament the death of his brother.
+
+
+=== Long poems ===
+The longer poems (61–68b) differ from the polymetra not only in length but also in their subjects and their metre: they include two wedding songs and one mini-epic, or epyllion, the most highly prized form for the "new poets". Although they differ in style from each other, there is a common theme to most of them, namely marriage. Even the Attis poem (63) has been interpreted by some scholars as reflecting Catullus's relationship with Lesbia.
+
+Poem 61 is a marriage song of 235 short lines organised in five-line stanzas. It celebrates the marriage of a certain Manlius Torquatus, almost certainly Lucius Manlius Torquatus, who appears as one of the characters in Cicero's philosophical work De finibus, championing Epicureanism. The poet first calls on Hymenaeus, the god of weddings, to come, dressed in yellow like a bride. Then he addresses the bride as she approaches in a procession, and he bids the master's favourite slave-boy (concubinus) to throw nuts, and the bridegroom to abstain from such pleasures in future. He orders the attendants to escort the bride to the bridal chamber and her husband to join her. He wishes the pair countless joys and predicts the birth of a little Torquatus. He ends by telling the girls to close the doors.
+Poem 62 is another marriage song, but in a different style, this time in hexameters, with a chorus of young men competing with a chorus of young women while they await the arrival of a bride. The young men are outside, watching out for the appearance of Hesperus, the Evening Star, while the girls sit inside. The young men encourage the girls to do their duty to their parents to get married, while the girls feign their reluctance.
+
+Poem 63, in the rare and excitable Galliambic metre, is about a young Greek man called Attis who travels to Phrygia and castrates himself out of devotion for the goddess Cybele. He later repents what he has done; but in the end Cybele drives him to a frenzy once again.
+Poem 64, at 408 hexameter lines by far the longest poem in the book, is a description of the meeting and mythical wedding of King Peleus and the sea-goddess Thetis. Inserted in this is another myth (supposedly woven into a bedspread on the marriage bed), the tragic story of Ariadne (Ariadna) after she was abandoned on the island of Dia by her lover Theseus. This inner story in turn includes the story of Theseus and the Minotaur, as well as the speech by King Aegeus to Theseus before he set off, and Theseus' tragic return. The poem then moves back to the wedding. Once the crowds of humans have drifted away, the gods appear. When they are seated the three Parcae (Fates) spin their thread and predict the heroism and death of Peleus' son Achilles, and the sacrifice of Priam's daughter Polyxena over his tomb. The poem ends by describing how the age when the gods used to visit the earth gave way to an age where justice is absent.
+Poem 65 is a short epistle to the orator Quintus Hortensius Hortalus introducing poem 66. In the epistle Catullus mentions his sadness at the death of his brother, who was buried at Rhoeteum near Troy.
+Poem 66 is a translation of a famous poem by Callimachus, describing how the newly wedded Queen Berenice II of Egypt vowed to cut off a lock of her hair if her husband returned safely from a campaign; the lock disappeared and was discovered by the court astronomer among the stars. The story is told by the lock itself, who complains of its distress at being cut off from its mistress's head and prays for gifts of scented oil from Berenice and other faithful brides.
+Poem 67 is a comic conversation between an interrogator (presumably Catullus) and a house door in Verona. He asks why the door was disloyal to its previous master (presumably by letting in lovers to visit his wife). The door, in the manner of a gossipy servant, claims that the wife was no virgin when she arrived. In a previous marriage, as the town of Brixia (Brescia) bears witness, although her husband was impotent, she had been raped by her father-in-law, and she had also had three lovers (Postumius, Cornelius, and one the door refuses to name but describes as "a tall man with red eyebrows"). The door had heard all about it by eavesdropping on conversations between the wife and her maids.
+Poem 68a, like 65, is a short epistle, apparently introducing the poem which follows, even though the name of the addressee, Mallius, does not seem to match that of 68b. In the epistle Catullus again mentions the death of his brother, and excuses himself from writing a learned poem since he is in Verona and does not have his library with him.
+Poem 68b (= lines 41–160 of poem 68) is written for a certain Allius, who had apparently helped Catullus in his affair with Lesbia by providing them with a house to meet in. The poem contains the myth of the newly married Laodamia and Protesilaus. Inserted in this story is a lament for the death of Catullus's brother, who, like Protesilaus, was buried on the shore near Troy. At the end he again thanks Allius for his services and wishes well to the house and the mistress who is so dear to him.
+
+
+=== Catullus and later poets ===
+Catullus is the predecessor in Roman elegy of poets like Propertius, Tibullus, and Ovid. Catullus came at the beginning of the genre of love poetry, so his work is different than that of the later poets. Ovid is heavily influenced by Catullus; however, the focus of Ovid's writing is on the concept of love, rather than on himself or the male lover.
+One feature which Catullus has in common with Horace and Tibullus is that he wrote about his love not only for a woman but also for a boy. Thus Catullus writes about Lesbia and Juventius, Horace about Cynara and Ligurinus, Tibullus about Delia and Marathus.
+The poet most strongly influenced by Catullus was Martial, who like Catullus wrote short poems using as his favourite metres the Phalaecian hendecasyllable, choliambs (scazons), and elegiac couplets.
+
+
+== Persons in the poems ==
+Several people are addressed or mentioned in more than one poem, and seem to have played in important part in Catullus's life.
+
+
+=== Lesbia ===
+The major love of Catullus's poems is a woman he calls "Lesbia". Lesbia is mentioned by name in 13 poems (5, 7, 43, 51 and 58 in the polymetra, and 72, 75, 79, 83, 86, 87, 92, and 107 in the elegiac epigrams); but it is usually assumed that she is referred to in several others, for example as meae puellae 'of my girl' in 2, 3, 11, 13; puella 'girl' in 8 and 36; mulier mea 'my woman' in 70; mea vita 'my life' in 109 and 104; omnia nostra bona 'all our good things' in 77; mea candida diva 'my fair goddess' in 68; or simply illa 'she' in 76. Fordyce puts the total number of Lesbia poems at 25, Quinn at 26, listing 2, 3, 8, 11, 13, 36, 37, 68, 70, 76, 85, 104, 109 as referring to Lesbia without naming her. But there may be yet other poems referring to Lesbia, besides those listed by Quinn; for example, the last of the polymetrics, poem 60, reproaching an unnamed woman for her cruelty, and comparing her to the offspring of a female lion or the monster Scylla, has also been thought to refer to Lesbia.
+Early in the collection, Catullus expresses his passionate love for Lesbia, famously demanding thousands of kisses from her in poems 5 and 6; but already in poem 8 he had grown bitter and disillusioned by Lesbia's infidelity. In poem 11 he accuses her of sleeping with 300 other men, and in poem 58 of being no better than a common prostitute.
+In the elegiac poems, in poem 75, Catullus speaks of his mixed feelings for Lesbia: he does not wish her well, but cannot stop loving her. In poem 76, Catullus speaks with emotion of the deep depression he is suffering as a result of Lesbia's dropping him, and prays the gods to relieve him of it. In the famous epigram odi et amo 'I hate and I love' (85), he again expresses his mixed feelings and what he is suffering. But at the end of the collection, in poems 107 and 109, it appears that the two have become reconciled again, even though Catullus is sceptical about Lesbia's promises.
+It is likely that "Lesbia" is a pseudonym; Apuleius reveals that her real name was Clodia. Already in 1553 the Renaissance scholar Victorius had suggested that this Clodia is to be identified with the aristocratic Clodia, wife of Quintus Caecilius Metellus Celer (consul 60 BC) and daughter of Appius Claudius Pulcher (consul 79 BC), a woman whom Cicero attacks mercilessly in his speech Pro Caelio. This identification, though not certain, is thought probable by modern scholars. Clodia's two sisters also used the spelling Clodia; but in poem 83 Clodia's husband is spoken of as being still alive. Metellus died in 59 BC; Fordyce therefore argues that Catullus's Lesbia is less likely to be the eldest sister, Clodia Marcii, whose husband was dead by 61 BC, or the youngest, Clodia Luculli, who had been divorced in 66 BC. If the identification is correct, Fordyce suggests that Catullus may have met Clodia in 62 BC when her husband Metellus served as governor of Cisalpine Gaul, not far from Catullus's home town of Verona. Clodia would have been possibly as much as ten years older than Catullus. The scandalous behaviour of Clodia depicted by Cicero in the Pro Caelio certainly fits the depiction of Lesbia in Catullus's poems.
+After her husband's death in 59 BC – Cicero insinuates that she poisoned him – it seems that Clodia took up with a younger man Marcus Caelius Rufus, who had rented a house near hers on the Palatine Hill in Rome. It is thought possible that poem 77, in which Catullus bitterly attacks a certain former friend called Rufus for stealing his love, reflects this change. Later Caelius broke off his relationship with Clodia, and in 56 BC he was taken to court on a charge (among other things) of trying to poison her.
+
+
+=== Juventius ===
+Also included among the poems are four (24, 48, 81, 99) mentioning a certain boy Juventius, of whom it seems that Catullus was very fond. It is conjectured that other poems too, such as 15, 21, 38, and 40 may also refer to Juventius, although he is not named. The name Juventius is that of an upper-class Roman family, and so it is likely that Juventius is of the same social class as Catullus and his friends, not a slave boy. The name is also attested in Verona, so another theory is that he may have been sent from there to Rome for Catullus to look after.
+In the first of these poems (15) Juventius is not named but it is usually assumed that the phrase meos amores 'my love' refers to him. Catullus commends himself and his love to his friend Aurelius but begs him to keep him pure and not try to seduce him; since Aurelius has a reputation for seducing boys. If Aurelius betrays Catullus, Catullus jokes that he will punish him severely by anal rape with a radish or a mullet.
+In poem 21 Catullus criticises Aurelius for constantly flirting with the boy (again Juventius is unnamed). In poem 24, Catullus reproaches Juventius (naming him this time) for allowing Furius to flirt with him, warning him that Furius has no money. In poem 40, Catullus attacks a certain Ravidus, who seems also to have tried to seduce Juventius.
+In poem 48 Catullus, in language similar to his Lesbia poems, says that he would like to give Juventius thousands of kisses. Some critics believe that it is this poem rather than poem 5 that Aurelius and Furius had teased Catullus about in poem 16.
+In poem 81, Catullus chides Juventius for having fallen in love with a stranger from the dead-end town of Pisaurum in preference to Catullus. Fordyce and Quinn assume that this is a visitor to Rome; but Dettmer and Richardson argue from the coincidence in language between 24 and 81 that the person meant is Furius.
+Juventius is last heard of in poem 99, where Catullus says he tried to steal a kiss from the boy, and this caused Juventius to reproach him angrily. Catullus says that as a result the kiss turned for him from ambrosia (the food of the gods) to hellebore (a bitter herb used to cure madness), curing him of his passion.
+Although the surname "Silo" is found on an inscription of the period in connection with the Juventius family, there is too little evidence to connect poem 103, addressed to a Silo, with Catullus's Juventius.
+
+
+=== Caelius Rufus ===
+A "Caelius" or a "Rufus" (or "Rufulus") is addressed in 5 poems (Caelius in 58 and 100, Rufus in 69 and 77, Rufulus in 59); to these can be added 71, which is linked to 69 by the mention of the bad smell in the armpits of the person described. 77 also seems to be linked by verbal imagery to 76. Scholars differ as to whether some, or any, of these poems refer to the Marcus Caelius Rufus defended by Cicero in his speech Pro Caelio. Several, however, such as Fordyce and Austin, believe it possible that 77 at least refers to Cicero's Caelius.
+One objection to poem 100 referring to Cicero's Caelius is that he is said to be from Verona, while Cicero's Caelius (if the text of Pro Caelio §5 is sound) came from Picenum. A lesser objection is that the Caelius of 58 and 100 seems to be Catullus's friend, whereas the Rufus of 69 and 71 is the target of derision, and the Rufus of 77 is a former friend who is now the subject of angry reproach.
+In her study of Catullus's poems, however, Helena Dettmer argues that the verbal echoes which link the poems together indicate that they all refer to the same man, namely Caelius Rufus. She also joins to these poem 49, addressed to Cicero, pointing out that the striking phrase Romuli nepotum 'of the grandsons of Romulus' at the beginning of 49 links it to Remi nepotes 'grandsons of Remus' at the end of 58, while the word patronus 'patron' at the end of 49 links it to Caeli 'Caelius' at the beginning of 58. Thus in her view the Caelius of poem 58 is the Caelius defended by Cicero in the year 56 BC.
+Another suggestion Dettmer makes is that, in view of the obvious verbal links between 58 and 59, the "Rufa of Bononia" (Bologna) in poem 59 is a mocking name for Lesbia herself; the obscenities glubit of 58 and fellat of 59 refer to the same activity. Of the three five-line epigrams (58, 59, 60) which end the polymetric part of the book, the first certainly, and the second and third probably, refer to Lesbia in angry terms as a prostitute and provide a closure for the first part of the collection.
+
+
+=== Licinius Calvus ===
+Gaius Licinius Macer Calvus, an orator and poet, was about the same age as Catullus, and a close friend; their names are linked by Propertius (2.25.4, 2.34.87), Horace (Sat. 1.10.19), and Ovid (Am. 3.9.61–62) as representatives of the "new" poetry. He is addressed or mentioned in four poems (14, 50, 53, 96).
+In poem 14 Catullus indignantly "thanks" Calvus for the gift of a "horrible book", apparently an anthology of modern poetry which Calvus had sent him on the occasion of the Saturnalia festival; Catullus promises to pay him back in kind with the worst poets he can find in the bookshops.
+In poem 50, Catullus reminds Calvus how on the previous day they had enjoyed themselves taking turns to compose poetry in different metres, and he jokingly reports that he had spent a sleepless night suffering from all the symptoms of being in love, and was longing to see him again. He writes that he has written "this poem" (it is unclear whether he means poem 50 itself or the translation of Sappho which follows in 51) for Calvus.
+In poem 53, Catullus recalls how, when he was watching Calvus prosecute Publius Vatinius (a general of Julius Caesar) in court, probably in 54 BC, he was made to laugh when a bystander called out "Great gods, what an eloquent salaputium!" The meaning of this word, perhaps from the Oscan language, is disputed; it is usually translated "little man" (since Calvus was quite short in stature), but some suspect that it may also have had an obscene meaning.
+Finally, in poem 96, Catullus writes a consolation to Calvus on the death of a certain Quintilia, who is thought to have been Calvus's young wife.
+
+
+=== Gaius Helvius Cinna ===
+In poem 10, Catullus mentions a friend Gaius Cinna, who apparently owned a litter with eight bearers: the implication is that he had been to Bithynia (either with Catullus or a few years earlier in 66 BC, when he is said to have brought back the poet Parthenius to Rome).  In poem 95, Catullus praises Cinna's very learned poem Smyrna, which apparently took 9 years to write. In poem 113, Catullus writes to Cinna about a certain woman called Maecilia who had numerous lovers. It is believed that all three of these poems refer to the poet Helvius Cinna, who may have come from Brescia, not far from Verona, since the name Helvius is found in inscriptions there. Cinna held the office of tribune in 44 BC, the year of Caesar's death, and is said to have been killed by the crowd by mistake for another man of the same name. Virgil also praises his poetry in Eclogue 9.35, written about 41 BC.
+
+
+=== Cornificius and Camerius ===
+Another friend of Catullus is Cornificius, thought to be Quintus Cornificius, who wrote poetry in the same Alexandrian style as Catullus. In poem 38, Catullus begs him to send him a sad poem to help cheer him up in his depression. Cornificius was a friend of Cicero, and served as one of Caesar's commanders in 48 BC.
+Cornificius's sister Cornificia, herself a poet, married a certain Camerius, who may well be the same Camerius that Catullus addresses in poems 55 and 58b. Wiseman conjectures that he came from a wealthy family in Transpadane Gaul, perhaps from Vicetia (Vicenza) or Patavium (Padua), where the name has been found on inscriptions. Nappa compares poem 6, where in a similar teasing way Catullus demands that his friend Flavius reveal all about his latest love affair.
+
+
+=== Veranius and Fabullus ===
+Veranius and Fabullus, who are mentioned together in 12, 28, and 47, and separately in 9 and 13, seem to have been close friends of Catullus.
+In poem 9 Catullus calls Veranius the best of all his friends as he welcomes him home from Spain. From poem 12, it seems that Fabullus has also been to Spain, and they have both sent Catullus a gift of some napkins made out of linen, for which the town of Saetabis (Xàtiva or Jativa) in western Spain was famous. In poem 13, Catullus invites Fabullus to dinner, jokingly asking him to bring the food and wine, and a girl. It has been suggested that this is the homecoming dinner traditionally given to friends who have returned from a journey.
+In poem 28, both friends are said to be Pisonis comites 'travelling companions of Piso'. This presents a problem, since none of the Piso family is known to have governed in Spain in this period. There was, however, Lucius Calpurnius Piso Caesoninus (consul 58 BC), who was the father-in-law of Julius Caesar, and governor of the province of Macedonia from 57–55 BC. It may well be, therefore, that Veranius and Fabullus went first to Spain, then later accompanied Piso Caesoninus to Macedonia. It seems from poem 28 that the two friends fared as badly under Piso as Catullus did on his trip to Bithynia under Memmius. The theme is continued in poem 47, where two of Piso's followers, Porcius and Socration, are reported to have done very well out the trip, while Veranius and Fabullus have been left cadging for invitations on a street corner.
+
+
+=== Furius and Aurelius ===
+According to one view, Furius and Aurelius are two friends with whom Catullus enjoys making jokes, often of a ribald kind. A contrary interpretation, expressed by Richardson, is that they were hangers on of Lesbia, enemies of Catullus, and despised by him. The two are associated in several poems with Juventius. It is thought by some scholars that Furius may be the poet Marcus Furius Bibaculus, who is known to have written satirical poems in the style of Catullus. Aurelius is unknown.
+In poem 11 Catullus describes Furius and Aurelius as companions who are prepared to go with him to the ends of the earth; Quinn compares Horace Odes 2.6 (also in the Sapphic metre), in which Horace speaks to a friend in similar language. He conjectures that they may have offered to attempt a reconciliation between Catullus and Lesbia. But Catullus sends them with a message to tell Lesbia in scathing terms how hurt he is by her promiscuity.
+In 15, Catullus commends Juventius to Aurelius, with a request warning him not to try to seduce the boy; he comments on Aurelius's known reputation for this sort of thing and threatens him with dire punishment of a sexual kind (anal rape with a radish or a mullet) if he disobeys.
+In 16 Catullus famously attacks the two, using obscenities, because they have criticised his poetry as being too unmanly and indecent; he (jokingly?) threatens to show them who is the real man, by both oral and anal rape. It has been suggested that the "many thousands of kisses" which was the basis for his friends' mockery is a reference not to poem 5 but to poem 48, in which Catullus says he would like to give Juventius, if he were allowed, 300,000 kisses.
+On a similar theme to 15 is poem 21, in which Catullus protests that Aurelius has been flirting with Juventius, and he similarly threatens him with a sexual punishment. In this poem Aurelius is addressed as pater esuritionum 'father of hungers', which has been explained as a reference to Aurelius's voracious sexual appetite already mentioned in poem 15. At the end of the poem Catullus declares that he is upset to see Juventius taught similar sexual appetites to Aurelius.
+In poem 23 Catullus addresses Furius, who has apparently asked to borrow money. Catullus refuses to lend him any, and with an exaggerated flight of fancy Catullus he describes the poverty of Furius's family, and teases him by saying that Furius's body is so dry and healthy from lack of food that even his shit can be crumbled with the fingers. In poem 24, Catullus warns Juventius not to let Furius make love to him, since he has no money.
+In poem 26 Furius is again mocked for his poverty. Catullus says that Furius's villa may not be exposed to the south wind but it is exposed to the horrible wind of a large mortgage. Richardson sees this poem as connected to poem 44, in which Catullus says that whether his villa is in Tibur (Tivoli), as his friends say, or in the Sabine country, as his enemies claim, he still finds it a great relief to go there. Richardson suggests that Furius had earlier written a poem about Catullus's villa, mocking it for being in an unfashionable location and subject to an unhealthy south wind. He 
+It is not clear who is meant by the "host (or guest) from Pisaurum" (a dead-end place on the Adriatic coast) in poem 81 with whom Juventius has fallen in love, to Catullus's indignation. But comparing the similar language of 24 and 81, both Dettmer and Richardson believe that it may well be Furius.
+According to the theory that those hendecasyllabic poems whose lines uniformly begin with two long syllables are earlier than those that mix in iambic or trochaic openings (see below on Metre), the hendecasyllabic Furius and Aurelius poems (15, 16, 21, 23, 24, 26) are presumably early, as are all the poems concerning Veranius and Fabullus (9, 12, 13, 28, 47). But poem 11, in Sapphic stanzas, mentioning the possible invasion of Britain of 55 BC, is relatively late.
+
+
+=== Varus and Flavius ===
+A Varus is addressed in poem 10, who introduces Catullus to his girlfriend ("a little whore"), and another Varus (or the same one) in poem 22, to whom Catullus writes about a certain Suffenus, who is described as a witty dinner companion but a very bad poet. It is not known if these were the same friend or who they may be. One possibility is the jurist Alfenus Varus, addressed by Virgil in Eclogue 6, who was responsible for confiscating lands near Cremona and Mantua in 41 BC. The other is a certain Quintilius, a friend of Horace and Virgil, whose death Horace mourns in Ode 1.24. This latter is also said to have had the surname Varus although in fact there is no evidence for this before the 4th century BC and the information may be mistaken.
+There is also poem 30, addressed to an Alfenus, criticising him for his lack of loyalty. The fact that the rare metre of this poem, the greater asclepiad, was also used by Horace in Odes 1.18, addressed to a Varus, has suggested to many scholars that both are addressed to the same man, namely Alfenus Varus. Alfenus is said to have been born in Cremona not later than 82 BC, so was about the same age and from the same part of Italy as Catullus.
+Another friend who, according to Catullus, has a girlfriend who is a "whore", is Flavius, addressed in poem 6; but nothing is known of him. Like Camerius in poem 55, Flavius is teased for obviously conducting an affair, but failing to tell his friends about it.
+
+
+=== Sestius ===
+In poem 44, Catullus humorously complains that he has caught a cold by reading the stylistically frigid speech his friend Sestius made against a certain Antius; apparently he had read this speech in the hope of getting an invitation to dinner from Sestius. It has been suggested that Sestius is to be identified with Publius Sestius (tribune of 57 BC), an ally of Cicero whom Cicero defended in his speech Pro Sestio of 56 BC. Antius is thought to be Gaius Antius Restio, an austere politician who had authored a law forbidding magistrates to attend dinner parties.
+Sestius was the father of Lucius Sestius, who is addressed in Horace's well known Ode 1.4 (Solvitur acris hiems).
+
+
+=== Egnatius ===
+Egnatius appears in poems 37 and 39, both in the choliambic (scazon) metre. Egnatius is apparently a Celtiberian from Spain. In poem 37 Catullus includes him among the numerous lovers of Lesbia, and mocks his long hair and black beard, of which he is so proud, and his teeth polished (Catullus suspects) with urine. In 39 he again mocks his gleaming white teeth, and his silly habit of smiling on all occasions. Again Catullus mocks him for the Spanish practice of using urine to clean the teeth.
+It is possible that Egnatius is to be identified with a didactic poet of this name mentioned by Macrobius.
+
+
+=== Catullus's brother ===
+Catullus appears to have been deeply affected by the death of his brother. He mentions his death in four poems, first in 65, where he informs a friend Hortalus (i.e. the orator Quintus Hortensius Hortalus) that his brother has recently died and is buried on the Rhoetian shore near Troy.
+In 68a, in an epistle to another friend whose name is disputed, he writes: "By dying, you have broken all our happiness, brother; with you, our whole family has been buried. All our joys have died along with you, joys which during your life your sweet love used to nourish." He gives this, as well as the fact that he is Verona, as an excuse for not writing the poem which his friend has called for. Again, in 68b, he writes in similar terms about his brother's death, linking it to the story of Laodamia and Protesilaus by the fact that Protesilaus like his brother died on the shore at Troy.
+In 101 (Multas per gentes) Catullus describes how he has travelled a great distance to make offerings at his brother's grave. This was presumably on his trip to Bithynia in 57–56 BC. Although the form of this poem is conventional, it is famous for its beauty and the depth of feeling it expresses. "For all their simplicity Catullus' lines have a distinction of form, both in language and metre, which makes them outstanding among his elegiacs."
+It has been suggested that the phrase in novissimo casu 'in this latest misfortune' in poem 60 also refers to the death of Catullus's brother.
+
+
+=== Allius and Manlius ===
+Poem 68b, which tells the story of Laodamia, in the middle of which is inserted a lament for Catullus's brother, is addressed four times to a certain Allius. In it Catullus expresses his gratitude to Allius for coming to his rescue at a time when he was burning with love: it appears that Allius had provided Catullus with a house in which he could meet with his "fair goddess" (presumably Lesbia). Catullus vividly recalls the moment when he heard the sound of his mistress's sandal on the threshold of the house.
+68b is preceded by an epistle which is apparently addressed not to Allius but to someone the manuscripts twice spell as Mali or Manli (i.e. Mallius or Manlius). In the epistle, Catullus apologises for not being able to produce a love poem or a learned poem such as his friend had requested. Some scholars consider Manlius and Allius different people and that Manlius is perhaps the same as the Manlius Torquatus of poem 61; but others, feeling that this must be the same person as the addressee of 68b, have proposed various solutions: for example, perhaps "Mali" is Allius's forename "Manius", or perhaps the true reading in 68a is mi Alli 'my Allius', or perhaps Allius is a pseudonym for Manlius; but no general agreement has been reached.
+
+
+=== Mamurra ===
+A person who is mentioned in eight different poems, and who was continually attacked by Catullus, was Mamurra, a prefect of engineers serving under Julius Caesar, who became immensely rich. In poems 29 and 57 he is called by his name, in 41 and 43 he is ridiculed as decoctor Formianus 'the bankrupt of Formiae', and in four others (94, 105, 114, 115, probably also in 29) he is given the abusive nickname Mentula 'penis'.
+In poem 29, dated probably to late 55 BC, Catullus rails against Pompey and Caesar for enriching the spendthrift Mamurra, who has squandered all his wealth. He refers to Mamurra as 'that worn out mentula of yours'.
+In poems 41 and 43 Catullus abusively attacks a woman he calls "Ameana" (the spelling is uncertain), the "girlfriend of the spendthrift of Formiae", describing her ugliness and the ridiculously high prices she charges for her services as a prostitute. He compares her unfavourably to Lesbia, who is truly beautiful.
+In 57 Catullus again links Mamurra and Caesar, calling them both shameless perverts (improbi cinaedi) and adulterers; they are like twins, both diseased, each as bad as the other.
+In 94 Catullus accuses Mamurra of adultery, and in 105 he mocks his failed attempts at writing poetry. In 114 and 115, he describes the extensive estates owned by Mamurra, but mocks him for being impecunious, and adds that great as these are, the greatest thing is the "Prick" who owns them.
+
+
+=== Julius Caesar ===
+Caesar is mentioned or addressed in five poems: in 11, 57, and 93 as "Caesar" and in 29 and 54 as imperator unice/unice imperator 'one and only commander'.
+Poem 11 is quite complimentary, mentioning the possibility of visiting "the great monuments of Caesar, the Gallic Rhine and the furthest Britons". But 29 criticises both Caesar and Pompey for giving their patronage to Mamurra and allowing him to become so rich. Whether cinaede Romule 'you pervert Romulus' in poem 29 refers to Caesar or Pompey is disputed. (Fordyce believes it is Caesar. Quinn that it is Pompey.) Poem 54 points out some unpleasing physical characteristics of some of Caesar's followers, and predicts that Caesar will get angry to read Catullus's lampoons. Poem 57 is downright rude to Caesar, returning to the theme of 29 and calling both Mamurra and Caesar shameless perverts and adulterers, and saying they are like twins, as bad as each other. Finally in 93 Catullus says he has no interest in knowing whether Caesar is "white or black", i.e. what sort of person he is.
+The historian Suetonius tells a story of how Caesar protested about one of these poems (probably poem 57), and that Catullus apologised and Caesar invited Catullus to dinner. He adds that Caesar continued to accept Catullus's father's hospitality even after Catullus had died. The order in which the five poems appear in the collection is not necessarily the order in which they were written: poem 29 must be not later than 55 BC, according to Quinn, while poem 57 may be earlier than 58 BC.
+
+
+=== Gellius ===
+Another person who is the object of Catullus's scorn and contempt is a certain Gellius, who is mentioned or addressed in poems 74, 80, 88, 89, 90, 91, and 116. It seems that 78 is part of the same series. He is generally identified with Lucius Gellius Poplicola, brother or half brother of Tibullus's patron Marcus Valerius Messalla Corvinus, and brother-in-law of Atratinus, who prosecuted Caelius Rufus in the trial of 56 BC.
+In 74, Gellius is depicted as having an affair with the wife of his father's brother; in 78, another uncle, Gallus, is encouraging him in the affair. In 80, Gellius is said to be having a homosexual affair with a certain Victor, and getting his rosy lips covered with semen. In 88, he is having sex not only with his uncle's wife, but also with his own mother and sister. In 89, Catullus finds Gellius's thinness unsurprising in view of his committing incest with all his female relatives. In 90, Catullus predicts that Gellius will beget a magus, since according to Persian custom, magi were born from a union of mother and son.
+The climax of this series of poems comes with 91, in which Catullus rails at Gellius for being an unfaithful friend. He had hoped Gellius would be faithful, at a time when Catullus was madly in love. The implication of this poem is that Gellius had angered Catullus by seducing or attempting to seduce Lesbia.
+Finally in poem 116, the last poem of the book, Catullus tells Gellius that he had been looking for a poem of Callimachus to send him, in the hope that Gellius would stop his attacks on Catullus. However, he sees that this is in vain, and he warns Gellius that he will be punished in turn (presumably by the lampoons which have preceded in poems 74–91). The old-fashioned stylistic features of this poem, such as the fully spondaic line 3, perhaps mimic or mock Gellius's own style of writing, antithetical to that of Catullus.
+Dettmer points out that this last poem in the collection is a kind of inversion of poem 1. There Catullus, in admiration for Cornelius Nepos's writings, sends him some charming poems; here he says he has decided not to send Gellius a charming poem, but out of exasperation with Gellius's attacks, will send him some vicious lampoons instead.
+
+
+== Metre ==
+
+
+=== Phalaecian hendecasyllable ===
+Catullus's favourite metre in the first part of his collection is the Phalaecian hendecasyllable, which is used in 41 of the approximately 57 poems of the polymetra. This is the metre, for example, of the well known poem 5: 
+
+– – – ᴗ ᴗ – ᴗ – ᴗ – –
+vīvāmus, mea Lesbi(a), atqu(e) amēmus
+'let's live, my Lesbia, and let's love'
+and poem 13: 
+
+cēnābis bene, mī Fabull(e), apud mē
+'you will dine well, my Fabullus, at my house'.
+Not all hendecasyllabic lines in Catullus start with two long syllables, as the above. Some start with an iamb (ᴗ –), or a trochee (– ᴗ). The following starts with an iamb (ᴗ –):
+
+ᴗ – – ᴗ ᴗ – ᴗ – ᴗ – –
+malest, Cornificī, tuō Catullō
+'Cornificius, your friend Catullus is not well'
+The following starts with a trochee (– ᴗ):
+
+– ᴗ – ᴗ ᴗ – ᴗ – ᴗ – –
+āridā modo pūmic(e) expolītum
+'freshly smoothed with dry pumice-stone'
+It has been noted that in poems 2 to 26 the opening of the line is nearly always a spondee (– –), as in the above two examples, but in poems 27 to 60, as well as in poem 1, Catullus often begins a line with an iamb (ᴗ –), or a trochee (– ᴗ). This suggests that Catullus changed his practice as he continued to write his poems, using a more varied opening in the later poems. These latter types opening with iamb or trochee did not find favour with later poets such as Statius and Martial, who always used a spondaic opening.
+Another variation is found in poems 55 and 58b (which some consider to be fragments of the same poem). In twelve lines of 55 and two lines of 58b Catullus contracts the 4th and 5th syllables of the line into a single long syllable, so that the line starts with five long syllables. The first two syllables in these poems are always long. 55 begins as follows:
+
+– – – ᴗᴗ – ᴗ – ᴗ – –
+ōrāmus, sī forte nōn molestumst,
+dēmōnstrēs ubi sunt tuae tenebrae
+'We beg you, if by chance it is not a nuisance,
+that you show us where your hiding place is'
+
+
+=== Iambic metres ===
+
+
+==== Scazon ====
+The next most common metre in the first part of the book is the choliamb, also known as the scazon, which is used in eight poems, including no. 8:
+
+x – ᴗ – | x, – ᴗ – | ᴗ – – –
+miser Catulle, dēsinās ineptīre
+'wretched Catullus, you should stop being foolish'
+and 31:
+
+paen(e) īnsulārum, Sirmi(o), īnsulārumque
+'o Sirmio, (most lovely) of peninsulas and islands'.
+
+
+==== Iambic trimeter ====
+Three poems (4, 29, 54) use the iambic trimeter. The iambic trimeters used in 4 and 54 differ from the trimeters of comedy or tragedy in that virtually every other syllable is a short one, for example in poem 4:
+
+ᴗ – ᴗ – | ᴗ – ᴗ – | ᴗ – ᴗ –
+phasēlus ille quem vidētis, hospitēs
+'that yacht which you see, guests...'
+This purely iambic form of the metre is not found in any extant earlier poets, either Latin or Greek.
+A characteristic of these iambic poems is that Catullus follows the Greek practice of allowing a short vowel to count as long before a word beginning with two consonants, e.g. Propontidā trucemve, impotentiā freta etc.
+
+
+==== Iambic tetrameter catalectic ====
+One poem uses iambic tetrameter catalectic (25), which consists of two iambic dimeters, the second one catalectic (i.e. shortened by one syllable). It begins:
+
+ᴗ – ᴗ – | ᴗ – ᴗ – || ᴗ – ᴗ – | ᴗ – –
+cinaede Thalle, mollior cunīculī capillō
+'effeminate Thallus, softer than a rabbit's fur'
+This poem mostly uses iambic feet, but it also includes nine or ten spondees, either in the first foot or the fifth.
+
+
+=== Sapphic stanza ===
+The remaining nine poems in the first half are in a variety of metres. Among these there are two in Sapphic stanzas, both well known. One is poem 11:
+
+– ᴗ – – – ᴗ ᴗ – ᴗ – –
+Fūr(i) et Aurēlī, comitēs Catullī
+'Furius and Aurelius, companions of Catullus'
+and the other is poem 51:
+
+Ille mī pār esse deō vidētur
+'that man seems to me to be equal to a god'
+Poem 51 is based on a translation of a well known poem by Sappho of Lesbos. Appropriately, both poems are about Lesbia. Since the date of poem 11, mentioning the potential invasion of Britain in 55 BC, is relatively late, it is thought that this poem is later than poem 51.
+In three places, Catullus allows the fourth syllable of the line to be short; but in Horace's Sapphics it is always long.
+
+
+=== Greater asclepiad ===
+One poem (30) is in the greater asclepiad metre, which is a kind of extended glyconic:
+
+– – | – ᴗ ᴗ – | – ᴗ ᴗ – || – ᴗ ᴗ – | ᴗ –
+Alfēn(e), immemor atqu(e) ūnanimīs false sodālibus
+'Alfenus, ungrateful and false to your faithful friends'
+In Horace's version of this metre, he always places a word break after the sixth, as well as the tenth, syllable, but Catullus three times has no break after the sixth syllable (lines 4, 7, 8). In both poets, unlike the glyconics (see below), the first two syllables of every line are always long.
+
+
+=== Glyconic ===
+The glyconic metre is used in two of the polymetrics (17, 34) and also in one of the long poems (61), but in a different form each time.
+In 17, a single glyconic is followed by a catalectic glyconic (also known as a pherecratean). The whole line is sometimes known as a priapean:
+
+– x – ᴗ ᴗ – ᴗ – || – x – ᴗ ᴗ – –
+ō colōnia, quae cupis ponte lūdere longō
+'o colony, who desire to play (i.e. hold a festival) on your long bridge'
+The second syllable in both halves is usually short, but occasionally long.
+Poem 34, a hymn to Diana, consists of six four-line stanzas. In each stanza there are three glyconic lines and one pherecratean. It begins:
+
+x x – ᴗ ᴗ – ᴗ –
+Dīānae sumus in fidē
+puell(ae) et puer(ī) integrī
+'we, chaste girls and boys, are devoted to Diana'
+The first two syllables may be a spondee (– –) or a trochee (– ᴗ), or rarely (as in the second line above) an iamb (ᴗ –).
+The first of the long poems (61) is in a very similar metre to the hymn to Diana (34), i.e. glyconic/pherecratean, with the difference that 34 is divided into 4-line stanzas while 61 is in 5-line stanzas. It begins: 
+
+– ᴗ – ᴗ ᴗ – ᴗ –
+collis ō Helicōniī
+'o (inhabitant) of the Heliconian mount'
+As with the hendecasyllables, in poem 61 a difference in technique can be observed between the first half of the poem and the second. In the first 21 stanzas every line begins with a trochee (– ᴗ), but in the last 26 stanzas the metre becomes less strict and 14 out of 130 lines open with a spondee (– –).
+
+
+=== Dactylic hexameter ===
+Poems 62 and 64 are both in dactylic hexameters, but of different styles. A noticeable feature of poem 64 (but not of 62) is that Catullus often uses a spondee (– –) in the fifth foot of the hexameter, making a line that ends in four long syllables, as in:
+
+– – | – ᴗ ᴗ | – ᴗ ᴗ | – ᴗ ᴗ | – – | – –
+ēlēctōs iuvenēs simul et decus innūptārum
+'chosen young men together with the beauty of unmarried girls'
+This is a feature imitated from the Alexandrian Greek poets such as Callimachus, Aratus, Euphorion, and Eratosthenes. There are 30 such lines in poem 64 alone. In Virgil it is much rarer (33 such lines in over 12000 hexameters), and after Virgil it falls out of use.
+
+
+=== Galliambic ===
+Poem 63 is an experiment in the galliambic metre, which is almost never found even in Greek. It consists of two anacreontics, the second of them catalectic, but usually with a lot of resolution, that is, pairs of short syllables replacing long ones especially at the end of the line:
+
+ᴗ ᴗ – ᴗ – ᴗ – – || ᴗ ᴗ – ᴗ ᴗ ᴗ ᴗ –
+super alta vectus Attis / celerī rate maria
+'Attis, transported over the deep seas in a swift ship...'
+Although 71% of the lines are in this form, variations are possible, by resolving a long syllable into two shorts, or contracting two shorts into a long, e.g. line 76:
+
+ᴗ ᴗ – ᴗ ᴗᴗ ᴗ – – || ᴗ ᴗ – ᴗ – ᴗ –
+ibi iūncta iuga resolvēns / Cybelē leōnibus
+'there Cybele, untying the joined yokes from her lions...'
+The metre is said to have been used by Callimachus, but it is not found in any of his surviving poems.
+
+
+=== Elegiac couplets ===
+All the remaining poems in the collection (65–116) are in elegiac couplets. Catullus's elegiacs differ in style from Ovid's: for example, the pentameter frequently ends with a word of three or more syllables. There are also 12 couplets in which the hexameter line has a spondaic fifth foot. Another feature is that Catullus occasionally has an elision between the two halves of a pentameter (e.g. 68, line 90).
+An example of a poem using a single elegiac couplet is 83:
+
+– ᴗᴗ | – ᴗᴗ | – ᴗᴗ | – ᴗᴗ | – ᴗ ᴗ | – –
+   – ᴗᴗ | – ᴗᴗ | – || – ᴗ ᴗ | – ᴗ ᴗ | –
+ōd(ī) et amō. quār(e) id faciam, fortasse requīris;
+   nescio. sed fierī senti(ō) et excrucior
+'I hate and I love. Perhaps you ask why I do that;
+   I don't know, but I feel it happening and I am tortured by it.'
+There are slight differences in technique or style between the elegies (65–68) and the epigrams (69–116). For example, the first foot of the line is more likely to be a dactyl (– ᴗ ᴗ) in the elegies (where it occurs in 63% of hexameters and 56% of pentameters) than in the epigrams (56% of hexameters and 36% of pentameters). On the whole, Catullus used spondees in the first four feet of the hexameter (65%) more often than later poets such as Propertius (56%), Tibullus (51%), and Ovid (46%).
+One feature that clearly marks out Catullus's elegiac couplets from his successors is his very frequent use of elision: it is found in 39% of verses in the elegies, 68% in the epigrams. This compares with Propertius (21%), Tibullus (14%) and Ovid (13%).
+Poem 116 has some strange metrical peculiarities, such as one hexameter which consists entirely of spondees. It has been suggested that Catullus is here mocking the poetic style of his addressee, Gellius.
+
+
+== Inspirations ==
+ Catullus deeply admired Sappho and Callimachus.  Poem 66 is a quite faithful translation of Callimachus' poem Βερενίκης Πλόκαμος ("Berenice's Braid", Aetia fr. 110 Pfeiffer) and he adapted one of his epigrams, on the lover Callignotus who broke his promise to Ionis in favor of a boy (Ep. 11 Gow-Page) into poem 70. Poem 51, on the other hand, is an adaptation and re-imagining of Sappho 31. Poems 51 and 11 are the only poems of Catullus written in the meter of Sapphic strophe, and may be respectively his first and last poems to Lesbia.   He was also inspired by the corruption of Julius Caesar, Pompey, and the other aristocrats of his time. 
+
+
+== Influence ==
+Catullus was a popular poet in the Renaissance and a central model for the neo-Latin love elegy. By 1347 Petrarch was an admirer and imitator who read the ancient poet in the Verona codex (the "V" manuscript). Catullus also influenced other humanist poets, including Panormita, Pontano, and Marullus.
+Catullus influenced many English poets, including Andrew Marvell and Robert Herrick. Ben Jonson and Christopher Marlowe wrote imitations of his shorter poems, particularly Catullus 5, and John Milton wrote of the poet's "Satyrical sharpness, or naked plainness."
+He has been praised as a lyricist and translated by writers including Thomas Campion, William Wordsworth, James Methven, and Louis Zukofsky.
+Poems 5, 8, 32, 41, 51, 58, 70, 73, 75, 85, 87 and 109 were set to music by Carl Orff as part of his Catulli Carmina.
+
+
+== Style ==
+
+A portion of Catullus's poetry (roughly a fourth) shows strong and occasionally wild emotions especially in regard to Lesbia. He also demonstrates a great sense of humour such as in Catullus 13 and 42.
+Many of the literary techniques he used are still common today, including hyperbole: plenus sacculus est aranearum (Catullus 13), which translates as ‘[my] purse is all full – of cobwebs.’ He also uses anaphora e.g. Salve, nec minimo puella naso nec bello pede nec…(Catullus 43) as well as tricolon and alliteration.
+
+
+== History of the texts of Catullus's poems ==
+
+
+=== Condition of the text ===
+Far more than for major Classical poets such as Virgil and Horace, the texts of Catullus's poems are in a corrupted condition, with omissions and disputable word choices present in many of the poems, making textual analysis and even conjectural changes important in the study of his poems.
+A single book of poems by Catullus barely survived the millennia, and the texts of a great many of the poems are considered corrupted to one extent or another from hand transmission of manuscript to manuscript. Even an early scribe, of the manuscript G, lamented the poor condition of the source and announced to readers that he was not to blame:
+
+You, reader, whoever you are to whose hands this book may find its way, grant pardon to the scribe if you think it corrupt. For he transcribed it from an exemplar which was itself very corrupt. Indeed, there was nothing else available, from which he could have the opportunity of copying this book; and in order to assemble something from this rough and ready source, he decided that it was better to have it in a corrupt state than not to have it at all, while hoping still to be able to correct it from another copy which might happen to emerge. Fare you well, if you do not curse him.
+Even in the twentieth century, not all major manuscripts were known to all major scholars (or at least the importance of all of the major manuscripts was not recognized), and some important scholarly works on Catullus don't refer to them.
+
+
+=== Major manuscripts ===
+In the Middle Ages, Catullus appears to have been barely known. In one of the few references to his poetry, Isidore of Seville quotes from the poet in the seventh century. In 966 Bishop Rather of Verona, the poet's hometown, discovered a manuscript of his poems (presumably V) "and reproached himself for spending day and night with Catullus's poetry." No more information on any Catullus manuscript is known again until about 1300.
+The relationship of the major Catullus manuscripts is believed to be as follows:
+
+The V manuscript spawned A, which spawned O and X. The X manuscript then spawned G and R, and T is some kind of distant relative. O, G, R, and T are known exactly, but V is lost, and we have no direct knowledge of A and X, which are deduced by scholars.
+The main manuscripts are the following:
+
+T – ninth-century – contains only Poem 62.
+V  – a manuscript, now lost, which was kept in the Chapter Library of Verona; it is also known as the Verona Codex. Nothing is known about its creation date, except that it was certainly written in a minuscule script. It is said to have been "clearly available to various Paduan and Veronese humanists in the period 1290–1310". Benvenuto de Campesanis "celebrated the discovery as the poet's resurrection from the dead". This manuscript is now lost. V was the sole source of nearly all of the poet's surviving work. It was a "late and corrupt copy which was already the despair of its earliest scribes."
+A – a scholar-deduced intermediate source of the O and X manuscripts created from V soon after V was discovered in Verona. If it existed, it could date from the late 13th to sometime in the 14th century. Its (disputable) existence is deduced from the titles and divisions of the poems of the O, X, G, and R manuscripts.
+O – last third of the fourteenth century. It is most probably the oldest of all known MSS. containing the entire Catullan corpus (T is five hundred years older, but it contains only one poem). Its importance was not presented to the public until R. Ellis brought out Catulli Veronensis Liber in 1867 (Oxford).
+X – last quarter of the fourteenth century. This manuscript is lost; scholars deduced its existence as a direct source of the later G and R manuscripts. Contrary to the disputable existence of A, the existence of X is not doubted.
+G – last quarter of the fourteenth century. G and R are two manuscripts with close textual "proximity" that "make it clear that these two descend together" from a common source (X). G bears a date of 19 October 1375 in its subscription, but there is a prevailing opinion of scholars that this date (and the entire subscription) has been copied from X.
+R – in about 1391, the X manuscript was copied for the humanist Coluccio Salutati, the chancellor of Florence. This copy is the R manuscript. Coluccio added some important marginal readings, now called "R2". Some of this material comes from the X manuscript because it is also present in G. The R manuscript, lost through an error in cataloguing, was rediscovered in the Vatican Library by the American scholar William Gardner Hale in 1896. It helped form the basis of Ellis's Oxford Classical Text of Catullus in 1904, but didn't receive wide recognition until 1970, when it was printed in a facsimile edition by D.F.S. Thompson: The Codex Romanus of Catullus: A Collation of the Text (RhM 113: 97–110).
+
+
+=== Printed editions ===
+The text was first printed in Venice by printer Wendelin von Speyer in 1472. There were many manuscripts in circulation by this time. A second printed edition appeared the following year in Parma by Francesco Puteolano, who stated that he had made extensive corrections to the previous edition.
+Over the next hundred years, Poliziano, Scaliger and other humanists worked on the text and "dramatically improved" it, according to Stephen J. Harrison: "the apparatus criticus of any modern edition bears eloquent witness to the activities of these fifteenth- and sixteenth-century scholars."
+The divisions of poems gradually approached something very close to the modern divisions, especially with the 1577 edition of Joseph J. Scaliger, Catulli Properti Tibulli nova editio (Paris).
+
+"Sixteenth-century Paris was an especially lively center of Catullan scholarship," one Catullus scholar has written. Scaliger's edition took a "novel approach to textual criticism. Scaliger argued that all Catullus manuscripts descended from a single, lost archetype. ... His attempt to reconstruct the characteristics of the lost archetype was also highly original. [...] [I]n the tradition of classical philology, there was no precedent for so detailed an effort at reconstruction of a lost witness."
+In 1876, Emil Baehrens brought out the first version of his edition, Catulli Veronensis Liber (two volumes; Leipzig), which contained the text from G and O alone, with a number of emendations.
+The 1949 Oxford Classical Text by R. A. B. Mynors, partly because of its wide availability, has become the standard text, at least in the English-speaking world.
+One very influential article in Catullus scholarship, R. G. M. Nisbet's "Notes on the text and interpretation of Catullus" (available in Nisbet's Collected Papers on Latin Literature, Oxford, 1995), gave Nisbet's own conjectural solutions to more than 20 problematic passages of the poems. He also revived a number of older conjectures, going as far back as Renaissance scholarship, which editors had ignored.
+Another influential text of Catullus' poems is that of George P. Goold, Catullus (London, 1983).
+
+
+== See also ==
+Codex Vaticanus Ottobonianus Latinus 1829
+
+
+== Collections and commentaries ==
+
+Ancona, R (2004). Writing Passion: A Catullus Reader. Wauconda, IL: Bolchazy-Carducci Publishers. ISBN 978-0-86516-482-6.
+Arnold, B; Aronson A; Kawall G (2000). Love and Betrayal: A Catullus Reader. Upper Saddle River, NJ: Prentice Hall. ISBN 978-0-13-043345-9.
+Bender, HV; Forsyth PY (2005). Catullus: Expanded Edition. Wauconda, IL: Bolchazy-Carducci Publishers. ISBN 978-0-86516-603-5.
+Dettmer H (1997). Love by the Numbers: Form and the Meaning in the Poetry of Catullus. New York: Peter Lang. ISBN 978-0-8204-3663-0.
+Fordyce, CJ (1961). Catullus. Oxford: Oxford University Press. ISBN 978-0-19-872147-5. {{cite book}}: ISBN / Date incompatibility (help)
+Forsyth, PY (2002). The Poems of Catullus: A Teaching Text. Lanham MD: University Press of America. ISBN 978-0-8191-5151-3.
+Garrison, DH (2004). The Student's Catullus (3rd ed.). Norman, OK: University of Oklahoma Press. ISBN 978-0-8061-3635-6.
+Quinn, K. (1973). Catullus: The Poems (2nd edition). Macmillan.
+Richardson Jr, L. (1963). "Fvri et Avreli, comites Catvlli". Classical Philology, 58(2), 93-106.
+Thomson, DFS (2003). Catullus: Edited with a Textual and Interpretative Commentary (revised ed.). Toronto: University of Toronto Press. ISBN 978-0-8020-8592-4.
+
+
+== Works on metre ==
+Butterfield, D. (2021). "Catullus and Metre". Chapter 7 in Du Quesnay, I. & Woodman, T. The Cambridge Companion to Catullus. Cambridge.
+Skutsch, O. (1969). "Metrical variations and some textual problems in Catullus". Bulletin of the Institute of Classical Studies, (16), 38-43.
+West, D. A. (1957). "The Metre Of Catullus' Elegiacs". The Classical Quarterly, 7(1-2), 98-102.
+
+
+== References ==
+
+
+== External links ==
+
+ The Poetry of Gaius Valerius Catullus at Wikibooks
+ Works related to Author:Gaius Valerius Catullus at Wikisource
+Poems of Catullus at Project Gutenberg
+Catullus's work in Latin and over 25 other languages at Catullus Translations
+Find other Catullus-minded people and discuss his works with them at the Catullus Forum
+The complete poems of Catullus at The Latin Library
+Summer Lyrics Short essay on Catullus by Morgan Meis of 3 Quarks Daily
+Poems of Catullus in Latin/English Archived 2007-02-12 at the Wayback Machine
+CATULLUS PURIFIED: A BRIEF HISTORY OF CARMEN 16
+Catullus: text, concordances, and frequency list

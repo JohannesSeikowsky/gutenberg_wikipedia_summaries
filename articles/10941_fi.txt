@@ -1,0 +1,110 @@
+Jumalainen näytelmä (ital. Divina commedia) on italialaisen Dante Alighierin 1300-luvulla italiaksi kirjoittama runoelma. Danten kirjallisen uran pääteos on kolmiosainen näkymatka tuonpuoleiseen. Se kertoo Danten tekemästä matkasta Helvetin ja Kiirastulen kautta Taivaaseen. 
+Dante oli firenzeläinen poliitikko, joka joutui vastakkaisen puolueen (mustien guelfien) valtaannousun myötä maanpakoon 1301. Jumalainen näytelmä on kirjoitettu kokonaan tuon maanpaon aikana. Dante alkoi kirjoittaa teosta 1308 ja se valmistui 1321. Dante kuoli hyvin pian runoelman valmistumisen jälkeen vielä samana vuonna.
+Dante itse on antanut Jumalaiselle näytelmälle neljä tulkinnan tasoa. Runoa voidaan tulkita kirjaimellisesti, allegorisesti, anagogisesti sekä moraalisesti. Nämä samat neljä tulkinnan tasoa muodostavat myös keskiaikaisen Raamatun tulkinnan menetelmän, Quadrigan. Kirjaimellisesti teos voidaan lukea matkakirjallisuutena, ilman muita merkityksiä. Allegorisesti Danten matka voidaan nähdä tienä puhdistumiseen, synnistä täydellisyyteen. Anagoginen, uskonnollinen tulkinta runosta esittää sen edustavan todellista järjestystä tuonpuoleisessa. Moraalisesti runon päähenkilö edustaa ihmistä matkalla tietoisuuteen hyveistä ja paheista.
+Dante ihaili suuresti antiikin kreikkalaista ja roomalaista kulttuuria. Tämä on havaittavissa erityisesti teoksen helvetti-osasta, jonne Dante on sijoittanut runsaasti antiikin myyttisiä hahmoja. Antiikin hahmot ovat, muutamaa poikkeusta lukuun ottamatta, vahtimassa syntisten rangaistusten toimeenpanoa.
+
+
+== Rakenne ==
+
+Jumalainen näytelmä koostuu kolmesta osasta: Inferno (helvetti), Purgatorio (kiirastuli) ja Paradiso (paratiisi). Ensimmäinen osa, Inferno, on näistä kolmesta tunnetuin. Jumalaisen näytelmän lukusymboliikka on keskiaikaiseen tyyliin merkityksellistä. Runoteoksen jokainen osa käsittää 33 laulua, mutta Infernoon kuuluu myös niin sanottu aloituslaulu. Kolme on kristillisessä lukusymboliikassa merkittävä luku, sillä se edustaa pyhää kolminaisuutta ja on siten taivaallinen luku. Kymmenen puolestaan edustaa täydellisyyttä. Läpi Jumalaisen näytelmän toistuu lukujen jako kolmeen ja kymmeneen. Laulujen puolesta teos koostuu luvuista 33 + 33 + 33 + 1 muodostaen luvun sata (10 × 10). Helvetti, kiirastuli ja taivas sisältävät kukin yhdeksän piiriä sekä yhden ”lisäkerrostuman”. Infernossa on yhdeksän piirin lisäksi pelkureiden alue heti portin jälkeen. Kiirastulessa on kaksi pengertä ja seitsemän piiriä sekä niiden lisäksi maan päällinen paratiisi. Paradiso puolestaan jakaantuu yhdeksään taivaaseen jättäen taivaan keskelle Jumalan kymmenenneksi kerrostumaksi. 
+Dante kehitti runoelmaansa varten kokonaan uuden runomitan, tertsiinin. Siinä yhdessä säkeistössä on kolme säettä, joista jokaisessa on yksitoista tavua. Jokaisen säkeistön ensimmäinen ja kolmas säe ovat keskenään loppusoinnullisia ja toinen säe on loppusoinnullinen seuraavan säkeistön ensimmäisen ja kolmannen säkeen kanssa. Rakenne on siten  muotoa aba, bcb, cdc, ded ja niin edelleen. Tavujen määrä kussakin tertsiinissä on 33, sama kuin laulujen määrä kussakin osassa johdantoa lukuun ottamatta. Koska myös osia runoelmassa on kolme (Helvetti, Kiirastuli, Paratiisi), Pyhää kolminaisuutta vastaava luku kolme esiintyy rakenteessa lukuisia kertoja. 
+Eino Leino suomensi runoelman vuonna 1912. Leino kertoo aloittaneensa suomennostyön loppusointuja käyttäen, mutta luopuneen tästä saadakseen tekstin paremmin alkuperäisiä sisältöjä vastaavaksi. Leinon suomennoksen kolme ensimmäistä säkeistöä ovat: 
+
+Elina Vaaran uudempi suomennos ilmaisee saman seuraavasti:
+
+
+=== Helvetti ===
+Tarina alkaa unenomaisesti, kun Dante eksyy kiirastorstain iltana synkkään metsään, eikä ymmärrä, miten hän on sinne joutunut. Metsä edustaa tietämättömyyttä ja järjen valon täydellistä sammumista. Metsässä Dante kohtaa kolme petoa: suden, pantterin ja leijonan. Pedot edustavat kolmea synnin eri tyyppiä, hillittömyyttä, väkivaltaa ja vihamielisyyttä. Harhailtuaan metsässä vuorokauden verran, hän tapaa esikuvansa, runoilijamestari Vergiliuksen. Vergilius kertoo, että ainoa tie petojen ohi oikealle tielle kulkee vaikeasti helvetin ja kiirastulen kautta. Hän tarjoutuu Dantelle oppaaksi. Danten matka helvetissä kulkee sen eri tasojen eli piirien halki. Aina vain syvemmälle edettäessä vastaan tulee yhä paatuneempia syntisiä, jotka kärsivät toinen toistaan kauheampia rangaistuksia.
+Helvetin portin yläpuolelle kirjoitettu lause ”Ken tästä käy, saa kaiken toivon heittää” on kirjan tunnetuin fraasi. Portista astuttuaan Dante kohtaa joukon sieluja, jotka ajavat takaa ilmassa liehuvaa lippua, samalla kun paarmat ja ampiaiset pistelevät heitä, ja heidän jalanjäljistään nousee matoja. Nämä ovat pelkureita ja puolueettomia. Sieluja, joita ei taivaaseen voi laskea, ettei himmenisi sen kirkkaus, mutta helvettiinkään heitä ei voi sijoittaa, etteivät saisi syntiset kunniaa. Pelkureiden jälkeen Dante ja Vergilius saapuvat Akheron-virran rannalle, missä lautturi Kharon kuljettaa sielut varsinaiseen helvettiin kuulemaan tuomionsa manalan tuomari Minokselta.
+Varsinaisen helvetin piirejä on yhdeksän, joista kolme jakautuu useampaan osastoon. Helvetin piireissä ja osastoissa sielut kärsivät syntinsä mukaisesta rangaistuksesta. Helvetin piirit ja niihin johtavat synnit ovat seuraavat:
+1. piiri (limbo): kastamattomat ja ennen Kristuksen syntymää eläneet hyveelliset ihmiset. Tässä suhteellisen miellyttävässä paikassa asuvien syntisten ainoa synti on perisynti. Tänne on sijoitettu muun muassa antiikin ajan todellisia ja myyttisiä sankareita, kirjailijoita, filosofeja ja tiedemiehiä. Täällä olivat myös Vanhan testamentin ajan pyhät ennen kuin Jeesus nouti heidät pois. Heidän rangaistuksensa on ainoastaan ikuinen Jumalan rakkauden kaipuu. Täällä on myös Vergiliuksen vakituinen paikka.
+2. piiri: himo, synnillinen rakkaus. Lihalliselle himolleen antautuneet ovat hirmumyrskyn riepoteltavina. He pörräävät toistensa ympärillä saamatta nauttia rakkaudesta. Tässä piirissä Dante kohtaa muun muassa Kleopatran ja Didon.
+3. piiri: ahmatit. He makaavat limaisessa mudassa ja ulvovat kuin koirat, samalla kun ikuinen rankkasade piiskaa heitä ja he kääntyilevät puolelta toiselle yrittäessään suojella itseään siltä. Helvetin vahtikoira Kerberos ahdistelee heitä ja vartioi piiriä.
+4. piiri: saiturit ja tuhlaajat. Täällä kadotetut vyöryttävät valtavia kuormia toisiinsa törmäillen ja toisiaan soimaten. Piirin vartijana toimii Pluto.
+5. piiri: vihaiset ja kaunaiset. Vihaan sortuneet tappelevat rajusti keskenään sakean usvan peittämällä suolla; kaunaiset makaavat suon pohjassa mumisten itsekseen kaunaansa, mistä nousee kuplia pinnalle. Suo kantaa nimeä Styx.
+Piirit 1–5 ovat niin sanottua ylempää helvettiä ja edustavat hillittömyyden syntejä. Styxin toisella rannalla kohoaa Diten kaupungin muurit ja alkaa keskihelvetti. Siellä rangaistaan väkivallan synneistä.
+
+6. piiri: kerettiläiset. Harhaoppiset makaavat tulisissa haudoissa. Harhaoppisuus kuuluu väkivallan synteihin, sillä se on lähes kuin väkivaltaa Jumalaa kohtaan.
+7. piiri: väkivaltaa käyttäneet.
+
+1. ryhmä: väkivaltaa lähimmäisten persoonaa ja omaisuutta kohtaan käyttäneet. Syntiset uivat kiehuvassa, verisessä Flegethon-joessa. Heitä vartioivat kentaurit, jotka ampuvat nuolella ylös pyrkiviä.
+2. ryhmä: väkivaltaa itseään ja omaisuuttaan kohtaan tehneet (haaskaajat). Itsemurhaajat ovat muuttuneet puiksi, joiden oksilla harpyijat välillä repivät heitä. He riistivät itse ihmisyytensä, näin he voivat puhua ainoastaan jos heiltä vuodatetaan verta.
+3. ryhmä: väkivaltaa Jumalaa (jumalanpilkka), luontoa (sodomiitit) ja järjestystä (koronkiskurit) kohtaan tehneet. He ovat kuivalla hiekkakentällä tulisateen alla, missä pilkkaajat kiroavat Jumalaa, koronkiskurit konttaavat painava rahasäkki kaulassa ja sodomiitit vaeltavat edestakaisin pääsemättä koskaan minnekään.
+Seitsemännen piirin jälkeen Dante ja Vergilius laskeutuvat alimpaan helvettiin Geryon-pedon kyydittäminä. Alimman helvetin synnit ovat pahantahtoisia.
+8. piiri eli Malebolge (”pahat kuilut”): vilpilliset.
+
+1. kuilu: parittajat ja viettelijät; kumpikin joukko kiertää jonossa kehää vastakkaisiin suuntiin sarvipäisten demonien ruoskiessa heitä.
+2. kuilu: liehittelijät ja imartelijat; joutuvat uimaan ulosteessa, joka on valunut heidän suustaan.
+3. kuilu: hengellisiä virkoja rahasta myyneet eli simonian harjoittajat; haudattu pää edellä kuoppaan ja heidän jalkapohjansa palavat tulessa.
+4. kuilu: taikurit ja selvänäkijät; heidän päänsä on kääntynyt takaperin niin, että he katsovat selkäänsä ja itkevät.
+5. kuilu: petolliset virkamiehet; kiehuvat vedessä, ja jos joku nostaa päätään veden pinnalle, yhdentoista demonin joukko pistelee häntä atraimillaan.
+6. kuilu: tekopyhät; kantavat kultaisia munkinkaapuja, jotka ovat niin raskaita, että melkein katkaisevat kantajansa, kun he laahustavat hitaasti kapeaa polkua kuilun ympäri.
+7. kuilu: varkaat ja rosvot; käärmeet hyökkäävät jatkuvasti heidän kimppuunsa ja purevat. Toisinaan purema sytyttää uhrin tuleen, palaen tuhkaksi ja taas nousten tuhkasta ylös entisenlaisekseen.
+8. kuilu: vilppiin neuvojat; palavat virvatulen kaltaisina soihtuina.
+9. kuilu: eripuraisuuden kylväjät; joutuvat repimään ruumiinsa kappaleiksi uudelleen ja uudelleen.
+10. kuilu: väärentäjät; kammottavat sairaudet runtelevat heidän ruumistaan, jolloin lihasta nousee kamala löyhkä. Jotkut ovat niin korkeassa kuumeessa, että melkein kiehuvat, ja toisten kieli halkeaa janosta. Väärentäjiä ovat metallin väärentäjät eli alkemistit, väärinä henkilöinä esiintyneet, väärän rahan tekijät sekä sanojensa väärentäjät.
+9. piiri eli Kokytos: petturit.
+
+1. kehä eli Kaina: lähimpänsä pettäneet, sukumurhaajat; haudattu ikijäähän niin, että vain päät näkyvät.
+2. kehä eli Antenora: valtiolliset petturit.
+3. kehä eli Ptolemea: vieraansa pettäneet; makaavat jäässä selällään, ja heidän itkiessään kyyneleet jäätyvät silmäkuoppiin estäen heitä näkemästä mitään.
+4. kehä eli Judaica: hyväntekijänsä pettäneet; peittyvät kokonaan jään alle erilaisiin vääntyneisiin asentoihin.
+Helvetin pohjalla runoilijat kohtaavat Saatanan eli Luciferin. Hänen rinnallaan ihmiset ovat kuin muurahaisia. Saatana on rintaansa myöten jäätynyt Kolkytoksen ikijäähän, ja hän paiskoo siivillään tuulta kuin tuulimylly. Samalla hän suree omaa tilaansa itkien verisiä kyyneleitä ja louskuttaa kolmessa suussaan kahta valtiollista ja yhtä hengellistä pettäjää: Julius Caesarin surmaajia Cassiusta ja Brutusta sekä Juudas Iskariotia. Juudas Iskariotin rangaistus on kaikkein pahin. Hänen päänsä on Saatanan suussa ja jalat ulkopuolella. Päästäkseen pois helvetistä runoilijoiden täytyy laskeutua pitkin Saatanan karvaista ruumista. Yhtäkkiä helvetin maailma kääntyy ylösalaisin ja laskeutuminen muuttuu kiipeämiseksi. Lopulta Dante ja Vergilius pääsevät maan pinnalle ja näkevät jälleen tähdet.
+
+
+=== Kiirastuli ===
+Dante kuvaa kiirastulen vuoreksi, joka on muodostettu helvetin kaivamisesta saadusta maasta. Se sijaitsee saarella, joka on eteläisen pallonpuoliskon ainoa maa. Ennen varsinaisen kiirastulen porttia vuoren juurella on kaksi pengertä. Vuoren huipulla on maallinen paratiisi. Kiirastulen piirit ja niihin joutuvat syntiset ovat:
+1. penger: parannuksenteon viime hetkeen jättäneet
+2. penger: väkivaltaisesti kuolleet ja syntejään vasta viime hetkellä katuneet, esirukousta tarvitsevat
+Kiirastulen portti
+1. piiri: ylpeät
+2. piiri: kateelliset
+3. piiri: vihaiset
+4. piiri: laiskat, hitaat hyvään
+5. piiri: ahneet, tuhlaajat
+6. piiri: ahmatit
+7. piiri: aistilliset (hekuma ja luonnonvastainen rakkaus)
+Maallinen paratiisi: paluu synnittömään viattomuuteen, valmistautuminen taivaaseen nousuun
+
+
+=== Paratiisi ===
+1. Kuun taivas: urhoollisuuden puute, lupauksensa vastustelematta väkivallan vuoksi rikkoneet
+2. Merkuriuksen taivas: oikeamielisyyden puute, hyvin mainetta ja kunniaa saavuttaakseen toimineet
+3. Venuksen taivas: kohtuullisuuden puute
+4. Auringon taivas: viisaat
+5. Marsin taivas: urhoollisuus, uskon puolesta taistelleet
+6. Jupiterin taivas: oikeamieliset hallitsijat
+7. Saturnuksen taivas: kohtuullisuus, mietiskelijät
+8. Kiintotähtien taivas: voitokas kirkko
+9. Primum mobile: enkelien yhdeksän piiriä Jumalan ympärillä
+10. Empyrean: Jumala ja uskovat kuin ruusun terälehdet
+
+
+== Esikuvana Muhammedin taivasmatka ==
+
+Jumalaisella näytelmällä on yhtäläisyyksiä Ibn Hishamin 800-luvulla kertomaan tarinaan Muhammedin taivasmatkasta. Orientalisti Ignaz Goldziherin mukaan se on Persian zarathustralaisesta perinteestä saatu kertomus. Yhtäläisyyksiä ovat nousu taivaaseen kerros kerrokselta matkaoppaan, enkeli Gabrielin tai Vergiliuksen ohjatessa ja avustaessa. Retkeilijä kohtaa syntisiä, jotka on tuomittu tekojensa mukaan erilaisiin syntiä vastaaviin rangaistuksiin. Retkeilijä esittää syntisille kysymyksiä, ja nämä kertovat kohtalostaan. Ylimmässä taivaassa Dante kohtaa rakastettunsa Beatricen, Muhammed taas rakastettunsa Zaynabin, josta kerrotaan myös Koraanissa.  
+Ibn Hishamin tarina sai lisää sisältöä ja levisi islamilaisessa maailmassa, kun siitä oli 1000-luvulla tehty laajempi versio tuntemattoman tekijän kirjassa Kitab al Miraj. Kirja päätyi eurooppalaisten käsiin islamilaisen al-Andalusin valloituksen edetessä. Bonaventura Sienalainen käänsi sen latinaksi vuonna 1264 (Liber scalae Machometi). Myöhemmin se käännettiin espanjaksi ja vulgaariranskaksi. Yhtäläisyydet todistavat siitä, että Muhammedin taivasmatka oli virikkeenä Danten runoelmaan.
+Danten runoelmassa esiintyvät myös Muhammed ja šiialaisuuden merkkihahmo Ali ibn Abi Talib. Heidät Dante löytää alimmasta Helvetistä riidankylväjien osastolta.   
+
+
+== Suomennos ==
+Jumalainen näytelmä on suomennettu kahdesti. Eino Leinon käännös julkaistiin kolmessa osassa 1912–1914, Elina Vaaran vuonna 1963. Johanna Mälkki esittää väitöstutkimuksessa Mitä etevin runoteos toivomuksen teoksen ajatussisältöä avaavasta suorasanaisesta käännöksestä. Leinon suomennos on ylätyylinen ja Vaaran käännös vanhahtava. Otavan vuonna 1967 julkaisema pokkariversio vuoden 1912 painoksesta sisältää myös selitykset sisältävän liitteen.
+
+
+== Lähteet ==
+
+
+== Kirjallisuutta ==
+Dante Alighieri: Jumalainen näytelmä.  (Divina Commedia, noin 1308–21.)  Suomentanut Eino Leino (1912–14). Helsinki:  Otava, 2000.  ISBN 951-1-16514-3  Teoksen verkkoversio.
+Dante Alighieri: Jumalainen näytelmä.  (Divina Commedia, noin 1308–21.) Suomentanut Elina Vaara. Johdannon ja selitykset laatinut Tyyni Tuulio. Kuvittanut Gustave Doré. 3. painos (1. painos 1963)  Helsinki:  WSOY, 1999.  ISBN 951-0-23912-7 
+Ehrnrooth, Jari: Intiaaninunta. Muunnelmia Danten kiertotiellä.  Helsinki:  WSOY, 2000.  ISBN 951-0-25074-0 
+Kuula, Kari: Helvetin historia. Pohjalta pohjalle Homeroksesta Manaajaan.  Helsinki:  Kirjapaja, 2006.  ISBN 951-607-350-6 
+Mälkki, Johanna: Mitä etevin runoteos. Dante Alighierin Jumalaisen näytelmän vastaanotto suomalaisessa kirjallisuusinstituutiossa 1851–2000.  Helsinki:  Suomalaisen Kirjallisuuden Seura, 2009.  ISBN 978-952-222-079-0 
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Jumalainen näytelmä Wikimedia Commonsissa
+ Lisää luettavaa aiheesta Ensimmäinen laulu »Jumalaisesta näytelmästä» on Wikiaineistossa
+Jumalainen näytelmä Gutenberg-projektissa, koko teos Eino Leinon suomentamana.
+La Divina Commedia Gutenberg-projektissa.
+Mankkinen, Jussi: Danten helvetilliset visiot kiehtovat edelleen ihmisiä. Yle uutiset 9.5.2021.

@@ -1,0 +1,78 @@
+The Sophist (Greek: Σοφιστής; Latin: Sophista) is a Platonic dialogue from the philosopher's late period, most likely written in 360 BC. In it the interlocutors, led by Eleatic Stranger employ the method of division in order to classify and define the sophist and describe his essential attributes and differentia vis a vis the philosopher and statesman. 
+Like its sequel, the Statesman, the dialogue is unusual in that Socrates is present but plays only a minor role. Instead, the Eleatic Stranger takes the lead in the discussion. Because Socrates is silent, it is difficult to attribute the views put forward by the Eleatic Stranger to Plato, beyond the difficulty inherent in taking any character to be an author's "mouthpiece".
+
+
+== Background ==
+The main objective of the dialogue is to identify what a sophist is and how a sophist differs from a philosopher and statesman. Because each seems distinguished by a particular form of knowledge, the dialogue continues some of the lines of inquiry pursued in the epistemological dialogue, Theaetetus, which is said to have taken place the day before. Because the Sophist treats these matters, it is often taken to shed light on Plato's Theory of Forms and is compared with the Parmenides, which criticized what is often taken to be the theory of forms.
+In Cratylus, contemporary or slightly preceding the Republic, Plato poses the problem, decisive for the use of dialectics for cognitive purposes, of the relationship between name and thing, between word and reality. Thus the ‘Sophist’ has its major background in the Cratylus. This dialogue is resolved in a contrast between the thesis of Hermogenes, who considers the name a simple sequence of sounds conventionally chosen to refer to an object, and the thesis of Cratylus, a pupil of the old Heraclitus, who supported the full expression of the essence of the “nominatum” in the name, and who  considered the names as expressions forged by an Onomaturge, capable of expressing the essence of the thing named. Following this research, all the ‘Sophist’ is dedicated to find the right definition of the name “sophist”.
+Some contemporary scholars, based on their orientations, have argued that in the Cratylus Plato gave his assent now to the thesis of Hermogenes, now to the thesis of Cratylus.  Gérard Genette, in the work ‘Mimologique. Voyage en Cratilie’ (1976), starts from Plato's speech to argue the idea of arbitrariness of the sign: according to this thesis, already supported by the great linguist Ferdinand de Saussure, the connection between language and objects is not natural, but culturally determined. The ideas developed in the Cratylus, although dated, have historically been an important point of reference in the development of Linguistics. On the basis of the Cratylus, Gaetano Licata has reconstructed, in the essay ‘Plato’s theory of language.  Perspectives on the concept of truth’ (2007, Il Melangolo), the relationship between the Cratylus and the ‘Sophist’ and the Platonic conception of semantics, according to which names have a natural link, (an essential foundation) with their "nominatum".  This author argues that Plato accepts Cratylus' thesis. Finally, the concept of language and of “true discourse” of Cratylus will be very important for the study of diairetic dialectic in the ‘Sophist’.
+
+
+== Introduction ==
+This dialogue takes place a day after Plato's Theaetetus in an unspecified gymnasium in Athens. The participants are Socrates, who plays a minor role, the elder mathematician Theodorus, the young mathematician Theaetetus, and a visitor from Elea, the hometown of Parmenides and Zeno, who is often referred to in English translations as the Eleatic Stranger or the Eleatic Visitor.  Other young mathematicians are also silently present.  The dialogue begins when Socrates arrives and asks the Eleatic Stranger, whether in his homeland, the sophist, statesperson, and philosopher are considered to be one kind or three.  The Eleatic Stranger responds that they are three and then sets about to give an account of the sophist through dialectical exchange with Theaetetus.
+
+
+== Method of definition (216a–236d) ==
+
+The Eleatic Stranger pursues a different definition than features in Plato's other dialogues by using a model, comparing the model with the target kind, collection, and division (diairesis) of the collected kinds. At first, he starts using a mundane model (a fisherman), which shares some qualities in common with the target kind (the sophist). This common quality is the certain expertise (techne) in one subject. Then through the method of collection of different kinds (farming, caring for mortal bodies, for things that are put together or fabricated and imitation), he tries to bring them together into one kind, which he calls productive art. The same is true with the collection of learning, recognition, commerce, combat and hunting, which can be grouped into the kind of acquisitive art.
+After these two collections, he proceeds to the division of the types of expertise into production and acquisition. Then he tries to find out to which of these two sub-kinds the fisherman belongs (classification) case, the acquisitive kind of expertise. By following the same method, namely, diairesis through collection, he divides the acquisitive art into possession taking and exchanging goods, to which sophistry belongs. The sophist is a kind of merchant. After many successive collections and divisions he finally arrives at the definition of the model (fisherman). Throughout this process the Eleatic Stranger classifies many kinds of activities (hunting, aquatic-hunting, fishing, strike-hunting).
+After the verbal explanation of the model (definition), he tries to find out what the model and the target kind share in common (sameness) and what differentiates them (difference). Through this comparison, and after having been aware of the different kinds and sub-kinds, he can classify sophistry also among the other branches of the ‘tree’ of division of expertise as follows: "1. production, hunting by persuasion and money-earning, 2. acquisition, soul wholesaling, 3. soul retailing, retailing things that others make, 4. soul retailing, retailing things that he makes himself, 5. possession taking, competition, money-making expertise in debating."
+Throughout the process of comparison of the distinguished kinds through his method of collection, the Eleatic Stranger discovers some attributes in relation to which the kinds can be divided (difference in relation to something). These are similar to the Categories of Aristotle, so to say: quantity, quality, relation, location, time, position, end, etc.
+After having failed to define sophistry, the Stranger attempts a final diairesis through the collection of the five definitions of sophistry. Since these five definitions share in common one quality (sameness), which is the imitation, he finally qualifies sophistry as imitation art. Following the division of the imitation art in copy-making and appearance-making, he discovers that sophistry falls under the appearance-making art, namely the Sophist imitates the wise man.
+The sophist is presented negatively, but he can be said to be someone who merely pretends to have knowledge or to be a purveyor of false knowledge only if right opinion and false opinion can be distinguished. It seems impossible to say that the sophist presents things that are not as though they were, or passes off "non-being" as "being," since this would suggest that non-being exists, or that non-existence exists. Otherwise, the sophist couldn't "do" anything with it. The Stranger suggests that it is Parmenides' doctrine of being and non-being that is at the root of this problem, and so proceeds to criticize Parmenides' ideas, namely that "it is impossible that things that are not are."
+
+
+== Puzzles of being and not-being, great kinds (236d–264b) ==
+The Eleatic Stranger, before proceeding to the final definition of sophistry, has to make clear the concepts that he used throughout the procedure of definition. In other words, he has to clarify what is the nature of the Being (that which is), Not-Being, sameness (identity), difference, motion (change), and rest, and how they are interrelated. Therefore, he examines Parmenides’ notion in comparison with Empedocles and Heraclitus’ in order to find out whether Being is identical with change or rest, or both.
+The conclusion is that rest and change both "are," that is, both are beings; Parmenides had said that only rest "is." Furthermore, Being is a "kind" that all existing things share in common. Sameness is a "kind" that all things which belong to the same kind or genus share with reference to a certain attribute, and due to which diaeresis through collection is possible. Difference is a "kind" that makes things of the same genus distinct from one another; therefore it enables us to proceed to their division. Finally, so-called Not-Being is not the opposite of Being, but simply different from it. Therefore, the negation of Being is identified with "difference." Not-being is difference, not the opposite of Being.
+Following these conclusions, the true statement can be distinguished from the false one, since each statement consists of a verb and a name. The name refers to the subject, and because a thought or a speech is always about something, and it cannot be about nothing (Non-Being). The verb is the sign of the action that the subject performs or the action being performed to or on the subject. When the verb states something that is about the subject, namely one of his properties, then the statement is true. While when the verb states something that is different (it is not) from the properties of the subject, then the statement is false, but is not attributing being to non-being.
+It is plausible then, that ‘things that are not  (appearing and seeming) somehow are’, and so it is also plausible that the sophist produces false appearances and imitates the wise man.
+
+
+== Final definition (264b–268d) ==
+After having solved all these puzzles, that is to say the interrelation between being, not-being, difference and negation, as well as the possibility of the "appearing and seeming but not really being," the Eleatic Stranger can finally proceed to define sophistry. "Sophistry is a productive art, human, of the imitation kind, copy-making, of the appearance-making kind, uninformed and insincere in the form of contrary-speech-producing art."
+
+
+== Texts and translations ==
+Plato: Theaetetus, Sophist. Greek with translation by Harold N. Fowler. Loeb Classical Library 123. Harvard Univ. Press (originally published 1921). ISBN 978-0674991378 HUP listing
+Fowler translation at Perseus
+Sophist. Translated by Benjamin Jowett
+Jowett translation also available at StandardEbooks
+Plato. Opera, volume I. Oxford Classical Texts. ISBN 978-0198145691
+Plato. Complete Works. Hackett, 1997. ISBN 978-0872203495
+
+
+== Notes ==
+
+
+== References ==
+Ackrill, J. L. 1997. Essays on Plato and Aristotle.  Oxford: Oxford University Press.
+Ambuel, David. 2007. Image and Paradigm in Plato's Sophist. Parmenides Publishing. ISBN 9781930972049
+Bakalis, N. 2005. Handbook of Greek Philosophy: From Thales to the Stoics Analysis and Fragments ISBN 1-4120-4843-5
+Benardete, S. 1986. Plato's Sophist. Part II of The Being of the Beautiful. Chicago: Chicago University Press.
+Cornford, F. M. 1935. Plato's Theory of Knowledge. London: Routledge & Kegan Paul.
+Eck, J. van. 2002. “Not Being and Difference: on Plato's Sophist 256d5-258e3." Oxford Studies in Ancient Philosophy 23: 63-84.
+Frede, M. 1992. “Plato's Sophist on False Statements.” In The Cambridge Companion to Plato. Edited by Richard Kraut, 397-424. Cambridge: Cambridge University Press.
+Frede, M. 1996. “The Literary Form of the Sophist.” In Form and Argument in Late Plato Edited by C. Gill and M. M. McCabe, 135-151. Oxford: Clarendon Press.
+Gill, C. and M. M. McCabe eds. 1996. Form and Argument in Late Plato. Oxford: Clarendon Press.
+Harte, V. 2002. Plato on Parts and Wholes: The Metaphysics of Structure, Oxford: Clarendon Press.
+Heidegger, M. 1997. Plato's Sophist. Translated by Richard Rojcewicz and André Schuwer.  Bloomington, Ind.: Indiana University Press.
+Moravcsik, J. M. E. 1992. Plato and Platonism. Oxford: Blackwell.
+Nehamas, A. 1982. “Participation and Predication in Plato's Later Thought.” Review of Metaphysics 26: 343-74.
+Gaetano Licata, Teoria platonica del linguaggio. Prospettive sul concetto di verità, Il Melangolo, Genova 2007.
+Sallis, J. 1996. Being and Logos: Reading the Platonic Dialogues. Bloomington: Indiana University Press.
+Plato. 1996. Plato's Sophist. The Professor of Wisdom: With Translation, Introduction and Glossary by Eva Brann, Peter Kalkavage, Eric Salem. Newburyport: Focus Publishing.
+Stenzel, J. 1940 [1931]. Plato's Method of Dialectic. Translated and Edited by D. J. Allan. Oxford: Clarendon Press.
+Vlastos, G. 1973. “An Ambiguity in the Sophist”, in Platonic Studies Edited by G. Vlastos, 270-322. Princeton: Princeton University Press.
+White, N. P. 1993. Plato: Sophist, Indianapolis, Ind.: Hackett.
+Zaks, Nicolas (2023). Apparences et dialectique: un commentaire du Sophiste de Platon. Leiden Boston (Mass.): Brill. ISBN 9789004533066.
+
+
+== External links ==
+
+Sophist, in a collection of Plato's Dialogues at Standard Ebooks
+Greek text of the dialogue at Perseus
+ Sophist, english translation by Benjamin Jowett public domain audiobook at LibriVox
+Gill, Mary Louise. "Method and Metaphysics in Plato's Sophist and Statesman". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+Semantics, Predication, Truth and Falsehood in Plato's Sophist
+Plato's Sophist, Annotated Bibliography of the studies in English

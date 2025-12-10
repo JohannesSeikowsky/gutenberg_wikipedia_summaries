@@ -1,0 +1,34 @@
+The Fangyan is a Chinese dictionary compiled in the early 1st century CE by the poet and philosopher Yang Xiong (53 BCE – 18 CE). It was the first Chinese dictionary to include significant regional vocabulary, and is considered the "most significant lexicographic work" of its era. His dictionary's preface explains how he spent 27 years amassing and collating the dictionary. Yang collected regionalisms from many sources, particularly the 'light carriage' (輶軒 yóuxuān) surveys made during the Zhou and Qin dynasties, where imperial emissaries were sent into the countryside annually to record folk songs and idioms from across China, reaching as far north as Korea.
+
+
+== Contents ==
+
+The Fangyan originally contained some 9,000 characters in 15 chapters, but two chapters have since been lost.
+Definitions typically list regional synonyms. For example, the entry for hu (虎 'tiger') is as follows:
+
+Comparative linguists have used dialect data from the Fangyan in reconstructing the pronunciation of Eastern Han Chinese (1st century CE), which is an important diachronic stage between Old Chinese and Middle Chinese. In the above example, Paul Serruys reconstructs 'tiger' as Old Chinese *blxâg. Serruys also applied the techniques of modern dialectology to the distribution of regional words, identifying dialect areas and their relationships.
+
+
+== Terminology ==
+Victor Mair proposed that 方言 be translated as topolect, while dialect should be translated into Chinese as 通言 tōngyán. Based on this, topolect has been used to characterize other speech varieties where an identification as either language or dialect would be controversial. Examples include Scots and the various regional varieties of Arabic and Romani. In all of these situations, an identification of distinct languages by the straightforward criterion of mutual intelligibility may not be politically or socially acceptable to a significant number of scholars. For example, several varieties of Southwestern Mandarin are not mutually intelligible, and they would be classified as distinct languages within the Mandarin branch of the Sinitic language family, if it weren't for the dominant social, historical, and political concept of Chinese as a unitary language. Mandarin, Southwestern Mandarin, the mutually unintelligible varieties of Southwestern Mandarin, and indeed the mutually intelligible dialects within those varieties are all termed "topolects".
+
+
+== See also ==
+Shuowen Jiezi
+List of Chinese dictionaries
+Great Dictionary of Modern Chinese Dialects
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Works cited ===
+
+
+== Further reading ==

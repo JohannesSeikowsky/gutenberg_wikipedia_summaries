@@ -1,0 +1,32 @@
+Sunzi Suanjing (Chinese: 孫子算經; pinyin: Sūnzǐ Suànjīng; Wade–Giles: Sun Tzu Suan Ching; lit. 'The Mathematical Classic of Master Sun/Master Sun's Mathematical Manual') was a mathematical treatise written during 3rd to 5th centuries CE which was listed as one of the Ten Computational Canons during the Tang dynasty. The specific identity of its author Sunzi (lit. "Master Sun") is still unknown but he lived much later than his namesake Sun Tzu, author of The Art of War. From the textual evidence in the book, some scholars concluded that the work was completed during the Southern and Northern Dynasties. Besides describing arithmetic methods and investigating Diophantine equations, the treatise touches upon astronomy and attempts to develop a calendar.
+
+
+== Contents ==
+
+The book is divided into three chapters.
+
+
+=== Chapter 1 ===
+Chapter 1 discusses measurement units of length, weight and capacity, and the rules of counting rods. Although counting rods were in use in the Spring and Autumn period and there were many ancient books on mathematics such as Book on Numbers and Computation and The Nine Chapters on the Mathematical Art, no detailed account of the rules was given. For the first time, The Mathematical Classic of Sun Zi provided a detail description of the rules of counting rods: "one must know the position of the counting rods, the units are vertical, the tens horizontal, the hundreds stand, the thousands prostrate", followed by the detailed layout and rules for manipulation of the counting rods in addition, subtraction, multiplication, and division with ample examples.
+
+
+=== Chapter 2 ===
+Chapter 2 deals with operational rules for fractions with rod numerals: the reduction, addition, subtraction, and division of fractions, followed by mechanical algorithm for the extraction of square roots.
+
+
+=== Chapter 3 ===
+Chapter 3 contains the earliest example of the Chinese remainder theorem, a key tool to understanding and resolving Diophantine equations.
+
+
+== Bibliography ==
+Researchers have published a full English translation of the Sūnzĭ Suànjīng:
+
+Fleeting Footsteps; Tracing the Conception of Arithmetic and Algebra in Ancient China, by Lam Lay Yong and Ang Tian Se, Part Two, pp 149–182.  World Scientific Publishing Company; June 2004  ISBN 981-238-696-3
+The original Chinese text is available on Wikisource.
+
+
+== External links ==
+Sun Zi at MacTutor
+
+
+== References ==

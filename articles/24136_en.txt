@@ -1,0 +1,102 @@
+The Zuo Zhuan (Chinese: 左傳; Wade–Giles: Tso Chuan; [tswò ʈʂwân]), often translated as The Zuo Tradition or as The Commentary of Zuo, is an ancient Chinese narrative history traditionally regarded as a commentary on the ancient Chinese chronicle Spring and Autumn Annals. It comprises 30 chapters that cover the period from 722 to 468 BC, and it focuses mainly on the Chinese political, diplomatic, and military affairs from that era.
+For many centuries, the Zuo Zhuan was the primary text through which educated Chinese learned their ancient history.  The Zuo Zhuan does not simply explain the wording of the Spring and Autumn Annals, but rather expounds upon its historical background with rich and lively accounts of the history and culture of the Spring and Autumn period (771–476 BC). The Zuo Zhuan is the source of more Chinese sayings and idioms than any other classical work, and its concise, flowing style served as a paragon of elegant Classical Chinese. Its tendency toward third-person narration and portraying characters through direct speech and action became hallmarks of Chinese narrative in general, and its style was imitated by historians, storytellers, and ancient-style prose masters for over 2000 years of subsequent Chinese history.
+The Zuo Zhuan has a reputation as "a masterpiece of grand historical narrative", but its early textual history is largely unknown, and the nature of its original composition and authorship have been widely debated. The titular "Zuo" was traditionally identified as Zuo Qiuming—an obscure figure of the 5th century BC described as a blind disciple of Confucius—but there is little actual evidence to support this. Most scholars now generally believe that the Zuo Zhuan was originally an independent work, composed during the 4th century BC, that was later rearranged as a commentary to the Annals.
+
+
+== Textual history ==
+
+
+=== Creation ===
+Despite its longstanding status as the paragon of Classical Chinese prose, little is known of the creation and early history of the Zuo Zhuan. Bamboo and silk manuscripts excavated from late Warring States period (c. 300 BC) tombs, combined with analyses of the language, diction, chronological references, and philosophical viewpoints of the Zuo Zhuan, suggest that its composition was largely complete by 300 BC. No pre-Han dynasty (202 BC – AD 220) sources, however, suggest that the Zuo Zhuan had to that point been organized into any coherent form. Pre-Han dynasty texts do not directly refer to the Zuo Zhuan as a source, although a few mention its parent text Spring and Autumn Annals. The Zuo Zhuan seems to have had no distinct title of its own during this period, but seems to have simply been called "Annals (Chunqiu)" along with a larger group of similar texts.
+In the 3rd century AD, the Chinese scholar Du Yu intercalated the Zuo Zhuan with the Annals so that each Annals entry was followed by the corresponding narrative from the Zuo Zhuan. This became the received format of the Zuo Zhuan that exists today. Some modern scholars believe that the Zuo Zhuan originally was an independent work composed during the latter half of the 4th century BC—though probably incorporating some older material—that was later rearranged as a commentary to the Annals. During the Han dynasty, Guoyu was often paired with the text, being seen as an effective preface to it given they cover the same period.
+
+
+=== Authorship ===
+Sima Qian's 1st century BC Records of the Grand Historian, the first of China's 24 dynastic histories, refers to the Zuo Zhuan as "Master Zuo's Spring and Autumn Annals" (左氏春秋; Zuǒshì chūnqiū) and attributes it to a man named "Zuo Qiuming" (or possibly "Zuoqiu Ming"). According to Sima Qian, Confucius's disciples began disagreeing over their interpretations of the Annals after Confucius's death. Zuo therefore gathered together Confucius's scribal records and used them to compile the Zuo Annals in order to "preserve the true teachings." The "Zuo Qiuming" whom Sima Qian references was traditionally assumed to be the Zuo Qiuming who briefly appears in the Analects of Confucius when Confucius praises him for his moral judgment.
+Other than this brief mention, nothing is concretely known of the life or identity of the Zuo Qiuming of the Analects, nor of what connection he might have with the Zuo Zhuan. This traditional assumption that the title's "Master Zuo" refers to the Zuo Qiuming of the Analects is not based on any specific evidence, and was challenged by scholars as early as the 8th century. Some modern scholars have observed that even if the Zuo Qiuming of the Analects is the "Zuo" referenced in the Zuo Zhuan′s title, this attribution is questionable because the Zuo Zhuan describes events from the late Spring and Autumn period (c. 771 – 476 BC) that Zuo could not have known.
+Alternatively, a number of scholars, beginning in the 18th century, have suggested that the Zuo Zhuan was actually the product of Wu Qi, a military leader who served in the State of Wei and who, according to the Han Feizi, was from a place called Zuoshi (左氏).  In 1792, the scholar Yao Nai wrote: "The [Zuo Zhuan]  did not come from one person.  There were repeated accretions and additions, with those of Wu Qi and his followers being especially numerous...."
+
+
+=== Commentary status ===
+In the early 19th century, the Chinese scholar Liu Fenglu (劉逢祿; 1776–1829) initiated a long, drawn-out controversy when he proposed, by emphasizing certain discrepancies between it and the Annals, that the Zuo Zhuan was not originally a commentary on the Annals. Liu's theory was taken much further by the prominent scholar and reformer Kang Youwei, who argued that Liu Xin did not really find the "ancient script" version of the Zuo Zhuan in the imperial archives, as historical records describe, but actually forged it as a commentary on the Annals.  Kang's theory was that Liu Xin—who with his father Liu Xiang, the imperial librarian, was one of the first to have access to the rare documents in the Han dynasty's imperial archives—took the Discourses of the States and forged it into a chronicle-like work to fit the format of the Annals in an attempt to lend credibility to the policies of his master, the usurper Wang Mang.
+Kang's theory was supported by several subsequent Chinese scholars in the late 19th century, but was contradicted by many 20th-century studies that examined it from many different perspectives.  In the early 1930s, the French Sinologist Henri Maspero performed a detailed textual study of the issue, concluding the Han dynasty forgery theory to be untenable. The Swedish Sinologist Bernhard Karlgren concluded, based on a series of linguistic and philological analyses he carried out in the 1920s, that the Zuo Zhuan is a genuine ancient text "probably to be dated between 468 and 300 BC." While Liu's hypothesis that the Zuo Zhuan was not originally an Annals commentary has been generally accepted, Kang's theory of Liu Xin forging the Zuo Zhuan is now considered discredited.
+
+
+=== Manuscripts ===
+The oldest surviving Zuo Zhuan manuscripts are six fragments that were discovered among the Dunhuang manuscripts in the early 20th century by the French Sinologist Paul Pelliot and are now held at the Bibliothèque Nationale de France.  Four of the fragments date to the Six Dynasties period (3rd to 6th centuries), while the other two date to the early Tang dynasty (7th century).  The oldest known complete Zuo Zhuan manuscript is the "ancient manuscript scroll" preserved at the Kanazawa Bunko Museum in Yokohama, Japan.
+
+
+== Content and style ==
+
+
+=== Content ===
+The Zuo Zhuan recounts the major political, military, and social events of the Spring and Autumn period from the perspective of the State of Lu. The book is famous "for its dramatic power and realistic details".  It contains a variety of tense and dramatic episodes: battles and fights, royal assassinations and murder of concubines, deception and intrigue, excesses, citizens' oppression and insurgences, and appearances of ghosts and cosmic portents.
+Each Zuo Zhuan chapter begins with the Spring and Autumn Annals (Chunqiu) entry for the year, which is usually terse and brief. It then recounts the Zuo Zhuan content for that year, which often contains long and detailed narratives. The entries follow the strict chronological format of the Annals, so interrelated episodes and the actions of individual characters are sometimes separated by events that occurred in the intervening years. The following entry, though unusually short, exemplifies the general format of all Zuo Zhuan entries.
+
+
+=== Style ===
+Zuo Zhuan narratives have a famously terse and succinct quality that was admired and imitated throughout Chinese history and usually focus either on speeches that illustrate ethical values, or on anecdotes in which the details of the story illuminate specific ethical points.  Its narratives are characterized by parataxis, where clauses are juxtaposed with little verbal indication of their causal relationships with each other.  On the other hand, the speeches and recorded discourses of the Zuo Zhuan are frequently lively, ornate, and verbally complex.
+
+
+== Themes ==
+The Zuo Zhuan's overarching theme is that haughty, evil, and stupid people generally bring disaster upon themselves, while those who are good, wise, and humble are usually justly rewarded.  The Confucian principle of "ritual propriety" (禮; lǐ) is seen as governing all actions, including war, and to bring bad consequences if transgressed.  However, the observance of li is never shown as guaranteeing victory, and the Zuo Zhuan includes many examples of the good and innocent suffering senseless violence.  Much of the Zuo Zhuan′s status as a literary masterpiece stems from its "relentlessly realistic portrayal of a turbulent era marked by violence, political strife, intrigues, and moral laxity".
+The narratives of the Zuo Zhuan are highly didactic and are presented in a way that teaches and illustrates moral principles. The German sinologist Martin Kern observed: "Instead of offering authorial judgments or catechistic hermeneutics, the Zuo Zhuan lets its moral lessons unfold within the narrative itself, teaching at once history and historical judgment."  Unlike the Histories of Herodotus or the History of the Peloponnesian War of Thucydides, with which it is roughly contemporary, the Zuo Zhuan′s narration always remains in the third person and presents as a dispassionate recorder of facts.
+
+
+=== Battles ===
+Several of the Zuo Zhuan′s most famous sections are those dealing with critical historical battles, such as the Battle of Chengpu and the Battle of Bi. The Battle of Chengpu, the first of the Zuo Zhuan′s great battles, took place in the summer of 632 BC at Chengpu (now Juancheng County, Shandong Province) in the State of Wey.  On one side were the troops of the powerful State of Chu, from what was then far southern China, led by the Chu prime minister Cheng Dechen.  They were opposed by the armies of the State of Jin, led by Chong'er, Duke of Jin, one of the most prominent and well known figures in the Zuo Zhuan.  Chu suffered a disastrous defeat in the battle itself, and it resulted in Chong'er being named hegemon (霸; bà) of the various states.
+
+The narrative of the Battle of Chengpu is typical of Zuo Zhuan battle narratives. The description of the battle itself is relatively brief, with most of the narrative being focused on battle preparations, omens and prognostications regarding its outcome, the division of the spoils, and the shifts and defections of the various allied states involved in the conflict.  This "official [and] restrained" style, which became typical of Chinese historical writing, is largely due to the ancient Chinese belief that ritual propriety and strategic preparation were more important in determining the outcome of battles than individual valor or bravery.
+
+
+=== Succession crises ===
+Several of the most notable passages in the Zuo Zhuan describe succession crises, which seem to have been fairly common in China during the Spring and Autumn period.  These crises often involved the "tangled affections" of the various rulers, and are described in a dramatic and vivid manner that gives insight into the lives of China's aristocratic elite during the mid-1st millennium BC.  The best known of these stories is that of Duke Zhuang of Zheng, who ruled the State of Zheng from 743 to 701 BC.  Duke Zhuang was born "in a manner that startled" his mother (probably breech birth), which caused her to later seek to persuade her husband to name Duke Zhuang's younger brother as the heir apparent instead of him.  The story ends with eventual reconciliation between mother and son, thus exemplifying the traditional Chinese virtues of both 礼; lǐ; 'ritual propriety' and 孝; xiào; 'filial piety', which made it consistently popular with Chinese readers over the centuries.
+
+
+=== Moral verdicts ===
+Many Zuo Zhuan anecdotes end with brief moral comments or verdicts that are attributed to either Confucius or an unnamed "gentleman" or "noble person" (jūnzǐ; 君子). The chapter on the Battle of Chengpu contains the following ending comment:
+
+These postfaces, which were added later by Confucian scholars, are directed toward those currently in power, reminding them of "the historical precedents and inevitable consequences of their own actions."  They speak with the voices of previous ministers, advisers, "old men", and other anonymous figures to remind rulers of historical and moral lessons, and suggest that rulers who heed their advice will succeed, while those who do not will fail.
+
+
+=== Fate ===
+Several sections of the Zuo Zhuan demonstrate the traditional Chinese concept of 命; mìng; 'fate'', ''destiny'—referring either to an individual's mission in life or their allotted lifespan—and attempt to illustrate how benevolent rulers ought to accept 'fate' selflessly, as in the story of Duke Wen moving the capital of the state of Zhu in 614 BC.
+
+
+== Influence ==
+The Zuo Zhuan has been recognized as a masterpiece of early Chinese prose and "grand historical narrative" for many centuries.  It has had an immense influence on Chinese literature and historiography for nearly 2000 years, and was the primary text by which historical Chinese readers gained an understanding of China's ancient history. It enjoyed high status and esteem throughout Chinese history because of its great literary quality, and was often read and memorized because of its role as the preeminent commentary on the Annals, which nearly all Chinese scholars traditionally ascribed to Confucius. Many Chinese scholars believed that the terse, succinct entries of the Annals contained cryptic references to Confucius' "profound moral judgments on the events of the past as well as those of his own day and on the relation of human events to those in the natural order", and that the Zuo Zhuan was written to clarify or even "decode" these hidden judgments.
+From the Han dynasty (206 BC – AD 220) down to the present day, the Zuo Zhuan has been viewed as a model of correct, sophisticated Classical Chinese prose. The Zuo Zhuan′s great influence on the Chinese language is evident from the fact that it is the source of more chengyu than any other work, including the Analects of Confucius. The well-known Qing dynasty student anthology Guwen Guanzhi included 34 passages from the Zuo Zhuan as paragons of Classical Chinese prose, more than any other source.  These passages are still part of the Classical Chinese curriculum in mainland China and Taiwan today.
+The 400-year period the Zuo Zhuan covers is now known as the Spring and Autumn period, after the Spring and Autumn Annals, but the Zuo Zhuan is the most important source for the period. This era was highly significant in Chinese history, and saw a number of developments in governmental complexity and specialization that preceded China's imperial unification in 221 BC by the First Emperor of Qin. The latter years of this period also saw the appearance of Confucius, who later became the preeminent figure in Chinese cultural history. The Zuo Zhuan is one of the only surviving written sources for the history of the Spring and Autumn period, and is extremely valuable as a rich source of information on the society that Confucius and his disciples lived in and from which the Confucian school of thought developed. It was canonized as one of the Chinese classics in the 1st century AD, and until modern times was one of the cornerstones of traditional education for men in China and the other lands of the Sinosphere such as Japan and Korea.
+
+
+== Translations ==
+James Legge (1872), The Ch'un Ts'ew, with the Tso Chuen, The Chinese Classics V, London: Trübner, Part 1 (books 1–8), Part 2 (books 9–12).  Revised edition (1893), London: Oxford University Press.
+(in French) Séraphin Couvreur (1914), Tch'ouen Ts'iou et Tso Tchouan, La Chronique de la Principauté de Lou [Chunqiu and Zuo Zhuan, Chronicle of the State of Lu], Ho Kien Fou: Mission Catholique.
+(in Japanese) Teruo Takeuchi 竹内照夫 (1974–75).  Shunjū Sashiden 春秋左氏伝 [Chunqiu Zuoshi zhuan]. Zenshaku kanbun taikei 全釈漢文体系 [Fully Interpreted Chinese Literature Series] 4–6.  Tokyo: Shūeisha.
+Burton Watson (1989). The Tso chuan: Selections from China's Oldest Narrative History. New York: Columbia University Press. Reprinted (1992).
+Hu Zhihui 胡志挥; Chen Kejiong 陈克炯 (1996).  Zuo zhuan 左传. Changsha: Hunan renmin chubanshe. (Contains both English and Mandarin translations)
+Stephen Durrant; Li Wai-yee; David Schaberg, trans. (2016), Zuo Tradition (Zuozhuan), Seattle: University of Washington Press.
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Works cited ===
+
+
+== Further reading ==
+Yang Bojun (1990). Chunqiu Zuozhuan zhu 春秋左传注 [Annotated Chunqiu Zuozhuan]. Beijing: Zhonghua Shuju. ISBN 7-101-00262-5.
+
+
+== External links ==
+
+Chunqiu Zuozhuan Bilingual text of Zuo zhuan with side-by-side Chinese original and Legge's English translation
+Zuo zhuan Fully searchable text (Chinese)
+Zuo zhuan with annotations by Yang Bojun
+The Commentary of Zuo on the Spring and Autumn Annals 《春秋左氏傳》 Chinese text with matching English vocabulary at chinesenotes.com

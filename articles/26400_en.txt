@@ -1,0 +1,44 @@
+La Géométrie (French pronunciation: [la ʒeɔmetʁi]) was published in 1637 as an appendix to Discours de la méthode (Discourse on the Method), written by René Descartes. In the Discourse, Descartes presents his method for obtaining clarity on any subject. La Géométrie and two other appendices, also by Descartes, La Dioptrique (Optics) and Les Météores (Meteorology), were published with the Discourse to give examples of the kinds of successes he had achieved following his method (as well as, perhaps, considering the contemporary European social climate of intellectual competitiveness, to show off a bit to a wider audience).
+
+The work was the first to propose the idea of uniting algebra and geometry into a single subject and invented an algebraic geometry called analytic geometry, which involves reducing geometry to a form of arithmetic and algebra and translating geometric shapes into algebraic equations. For its time this was ground-breaking. It also contributed to the mathematical ideas of Leibniz and Newton and was thus important in the development of calculus.
+
+
+== The text ==
+This appendix is divided into three "books". 
+Book I is titled Problems Which Can Be Constructed by Means of Circles and Straight Lines Only. In this book he introduces algebraic notation that is still in use today. The letters at the end of the alphabet, viz., x, y, z, etc. are to denote unknown variables, while those at the start of the alphabet, a, b, c, etc. denote constants. He introduces modern exponential notation for powers (except for squares, where he kept the older tradition of writing repeated letters, such as, aa). He also breaks with the Greek tradition of associating powers with geometric referents, a2 with an area, a3 with a volume and so on, and treats them all as possible lengths of line segments. These notational devices permit him to describe an association of numbers to lengths of line segments that could be constructed with straightedge and compass. The bulk of the remainder of this book is occupied by Descartes's solution to "the locus problems of Pappus." According to Pappus, given three or four lines in a plane, the problem is to find the locus of a point that moves so that the product of the distances from two of the fixed lines (along specified directions) is proportional to the square of the distance to the third line (in the three line case) or proportional to the product of the distances to the other two lines (in the four line case). In solving these problems and their generalizations, Descartes takes two line segments as unknown and designates them x and y. Known line segments are designated a, b, c, etc. The germinal idea of a Cartesian coordinate system can be traced back to this work.
+In the second book, called On the Nature of Curved Lines, Descartes described two kinds of curves, called by him geometrical and mechanical. Geometrical curves are those which are now described by algebraic equations in two variables, however, Descartes described them kinematically and an essential feature was that all of their points could be obtained by construction from lower order curves. This represented an expansion beyond what was permitted by straightedge and compass constructions. Other curves like the quadratrix and spiral, where only some of whose points could be constructed, were termed mechanical and were not considered suitable for mathematical study. Descartes also devised an algebraic method for finding the normal at any point of a curve whose equation is known. The construction of the tangents to the curve then easily follows and Descartes applied this algebraic procedure for finding tangents to several curves. 
+The third book, On the Construction of Solid and Supersolid Problems, is more properly algebraic than geometric and concerns the nature of equations and how they may be solved. He recommends that all terms of an equation be placed on one side and set equal to 0 to facilitate solution. He points out the factor theorem for polynomials and gives an intuitive proof that a polynomial of degree n has n roots. He systematically discussed negative and imaginary roots of equations and explicitly used what is now known as Descartes' rule of signs.
+
+
+== Aftermath ==
+Descartes wrote La Géométrie in French rather than the language used for most scholarly publication at the time, Latin. His exposition style was far from clear, the material was not arranged in a systematic manner and he generally only gave indications of proofs, leaving many of the details to the reader. His attitude toward writing is indicated by statements such as "I did not undertake to say everything," or "It already wearies me to write so much about it," that occur frequently. Descartes justifies his omissions and obscurities with the remark that much was deliberately omitted "in order to give others the pleasure of discovering [it] for themselves."
+Descartes is often credited with inventing the coordinate plane because he had the relevant concepts in his book, however, nowhere in La Géométrie does the modern rectangular coordinate system appear. This and other improvements were added by mathematicians who took it upon themselves to clarify and explain Descartes' work.
+This enhancement of Descartes' work was primarily carried out by Frans van Schooten, a professor of mathematics at Leiden and his students. Van Schooten published a Latin version of La Géométrie in 1649 and this was followed by three other editions in 1659−1661, 1683 and 1693. The 1659−1661 edition was a two volume work more than twice the length of the original filled with explanations and examples provided by van Schooten and his students. One of these students, Johannes Hudde provided a convenient method for determining double roots of a polynomial, known as Hudde's rule, that had been a difficult procedure in Descartes's method of tangents. These editions established analytic geometry in the seventeenth century.
+
+
+== See also ==
+Claude Rabuel
+
+
+== Notes ==
+
+
+== References ==
+Boyer, Carl B. (2004) [1956], History of Analytic Geometry, Dover, ISBN 978-0-486-43832-0
+Burton, David M. (2011), The History of Mathematics / An Introduction (7th ed.), McGraw Hill, ISBN 978-0-07-338315-6
+Descartes, René (2006) [1637]. A discourse on the method of correctly conducting one's reason and seeking truth in the sciences. Translated by Ian Maclean. Oxford University Press. ISBN 0-19-282514-3.
+
+
+== Further reading ==
+Grosholz, Emily (1998). "Chapter 4: Cartesian method and the Geometry". In Georges J. D. Moyal (ed.). René Descartes: critical assessments. Routledge. ISBN 0-415-02358-0.
+Hawking, Stephen W. (2005). "René Descartes". God created the integers: the mathematical breakthroughs that changed history. Running Press. pp. 285 ff. ISBN 0-7624-1922-9.
+Serfati, M. (2005). "Chapter 1: René Descartes, Géométrie, Latin edition (1649), French edition (1637)". In I. Grattan-Guinness; Roger Cooke (eds.). Landmark writings in Western mathematics 1640-1940. Elsevier. ISBN 0-444-50871-6.
+Smith, David E.; Latham, M. L. (1954) [1925]. The Geometry of René Descartes. Dover Publications. ISBN 0-486-60068-8. {{cite book}}: ISBN / Date incompatibility (help)
+
+
+== External links ==
+ Quotations related to La Géométrie at Wikiquote
+Project Gutenberg copy of La Géométrie
+Bad OCR: Cornell University Library copy of La Géométrie
+Archive.org: The Geometry of Rene Descartes
+Facsimile (fr) : La Géométrie Archived 2019-11-28 at the Wayback Machine

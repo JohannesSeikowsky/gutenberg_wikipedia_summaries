@@ -1,0 +1,53 @@
+The Rites of Zhou (Chinese: 周禮; pinyin: zhōu lǐ), originally known as "Officers of Zhou" (周官; zhōu guān), is a Chinese work on bureaucracy and organizational theory. It was renamed by Liu Xin to differentiate it from a chapter in the Book of History by the same name. To replace a lost work, it was included along with the Book of Rites and the Etiquette and Ceremonial – becoming one of three ancient ritual texts (the "Three Rites") listed among the classics of Confucianism.
+In comparison with other works of its type, the Rite's ruler, though a sage, does not create the state, but merely organizes a bureaucracy. It could not have been composed during the Western Zhou. With a vision based on Warring States period society, Mark Edward Lewis takes it as closely linked to the major administrative reforms of the period. He and Michael Puett compare its system of duties and ranks to the "Legalism" of Shang Yang, which is not to say that they had any direct relation.
+
+
+== Authorship ==
+The book appeared in the middle of the 2nd century BC, when it was found and included in the collection of Old Texts in the library of Prince Liu De (劉德; d. 130 BC), a younger brother of the Han emperor Wu. Its first editor was Liu Xin (c. 50 BC – AD 23), who credited it to the Duke of Zhou. Tradition since at least the Song dynasty continued this attribution, with the claim that Liu Xin's edition was the final one.
+In the 12th century, it was given special recognition by being placed among the Five Classics as a substitute for the long-lost sixth work, the Classic of Music.
+In the late 19th and early 20th centuries, following Kang Youwei, the book was often seen as a forgery by Liu Xin. Currently, a few holdouts continue to insist on a Western Zhou date while the majority follow Qian Mu and Gu Jiegang in assigning the work to about the 3rd century BC. Yu Yingshi argues for a date in the late Warring States period based on a comparison of titles in the text with extant bronze inscriptions and calendrical knowledge implicit in the work. In this view, the word "Zhou" in the title refers not to the Western Zhou but to the royal State of Zhou of the Warring States; the small area still directly under the king's control.
+
+
+== Contents ==
+
+The book is divided into six chapters:
+
+Offices of the Heaven (天官冢宰; Tiānguān Zhǒngzǎi) on general principles of governance, appointment of officials, guards, attendants and royal purveyors of provisions such as wine, jade, dried meat, vinegar... Descriptions on duties and responsibilities of officials, eunuchs and concubines;
+Offices of Earth (地官司徒; Dìguān Sītú) on local governance, agriculture, taxation and division of land;
+Offices of Spring (春官宗伯; Chūnguān Zōngbó) on ceremonies, music, rituals and divinatory practices;
+Offices of Summer (夏官司馬; Xiàguān Sīmǎ) on the organization of the army;
+Office of Autumn (秋官司寇; Qiūguān Sīkòu) on justice, punishments, legal system and court rites;
+Office of Winter (冬官考工記; Dōngguān Kǎogōngjì) on public works, manufacturing, artisans, craftmanship and art.
+The work consists mainly of schematic lists of Zhou dynasty bureaucrats, stating what the function of each office is and who is eligible to hold it. Sometimes though the mechanical listing is broken off by pieces of philosophical exposition on how a given office contributes to social harmony and enforces the universal order.
+The division of chapters follows the six departments of the Zhou dynasty government. The bureaucrats within a department come in five ranks: minister (qing 卿), councilor (da fu 大夫), senior clerk (shang shi 上士), middle clerk (zhong shi 中士) and junior clerk (xia shi 下士). There is only one minister per department -the department head-, but the other four ranks all have multiple holders spread across various specific professions.
+It was translated into French by Édouard Biot as Le Tcheou-Li ou Rites des Tcheou, traduit pour la première fois du Chinois in 1850 and an abridged English translation edition called Institutes of the Chow Dynasty Strung as Pearls by Hoo peih seang and translated by William Raymond Gingell in 1852.
+In addition to the Etiquette and Ceremonial, the Rites of Zhou contain one of the earliest references to the Three Obediences and Four Virtues, a set of principles directed exclusively at women that formed a core part of female education during the Zhou.
+
+
+== Record of Trades ==
+
+A part of the Winter Offices, the  Record of Trades (Kao Gong Ji), contains important information on technology, architecture, city planning, and other topics. A passage records that, "The master craftsman constructs the state capital. He makes a square nine li on one side; each side has three gates. Within the capital are nine north-south and nine east-west streets. The north-south streets are nine carriage tracks in width". It was translated by Jun wenren as Ancient Chinese Encyclopedia of Technology Translation and Annotation of Kaogong Ji, the Artificers' Record.
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+Jin, Chunfeng (1993). New examinations on the composition of the Zhouguan and on the culture and age reflected in the classic. Taipei: Dongda Tushu Co. ISBN 957-19-1519-X.
+Lu, Youren (2001). "Summary on Zhouli". Journal of Henan Normal University (Philosophy and Social Sciences Edition). Archived from the original on 2007-10-07. Retrieved 2006-06-04.
+
+
+== Bibliography ==
+Boltz, William G., 'Chou li' in: Early Chinese Texts. A Bibliographical Guide (Loewe, Michael, ed.), pp. 24–32, Berkeley: Society for the Study of Early China, 1993, (Early China Special Monograph Series No. 2), ISBN 1-55729-043-1.
+Kelleher, M. Theresa (2005). "San-ts'ung ssu-te". In Taylor, Rodney L.; Choy, Howard Y.F. (eds.). The Illustrated Encyclopedia of Confucianism. Vol. 2 N-Z. New York: The Rosen Publishing Group. p. 496. ISBN 978-0-8239-4081-3.
+Karlgren, Bernhard, 'The Early History of the Chou li and Tso chuan Texts' in: Bulletin of the Museum of Far Eastern Antiquites, 3 (1931), pp. 1–59
+Nylan, Michael, The Five 'Confucian' Classics, New Haven (Yale University Press), 2001, ISBN 0-300-08185-5, Chapter 4, The Three Rites Canon pp. 168–202.
+
+
+== External links ==
+Rites of Zhou (in Chinese)
+Rites of Zhou (in French)

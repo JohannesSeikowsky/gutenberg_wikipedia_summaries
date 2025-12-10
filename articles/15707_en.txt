@@ -1,0 +1,44 @@
+Zoonomia; or the Laws of Organic Life (1794–96) is a two-volume medical work by Erasmus Darwin dealing with pathology, anatomy, psychology, and the functioning of the body. Its primary framework is one of associationist psychophysiology. The book is now best remembered for its early ideas relating to the theory of evolution, specifically forms of developmentalism similar to Lamarckism. However, despite Erasmus Darwin's familial connection as grandfather to Charles Darwin, the proto-evolutionary ideas in Zoonomia did not have a lasting influence.
+
+
+== Summary ==
+The first volume, published in 1794, is divided into 40 sections, on a range of topics related to the body, the senses, and disease. Darwin classifies bodily and sensory motions as "irritative", "sensitive", "voluntary", and "associative". He presents theories on the production and classes of ideas, and seeks to explain  the causes and mechanisms of sleep, reverie, vertigo, and drunkenness. He then discusses anatomy, especially the operation of the circulatory system and various glands. Chapter 29, "The Retrograde Motions of the Absorbent Vessels," is Erasmus Darwin's translation of his late son Charles Darwin's dissertation. These anatomical chapters are followed by four chapters on diseases, which draws on his classification of four types of motion to identify four types of diseases: those of irritation, of sensation, of volition, and of association. Two chapters, "Of the Oxygenation of the Blood in the Lungs and Placenta" and "Of Generation" develop his theories about human reproduction, including observations related to evolution. The final chapter in the first volume is a reprint of a paper by another of Erasmus Darwin's sons, Robert Darwin, about "ocular spectra" (afterimages).
+The second volume, published in 1796, is focused on classifying diseases into classes, orders, and genera. The book is divided into four major sections, based on his four classes of disease: diseases of irritation, sensation, volition, and association. Encyclopedia-style entries on various diseases explain their symptoms and underlying mechanics, followed by suggestions for treatment. After the fourth class of diseases, Darwin presents a lengthy explanation of his own theory of fever, which he says "may be termed the sympathetic theory of fevers, to distinguish it from the mechanic theory of Boerhaave, the spasmodic theory of Hoffman and of Cullen, and the putrid theory of Pringle." He then provides a systematic listing of "materia medica", or "substances, which may contribute to the restoration of health." These substances are divided into seven classes of their own: nutrientia, incitantia, secernentia, sorbentia, invertentia, revertentia, and torpentia.
+
+
+== Relevance to evolution ==
+The historian of science Stephen Jay Gould says that "Zoonomia owes its modern reputation to a few fleeting passages that look upon organic transmutation with favor."
+
+
+=== Key quotes ===
+
+From thus meditating on the great similarity of the structure of the warm-blooded animals, and at the same time of the great changes they undergo both before and after their nativity; and by considering in how minute a proportion of time many of the changes of animals above described have been produced; would it be too bold to imagine, that in the great length of time, since the earth began to exist, perhaps millions of years...that all warm-blooded animals have arisen from one living filament, which THE GREAT FIRST CAUSE endued with animality...and thus possessing the faculty of continuing to improve by its own inherent activity, and of delivering down those improvements by generation to its posterity, world without end?...
+
+Shall we then say that the vegetable living filament was originally different from that of each tribe of animals above described? And that the productive living filament of each of those tribes was different originally from the other? Or, as the earth and ocean were probably peopled with vegetable productions long before the existence of animals...shall we conjecture that one and the same kind of living filament is and has been the cause of all organic life?
+
+
+=== Inheritance of acquired characteristics ===
+In Zoonomia, Erasmus Darwin advocated the inheritance of acquired characteristics. He stated, "[F]rom their first rudiment, or primordium, to the termination of their lives, all animals undergo perpetual transformations; which are in part produced by their own exertions in consequence of their desires and aversions, of their pleasures and their pains, or of irritations, or of associations; and many of these acquired forms or propensities are transmitted to their posterity." This statement was similar to Lamarck's ideas on evolution.
+Darwin advocated a hypothesis of pangenesis in the third edition of Zoonomia.
+
+
+== Influence ==
+English Romantic poet William Wordsworth used Darwin's Zoonomia as a source for "Goody Blake and Harry Gill", a poem published in the Lyrical Ballads (1798).
+
+
+== Genomic Sequence Alignment Project ==
+Zoonomia is the project name for a genomic sequence alignment effort, started by Kerstin Lindblad-Toh in 2015, attempting to explore the genetic basis for heritable traits, conservation biodiversity, and human disease. As of 2023, Zoonomia's data set included a protein-coding alignment of 427 mammals and a whole-genome alignment of 240 placental mammals.
+
+
+== References ==
+
+
+== Further reading ==
+James Harrison. (1971). Erasmus Darwin's View of Evolution. Journal of the History of Ideas 32 (2): 247–264.
+Christopher Smith; Upham Murray; Robert Arnott, eds. (2005). The Genius of Erasmus Darwin. Ashgate Publishing. ISBN 0-7546-3671-2.
+
+
+== External links ==
+Zoonomia vol. I full text via Project Gutenberg
+Zoonomia vol. II full text via Project Gutenberg
+Google book full text

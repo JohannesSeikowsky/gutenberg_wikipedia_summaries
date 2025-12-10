@@ -1,0 +1,48 @@
+Prolegomena zur Geschichte Israels (German: [pʁoleˈɡoːmena tsuːɐ̯ ɡəˈʃɪçtə ˈʔɪsʁaɛls]; Prologue to the History of Israel) is a book by German biblical scholar and orientalist Julius Wellhausen (1844–1918) that formulated but did not found the documentary hypothesis, a theory on the composition history of the Torah or Pentateuch. Influential and long debated, the volume is often compared for its impact in its field with Charles Darwin's 1859 work, On the Origin of Species.
+First published as Geschichte Israels ("History of Israel") in 1878, the work had a second edition in 1883 under the title Prolegomena zur Geschichte Israels.
+The official English translation by J. Sutherland Black and Allan Menzies, with a preface by Wellhausen's friend and colleague the no less prominent British biblical scholar and orientalist William Robertson Smith, then came in 1885. Between the original publication and the translation, Wellhausen composed an 1881 article - originally called "Jewish History" but published as "Israel" - for Smith's ninth edition of Encyclopædia Britannica, a piece published repeatedly in English and in German.
+Although Wellhausen originally intended the Prolegomena as the first part of a two-volume work on the history of Israel and ancient Judaism, the second volume did not appear until 1894, as Israelitische und jüdische Geschichte.
+
+
+== Background ==
+(All references are to the Project Gutenberg e-text of Wellhausen's "Prolegomena")
+The subject of the Prolegomena is the origins of the Pentateuch. It reviews all the major advances of the preceding century by Johann Gottfried Eichhorn, Wilhelm de Wette, Karl Heinrich Graf, Kuenen, Noldeke, Colenso and others, and puts forward the author's view, which is that the Priestly source was the last of the four sources, written during the Babylonian exile c.550 BC. The implication to be drawn from this was that the Mosaic Law contained in Leviticus, which is largely by the Priestly author, as well as the substantial amounts of material from the Priestly source to be found in Genesis, Exodus and the Book of Numbers, did not exist in the age of Joshua, Samuel, David and Solomon.
+
+
+== Summary ==
+The book consists of an author's Introduction and three major sections. Its argument is that the ancient Israelites did not practice a religion recognisable as Judaism: the earliest religion of the Israelites, as depicted in the Yahwist and Elohist sources, was polytheistic and family-based. The middle layer, the Deuteronomist, shows a clear impulse to the centralisation of worship under the control of a dominant priesthood with royal support. Only in the final, post-Exilic, layer, the Priestly source, when the royal authority has vanished and the priesthood has assumed sole authority over the community, is there evidence of the religion that the world knows as Judaism.
+
+
+=== Introduction ===
+Wellhausen announces his intention to demonstrate the hypothesis of Karl Heinrich Graf that the Law is later than the Prophets: that the books of Genesis, Exodus, Leviticus, Numbers and Deuteronomy (the torah, or "law", as they are known to the Jewish tradition and immediately precede the history of Israel making up the series from Joshua to Kings, the "prophets", called because they were thought to have been written by the prophet Samuel and others, but they were in fact written after those books). He then sets out some commonly agreed ground:
+
+1. The Pentateuch plus the book of Joshua make up a literary unit of six books, or Hexateuch, tracing the history of the Israelites from the Patriarchal age to the conquest of Canaan; and
+2. This hexateuch draws on three sources, the combined Yahwist/Elohist, which consists largely of narratives and dates from the period prior to the destruction of the kingdom of Israel (c.722 BC); the Deuteronomist, responsible for the book of Deuteronomy and dating from the reign of Josiah (c. 620 BC); and the Priestly source, made up largely of the law-code of Leviticus but with connections to all the other books except Deuteronomy.
+Wellhausen proposes to fix the dates of each of the sources, especially of the Priestly source, "by reference to an independent standard, namely, the inner development of the history of Israel so far as that is known to us by trustworthy testimonies, from independent sources."
+
+
+=== History of worship ===
+Each of the sources (Yahwist/Elohist, Deuteronomist and Priestly) reflects a different stage in evolution of religious practice in ancient Israel. Thus, to take one of the five elements of this practice, the Yahwist/Elohist "sanctions a multiplicity of altars", allowing sacrifice at any place; the Deuteronomist records the moment in history (the reform of Josiah, c.620 BC), when a single place of worship was demanded by both priesthood and king; and the Priestly law-code does not demand, but presupposes, centralised worship. In the same way, the other elements of ancient Israelite religion (sacrifice, sacred feasts, the position of the priests and Levites, and the "endowment of the clergy", tithes due to the priests and Levites) have a radically different form in the Yahwist/Elohist to that in the Priestly source, with Deuteronomy occupying an intermediate position. The Priestly source consistently attempts to disguise what are in fact innovations with a veneer of antiquity by inventing, for example, a fictional Tabernacle not mentioned anywhere in the oldest sources, to justify its insistence on centralised worship in Jerusalem. "What is brought forward in Deuteronomy as an innovation is assumed in the Priestly Code to be an ancient custom dating as far back as to Noah."
+
+
+=== History of tradition ===
+The history of the traditions of Israel, like the history of worship, shows a steady progression from the epic and prophetic age of the Yahwist and the Elohist, to the law-bound world of the Priestly source, with Deuteronomy acting as the bridge. "In Chronicles the past is remodelled on the basis of the Law: transgressions take place now and then, but as exceptions from the rule. In the Books of Judges, Samuel, and Kings, the fact of the radical difference of the old practice from the Law is not disputed [but] is simply condemned. In the Chronicles the pattern according to which the history of ancient Israel is represented is the Pentateuch, i.e. the Priestly Code.... [I]n the older historical books, the revision does not proceed upon the basis of the Priestly Code, which indeed is completely unknown to them, but on the basis of Deuteronomy. Thus in the question of the order of sequence of the two great bodies of laws, the history  of the tradition leads us to the same conclusion as the history of the cultus."
+
+
+=== Israel and Judaism ===
+In his concluding section Wellhausen restates his argument that the Priestly source is the last to appear, postdating the Deuteronomist. He summarises also his further conclusions:
+
+There was no written law in ancient Israel, the Torah being held as an oral tradition by priests and prophets.
+Deuteronomy was the first law and gained currency only during the Babylonian exile, when the prophetic tradition ceased.
+Ezekiel and his successors were responsible for the codification and systematisation of worship and Ezra for the introduction of the Priestly code (the laws contained in Leviticus).
+It was that creation of a written Torah which marked the break between the ancient history of Israel and the later history of Judaism.
+
+
+== References ==
+
+Prolegomena zur Geschichte Israels, at Project Gutenberg
+
+
+== Further reading ==
+Nicholson, Ernst (2002). The Pentateuch in the Twentieth Century: The Legacy of Julius Wellhausen. Oxford University Press. ISBN 978-0-19-925783-6. This book is partially available on Google Books [1].
+Paul Michael Kurtz, Kaiser, Christ, and Canaan: The Religion of Israel in Protestant Germany, 1871–1918. Forschungen zum Alten Testament I/122. Tübingen: Mohr Siebeck, 2018.

@@ -1,0 +1,92 @@
+Ludwig van Beethoven's String Quartet No. 11 in F minor, Op. 95, from 1810, was his last before his late string quartets. It is commonly referred to as the "Serioso," stemming from his title "Quartett[o] Serioso" at the beginning and the tempo designation for the third movement.
+It is one of the shortest and most compact of all the Beethoven quartets, and shares a tonality (F) with the first and last quartets Beethoven published (Op. 18, no. 1, and Op. 135). In character and key, as well as in the presence of a final frenetic section in the parallel major, it is related to another composition of Beethoven's middle period — the overture to his incidental music for Goethe's drama Egmont, which he was composing in the same year he was working on this quartet.
+The autograph manuscript for this quartet is inscribed "October 1810", but the paper on which it appears does not match the variety Beethoven is known to have used at that time. It is more likely that he finished it several months later. It premiered in 1814 and appeared in print two years later, dedicated to Nikolaus Zmeskall. Beethoven stated in a letter to George Smart that "The Quartet [Op. 95] is written for a small circle of connoisseurs and is never to be performed in public." Upon listening to the piece, it becomes apparent why he made that assertion. This piece would have been quite out of character in 1810: it is an experiment on compositional techniques the composer would draw on later in his life. (Techniques such as shorter developments, interesting use of silences, metric ambiguity, seemingly unrelated outbursts and more freedom with tonality in his sonata form.)
+The historical picture of this time period helps to put the piece in context. Napoleon had invaded Vienna in May 1809 (see Battle of Wagram) for the second time in four years, and this upset Beethoven greatly. All of his aristocratic friends had fled Vienna, but Beethoven stayed and dramatically complained about the loud bombings.
+
+
+== Form ==
+The quartet is in four movements:
+
+
+=== I. Allegro con brio ===
+This movement is in sonata form.
+
+
+==== Exposition (bars 1–59) ====
+1st tonal area, F minor (bars 1–21): Neapolitan (G♭ chord) important (bar 6, 19); the Neapolitan appears in root position, not its normal first inversion, and the large-scale tritone motion of the bass voice (from G♭ in bar 6 to C in bar 10) again emphasises the strident nature of this movement. It ends on a half cadence on the downbeat of bar 21.
+Transition (bar 21–23): The unison C on the downbeat of bar 21 (V of F minor) is reinterpreted immediately as the leading tone to the second tonal area, D♭ major. A very short transitional phrase solidifies the move to D♭ major.
+2nd tonal area, D♭ major (bars 24–57): This is signified by a two-bar-long lyrical melody first stated in the viola, then passing through the cello and second violin, then cello again. A long V of D♭ (bars 32–37) is unexpectedly resolved to A major, which is simply a deceptive V–♭VI cadence (♭VI of D♭ major would be B, here enharmonically respelled as A). The A-major chord is also V of the Neapolitan (♭II in D♭ major would be E, enharmonically respelled as D). This V–I motion of the Neapolitan is explicitly stated by the quartet in unison in bar 39. Bars 40–43 return to the lyrical nature of the second theme and solidify D♭ major. A modified counterstatement of this entire gesture occurs, landing us on an even more explicit use of the Neapolitan, again enharmonically respelled as D♮, in bars 49–50.
+Closing (bars 58–59): There is no repeat of this already very short exposition, which adds to the startling nature of this piece as a whole.
+
+
+==== Development (bars 60–81) ====
+
+The expected dominant pedal occurs beginning in bar 77, but the C prolongation is an upper pedal in the first violin.
+
+
+==== Recapitulation (bars 82–128) ====
+The 1st theme is shorter this time (4 bars is all).
+The three-bar transitional phrase reappears (bars 86–88) but is not recomposed as would be expected. We are again taken to D♭ major.
+The 2nd theme begins in D♭ major again, but returns to the tonic major (F major) beginning in bar 93. The move to a D-major chord in measure 107 corresponds to the similar passage in bar 49, but here the D-major chord functions as a V/ii, which initiates a circle-of-fifths progression (D–G–C–F), arriving on F in bar 112.
+
+
+==== Coda (bars 129–end) ====
+Begins in ♭VI (D♭ major): Primary scalar motive of the beginning is developed. This coda is shorter than one might expect considering the already short development.
+As Arnold Schoenberg notes in an essay reprinted in the collection Style and Idea, most of the themes and events of this movement – and the main theme of the second movement – contain some form of the motive D♭–C–D–E found in the second bar, even if transposed and changed in some way.
+
+
+=== II. Allegretto ma non troppo ===
+This movement is in D major, a startling and remote key from the F-minor first movement. The form is AB | BA.
+
+A (bars 1–34)
+B (bars 35–64): Fugato section. It eventually falls apart.
+|: The descending scalar cello leads through ever modulating tonalities starting a tritone away from the opening scale.
+B' (bars 77–112)
+A' (bars 112–183): The melody is now an octave higher
+
+
+=== III. Allegro assai vivace ma serioso ===
+This movement is in scherzo form, as typical in the third movement position. Although because of the very odd tempo marking Maynard Solomon warns against calling it a scherzo, preferring the phrase "march-trio".
+
+Scherzo (bars 1–40, with a repeat)
+Trio (bars 41–102)
+Scherzo (bars 103–144)
+Trio (bars 145–182)
+Scherzo (bars 183–206): This time the tempo increases (Più Allegro)
+
+
+=== IV. Larghetto espressivo; Allegretto agitato; Allegro ===
+This is in sonata rondo form. In a sonata-rondo, the piece follows the thematic outline of a rondo (ABACABA), and the tonal outline of a sonata (I V I or i III i, etc.). Beethoven uses Mozart's favourite rondo form for this movement (ABACBA). The absence of the A theme in between the C and second B is a surprise and adds interest by reducing the repetition of the A theme.
+
+Intro, F minor (bars 1–9) (Larghetto expressivo)
+A, F minor (bars 10–32) (Allegretto agitato): It might be prudent to note that the "missing A" from the typical rondo-sonata form could be analysed as being shifted from its "rightful" place after "C" to a more intriguing place in bar 23.
+B, C minor (bars 32–50)
+A', F minor (bars 51–64)
+C (bars 65–82)
+B' (bars 82–97): Here is where the sonata part of sonata-rondo comes in. This time it is in F minor instead of C minor.
+A', F minor (bars 98–132)
+Coda, F major (bars 133–175) (Allegro): The light and bouncy ending is in sharp contrast to the dark, stormy, introspective mood of the rest of the quartet. Of this, Basil Lam said: this "comic-opera ending, [is] absurdly and deliberately unrelated to the 'quartett serioso' – the true Shakespearean touch that provides the final confirmation of the truth of the rest."
+
+
+== Arrangements ==
+Gustav Mahler arranged this quartet for string orchestra, mostly by doubling some of the cello parts with double basses.
+
+
+== References ==
+
+
+== Further reading ==
+These sources contain information specifically about the Op. 95 quartet.
+
+Kerman, Joseph, The Beethoven Quartets, pp. 168–187
+Lam, Basil, Beethoven String Quartets 2, pp. 1–11.
+Solomon, Maynard, Beethoven, pp. 195, 236, 269, 272–273
+Vernon, David, Beethoven: The String Quartets, pp.173-199
+Wolff, Christoph, ed. The String Quartets of Haydn, Mozart, and Beethoven, pp. 233–235.
+
+
+== External links ==
+
+String Quartet No. 11 (Beethoven): Scores at the International Music Score Library Project
+Performance of String Quartet No. 11 by the Borromeo String Quartet from the Isabella Stewart Gardner Museum in MP3 format
+A manuscript of Beethoven's sketches for Quartet No. 11, held by the Morgan Library & Museum, New York

@@ -1,0 +1,95 @@
+The Lesser Key of Solomon, also known by its Latin title Lemegeton Clavicula Salomonis or simply the Lemegeton, is an anonymously authored grimoire on sorcery, mysticism, and magic.  It was compiled in the mid-17th century from materials several centuries older.  It is divided into five books: the Ars Goetia, Ars Theurgia-Goetia, Ars Paulina, Ars Almadel, and Ars Notoria. It is based on the Testament of Solomon and the ring mentioned within it that he used to seal demons.
+
+
+== Ars Goetia ==
+
+
+=== Terminology ===
+
+The text is more properly called Lemegeton Clavicula Salomonis, or, The little Key of Solomon. The title most commonly used, The Lesser Key of Solomon, does not in fact occur in the manuscripts. A. E. Waite, in his 1898 Book of Black Magic and of Pacts does use the terms "so-called Greater Key" and "Lesser Key" to distinguish between the Clavicula Salomonis and Lemegeton, so he may have been the one to coin it. The Latin term goetia refers to the evocation of demons or evil spirits. It is derived from the Ancient Greek word γοητεία (goēteía) meaning "charm", "witchcraft", or "jugglery".
+
+In medieval and Renaissance Europe, goetia was generally considered evil and heretical, in contrast to theurgia (theurgy) and magia naturalis (natural magic), which were sometimes considered more noble. Heinrich Cornelius Agrippa, in his Three Books of Occult Philosophy, writes, "Now the parts of ceremonial magic are goetia and theurgia. Goetia is unfortunate, by the commerces of unclean spirits made up of the rites of wicked curiosities, unlawful charms, and deprecations, and is abandoned and execrated by all laws."
+
+
+=== Sources ===
+The most obvious source for the Ars Goetia is Johann Weyer's Pseudomonarchia Daemonum in his De praestigiis daemonum.  Weyer does not cite, and is unaware of, any other books in the Lemegeton, suggesting that the Lemegeton was derived from his work, not the other way around. The order of the spirits changed between the two, four additional spirits were added to the later work, and one spirit (Pruflas) was omitted. The omission of Pruflas, a mistake that also occurs in an edition of Pseudomonarchia Daemonum cited in Reginald Scot's The Discovery of Witchcraft, indicates that the Ars Goetia could not have been compiled before 1570. Indeed, it appears that the Ars Goetia is more dependent upon Scot's translation of Weyer than on Weyer's work in itself. Additionally, some material came from Heinrich Cornelius Agrippa's Three Books of Occult Philosophy, the Heptameron by pseudo-Pietro d'Abano, and the Magical Calendar.
+Weyer's Officium Spirituum, which is likely related to a 1583 manuscript titled  The Office of Spirits, appears to have ultimately been an elaboration on a 15th-century manuscript titled Livre des Esperitz (30 of the 47 spirits are nearly identical to spirits in the Ars Goetia).
+In a slightly later copy made by Thomas Rudd (1583?–1656), this portion was labeled Liber Malorum Spirituum seu Goetia, and the seals and demons were paired with those of the 72 angels of the Shem HaMephorash which were intended to protect the conjurer and to control the demons he summoned. The angelic names and seals derived from a manuscript by Blaise de Vigenère, whose papers were also used by Samuel Liddell MacGregor Mathers (1854–1918) in his works for the Hermetic Order of the Golden Dawn (1887–1903). Rudd may have derived his copy of Liber Malorum Spirituum from a now-lost work by Johannes Trithemius, who taught Agrippa, who in turn taught Weyer.
+This portion of the work was later edited by Samuel Liddell MacGregor Mathers and published by Aleister Crowley in 1904 under the title The Book of the Goetia of Solomon the King. Crowley added some additional invocations previously unrelated to the original work (including some evocations in the Enochian language), as well as essays describing the rituals as psychological exploration instead of demon summoning.
+
+
+=== The seventy-two demons ===
+
+The demons' names (given below) are taken from the Ars Goetia, which differs in terms of number and ranking from the Pseudomonarchia Daemonum of Weyer. As a result of multiple translations, there are multiple spellings for some of the names, which are given in the articles concerning them. The demons Vassago, Seere, Dantalion, and Andromalius are new additions in Ars Goetia that are not present in the Pseudomonarchia Daemonum that it is based upon. In contrast, the demon Pruflas appears in the Pseudomonarchia Daemonum but not in Ars Goetia.
+
+A footnote in one variant edition lists the kings of the cardinal directions as Oriens or Uriens, Paymon or Paymonia, Ariton or Egyn, and Amaymon or Amaimon, alternatively known as Samael, Azazel, Azael, and Mahazael (purportedly their preferred rabbinic names). Agrippa's Occult Philosophy lists the kings of the cardinal directions as Urieus (east), Amaymon (south), Paymon (west), and Egin (north); again providing the alternate names Samuel (i.e. Samael), Azazel, Azael, and Mahazuel. The Magical Calendar lists them as Bael, Moymon, Poymon, and Egin, though Peterson notes that some variant editions instead list: "Asmodel in the east, Amaymon in the south, Paymon in the west, and Aegym in the north"; "Oriens, Paymon, Egyn, and Amaymon"; or "Amodeo  [sic] (king of the east), Paymon (king of the west), Egion (king of the north), and Maimon."
+
+
+== Ars Theurgia Goetia ==
+The Ars Theurgia Goetia mostly derives from Trithemius's Steganographia, though the seals and order of the spirits are different due to corrupted transmission via manuscript.  Rituals not found in Steganographia were added, in some ways conflicting with similar rituals found in the Ars Goetia and Ars Paulina. Most of the spirits summoned are tied to compass points: four emperors are tied to the cardinal points (Carnesiel in the east, Amenadiel in the west, Demoriel in the north, and Caspiel in the south); and sixteen dukes are tied to cardinal points, inter-cardinal points, and additional directions between those. There are eleven "wandering princes", so a total of thirty-one spirit leaders each rule several spirits, up to a few dozen.
+
+
+== Ars Paulina ==
+
+Derived from book three of Trithemius's Steganographia and from portions of the Heptameron, but purportedly delivered by Paul the Apostle instead of (as claimed by Trithemius) Raziel.  Elements from The Magical Calendar, astrological seals by Robert Turner's 1656 translation of Paracelsus's Archdiocese of Magic, and repeated mentions of guns and the year 1641 indicate that this portion was written in the later half of the seventeenth century. Traditions of Paul communicating with heavenly powers are almost as old as Christianity itself, as seen in some interpretations of 2 Corinthians 12:2–4 and the apocryphal Apocalypse of Paul.  The Ars Paulina is in turn divided into two books, the first detailing twenty-four angels aligned with the twenty-four hours of the day, the second (derived more from the Heptameron) detailing the 360 spirits of the degrees of the zodiac.
+
+
+== Ars Almadel ==
+Mentioned by Trithemius and Weyer, the latter of whom claimed an Arabic origin for the work. A 15th-century copy is attested to by Robert H. Turner, and Hebrew copies were discovered in the 20th century. The Ars Almadel instructs the magician on how to create a wax tablet with specific designs intended to contact angels via scrying.
+
+
+== Ars Notoria, quam Creator Altissimus Salomoni revelavit ==
+
+The Ars Notoria, quam Creator Altissimus Salomoni revelavit, or The Notory Art, which the Almighty Creator Revealed to Solomon, is a seventeenth-century composite text consisting of two separate and imperfect magical texts, the fourteenth century Ars Notoria, or the Notory Art (glossed version), and the mid-fourteenth century Ars Brevis, or the Short Art.  From the original Ars Notoria (glossed version), the compiler of the Ars Notoria, quam Creator Altissimus Salomoni revelavit presents a new rearrangement of a series of mysteriously formulated prayers (which are also found in the London manuscript of The Sworn Book of Honorius) intended to enhance the mental faculties, such as memory, eloquence, and understanding, of the magician. Some editions of the Lemegeton contain the 1657 English translation of The Notory Art, which the Almighty Creator Revealed to Solomon being published and retitled by Robert Turner of Holshott as Ars Notoria: The Notory Art of Solomon, Shewing the Cabalistical Key of Magical Operations, The liberal Sciences, Divine Revelation, and The Art of Memory.  Other editions of the Lemegeton omit this work entirely; A. E. Waite ignores it completely when describing the Lemegeton.
+
+
+== Editions ==
+Crowley, Aleister (ed.), S. L. MacGregor Mathers (transcribed) The Book of the Goetia of Solomon the King. Translated into the English tongue by a dead hand (Foyers, Inverness: Society for the Propagation of Religious Truth, 1904) 1995 reprint: ISBN 0-87728-847-X.
+Greenup, A. W., "The Almadel of Solomon, according to the text of the Sloane MS. 2731" The Occult Review vol. 22 no. 2, August 1915, 96–102.
+Henson, Mitch (ed.) Lemegeton. The Complete Lesser Key of Solomon (Jacksonville: Metatron Books, 1999) ISBN 978-0-9672797-0-1.  Noted by Peterson to be "uncritical and indiscriminate in its use of source material".
+de Laurence, L. W. (ed.), The Lesser Key of Solomon, Goetia, The Book of Evil Spirits (Chicago: de Laurence, Scott & Co., 1916) 1942 reprint: ISBN 978-0-7661-0776-2; 2006 reprint: ISBN 978-1-59462-200-7. A plagiarism of the Mathers/Crowley edition.
+Peterson, Joseph H. (ed.), The Lesser Key of Solomon: Lemegeton Clavicula Salomonis (York Beach, Maine: Weiser Books, 2001). Considered "the definitive version" and "the standard edition".
+Runyon, Carroll, The Book of Solomon's Magick (Silverado, California: C.H.S. Inc., 1996). Targeted more toward practicing magicians than academics, claims that the demons were originally derived from Mesopotamian mythology.
+Shah, Idries, The Secret Lore of Magic (London: Abacus, 1972). Contains portions of Ars Almandel and split sections the Goetia, missing large portions of the rituals involved.
+Skinner, Stephen & Rankine, David (eds.), The Goetia of Dr Rudd: The Angels and Demons of Liber Malorum Spirituum Seu Goetia (sourceworks of Ceremonial Magic) (London and Singapore: The Golden Hoard Press 2007) ISBN 978-0-9547639-2-3
+Thorogood, Alan (ed.), Frederick Hockley (transcribed), The Pauline Art of Solomon (York Beach, Maine: The Teitan Press, 2016)
+Veenstra, Jan R. "The Holy Almandal. Angels and the intellectual aims of magic" in Jan N. Bremmer and Jan R. Veenstra (eds.), The Metamorphosis of Magic from Late Antiquity to the Early Modern Period (Leuven: Peeters, 2002), pp. 189–229. The Almadel is transcribed at pp. 217–229.
+Waite, Arthur Edward, The Book of Black Magic and of Pacts. Including the rites and mysteries of goëtic theurgy, sorcery, and infernal necromancy, also the rituals of black magic (Edinburgh: 1898). Reprinted as The Secret Tradition in Goëtia. The Book of Ceremonial Magic, including the rites and mysteries of Goëtic theurgy, sorcery, and infernal necromancy (London: William Rider & Son, 1911). Includes the Goetia, Pauline Art and Almadel.
+White, Nelson & Anne (eds.) Lemegeton: Clavicula Salomonis: or, The complete lesser key of Solomon the King (Pasadena, California: Technology Group, 1979). Noted by Peterson to be "almost totally unreadable".
+Wilby, Kevin (ed.) The Lemegetton. A Medieval Manual of Solomonic Magic (Silian, Lampeter: Hermetic Research Series, 1985)
+
+
+== See also ==
+Aleister Crowley bibliography
+The Book of Abramelin
+List of occult terms
+Magical Treatise of Solomon
+Dictionnaire Infernal
+Pseudomonarchia Daemonum
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Citations ===
+
+
+=== Works cited ===
+Peterson, Joseph H., ed. (2001). The Lesser Key of Solomon: Lemegeton Clavicula Salomonis. York Beach, Maine: Weiser Books. ISBN 978-1-57863-220-6.
+Porter, John (2011). Campbell, Colin D. (ed.). A Book of the Office of Spirits. Translated by Frederick Hockley. Teitan Press.
+Rudd, Thomas (2007). Skinner, Stephen; Rankine, David (eds.). The Goetia of Dr Rudd: The Angels and Demons of Liber Malorum Spirituum Seu Goetia (Sourceworks of Ceremonial Magic. Golden Hoard Press. ISBN 978-0-9547639-2-3.
+Trithemius, Johannes (1999). Peterson, Joseph H. (ed.). The Art of Drawing Spirits into Crystals.
+
+
+== Further reading ==
+Crowley, Aleister, ed. (1995). The Goetia: The Lesser Key of Solomon the King. Translated by Samuel Liddell Mathers. York Beach, Maine: Samuel Weiser. ISBN 0-87728-847-X.
+Garstin, E. J. Langford (2004). Theurgy: or The Hermetic Practice: A Treatise on Spiritual Alchemy'. Berwick: Ibis Press.
+
+
+== External links ==
+J. B. Hare, online edition (2002, sacred-texts.com)
+Joseph H. Peterson, online edition (1999)
+Demon list with descriptions

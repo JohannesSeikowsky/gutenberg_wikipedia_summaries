@@ -1,0 +1,130 @@
+A Treatise on Probability, published by John Maynard Keynes in 1921, provides a much more general logic of uncertainty than the more familiar and straightforward 'classical' theories of probability.
+
+This has since become known as a "logical-relationist" approach,
+and become regarded as the seminal and still classic account of the logical interpretation of probability (or probabilistic logic), a view of probability that has been continued by such later works as Carnap's Logical Foundations of Probability and E.T. Jaynes Probability Theory: The Logic of Science.
+Keynes's conception of this generalised notion of probability is that it is a strictly logical relation between evidence and hypothesis, a degree of partial implication. It was in part pre-empted by Bertrand Russell's use of an unpublished version.
+In a 1922 review, Bertrand Russell, the co-author of Principia Mathematica, called it "undoubtedly the most important work on probability that has appeared for a very long time", and said that the "book as a whole is one which it is impossible to praise too highly".
+
+With recent developments in machine learning to enable 'artificial intelligence' and behavioural economics the need for a logical approach that neither assumes some unattainable 'objectivity' nor relies on the subjective views of its designers or policy-makers has become more appreciated, and there has been a renewed interest in Keynes's work.
+
+
+== Summary ==
+
+
+=== Part 1, 'Fundamental Ideas' ===
+Here Keynes generalises the conventional concept of numerical probabilities to expressions of uncertainty that are not necessarily quantifiable or even comparable.
+In Chapter 1 'The Meaning of Probability' Keynes notes that one needs to consider the probability of propositions, not events.
+In Chapter 2 'Probability in Relation to the Theory of knowledge' Keynes considers 'knowledge', 'rational belief' and 'argument' in relation to probability.
+In Chapter 3 'The Measurement of Probabilities' he considers probability as a not necessarily precise normalised measure and used the example of taking an umbrella in case of rain to illustrate this idea, that generalised probabilities can't always be compared.
+
+Is our expectation of rain, when we start out for a walk, always more likely than not, or less likely than not, or as likely as not? I am prepared to argue that on some occasions none of these alternatives hold, and that it will be an arbitrary matter to decide for or against the umbrella. If the barometer is high, but the clouds are black, it is not always rational that one should prevail over the other in our minds, or even that we should balance them, though it will be rational to allow caprice to determine us and to waste no time on the debate.
+
+Chapter 4 'The Principle of Indifference' summarises and develops some objections to the over-use of 'the principle of indifference' (otherwise known as 'the principle of insufficient reason') to justify treating some probabilities as necessarily equal.
+In Chapter 5 'Other Methods of Determining Probabilities' Keynes gives some examples of common fallacies, including: 
+
+It might plausibly be supposed that evidence would be favourable to our conclusion which is favourable to favourable evidence ... Whilst, however, this argument is frequently employed under conditions, which, if explicitly stated, would justify it, there are also conditions in which this is not so, so that it is not necessarily valid. For the very deceptive fallacy involved in the above supposition, Mr. Johnson, has suggested to me the name of the Fallacy of the Middle Term.
+
+He also presents some arguments to justify the use of 'direct judgement' to determine that one probability is greater than another in particular cases.
+Chapter 6 'Weight of Argument' develops the idea of 'weight of argument' from chapter 3 and discusses the relevance of the 'amount' of evidence in support of a given probability judgement.
+Chapter 3 further noted the importance of the 'weight' of evidence in addition to any probability:
+
+This comparison turns upon a balance, not between the favourable and the unfavourable evidence, but between the absolute amounts of relevant knowledge and of relevant ignorance respectively.
+   As the relevant evidence at our disposal increases, the magnitude of the probability of the argument may either decrease or increase, according as the new knowledge strengthens the unfavourable or the favourable evidence; but something seems to have increased in either case, we have a more substantial basis upon which to rest our conclusion. I express this by saying that an accession of new evidence increases the weight of an argument. New evidence will sometimes decrease the probability of an argument, but it will always increase its 'weight.'
+
+Chapter 7 provides a 'Historical Retrospect' while Chapter 8 describes 'The Frequency Theory of Probability', noting some limitations and caveats. In particular, he notes difficulties in establishing 'relevance' and, further, the lack of support that the theory gives for common uses of induction and statistics.
+Part 1 concludes with Chapter 9 'The Constructive Theory of Part I. Summarised.' Keynes notes the ground to be covered by the subsequent parts.
+
+
+=== Part 2 'Fundamental Theorems' ===
+This part has been likened to an appendix to Russell and Whitehead's Principia Mathematica. 
+According to Whitehead Chapter 12 'The Definition and Axioms of Inference and Probability'
+
+'has the great merit that accompanies good symbolism, that essential points which without it are subtle and easily lost sight of, with it become simple and obvious. Also the axioms are good ... The very certainty and ease by which he is enabled to solve difficult questions and to detect ambiguities and errors inn the work of his predecessors exemplifies and at the same time almost conceals that advance which he has made. 
+Chapter 14 'The Fundamental Theorems of Probable Inference' gives the main results on the addition, multiplication independence and relevance of conditional probabilities, leading up to an exposition of the 'Inverse principle' (now known as Bayes Rule) incorporating some previously unpublished work from W. E. Johnson correcting some common text-book errors in formulation and fallacies in interpretation, including 'the fallacy of the middle term'.
+In chapter 15 'Numerical Measurement and Approximation of Probabilities' Keynes develops the formalism of interval estimates as examples of generalised probabilities: Intervals that overlap are not greater than, less than or equal to each other.
+Part 2 concludes with Chapter 17 'Some Problems in Inverse Probability, including Averages'. Keynes' concept of probability is significantly more subject to variation with evidence than the more conventional quantified classical probability.
+
+
+=== Part 3 'Induction and Analogy' ===
+Here Keynes considers under what circumstances conventional inductive reasoning might be applicable to both conventional and generalise probabilities, and how the results might be interpreted. He concludes that inductive arguments only affirm that 'relative to certain evidence there is a probability in its favour'.
+Chapter 21 'The Nature of Inductive Argument Continued' discusses the practical application of induction, particularly within the sciences.
+
+The kind of fundamental assumption about the character of material laws, on which scientists appear commonly to act, seems to me to be much less simple than the bare principle of Uniformity. They appear to assume something much more like what mathematicians call the principle of the superposition of small effects, or, as I prefer to call it, in this connection, the atomic character of natural law. ...
+... Yet there might well be quite different laws for wholes of different degrees of complexity, and laws of connection between complexes which could not be stated in terms of laws connecting individual parts. In this case natural law would be organic and not, as it is generally supposed, atomic.
+Part 3 concludes with Chapter 23 'Some Historical Notes on Induction'. This notes that Francis Bacon and John Stuart Mill had implicitly made assumptions similar to those Keynes criticised above, but that nevertheless their arguments provide useful insights.
+
+
+=== Part 4 'Some Philosophical Applications of Probability' ===
+Here Keynes considers some broader issues of application and interpretation. He concludes this part with Chapter 26 'The Application of Probability to Conduct'. Here Keynes notes that the conventional notion of utility as 'mathematical expectation' (summing value times probability) is derived from gambling. he doubts that value is 'subject to the laws of arithmetic' and in any case cites part 1 as denying that probabilities are. He further notes that often 'weights' are relevant and that in any case it 'assumes that an even chance of heaven or hell is precisely as much to be desired as the certain attainment of a state of mediocrity'. He goes on to expand on these objections to what is known by economists as the expected utility hypothesis, particularly with regard to extreme cases.
+Keynes ends by noting:
+
+The chance that a man of 56 taken at random will die within a day ... is practically disregarded by a man of 56 who knows his health to be good.
+and
+
+To a stranger the probability that I shall send a letter to the post unstamped may be derived from the statistic of the Post Office; for me those figures would have not then slightest bearing on the situation.
+
+
+=== Part 5 'The Foundations of Statistical Inference' ===
+Keynes goes beyond induction to consider statistical inference, particularly as then used by the sciences.
+In Chapter 28 'The Law of Great Numbers' Keynes attributes to Poisson the view that 'in the long ... each class of events does eventually occur in a definite proportion of cases.' He goes on:
+
+The existence of numerous instances of the Law of Great Numbers, or of something of the kind, is absolutely essential for the importance of Statistical Induction. Apart from this the more precise parts of statistics, the collection of facts for the prediction of future frequencies and associations, would be nearly useless. But the 'Law of Great Numbers' is not at all a good name for the principle which underlies Statistical Induction. The 'Stability of Statistical Frequencies ' would be a much better name for it. The former suggests, as perhaps Poisson intended to suggest, but what is certainly false, that every class of event shows statistical regularity of occurrence if only one takes a sufficient number of instances of it. It also encourages the method of procedure, by which it is thought legitimate to take any observed degree of frequency or association, which is shown in a fairly numerous set of statistics and to assume with insufficient investigation that, because the statistics are numerous, the observed degree of frequency is therefore stable. Observation shows that some statistical frequencies are, within narrower or wider limits, stable. But stable frequencies are not very common, and cannot be assumed lightly.
+The key chapter is 
+Chapter 32 'The Inductive Use of Statistical Frequencies for the Determination of Probability a posteriori - The Method of Lexis'. After citing Lexis' observations on both 'subnormal' and 'supernormal' dispersion, he notes that 'a supernormal dispersion [can] also arise out of connexite or organic connection between the successive terms.
+He concludes with Chapter 33, ‘An Outline of a Constructive Theory’. He notes a significant limitation of conventional statistical methods, as then used:
+
+Where there is no stability at all and the frequencies are chaotic, the resulting series can be described as 'non-statistical.' Amongst 'statistical series
+' we may term 'independent series' those of which the instances are independent and the stability normal, and 'organic series', those of which the instances are mutually dependent and the stability abnormal, whether in excess or in defect.
+Keynes also deals with the special case where the conventional notion of probability seems reasonable:
+
+There is a great difference between the proposition "It is probable that every instance of this generalisation is true" and the proposition "It is probable of any instance of this generalisation taken at random that it is true." The latter proposition may remain valid, even if it is certain that some instances of the generalisation are false. It is more likely than not, for example, that any number will be divisible either by two or by three, but it is not more likely than not that all numbers are divisible either by two or by three.
+The first type of proposition has been discussed in Part III. under the name of Universal Induction. The latter belongs to Inductive Correlation or Statistical Induction, an attempt at the logical analysis of which must be my final task.
+His final paragraph reveals Keynes views on the significance of his findings, based on the then conventional view of classical science as traditionally understood at Cambridge:
+
+In laying the foundations of the subject of Probability, I have departed a good deal from the conception of it which governed the minds of Laplace and Quetelet and has dominated through their influence the thought of the past century, though I believe that Leibniz and Hume might have read what I have written with sympathy. But in taking leave of Probability, I should like to say that, in my judgment; the practical usefulness of those modes of inference, here termed Universal and Statistical Induction, on the validity of which the boasted knowledge of modern science depends, can only exist and I do not now pause to inquire again whether such an argument must be circular if the universe of phenomena does in fact present those peculiar characteristics of atomism and limited variety which appear more and more clearly as the ultimate result to which material science is tending ....
+Here, though I have complained sometimes at their want of logic, I am in fundamental sympathy with the deep underlying conceptions of the statistical theory of the day. If the contemporary doctrines of Biology and Physics remain tenable, we may have a remarkable, if undeserved, justification of some of the methods of the traditional Calculus of Probabilities.
+
+
+== Implications ==
+The above assumptions of non-organic ‘characteristics of atomism and limited variety’ and hence the applicability of the then conventional statistical methods was not long to remain credible, even for the natural sciences, and some economists, notably in the US, applied some of his ideas in the interwar years,
+although some philosophers continued to find it 'very puzzling indeed'.
+
+Keynes had also noted in Chapter 21 the limitations of 'mathematical expectation' for 'rational' decision making. Keynes developed this point in his more well-known General Theory of Employment, Interest and Money and subsequently,
+specifically in his thinking on the nature and role of long-term expectation in economics, notably on Animal spirits.
+
+Keynes' ideas found practical application by Turing and Good at Bletchley Park during WWII, which practice formed the basis for the subsequent development of 'modern Bayesian probability',
+and the notion of imprecise probabilities is now well established in statistics, with a wide range of important applications.
+The significance of 'true' uncertainty beyond mere precise probabilities had already been highlighted by Frank Knight and the additional insights of Keynes tended to be overlooked.
+
+From the late 60s onwards even this limited aspect began to be less appreciated by economists, and was even disregarded or discounted by many 'Keynesian' economists. After the financial crashes of 2007-9 'mainstream economics' was regarded as having been 'further away' from Keynes' ideas than ever before. But subsequently there was a partial 'return of the master' leading to calls for a 'paradigm shift' building further on Keynes' insights into 'the nature of behaviour under conditions of uncertainty'.
+The centenary event organised by the University of Oxford and supported by The Alan Turing Institute for the Treatise and Frank Knight's Risk, Uncertainty, and Profit noted:
+
+In Risk, Uncertainty, and Profit, Knight put forward the vital difference between risk, where empirical evaluation of unknown outcomes can still be applicable, and uncertainty, where no quantified measurement is valid but subjective estimate. In A Treatise on Probability, Keynes argued that the concept of probability should be about the logical implication from premises to hypotheses, in contrast to the classical quantified perspective of probability.
+
+The fundamental uncertainty proposed in both works has then deeply influenced the development of economic and probability theory in the past century and it still resonates with our lives today, considering the ups and downs that the world economy is experiencing.
+However it has often been regarded as more philosophical in nature despite extensive mathematical formulations and its implications for practice.
+Norwood Russell Hanson's later work on the logic of scientific discovery attempted to ground it in Keynes terms.
+
+
+== References ==
+Informational notes
+
+Citations
+
+Bibliography
+
+Harrod, R.F. (1951). The life of John Maynard Keynes. London: Macmillan.
+Keynes, John Maynard (1919). The Economic Consequences of the Peace (1 ed.). London: Macmillan & Co., Limited. p. 279. Retrieved 2 June 2016 – via Internet Archive.
+Keynes, John Maynard (1921). A Treatise on Probability. London: Macmillan. Retrieved 2 December 2023.
+Keynes, John Maynard (1922). A revision of the Treaty, being a sequel to The economic consequences of the peace. London: Macmillan. Retrieved 2 December 2023.
+Keynes, John Maynard (1936). General Theory Of Employment, Interest And Money. London: Macmillan.
+Keynes, John Maynard (1949). Two Memoirs: Dr Melchior - a Defeated Enemy and My Early Beliefs. London: Rupert Hart-Davis.
+Skidelsky, Robert (1983). John Maynard Keynes: Hopes Betrayed, 1883–1920. Macmillan.
+Skidelsky, Robert (1992). John Maynard Keynes: the Economist as Saviour 1920-1937. London: Macmillan.
+Skidelsky, Robert (2000). John Maynard Keynes: Fighting for Freedom, 1937–1946. London: Macmillan.
+Skidelsky, Robert (2009). Keynes: Return of the Master. PublicAffairs.
+
+
+== External links ==
+
+ A Treatise on Probability at Project Gutenberg

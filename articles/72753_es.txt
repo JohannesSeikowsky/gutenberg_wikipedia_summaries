@@ -1,0 +1,99 @@
+Las Historias (en griego antiguo: ἱστορίαι historíai, 'aproximaciones, investigaciones') de Heródoto de Halicarnaso es una obra escrita en dialecto jonio,​ probablemente en torno al año 430 a. C., y que tiene como objetivo narrar los enfrentamientos que tuvieron lugar entre griegos y bárbaros (asiáticos, especialmente persas) y, en concreto, las guerras médicas. También contiene una descripción de la historia y costumbres del Antiguo Egipto. 
+Se trata de la primera obra historiográfica griega que ha llegado íntegra hasta el presente; está dividida en nueve libros, cada uno de ellos dedicado a una musa.
+
+
+== Sinopsis y composición ==
+
+Las Historias de Heródoto constituyen, dentro de la prosa griega, el mejor ejemplo de composición literaria abierta; es decir, no opera de modo rectilíneo, sino que intercala todo tipo de retardaciones y digresiones en el argumento central. Este rasgo lo comparte con los poemas homéricos, la Ilíada y especialmente la Odisea.
+Proemio: Heródoto expone su intención: evitar que las hazañas de las generaciones que lo precedieron sean relegadas al olvido (I 1), explicando las causas de sus enfrentamientos.
+Libro I. Clío: Para exponer las causas del conflicto (las guerras médicas), Heródoto pasa a abordar las primeras diferencias y enfrentamientos que se produjeron entre griegos y bárbaros en época mítica (secuestros de Europa, Medea y Helena, guerra de Troya). Sin embargo, marca cierta distancia con estas tradiciones y acto seguido indica quién, por lo que él sabe, cometió en primer lugar actos injustos (Creso, rey de Lidia). Tenemos, pues, expuesta nítidamente que la agresión es la medida de la responsabilidad moral y jurídica.
+La atención pasa inmediatamente a la figura de Creso, el primer agresor. La historia de Lidia permite entrar en contacto con el gran eje de su Historia, Persia; al mismo tiempo, sienta las bases de su concepción teleológica del acontecer humano (entrevista entre Solón y Creso, I 28–33). El resto del libro I traslada su atención a Persia, con la entronización de Ciro II el Grande y diversas campañas de este rey (sumisión de Jonia, Caria y Licia).
+Libro II. Euterpe: Está dedicado en su totalidad a Egipto y a Cambises, rey persa que lo conquistó: descripción de la geografía y etnografía de Egipto, e historia del país.
+Libro III. Talía: Causas que indujeron a Cambises a invadir Egipto. Campaña militar. Detalles acerca del carácter soberbio e impío de Cambises. Muerte de Cambises y entronización de Darío I.
+Libro IV. Melpómene: Sigue la expansión persa: Escitia. Digresiones acerca de los escitas. Campañas contra los escitas. Campaña contra Libia.
+Libro V. Terpsícore: El avance persa se cierne sobre Grecia. Operaciones contra Macedonia y Tracia. Sublevación jonia. Aristágoras de Mileto pide ayuda a Esparta y Atenas, lo que sirve para desarrollar la historia de estas dos ciudades.
+Libro VI. Erató: Primera guerra médica. Incursión persa en Macedonia. Historia contemporánea de Esparta y Atenas. Desembarco persa en el Ática. Batalla de Maratón. Asuntos de política interna en Atenas: Alcmeónidas y Milcíades.
+Libro VII. Polimnia: Los acontecimientos se precipitan. Las digresiones poseen una estrecha relación estructural con el núcleo del relato. Tras la muerte de Darío, Jerjes toma el mando del imperio aqueménida y decide la invasión de Grecia. Se describe la ingente expedición, el paso del Helesponto y el desarrollo de las operaciones. Preparativos griegos para resistir. Batalla de las Termópilas.
+Libro VIII. Urania: Batalla de Artemisio. Ocupación y destrucción de Atenas. La población y la flota ateniense se refugian en la isla de Salamina. Batalla de Salamina. Jerjes se retira a Lidia dejando en Grecia su ejército al mando de Mardonio.
+Libro IX. Calíope: Batallas de Platea y Mícala. Trágicos amores de Jerjes. Toma de Sesto por los atenienses. Opinión de Ciro sobre los riesgos del expansionismo.
+
+
+=== Obra posiblemente inacabada ===
+El final de las Historias es problemático. La cuestión fundamental es saber si la obra está inacabada y si Heródoto llegó hasta el término cronológico que, en su opinión, ponía fin a la guerra entre asiáticos y griegos. En la obra hay, además, promesas incumplidas (como el ausente logos sobre Asiria) que se pueden deber a la falta de una última revisión. Lo que parece cierto es que Heródoto trabajó sobre esta obra durante mucho tiempo y en varias etapas compositivas y con planes distintos (unos logoi dispersos, una historia de Persia, las guerras médicas).
+
+
+== Metodología ==
+
+El aspecto fundamental a la hora de estudiar la metodología histórica en Heródoto es su tratamiento de las fuentes:
+
+Suele basarse, como elemento primario para la obtención de datos, en su observación personal (ὄψις), que está articulada, de acuerdo con el procedimiento de los logógrafos, con arreglo a un criterio ternario: a) descripción geográfica de un país, b) descripción de las costumbres del pueblo establecido en él, y c) atención a los aspectos más sorprendentes (τὰ θωμάσια). Buen exponente de estas fases que componen la ὄψις son los λόγοι (logoi, 'relatos'), que facilitan informaciones por lo general confirmadas por la crítica moderna. En cualquier caso debe destacarse su sinceridad, pues nunca pretende haber visto más de lo que vio.
+Un segundo medio, conocido con el nombre de ἱστορίη (historíe, 'investigación'), se basa en la obtención de datos a partir de fuentes escritas, de importancia capital en la composición de la obra. Pueden destacarse tres grandes grupos: a) poetas (Homero, Hesíodo, Arquíloco, Esopo, Solón, Safo, Simónides de Ceos, Alceo, Píndaro, Esquilo, Anacreonte...), b) fuentes epigráficas (en ocasiones su desconocimiento de lenguas no griegas le lleva a interpretaciones pueriles), y c) logógrafos (Hecateo de Mileto, principalmente).
+La tercera fuente es la ἀκοή, los testimonios orales. Las Historias de Heródoto son fundamentalmente de tradición oral (frente a Tucídides, por ejemplo). Lo normal es que aluda a estos testimonios de modo indeterminado, utilizando expresiones del tipo «según los persas...», «unos dicen..., en cambio otros sostienen...», etc.
+Finalmente Heródoto completa su metodología con una serie de consideraciones que se agrupan bajo el nombre genérico de γνῶναι. Son argumentaciones que sirven para establecer relaciones de afinidad o para profundizar en el examen crítico de lo argumentado.
+Es indudable que estamos en los albores del género histórico, lo que explica el exceso de detalles poco contrastados, argumentaciones inconsistentes y faltas de rigor analítico. Por otra parte, el desconocimiento por parte de Heródoto de la estrategia y la táctica militar es evidente.
+
+
+== El pensamiento de Heródoto ==
+
+Heródoto representa todavía el espíritu arcaico. Mucho se ha insistido sobre las concomitancias (y la amistad) entre Sófocles y nuestro autor, pero la dualidad teológica y humana que preside la obra posee un estrecho parangón con Esquilo. La doble motivación factual de la tragedia esquilea (responsabilidad humana y causalidad divina) no es diferente de la posición de Heródoto, para quien «la divinidad es, en todos los órdenes, envidiosa y causa de perturbación».​ Pero al tiempo, aparece una tendencia que busca en el hombre mismo la causa de su destino. Nos encontramos con un plano sobrenatural que pone de relieve la fragilidad del ser humano, que es «todo contingencia».
+El destino, por tanto, se convierte en una fuerza premoral que se impone de manera inexorable. Esto implica un pesimismo que es consustancial al pensamiento griego. El ser humano se siente sujeto a la inestabilidad y es impotente (ἀμήχανος) ante los designios divinos. Sin embargo, el aparente dogmatismo del φθόνος θεῶν (‘envidia de los dioses’) no disminuye la responsabilidad del hombre. Los castigos que este sufre suelen estar motivados por una justa reacción divina ante la soberbia (ὕβρις, hibris) del ser humano: cuando un hombre se encuentra encumbrado en una posición que excede sus posibilidades naturales, tiende a incurrir en ὕβρις, y es culpable de crímenes y desafueros que atentan contra la estabilidad ético-social. Para precaverse de la hostilidad divina, el hombre debe intentar practicar la justicia, la piedad y la modestia, sin que, como ocurre en Sófocles, sea absolutamente seguro que baste con ello para lograrlo. Es un planteamiento similar al de la tragedia, la lírica y la épica.
+Esta actitud de Heródoto presidida por la moderación, determina su pensamiento político: obligado a exiliarse de su patria por un régimen tiránico, abomina la tiranía, cuya esencia es la irresponsabilidad ante la ley y los demás miembros de la comunidad; se muestra convencido de los beneficios que representa la libertad, de ahí su admiración por Atenas y la explicación de su auge. Libertad frente a sometimiento es esencialmente el rasgo diferencial entre griegos y bárbaros.
+
+
+== Véase también ==
+Heródoto
+Historiografía griega
+Esteganografía
+
+
+== Notas ==
+
+
+== Bibliografía ==
+Heródoto (1987-1994). Historia. Obra completa. Madrid: Gredos. ISBN 978-84-249-1477-6. 
+Volumen I: Libros I–II. Trad. y notas de C. Schrader. Intr. de F. Rodríguez Adrados. Rev.: Montserrat Jufresa Muñoz, 1992. ISBN 978-84-249-3482-8. 
+Volumen II: Libros III–IV. Trad. y notas de C. Schrader. Rev.: María Emilia Martínez-Fresneda, 1987. ISBN 978-84-249-3525-2. 
+Volumen III: Libros V–VI. Trad. y notas de C. Schrader. Rev.: M.ª E. Martínez-Fresneda, 1988. ISBN 978-84-249-0086-1. 
+Volumen IV: Libro VII. Trad. y notas de C. Schrader. Rev.: B. Cabellos Álvarez, 1994. ISBN 978-84-249-0994-9. 
+Volumen V: Libros VIII–IX. Trad. y notas de C. Schrader. Rev.: B. Cabellos Álvarez, 1989. ISBN 978-84-249-1399-1. 
+— (1999). Historia. Colección Letras Universales. Madrid: Cátedra. ISBN 978-84-376-1711-4. 
+— (1989/2004). Los nueve libros de la Historia. Obra completa. Trad. Bartolomé Pou. Intr. Víctor de Lama de la Cruz. Madrid: Editorial Edaf. ISBN 978-84-7640-351-8. 
+— (1878). Los nueve libros de la Historia de Heródoto de Halicarnaso. Dos tomos. Traducción directa del griego por el padre Bartolomé Pou. Madrid: Imprenta central a cargo de Víctor Saiz. 
+— (1956). Los nueve libros de la Historia (Clásicos Jackson — tomo 22). Obra completa. Trad. y estudio preliminar María Rosa Lida de Malkiel. Buenos Aires: Editorial Jackson. 
+
+
+== Enlaces externos ==
+ Wikiquote alberga frases célebres de o sobre Heródoto.
+ Wikisource contiene obras originales de o sobre Los nueve libros de la historia. Traducción española de Bartolomé Pou (Siglo XVIII).
+Texto en español de Los nueve libros de la historia, de Heródoto, en la traducción dieciochesca de Bartolomé Pou, dos tomos, edición electrónica en varios formatos del Proyecto Gutenberg: tomo I (libros I-IV); tomo II (libros V-IX).
+Sobre Heródoto y sus Historias, en el sitio Poliareté.
+Sobre el nombre del sitio, véase "Areté".
+La misma traducción, con prólogo de su autor, en el sitio de la Biblioteca de Clásicos Grecolatinos.
+Texto inglés, con índice electrónico, en el Proyecto Perseus. En la parte superior derecha se encuentran los rótulos activos "focus" (para cambiar a las anotaciones o al texto griego) y "load" (para visualizar al mismo tiempo texto y anotaciones o para el texto bilingüe).
+Texto bilingüe griego - francés, con introducción y anotaciones en este idioma, en el sitio de Philippe Remacle: texto griego fijado en 1920 por A. D. Godley y corregido después por Remacle, más la trad. francesa de Pierre-Henri Larcher.
+Philippe Remacle (1944 – 2011): helenista y latinista belga de expresión francesa.
+A. D. Godley (Alfred Denis Godley, 1856 – 1925): clasicista inglés.
+Pierre-Henri Larcher (1726 - 1812): helenista y arqueólogo francés.
+Texto griego en Wikisource.
+Texto griego en el sitio de la Bibliotheca Augustana (Augsburgo).
+Comentarios en inglés, con índice electrónico, en el Proyecto Perseus.
+PLUTARCO: Moralia, XI, 60: Sobre la malevolencia de Heródoto (Περί της Ήροδότου κακοηθείας - De malignitate Herodoti).
+Traducción inglesa de William W. Goodwin, publ. en 1874: texto en el Proyecto Perseus; en la parte superior izquierda se hallan los rótulos activos focus (para cambiar al texto griego fijado por Gregorius N. Bernardakis, publ. en 1889) y load (para obtener el texto bilingüe).
+William W. Goodwin (William Watson Goodwin, 1831 - 1912): clasicista estadounidense, profesor de la Universidad de Harvard.
+Gregorius N. Bernardakis (Gregorios N. Bernardakis; en griego, Γρηγόριος Ν. Βερναρδάκης; translit.: Grigorios N. Vernardakis; neolatín: Gregorius N. Bernardakis; 1848 - 1925): filólogo y paleógrafo griego.
+MUNSON, Rosaria Vignolo: Black Doves Speak: Herodotus and the Languages of Barbarians (Las palomas negras hablan: Heródoto y los idiomas de los bárbaros), 2005.
+Portada con directorio electrónico en el lado izquierdo Archivado el 3 de agosto de 2019 en Wayback Machine., en el sitio del Centro de Estudios Helénicos (CHS o Center for Hellenic Studies), institución de Washington afiliada a la Universidad de Harvard y dirigida por Gregory Nagy.
+Para las citas: Munson, Rosaria Vignolo. 2005. Black Doves Speak: Herodotus and the Languages of Barbarians. Hellenic Studies Series 9. Washington, DC: Center for Hellenic Studies.
+WESSELMANN, Katharina: Mythische Erzählstrukturen in Herodots Historien (Estructuras narrativas míticas en las Historias de Heródoto).
+Traducción parcial inglesa, en buena parte de la propia autora, con corrección de Deborah Boedeker: Mythical Structures in Herodotus' Histories, 2011.
+Portada con directorio electrónico en el lado izquierdo Archivado el 3 de agosto de 2019 en Wayback Machine., en el sitio del CHS.
+Para las citas: http://nrs.harvard.edu/urn-3:hul.ebook:CHS_Wesselmann.Mythical_Structures_in_Herodotus_Histories.2011.
+Katharina Wesselmann (Katharina Marie Wesselmann, n. 1976): filóloga clásica suizoalemana.
+Deborah Boedeker (n. 1944): filóloga clásica estadounidense.
+HOLLMANN, Alexander: The Master of Signs: Signs and the Interpretation of Signs in Herodotus' Histories (El amo de los signos: los signos y su interpretación en las Historias de Heródoto), 2011.
+Portada con directorio electrónico en el lado izquierdo Archivado el 3 de agosto de 2019 en Wayback Machine., en el sitio del CHS.
+Para las citas: Hollmann, Alexander. 2011. The Master of Signs: Signs and the Interpretation of Signs in Herodotus' Histories. Hellenic Studies Series 48. Washington, DC: Center for Hellenic Studies.
+NAGY, Gregory: Herodotus and the Logioi of the Persians (Heródoto y los logioi de los persas), 2014.
+Texto, en inglés Archivado el 8 de octubre de 2019 en Wayback Machine., en el sitio del CHS.
+logios (λόγιος): hablante, orador; pl.: logioi (λόγιοι).
+Para las citas: http://nrs.harvard.edu/urn-3:hlnc.essay:Nagy.Herodotus_and_the_Logioi_of_the_Persians.2014

@@ -1,0 +1,89 @@
+On the Sublime (Ancient Greek: Περì  Ὕψους Perì Hýpsous; Latin: De sublimitate) is a Roman-era Greek work of literary criticism dated to the 1st century AD. Its author is unknown but is conventionally referred to as Longinus (; Ancient Greek: Λογγῖνος Longînos) or Pseudo-Longinus. It is regarded as a classic work on aesthetics and the effects of good writing. The treatise highlights examples of good and bad writing from the previous millennium, focusing particularly on what may lead to the sublime.
+
+
+== Authorship ==
+The author is unknown. In a 10th-century reference manuscript (Parisinus Graecus 2036), the heading (f. 178v) reports "by Dionysius Longinus" (Διονυσίου Λογγίνου), whereas in the table of contents at f. 1v, the same copyist wrote "by Dionysius or Longinus" (Διονυσίου ἢ Λογγίνου). When the manuscript was being prepared for printed publication, the work was initially attributed to Cassius Longinus (c. 213–273 AD). Since the correct translation includes the possibility of an author named "Dionysius", some have attributed the work to Dionysius of Halicarnassus or Dionysius Atticus, both writers of the 1st century BC. There remains the possibility that the work belongs to neither Cassius Longinus nor either Dionysius but, rather, some unknown author writing under the Roman Empire, likely in the 1st century. The error does imply that when the codex was written, the trails of the real author were already lost. Neither author can be accepted as the actual writer of the treatise. Dionysius maintained ideas which are absolutely opposite to those written in the treatise; with Longinus, there are problems with chronology.
+Among further names proposed, are Hermagoras of Temnos (a rhetorician who lived in Rome during the 1st century AD), Aelius Theon (author of a work which had many ideas in common with those of On the Sublime), and Pompeius Geminus (who was in epistolary conversation with Dionysius).
+
+
+=== Dionysius of Halicarnassus ===
+Dionysius of Halicarnassus wrote under Augustus, publishing a number of works. Dionysius is generally dismissed as the potential author of On the Sublime, since the writing officially attributed to Dionysius differs from the work On the Sublime in style and thought.
+
+
+=== Cassius Longinus ===
+Credited with writing a number of literary works, Longinus was a disciple of Plotinus, and considered "the most distinguished scholar of his day." He received his education at Alexandria and then went to Athens to teach. He later moved to Asia Minor, where he achieved the position of advisor to Zenobia, the queen of Palmyra. Cassius is a dubious possibility for author of the treatise because he wrote in the 3rd century, and no literature later than the 1st century AD is mentioned. The latest is Cicero, who died in 43 BC and their work is now dated to the early 1st century AD. The work ends with a dissertation on the decay of oratory, a typical subject for the time when authors such as Tacitus, Petronius and Quintilian, who also dealt with the subject, were alive.  Cassius was executed by Aurelian, the Roman emperor who conquered Palmyra in 273 AD, on charges of conspiring against the Roman state. This was most likely because of what he had written for Queen Zenobia of Palmyra while she was still in power. Longinus is reported to have written answers for the Queen, which were used in response to Aurelian, the man who would soon rise to power as the Roman emperor.
+
+
+=== Dionysius Longinus ===
+According to Byzantinist Carlo Maria Mazzucchi, editor of the text, "Dionysius Longinus" is the true name of the author. He argued that the combination of the nomen "Dionysius" and the cognomen "Longinus" is acceptable on the basis of several ancient sources, and that the perplexities shown by the manuscript's copyist are due to the fact that no other rhetor is known under the name of "Dionysius Longinus"; thus the copyist compiled the manuscript index adding the disjunctive ἤ ("or"), thinking of well-known Ancient Greek rhetors Dionysius of Halicarnassus and Cassius Longinus.
+
+
+== Contents ==
+On the Sublime is both a treatise on aesthetics and a work of literary criticism. It is written in an epistolary form and the final part, possibly dealing with public speaking, has been lost.
+The treatise is dedicated to Postumius Terentianus, a cultured Roman and public figure, though little else is known of him. On the Sublime is a compendium of literary exemplars, with about 50 authors spanning 1,000 years mentioned or quoted. Along with the expected examples from Homer and other figures of Greek culture, Longinus refers to a passage from Genesis, which is quite unusual for the 1st century:
+
+A similar effect was achieved by the lawgiver of the Jews—no mean genius, for he both understood and gave expression to the power of the divinity as it deserved—when he wrote at the very beginning of his laws, and I quote his words: "God said,"—what was it?—"Let there be light, and there was. Let there be earth, and there was."
+Given his positive reference to Genesis, Longinus has been assumed to be either a Hellenized Jew or readily familiar with the Jewish culture. As such, Longinus emphasizes that, to be a truly great writer, authors must have "moral excellence". In fact, critics speculate that Longinus avoided publication in the ancient world "either by modesty or by prudential motives". Moreover, Longinus stresses that transgressive writers are not necessarily shameless fools, even if they take literary risks that seem "bold, lawless, and original". As for social subjectivity, Longinus acknowledges that complete liberty promotes spirit and hope; according to Longinus, "never did a slave become an orator". On the other hand, too much luxury and wealth leads to a decay in eloquence—eloquence being the goal of the sublime writer.
+
+
+=== The sublime ===
+Longinus critically applauds and condemns certain literary works as examples of good or bad styles of writing. Longinus ultimately promotes an "elevation of style" and an essence of "simplicity". To quote this famous author, "the first and most important source of sublimity [is] the power of forming great conceptions." The concept of the sublime is generally accepted to refer to a style of writing that elevates itself "above the ordinary". Finally, Longinus sets out five sources of sublimity: "great thoughts, strong emotions, certain figures of thought and speech, noble diction, and dignified word arrangement".
+The effects of the Sublime are: loss of rationality, an alienation leading to identification with the creative process of the artist and a deep emotion mixed in pleasure and exaltation. An example of sublime (which the author quotes in the work) is a poem by Sappho, the so-called Ode to Jealousy, defined as a "Sublime ode". A writer's goal is not so much to express empty feelings, but to arouse emotion in her audience.
+In the treatise, the author asserts that "the Sublime leads the listeners not to persuasion, but to ecstasy: for what is wonderful always goes together with a sense of dismay, and prevails over what is only convincing or delightful, since persuasion, as a rule, is within everyone's grasp: whereas, the Sublime, giving to speech an invincible power and [an invincible] strength, rises above every listener".
+According to this statement, one could think that the sublime, for Longinus, was only a moment of evasion from reality. But on the contrary, he thought that literature could model a soul, and that a soul could pour itself out into a work of art. In this way the treatise becomes not only a text of literary inquiry, but also one of ethical dissertation, since the Sublime becomes the product of a great soul (μεγαλοφροσύνης ἀπήχημα, megalophrosunēs apēchēma). The sources of the Sublime are of two kinds: inborn sources ("aspiration to vigorous concepts" and "strong and enthusiastic passion") and acquirable sources (rhetorical devices, choice of the right lexicon, and "dignified and high composition").
+
+
+=== Decay of rhetoric ===
+The author speaks also about the decay of oratory, as arising not only from absence of political freedom but also from the corruption of morals, which together destroy that high spirit which generates the Sublime. Thus the treatise is clearly centred in the burning controversy which raged in the 1st century AD in Latin literature. If Petronius pointed out excess of rhetoric and the pompous, unnatural techniques of the schools of eloquence as the causes of decay, Tacitus was nearer to Longinus in thinking that the root of this decadence was the establishment of Princedom, or Empire, which, though it brought stability and peace, also gave rise to censorship and brought an end to freedom of speech. Thus oratory became merely an exercise in style.
+
+
+=== Misleading translations and lost data ===
+Translators have been unable to clearly interpret the text, including the title itself. The "sublime" in the title has been translated in various ways, to include senses of elevation and excellent style. The word sublime, argues Rhys Roberts, is misleading, since Longinus' objective broadly concerns "the essentials of a noble and impressive style" than anything more narrow and specific. Moreover, about one-third of the treatise is missing; Longinus' segment on similes, for instance, has only a few words remaining. Matters are further complicated in realizing that ancient writers, Longinus' contemporaries, do not quote or mention the treatise in any way.
+
+
+=== Limitations of the writing ===
+Despite Longinus' acclaim, not all critical reception has been positive. 18th-century critic Edward Burnaby Greene finds Longinus, at times, to be "too refined". Greene also claims that Longinus' focus on hyperbolical descriptions is "particularly weak, and apparently misapplied." Occasionally, Longinus also falls into a sort of "tediousness" in treating his subjects. The treatise is also limited in its concentration on spiritual transcendence and lack of focus on the way in which language structures determine the feelings and thoughts of writers. Finally, Longinus' treatise is difficult to explain in an academic setting, given the difficulty of the text and lack of "practical rules of a teachable kind."
+
+
+=== Writing style and rhetoric ===
+Despite its faults, the treatise remains critically successful because of its "noble tone," "apt precepts," "judicious attitude," and "historical interests". One of the reasons why it is so unlikely that known ancient critics wrote On the Sublime is because the treatise is composed so differently from any other literary work. Since Longinus' rhetorical formula avoids dominating his work, the literature remains "personal and fresh," unique in its originality. Longinus rebels against the popular rhetoric of the time by implicitly attacking ancient theory in its focus on a detailed criticism of words, metaphors, and figures. More explicitly, in refusing to judge tropes as entities unto themselves, Longinus promotes the appreciation of literary devices as they relate to passages as a whole. Essentially, Longinus, rare for a critic of his time, focuses more on "greatness of style" than "technical rules." Despite his criticism of ancient texts, Longinus remains a "master of candor and good-nature". Moreover, the author invents striking images and metaphors, writing almost lyrically at times. In general, Longinus appreciates, and makes use of, simple diction and bold images.
+As far as the language is concerned, the work is certainly a unicum because it is a blend of expressions of the Hellenistic Koine Greek to which are added elevated constructions, technical expressions, metaphors, classic and rare forms which produce a literary pastiche at the borders of linguistic experimentation.
+
+
+=== Influences ===
+In reading On the Sublime, critics have determined that the ancient philosopher and writer Plato is a "great hero" to Longinus. Not only does Longinus come to Plato's defense, but he also attempts to raise his literary standing in opposition to current criticisms. Another influence on the treatise can be found in Longinus' rhetorical figures, which draw from theories by a 1st-century BC writer, Caecilius of Calacte.
+
+
+== Historical criticism and use of On the Sublime ==
+10th century - The original treatise, before translation, is copied into a medieval manuscript and attributed to "Dionysius or Longinus."
+13th century - A Byzantine rhetorician makes obscure references to what may be Longinus' text.
+16th century - The treatise is ignored by scholars until it is published by Francis Robortello in Basel, in 1554, and Niccolò da Falgano, in 1560. The original work is attributed to "Dionysius Longinus" and most European countries receive translations of the treatise.
+17th century - Sublime effects become a desired end of much Baroque art and literature, and the rediscovered work of "Longinus" goes through half a dozen editions in the 17th century. It is Boileau's 1674 translation of the treatise into French that really starts its career in the history of criticism. Despite its popularity, some critics claim that the treatise was too "primitive" to be truly understood by a "too civilized" 17th-century audience.
+18th century - William Smith's 1739 translation of Longinus on the Sublime established the translator and once more brought the work into prominence. Longinus' text reaches its height in popularity. In England, critics esteem Longinus' principles of composition and balance second only to Aristotle's Poetics. Edmund Burke's A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful and Immanuel Kant's Critique of the Power of Judgment owe a debt to Longinus' concept of the sublime, and the category passes into intellectual discourse. As "Longinus" says, "The effect of elevated language upon an audience is not persuasion but transport," a fitting sentiment for Romantic thinkers and writers who reach beyond logic, to the wellsprings of the Sublime. At the same time, the Romantics gain some contempt for Longinus, given his association with the "rules" of classical poets. Such contempt is ironic, given the widespread influence of Longinus on the shaping of 18th-century criticism.
+19th century - Early in the 19th century, doubts arise to the authorship of the treatise. Thanks to Italian scholar Amati, Cassius Longinus is no longer assumed to be the writer of On the Sublime. Simultaneously, the critical popularity of Longinus' work diminishes greatly; though the work is still in use by scholars, it is rarely quoted. Despite the lack of public enthusiasm, editions and translations of On the Sublime are published at the end of the century.
+20th century - Although the text is still little quoted, it maintains its status, apart from Aristotle's Poetics, as "the most delightful of all the critical works of classical antiquity." Also see Neil Hertz's essay on Longinus in his book, The End of the Line. Hertz is in part responding to Thomas Weiskel's book The Romantic Sublime, probably the most influential recent account of British and German Romantic attitudes towards the Sublime of both Burke and Longinus. Laura Quinney treats the attractions grim demystification in analyses of Longinus, particularly Weiskel's. Jonathan Culler has an appreciation of Hertz on Longinus in "The Hertzian Sublime."  Anne Carson and Louis Marin have occasion to discuss Longinus as well and Harold Bloom and William J. Kennedy have significant accounts of his work. William Carlos Williams also uses three lines from the work as an epigraph to the Prologue to Kora in Hell. The text is also critically edited and extensively commented, most notably by D. A. Russell, Carlo Maria Mazzucchi and Stephen Halliwell.
+German film director Werner Herzog claims to have an affinity with the work of Longinus, in a talk entitled "On the Absolute, the Sublime and Ecstatic Truth", presented in Milan. Herzog says that he thinks of Longinus as a good friend and considers that Longinus's notions of illumination has a parallel in some moments in his films. He quotes from Longinus: "For our soul is raised out of nature through the truly sublime, sways with high spirits, and is filled with proud joy, as if itself had created what it hears." 
+
+
+== Notes ==
+
+
+== Further reading ==
+Bloom, Harold (1983). Agon: Towards a Theory of Revisionism. Oxford University Press. ISBN 978-0-19-503354-0.
+Doran, Robert (2015). The Theory of the Sublime from Longinus to Kant. Cambridge University Press. OCLC 959033482
+Stephen Halliwell, Pseudo-Longinus On the Sublime. (2022) Oxford University Press
+James I. Porter (2016). The Sublime in Antiquity. Cambridge University Press.
+Ferguson, Frances (Winter 1985). "A Commentary on Suzanne Guerlac's 'Longinus and the Subject of the Sublime'". New Literary History. 16 (2). The Johns Hopkins University Press: 291–297. doi:10.2307/468748. JSTOR 468748.*
+Quinney, Laura (1995). Literary Power and the Criteria of Truth. Foreword by Harold Bloom. University Press of Florida. ISBN 978-0-8130-1345-9.
+Martin Fritz, Vom Erhabenen. Der Traktat 'Peri Hypsous' und seine ästhetisch-religiöse Renaissance im 18. Jahrhundert (Tübingen, Mohr Siebeck, 2011).
+
+
+== External links ==
+
+Text of On the Sublime (Ancient Greek, with Boileau's 1674 French translation in parallel)
+English Translation of On the Sublime  by W. Hamilton Fyfe
+Dr George P. Landow, "Longinus" "On Great Writing" and the 18th-century Sublime"
+Works by Longinus at Project Gutenberg
+Works by or about On the Sublime at the Internet Archive
+ On the Sublime public domain audiobook at LibriVox
+Rhetores Graeci, L. Spengel (ed.), Lipsiae, sumptibus et typis B. G. Teubneri, 1853, vol. 1 pp. 243-296.

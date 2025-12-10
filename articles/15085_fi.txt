@@ -1,0 +1,71 @@
+Metodin esitys on René Descartesin vuonna 1637 julkaisema filosofinen ja matemaattinen tutkielma. Sen koko nimi on Esitys metodista jolla ohjataan järkeä oikein ja etsitään totuutta tieteissä, ranskaksi Discours de la méthode pour bien conduire sa raison, et chercher la verité dans les sciences. Teos on yksi kartesiolaisen tietoteorian perustavista teoksista.
+Metodin esitys tunnetaan parhaiten Descartesin kuuluisimman lausuman ”cogito ergo sum”, ”ajattelen, siis olen”, lähteenä. Sen lisäksi se sisältää Descartesin ensimmäisen esityksen kartesiolaisesta koordinaattijärjestelmästä.
+Teos on ollut merkittävä luonnontieteiden kehityksen kannalta. Teoksen kautta tieteellisen skeptisyyden ajatus, jota antiikin aikana olivat kannattaneet muun muassa Sekstos Empeirikos ja muut skeptikot, heräsi uudelleen henkiin ja muuttui totuuden etsinnän menetelmäksi, jonka Descartes katsoi olevan kiistämätön. Descartes aloitti ajattelunsa epäilemällä kaikkea voidakseen tarkastella maailmaa uudesta, puhtaasta näkökulmasta ilman ennakko-oletuksia.
+Teos julkaistiin alun perin Leidenissä ranskaksi yhdessä Descartesin teosten Optiikka, Meteorologia ja Geometria (Dioptrique, Météores e Géométrie) kanssa. Tämä kokoelma oli Descartesin ensimmäinen julkaistu teos. Myöhemmin teos käännettiin latinaksi ja julkaistiin vuonna 1656 Amsterdamissa.
+
+
+== Sisältö ==
+Kirja on jaettu kuuteen osaan:
+
+Kuinka ajatella oikein
+Tieteen metodi
+Moraali ja maksiimit dedusoidaan tällä menetelmällä
+Todistus Jumalan ja sielun olemassaolosta
+Fysiikka, sydän, ihmisten ja eläinten sielu
+Kokemukset
+
+
+=== Kuinka ajatella oikein ===
+”Terve järki on maailmassa kaikkein parhaiten jakautunut asia – – Myöskään eroavuudet käsityksissämme eivät johdu siitä, että jotkut olisivat järkevämpiä kuin toiset, vaan yksinomaan siitä, että ohjaamme ajatuksiamme eri teitä pitkin emmekä tarkastele samoja asioita. Hyvä äly ei nimittäin vielä riitä, vaan olennaista on, että sitä käytetään oikein” (AT VI, 1, suom. Sami Jansson).
+Ensimmäisessä osassa Descartes tarkastelee tieteitä yleisesti. Hän kertoo koulutustaustastaan sekä mielipiteitään eri oppiaineista, käyden läpi koko tuon ajan yliopistojen koulutusohjelman. Lopputuloksena hän kertoo lähinnä ymmärtäneensä, kuinka heikolla pohjalla tieteet ovat, ja ettei hänen kannata uskoa mihinkään sellaiseen, mikä perustuu lähinnä tottumukseen.
+
+
+=== Tieteen metodi ===
+
+Toisessa osassa Descartes esittää neljä ohjenuoraa jotka luonnehtivat hänen tieteellistä metodiaan (AT VI, 17-19):
+
+1. ”Ensimmäinen sääntöni oli se, etten koskaan ota totena mitään sellaista, minkä en ilmiselvästi tiedä olevan totta. Toisin sanoen, vältän huolellisesti kiirettä ja ennakkoluuloja enkä sisällytä arvostelmiini yhtään enempää kuin sen, mikä ilmenee mielelleni niin selvästä ja tarkasti, ettei minulla ole aihetta asettaa sitä epäilyksenalaiseksi.”
+2. ”Toisen säännön mukaan jokainen tutkimani ongelma tuli jakaa niin pieniin osiin kuin on mahdollista ja tarpeellista, jotta ne ratkeaisivat helpommin.”
+3. ”Kolmannen mukaan ajatuksia tuli ohjata järjestyksessä aloittaen kaikkein yksinkertaisimmista ja helpoiten tunnettavista kohteista ja nousta vähitellen ikään kuin asteittain kohti monimutkaisempien asioiden tuntemusta sekä asettaa järjestykseen jopa sellaiset asiat, jotka eivät luonnostaan seuraa toisiaan järjestyksessä.”
+4. ”Viimeisen säännön mukaan tuli tehdä kaikkialla niin täydellisiä luetteloita ja niin yleisiä katsauksia, että saatoin olla varma, ettei mitään ollut sivuutettu.”
+
+
+=== Moraali ja maksiimit dedusoidaan tällä menetelmällä ===
+Kolmannessa osassa Descartes esittää kolme moraaliohjetta jotka oli tarkoitettu tilapäiseksi moraaliksi sillä aikaa, kun hän rakentaisi tietoteoreettisen pohjansa vaiheittain uusiksi alusta alkaen (AT VI, 22-27):
+
+1. ”Ensimmäinen periaatteeni oli noudattaa maani lakeja ja tapoja pitäen lujasti kiinni uskonnosta, johon minut – – on kasvatettu”. Tämä kuvaa Descartesin yhteiskunnallista konservatiivisuutta: hänen tarkoituksenaan ei ollut esimerkiksi kumota uskontoa.
+2. ”Toinen periaatteeni oli olla toiminnassani mahdollisimman luja ja päättäväinen ja seurata, kun kerran olin niin päättänyt, jopa kaikkein epäiltävämpiä näkemyksiä yhtä vakaasti kuin jos ne olisivat aivan varmoja”. Tällä Descartes tarkoitti sitä, ettei arkielämässä ole käytännöllistä epäillä kaikkea jatkuvasti, niin että horjuu puolelta toiselle tekemättä päätöstä mistään.
+3. ”Kolmas periaatteeni oli yrittää aina voittaa mieluummin itseni kuin kohtalo ja muuttaa ennemmin toiveitani kuin maailmanjärjestystä”. Tämä hyvin stoalainen, Epiktetokselle ja Senecalle velkaa oleva ajatus kuvaa Descartesin alistumista niihin rajoihin, jotka luonto on ihmisille asettanut.
+Descartes käytti analogiaa asunnon purkamisesta perustuksiaan myöten, jotta se voitaisiin rakentaa uudelleen vakaalle pohjalle. Hän käyttää jopa vertausta naapuriin muuttamisesta moraalin asumuksessa, sillä aikaa kun hänen omaa asuntoaan rakennetaan uudelleen.
+
+
+=== Todistus Jumalan ja sielun olemassaolosta ===
+Neljännessä osassa Descartes soveltaa metodiaan itseensä ja haastaa myös oman järkeilynsä ja ymmärryksensä. Hän uskoi kuitenkin, että oli kolme asiaa, joita ei voitu epäillä. Nämä kolme asiaa tukivat toisiaan ja muodostivat näin vakaan perustuksen metodille. Descartes katsoi, että hän ei voinut epäillä sitä, että hän itse oli olemassa, kun hän ajatteli (”ajattelen, siis olen”). Epäilyn metodi ei voi epäillä järkeä, koska se perustuu itse järkeen. Järjen mukaan Jumala on olemassa ja takaa samalla sen, että järki ei mene harhaan.
+Descartesin argumentin epävarmin osa on tämäntapainen järkeily Jumalan olemassaolon todistamiseksi. Descartes vaikuttaa ymmärtäneen tämän itsekin ja tarjoaa siksi kolme erilaista todistusta, joista yksi on muodoltaan ontologinen todistus Jumalan olemassaolon puolesta. Jotkut ovat väittäneet, että Descartes olisi lisännyt todistuksen vedotakseen aikakauden sensoreihin. Tämä on hyvin mahdollista, koska Descartes sanoo olleensa haluton julkaisemaan teosta, koska katolinen kirkko oli käynyt oikeutta Galileo Galileita vastaan vasta neljä vuotta aiemmin.
+
+
+=== Fysiikka, sydän, ihmisten ja eläinten sielu ===
+Viidennessä osassa Descartes kuvaa, kuinka hän olisi käsitellyt julkaisemattomiksi jääneissä teoksissaan (Le monde ou traité de la lumière (”Maailma, eli tutkielma valosta”) ja L'Homme (”Ihminen”)) luonnonlakien ajatusta, aurinkoa ja tähtiä, ajatusta kuusta vuoroveden syynä, painovoimaa, valon ja tulen tutkimusta, lääketiedettä sekä verenkiertoa sydämessä ja valtimoissa. Hän katsoo, että verenkierto vaikuttaa olevan täysin itsenäinen ihmisen ajatteluun nähden, mistä hän tekee sen johtopäätöksen, että ruumis ja sielu ovat erillisiä. Descartes ei vaikuta tekevän eroa mielen, hengen ja sielun välillä. Ne olivat hänelle inhimillisen järjen ja ajattelun sijaintipaikka.
+Descartes määrittelee myös, mikä ero on ihmisillä ja eläimillä. Hän seuraa aristoteelista sielun kolmijakoa kasvi-, eläin- ja järkisieluun ja toteaa eläinten olevan ennen kaikkea automaatteja, kun taas ihmiset ovat niistä erotuksena järjellisiä. Eläimet voitaisiin viime kädessä korvata niitä jäljittelevillä koneilla, eikä eroa huomaisi, kun taas ihmisten korvaaminen ei onnistuisi yhtä helposti kahden lopullisen eron vuoksi:
+
+”Ensiksikään ne [koneet] eivät koskaan pystyisi käyttämään sanoja eivätkä yhdistelemään muitakaan merkkejä niin kuin me teemme ilmaistessamme ajatuksia toisillemme.” (AT VI, 55-56)
+”Toiseksi, vaikka sellaiset koneet suorittaisivat useita tehtäviä yhtä hyvin kuin me tai jopa paremmin kuin kukaan meistä, ne taatusti epäonnistuisivat joissakin muissa, mikä paljastaisi sen, ettei niiden toiminta perustu tietämiseen vaan pelkästään elimien järjestykseen. Nimittäin siinä missä järki on universaalinen väline, joka voi palvella kaikenlaisissa tapauksissa, nämä elimet taas tarvitsevat jonkin erityisen rakenteen jokaista erityistä toimintoa varten.” (AT VI, 56-58)
+
+
+=== Kokemukset ===
+”Panin myös merkille, että kokemukset ovat sitä välttämättömämpiä mitä pidemmälle tiedoissa on edetty. Alkajaisiksi ei pidä etsiä erityisen harvinaisia ja suunniteltuja kokemuksia, vaan on paras huolehtia vain sellaisista, jotka erikseen tarjoutuvat aisteillemme ja jotka eivät voi jäädä huomaamatta. jos vähänkään pohdimme niitä.”
+Metodin esityksen jälkeen kirjoittamissaan teoksissa Descartes näytti, kuinka hänen metodiaan sovellettiin käytännössä matematiikassa ja luonnontieteissä.
+
+
+== Vaikutus tieteeseen ==
+
+Yksi Descartesin käytännönläheisimmistä ohjeista oli järjestää oliot eri tavalla paperille, jotta ne voitiin nähdä tarkemmin. Tästä tuli kartesiolaisen koordinaatiston, histogrammien ja analyyttisen geometrian perusta. Nämä ajatukset vaikuttivat myös Isaac Newtoniin ja Gottfried Leibniziin heidän kehittäessään kalkyyliä.
+Suurin vaikutus on kuitenkin ollut Descartesin ensimmäisellä ohjenuoralla, jonka mukaan ei tullut koskaan hyväksyä totena mitään, jonka totuudesta ei voitu olla varmoja. Tämä uusi skeptisyyden ajatus vaikutti moniin, jotka alkoivat etsiä asioiden perusteita itse sen sijaan, että olisivat vain luottaneet erilaisiin auktoriteetteihin. Descartesin skeptisyys merkitsi joidenkin mukaan nykyaikaisen filosofian alkua. 
+
+
+== Kirjallisuutta suomeksi ==
+Descartes, René: Metodin esitys. Teoksessa Teokset 1.  (Suomentanut Sami Jansson)  Helsinki:  Gaudeamus, 2001.  ISBN 951-662-805-2 
+
+
+== Aiheesta muualla ==
+Descartes: Discourse on the Method (Project Gutenberg). (englanniksi)

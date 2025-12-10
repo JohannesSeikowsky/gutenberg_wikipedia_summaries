@@ -1,0 +1,28 @@
+"Experiments on Plant Hybridization" (German: Versuche über Pflanzen-Hybriden) is a seminal paper written in 1865 and published in 1866 by Gregor Mendel, an Augustinian friar considered to be the founder of modern genetics. The paper was the result after years spent studying genetic traits in Pisum sativum, the pea plant.
+
+
+== Content ==
+In his paper, Mendel compared 7 pairs of discrete traits found in a pea plant:
+
+Through experimentation, Mendel discovered that one inheritable trait would invariably be dominant to its recessive alternative. Mendel laid out the genetic model later known as Mendelian inheritance or Mendelian genetics. This model provided an alternative to blending inheritance, which was the prevailing theory at the time.
+
+
+== History ==
+Mendel read his paper to the Natural History Society of Brünn. It was published in the Proceedings of the Natural History Society of Brünn the following year.
+Mendel's work received little attention from the scientific community and was largely forgotten. It was not until the early 20th century that Mendel's work was rediscovered and his ideas used to help form the modern synthesis.
+Mendel had read a 1863 German translation of Darwin's On the Origin of Species (translated by H.G. Bronn), and used certain terms from the translation in the final two (10th and 11th) sections of his paper.
+There were three main English translations. The first was done in 1901, commissioned by William Bateson to the Royal Horticultural Society of London. It was mainly done by Charles Thomas Druery, a British poet, author, and botanist. The second was done in 1966 by Curt Stern and Eva Sherwood. The third was done in 2016, with a careful adherence to the Darwinian terminologies that had been used by Mendel, and released to the public domain.
+
+
+== Analysis ==
+In 1936, the statistician Ronald Fisher used a Pearson's chi-squared test to analyze Mendel's data and concluded that Mendel's results with the predicted ratios were far too perfect, suggesting that adjustments (intentional or unconscious) had been made to the data to make the observations fit the hypothesis.
+Later authors have suggested Fisher's analysis was flawed, proposing various statistical and botanical explanations for Mendel's numbers. It is also possible that Mendel's results are "too good" merely because he reported the best subset of his data—Mendel mentioned in his paper that the data were from a subset of his experiments.
+Modern geneticists have inferred the 7 genes studied by Mendel. It is impossible to know for certain, but the identification is possible to a high degree of confidence based on Mendel's description, and the pea varieties grown in central Europe in the 1850s. The table shows that the 7 genes appeared on 5 chromosomes. Of these, the only pair with significant linkage are V and LE, who are 12.6 map units apart. The other pair, R and GP, are very weakly linked. The effect is that Mendel was unlikely to have encountered genetic linkage. In any case, he did not report dihybrid experiments on either of these pairs, and only reported on the unlinked pairs, and he always found the ratio to be 9:3:3:1.
+
+
+== Translations ==
+The 1901 translation:  The full text of Experiments in Plant-Hybridisation at Wikisource
+The 2016 translation: Abbott, Scott; Fairbanks, Daniel J (1 October 2016). "Experiments on Plant Hybrids by Gregor Mendel". Genetics. 204 (2): 407–422. doi:10.1534/genetics.116.195198. ISSN 1943-2631. PMC 5068836. PMID 27729492.
+
+
+== References ==

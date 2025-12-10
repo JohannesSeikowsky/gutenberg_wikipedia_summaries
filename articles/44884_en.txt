@@ -1,0 +1,116 @@
+The Geographica (Ancient Greek: Γεωγραφικά, Geōgraphiká; Latin: Geographica or Strabonis Rerum Geographicarum Libri XVII, "Strabo's 17 Books on Geographical Topics") or Geography, is an encyclopedia of geographical knowledge, consisting of 17 'books', written in Greek in the late first century BC, or early first century AD, and attributed to Strabo, an educated citizen of the Roman Empire of Greek descent. There is a fragmentary palimpsest dating to the fifth century. The earliest manuscripts of books 1–9 date to the tenth century, with a thirteenth-century manuscript containing the entire text.
+
+
+== Title of the work ==
+
+Strabo refers to his Geography within it by several names:
+
+geōgraphia, "description of the earth"
+chōrographia, "description of the land"
+periēgēsis, "an outline"
+periodos gēs, "circuit of the earth"
+periodeia tēs chōrās, "circuit of the land"
+Apart from the "outline", two words recur, "earth" and "country." Something of a theorist, Strabo explains what he means by Geography and Chorography:It is the sea more than anything else that defines the contours of the land (geōgraphei) and gives it its shape, by forming gulfs, deep seas, straits and likewise isthmuses, peninsulas, and promontories; but both the rivers and the mountains assist the seas herein. It is through such natural features that we gain a clear conception of continents, nations, favourable positions of cities and all the other diversified details with which our geographical map (chorographikos pinax) is filled.
+From this description it is clear that by geography Strabo means ancient physical geography and by chorography, political geography. The two are combined in this work, which makes a "circuit of the earth" detailing the physical and political features. Strabo often uses the adjective geōgraphika with reference to the works of others and to geography in general, but not of his own work. In the Middle Ages it became the standard name used of his work.
+
+
+== Ascribed date ==
+
+The date of Geographica is a large topic, perhaps because Strabo worked on it along with his History for most of his adult life. He traveled extensively, undoubtedly gathering notes, and made extended visits to Rome and Alexandria, where he is sure to have spent time in the famous library taking notes from his sources.
+Strabo did not date his work and determining this has been a matter of scholarly study since the Renaissance. The earliest attempts were in the 16th and 17th centuries (such as the 1549 Basel edition and the 1571 Heidelberg edition) however the first serious attempt was by Johannes Fabricus in 1717.
+
+Strabo visited Rome in 44 BC at age 19 or 20 apparently for purposes of education. He studied under various persons, including Tyrannion, a captive educated Greek and private tutor, who instructed Cicero's two sons. Cicero says:The geographical work I had planned is a big undertaking...if I take Tyrannion's views too...
+If one presumes that Strabo acquired the motivation for writing geography during his education, the latter must have been complete by the time of his next visit to Rome in 35 BC at 29 years old. He may have been gathering notes but the earliest indication that he must have been preparing them is his extended visit to Alexandria 25–20 BC. In 20 he was 44 years old. His "numerous excerpts" from "the works of his predecessors" are most likely to have been noted at the library there. Whether these hypothetical notes first found their way into his history and then into his geography or were simply ported along as notes remains unknown.
+
+Most of the events of the life of Augustus mentioned by Strabo occurred 31–7 BC with a gap 6 BC – 14 AD, which can be interpreted as an interval after first publication in 7 BC. Then in 19 AD a specific reference dates a passage: he said that the Carni and Norici had been at peace since they were "stopped ... from their riotous incursions ...." by Drusus 33 years ago, which was 15 BC, dating the passage to the summer 19 AD. The latest event mentioned is the death of Juba at no later than 23 AD, when Strabo was in his 80s. These events can be interpreted as a second edition unless he saved all his notes and wrote the book entirely after the age of 80. Dueck concludes that the Geography was written between AD 18–24.
+
+
+== Composition ==
+Strabo is his own best expounder of his principles of composition:In short, this book of mine should be ... useful alike to the statesman and to the public at large – as was my work on History. ... And so, after I had written my Historical Sketches ... I determined to write the present treatise also; for this work is based on the same plan, and is addressed to the same class of readers, and particularly to men of exalted stations in life. ... in this work also I must leave untouched what is petty and inconspicuous, and devote my attention to what is noble and great, and to what contains the practically useful, or memorable, or entertaining. ... For it, too, is a colossal work, in that it deals with the facts about large things only, and wholes ....
+
+
+== Content ==
+An outline of the encyclopedia follows, with links to the appropriate Wikipedia article.
+
+
+=== Book I – definition and history of geography ===
+Pages C1 through C67, Loeb Volume I pages 3–249.
+
+
+==== Chapter 1 – description of geography and this encyclopedia ====
+
+
+== Publication history ==
+
+
+=== Manuscripts ===
+Some thirty manuscripts of Geographica or parts of it have survived, almost all of them medieval recensions, though there is 5th century palimpsest (in 3 parts) and fragmentary papyri of the 2nd - 3rd centuries. Attempts at critical editions during the 1840s-50s Kramer, Meineke, Müller and Dübner did not benefit from these discoveries which only occurred after their publications.
+The critical text of Strabo is primarily based on 5 prototype manuscripts: 
+
+Today there are about thirty manuscripts in existence, with a fragmentary palimpsest of the fifth century the earliest (Vaticanus gr. 2306 + 2061 A). Two manuscripts in Paris provide the best extant text: Parisinus gr. 1397 of the tenth century for Books 1-9, and Parisinus gr. 1393 of the thirteenth century for the entire text. The end of Book 7 had been lost sometime in the latter Byzantine period.
+
+
+=== Papryri ===
+
+
+=== Editions and translations ===
+A Latin translation commissioned by Pope Nicholas V appeared around 1469, and another one in 1472. These were probably used by Columbus and other early Renaissance explorers. The first printed Greek edition was the Aldine of 1516, and the first text with commentary was produced by Isaac Casaubon in Geneva in 1587. The Teubner edition appeared in 1852-3 under the editorship of August Meineke.
+The first semi-critical Greek text was established by Kramer, Meineke, Müller and Dübner during the 1840s-50s, notably before the discovery and study of the 5th century palimpsets by Cardinal Angelo Mai, Giuseppe Cozza Luzi and Pierre Batiffol in 1844, 1875 and 1888. The first fully critical edition was only completed in 2011 Stefan Radt.
+
+
+==== Latin ====
+Strabonis Geographia (in Latina Gregorio Typhernate et Guarino Veronese). Rome. 1469. Editio princeps commissioned by Pope Nicholas V
+Strabo: Geographia, libri XVI. Venice. 1472.
+Isaac, Casaubon (1578). Isaac Casauboni Commentarius et Castigatones in Geographicorum Strabonis (in Latin). excudebat Eustathius Vignon Atrebat.
+
+
+==== Greek text ====
+Tyrrhenus, Benedictus (1516). ΣΤΡΆΒΟΝΟΙ ΓΕΟΓΡΑΦΙΚΏΝ [Strábonoi Geographikōn] (in Ancient Greek). Venice, Aldine Press: Andreas Torresanus.
+Kramer, Gustav, ed., Strabonis Geographica, 3 vols, containing Books 1–17. Berlin: Friedericus Nicolaus, 1844–52.
+Meineke, August (1852–53). Strabonis Geographica (in Ancient Greek). Vol. 1–3. Leipzig: Teubner.
+Carl, Müller; Dübner, Friedrich (1853–58). Strabonis Geographica graece cum versione reficta (in Ancient Greek). Vol. 1–2. Paris: Didot.
+
+
+==== English ====
+Hamilton, H.C.; Falconer, W. (1854–57). The geography of Strabo. Literally translated, with notes. Vol. 1–3. London: H.G. Bohn. Vol.2 The first English translation of the full work.
+Strabo (1917–1932). The Loeb Classical Library: The Geography of Strabo: in Eight Volumes (in Ancient Greek and English). Translated by Jones, Horace Leonard. Cambridge, Massachusetts/London: Harvard University Press/William Heinemann. Contains Books 1–17, Greek on the left page, English on the right. Sterrett translated Books I and II and wrote the introduction before dying in 1915. Jones changed Sterrett's style from free to more literal and finished the translation. The Introduction contains a major bibliography on all aspects of Strabo and a definitive presentation of the manuscripts and editions up until 1917. Greek text based on Meineke (1852–53).
+Roller, Duane W. (2014). The Geography of Strabo: An English Translation, with Introduction and Notes. Cambridge University Press. ISBN 978-1-139-95249-1.
+Pothecary, Sarah (2024). Strabo's Geography: A Translation for the Modern World. Princeton University Press. ISBN 978-0-691-24313-9.
+
+
+==== French ====
+Tardieu, Amédée (1886). Géographie de Strabon: Traduction Nouvelle: Tome Premier (in French). Paris: Librairie Hachette. Books I – VI only.
+Tardieu, Amédée (1873). Géographie de Strabon: Traduction Nouvelle: Tome Deuxième (in French). Paris: Librairie Hachette. Books VII – XII only.
+
+
+==== German ====
+Radt, Stefan (translator; critical apparatus) (2002–2011). Strabons Geographika. Göttingen: Vandenhoeck & Ruprecht. Books I–XVII in ten volumes.
+
+
+== See also ==
+De situ orbis from Albi
+Ptolemy's Geography
+Description of Greece
+Bibliotheca historica
+Diodorus Siculus
+Codex Vaticanus 2061
+
+
+== References ==
+
+
+== External links ==
+
+
+=== The text of Strabo online ===
+ Greek Wikisource has original text related to this article: Γεωγραφικά
+Strabo (1924). H.L. Jones (ed.). "Strabo: The Geography". LacusCurtius. Translated by Jones. Retrieved 2007-11-03.
+Strabo (1924). H.L. Jones (ed.). "Strabo, Geography". The Perseus Digital Library. Tufts University. Retrieved 2007-11-03. Books 6–14.
+Strabo (1903-06-19). H.C. Hamilton; W. Falconer (eds.). "Strabo, Geography". The Perseus Digital Library. Tufts University. Retrieved 2007-11-03.
+Strabo (1852–1853). A. Meineke (ed.). "Strabo, Geography". The Perseus Digital Library (in Greek). Tufts University. Retrieved 2007-11-03. Books 6–14.
+Strabo (1917–1932). The Loeb Classical Library: The Geography of Strabo: in Eight Volumes (in Ancient Greek and English). Translated by Jones, Horace Leonard. Cambridge, Massachusetts/London: Harvard University Press/William Heinemann. Complete series at the Internet Archive.
+
+
+=== Other links ===
+World map as described by Strabo in Gegraphica
+Strabo.ca - site by Sarah Pothecary, the most recent translator of Strabo into English. Hosts a comprehensive bibliography of sources.

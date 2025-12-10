@@ -1,0 +1,39 @@
+United States v. American Library Association, 539 U.S. 194 (2003), was a decision in which the United States Supreme Court ruled that the United States Congress has the authority to require public schools and libraries receiving E-Rate discounts to install web filtering software as a condition of receiving federal funding, as required in the Children's Internet Protection Act of 2000. In a plurality opinion, the Supreme Court ruled that public school and library usage of Internet filtering software does not violate their patrons' First Amendment free speech rights and that the Children's Internet Protection Act is not unconstitutional.
+
+
+== Background ==
+The Children's Internet Protection Act (CIPA) was passed by Congress in 2000. CIPA was Congress's third attempt to regulate obscenity and indecency on the Internet, but the first two (the Communications Decency Act of 1996 and the Child Online Protection Act of 1998) were struck down by the Supreme Court as unconstitutional free speech restrictions, largely due to vagueness and overbreadth issues that caused those statutes to fail the strict scrutiny test.
+CIPA required that in order to qualify for federal assistance in building network connections and computer labs for Internet access, public schools and libraries must install software that blocks images deemed obscene, and other material which could be dangerous for minor children. CIPA imposed certain types of requirements on any school or library that receives funding under the E-rate program or Library Services and Technology Act (LSTA) grants, which subsidize internet technology and connectivity for schools and libraries. In 2001 the Federal Communications Commission issued rules implementing CIPA.
+The American Library Association challenged this law, claiming that it improperly required them to restrict the First Amendment rights of consenting library patrons. The case originated in the District Court for the Eastern District of Pennsylvania, which ruled that CIPA was unconstitutional because it restricted speech in a public forum (a school or library), and issued an injunction to prevent the statute from being enforced. The U.S. government appealed that decision directly to the Supreme Court, due to a provision in the statute that permitted appeals to be heard directly by the Supreme Court without the usual intermediate appellate decision.
+The Supreme Court considered whether public libraries' use of Internet filtering software violated patrons' First Amendment rights, as well as whether CIPA was a valid exercise of Congress' spending power by requiring filters for any library who wanted to receive federal funds for Internet access.
+
+
+== Opinion of the Court ==
+In a plurality decision written by Chief Justice Rehnquist, the Supreme Court reversed the District Court's decision, and affirmed the constitutionality of the Children's Internet Protection Act. The court held that CIPA only required libraries to install software filters but not to require all patrons to use them, while patrons could also request that the filters be disabled. Thus, filters were not unacceptably restrictive.
+The Supreme Court also held that the public forum principles on which the district court relied were "out of place in the context of this case" and that Internet access in public libraries "is neither a 'traditional' nor a 'designated' public forum" under established public forum law. A library does not acquire Internet terminals in order to "create a public forum for Web publishers to express themselves, any more than it collects books in order to provide a public forum for the authors of books to speak." The Court explained that the Internet is simply "another method for making information available in a school or library... [and is] no more than a technological extension of the book stack."
+
+
+=== Dissenting opinions ===
+Justice John Paul Stevens dissented, submitting that CIPA unlawfully conditioned receipt of government funding on the restriction of First Amendment rights, because CIPA denied the libraries any discretion in judging the merits of the blocked websites.
+Justice David Souter also dissented, arguing that CIPA was not narrowly tailored to achieve the government's legitimate interest in restricting harmful Internet content. He focused on the language of CIPA which said the library "may" unblock the filters for "bona fide research or other lawful purposes," which imposed eligibility on unblocking and left it up to the librarian's discretion. He believed this would prevent adults from accessing lawful and constitutionally protected speech. He suggested that to prevent this, children could be restricted to blocked terminals, leaving unblocked terminals available to adults. He believed CIPA to be an unconstitutional "content-based restriction on communication of material in the library's control that an adult could otherwise lawfully see" rising to the level of censorship.
+
+
+== Impact ==
+The American Civil Liberties Union (ACLU) said that it was "disappointed" that the Supreme Court held that Congress can force public libraries to install blocking software on their Internet terminals, but noted that the ruling minimized the law's impact on adults, who can request that the software be disabled. Chris Hansen, a senior staff attorney with the ACLU, also stated that "'Although we are disappointed that the Court upheld a law that is unequivocally a form of censorship, there is a silver lining. The Justices essentially rewrote the law to minimize its effect on adult library patrons."
+In 2016, the Wisconsin Court of Appeals ruled in Wisconsin v. David J. Reidinger that a library patron did not have a First Amendment right to view pornography in a public library, and if other patrons complain, such conduct could be considered a disturbance and subjected to a misdemeanor charge.
+
+
+== Further reading ==
+Gathegi, John N. (2005). "The Public Library as a Public Forum: The (De)Evolution of a Legal Doctrine". The Library Quarterly. 75 (1): 1–19. doi:10.1086/428690. S2CID 143533712.
+Jaeger, Paul T.; Bertot, John Carlo; McClure, Charles R. (2004). "The effects of the Children's Internet Protection Act (CIPA) in public libraries and its implications for research: A statistical, policy, and legal analysis". Journal of the American Society for Information Science and Technology. 55 (13): 1131–1139. doi:10.1002/asi.20072.
+Siefkes, Darin (2005). "Explaining United States v. American Library Association: Strictly Speaking, a Flawed Decision". Baylor Law Review. 57: 327–356. ISSN 0005-7274.
+United States v. American Library Association: A Missed Opportunity for the Supreme Court to Clarify Application of First Amendment Law to Publicly Funded Expressive Institutions by: Robert Corn-Revere
+Internet Censorship: United States v. American Library Association by: Martha McCarthy, Ph.D.
+High Court Hears Arguments on Library Internet Filters by: Tony Mauro
+
+
+== External links ==
+Text of United States v. American Library Ass'n, 539 U.S. 194 (2003) is available from: Cornell  Findlaw  Justia  Library of Congress  Oyez (oral argument audio) 
+
+
+== References ==

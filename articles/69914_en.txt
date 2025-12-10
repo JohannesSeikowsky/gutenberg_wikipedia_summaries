@@ -1,0 +1,47 @@
+An Elementary Treatise on Electricity is a posthumously published treatise on electricity by James Clerk Maxwell that was edited by William Garnett. The book was published in 1881 by Oxford University Press two years after Maxwell died in 1879. The editor's note at the beginning of the book states that most of the book's content was written about five years prior to Maxwell's death, some of which was used in the lectures Maxwell gave on electricity to members of the Cavendish Laboratory.
+
+
+== Contents ==
+The book contains thirteen chapters, covering the following topics:
+
+Chapter I: [No overall heading; covers basic electrical experiments]
+Chapter II: 'On the charges of electrified bodies'
+Chapter III: 'On electrical work and energy'
+Chapter IV: 'The electric field'
+Chapter V: 'Faraday's law of lines of induction'
+Chapter VI: 'Particular cases of electrification'
+Chapter VII: 'Electrical images'
+Chapter VIII: 'Capacity'
+Chapter IX: 'Electric current'
+Chapter X: 'Phenomena of an electric current which flows through heterogeneous media'
+Chapter XI: 'Methods of maintaining an electric current'
+Chapter XII: 'On the measurement of electric resistance'
+Chapter XIII: 'On the electric resistance of substances'
+The first eight chapters were complete at the time of Maxwell's death, as were parts of chapters nine and ten, though materials for these chapters were found to be disordered. The first four chapters are interspersed with descriptions of eighteen experiments illustrating phenomena described. Rather than publish the work in fragmentary form, Garnett and his collaborators decided to fill in the gaps in the Elementary Treatise by borrowing relevant sections from Maxwell's magnum opus, A Treatise on Electricity and Magnetism, first published in two volumes in 1873 and published in a revised version in the same year as the Elementary Treatise. Owing to the almost complete absence of text for chapters eleven through thirteen of the Elementary Treatise, those chapters are largely constructed from material from the larger work.
+
+The purpose of the book is stated in the fragmentary preface by Maxwell himself:The aim of the following treatise is different from that of my larger treatise on electricity and magnetism. In the larger treatise the reader is supposed to be familiar with the higher mathematical methods which are not used in this book, and his studies are so directed as to give him the power of dealing mathematically with the various phenomena of the science. In this smaller book I have endeavoured to present, in as compact a form as I can, those phenomena which appear to throw light on the theory of electricity, and to use them, each in its place, for the development of electrical ideas in the mind of the reader.
+
+
+== Maxwell, Faraday and the Elementary Treatise ==
+The book is not merely a re-statement of some parts of A Treatise on Electricity and Magnetism. Maxwell notes thatIn the larger treatise I sometimes made use of methods which I do not think the best in themselves, but without which the student cannot follow the investigations of the founders of the Mathematical Theory of Electricity. I have since become more convinced of the superiority of methods akin to those of Faraday, and have therefore adopted them from the first.This is thought to refer to the use, in A Treatise on Electricity and Magnetism of the potentials A and Ψ as fundamental. That Maxwell adopted "methods akin to those of Faraday" "from the first" in the Elementary Treatise gives it an important place in our understanding of what Maxwell might have done with the full mathematical treatment of the second edition of A Treatise on Electricity and Magnetism. For this reason, and owing to the less technical presentation of the Elementary Treatise, the latter has been called "the final, unfinished expression of the understanding [Maxwell] achieved by studying and extending Faraday's work".
+Maxwell's relationship with Michael Faraday's work was foundational: as a young man, embarking on his study of electricity, Maxwell decided "to read no mathematics on the subject till I had first read through Faraday's Experimental Researches." Both Maxwell and Faraday styled themselves 'natural philosopher' rather than the newly coined 'scientist' or 'physicist'. Ultimately, however, Maxwell's Treatise on Electricity and Magnetism offered what Maxwell called a 'translation' of Faraday's intuitive experimental approach into a fully mathematical treatment of electrical and magnetic phenomena, specifically Faraday's 'fields'. Maxwell's early death at the age of forty-eight interrupted his work on a revised second edition of the Treatise on Electricity and Magnetism, as well as the Elementary Treatise. In the introduction to the Dover edition of the Elementary Treatise, Peter Pesic argues that the original editor Garnett saw the book as "an alternative to the first part" of the Treatise on Electricity and Magnetism, but that Maxwell himself had understood the Elementary Treatise as an entirely different work:Maxwell's larger plan for Elementary Treatise was to use the most elementary mathematics possible not just to be 'easier,' but in order to emphasize how the physical had become the theory.This, according to Pesic, is an act of 'homage' to Faraday, and a response to the letter that Faraday had written to Maxwell in 1857, in which Faraday had written:When a mathematician engaged in physical actions and results has arrived at his conclusions, may they not be expressed in common language as fully, clearly, and definitely as in mathematical formulae? If so, would it not be a great boon to such as I to express them so?—translating them out of their hieroglyphics that we also might work upon them by experiment.
+An important feature of the Elementary Treatise, therefore, is that it does not contain Maxwell's famous equations. In Chapter VI, article 93, Maxwell writes "we may proceed by mathematical methods" or we may employ "the humbler method of actually drawing tentative figures on paper and selecting that which appears least unlike the figure we require." He continues, "I have therefore drawn several diagrams of systems of equipotential surfaces and lines of force, so that the student may make himself familiar with the forms of the lines." These are contained on a series of full page plates bound at the back of the book.
+
+
+== Reception ==
+As so often with Maxwell's work, even popular presentations such as the Elementary Treatise contain subtle insights, and these were recognised by his immediate followers. Lewis Fry Richardson, for example, developed a trial and error method of solving two-dimensional flow nets, using a comment in Chapter VI:Maxwell in §92 of his Elementary Treatise on Electricity and Magnetism speaks of tentative methods of altering known solutions of the Laplacian equation by drawing diagrams on paper and selecting the least improbable. The object of the present thesis is to point out that this method can do far more than merely alter known results, and that it may be so far from tentative as to yield an accuracy of one per cent of the range.Owing to the book's discursive style and attempt to present complex ideas in straightforward language, it has long been studied for what it reveals about Maxwell's style of thought, in particular his use of analogies in physical explanation. Joseph Turner, for example, discussed the Elementary Treatise in his 1955 paper 'Maxwell on the Method of Physical Analogy'. More recently, Alisa Bukolic points out that in the Elementary Treatise "Maxwell distinguishes sharply between the relations between the phenomena and the phenomena themselves". This has important consequences for Maxwell's views on scientific explanation: "it is clear that Maxwell does not take his physical analogies and fictional models to be explanatory in the straightforward sense of providing a literal mechanistic or causal explanation".
+In 2023, a copy of the book was returned to New Bedford Free Public Library in New Bedford, Massachusetts, more than 119 years overdue.
+
+
+== Publication history ==
+Maxwell, James Clerk (1881). Garnett, William (ed.). An Elementary Treatise on Electricity. Oxford, Clarendon Press.
+Maxwell, James Clerk (1888). Garnett, William (ed.). An Elementary Treatise on Electricity (2nd ed.). Oxford, Clarendon Press.
+Maxwell, James Clerk (1888). Garnett, William (ed.). An Elementary Treatise on Electricity, with an Introduction and Notes by Peter Pesic (2nd ed.). Dover Publications (published 2005).
+
+
+== References ==
+
+
+== Further reading ==
+Maxwell, J. C. (1882-01-14). "An Elementary Treatise on Electricity". Science. os-3 (80): 14. doi:10.1126/science.os-3.80.14-d. ISSN 0036-8075.
+Chrystal, G. (January 1882). "A Treatise on Electricity and Magnetism An Elementary Treatise on Electricity". Nature. 25 (637): 237–240. Bibcode:1882Natur..25..237C. doi:10.1038/025237a0. ISSN 0028-0836. S2CID 41145395.

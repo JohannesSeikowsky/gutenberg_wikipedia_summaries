@@ -1,0 +1,163 @@
+The Mabinogion (Welsh pronunciation: [mabɪˈnɔɡjɔn] ) is a collection of the earliest Welsh prose stories, compiled in Middle Welsh in the 12th–13th centuries from earlier oral traditions. There are two main source manuscripts, created c. 1350–1410, as well as a few earlier fragments. Often included in the broader mythologies described as the Matter of Britain, the Mabinogion consists of eleven stories of widely different types, offering drama, philosophy, romance, tragedy, fantasy and humour. 
+Strictly speaking, the Four Branches of the Mabinogi are the main sequence of related tales, but seven others include a classic hero quest, "Culhwch and Olwen"; a historic legend, complete with glimpses of a far off age, in "Lludd and Llefelys"; and other tales portraying a very different King Arthur from the later popular versions.
+The stories were created and amended by various narrators over a very long period of time, and scholars beginning from the 18th century predominantly viewed the tales as fragmentary pre-Christian Celtic mythology, or folklore. Since the 1970s, an investigation of the   common plot structures, characterisation, and language styles, especially in the Four Branches of the Mabinogi, has led to an understanding of the integrity of the tales, and they are now seen as a sophisticated narrative tradition, both oral and written, with ancestral construction from oral storytelling, and overlay from Anglo-French influences.
+The first modern publications of the stories were English translations by William Owen Pughe of several tales in journals in 1795, 1821, and 1829, which introduced usage of the name "Mabinogion". In 1838–45, Lady Charlotte Guest first published the full collection we know today, bilingually in Welsh and English, which popularised the name.  The later Guest translation of 1877 in one volume has been widely influential and remains actively read today.
+
+The tales continue to inspire new fiction, dramatic retellings, visual artwork, music and research, from early reinterpretations by Evangeline Walton in 1936, to J.R.R. Tolkien's The Silmarillion, to the 1975 song "Rhiannon" by Fleetwood Mac, to the 2009–2014 series of books commissioned by Welsh independent publisher Seren Books.
+
+
+== Etymology ==
+The name first appears in 1795 in William Owen Pughe's translation of Pwyll in the journal Cambrian Register under the title "The Mabinogion, or Juvenile Amusements, being Ancient Welsh Romances". The name appears to have been current among Welsh scholars of the London-Welsh Societies and the regional eisteddfodau in Wales. It was inherited as the title by the first publisher of the complete collection, Lady Charlotte Guest.
+The form mabynnogyon occurs once at the end of the first of the Four Branches of the Mabinogi in one manuscript. It is now generally agreed that this one instance was a mediaeval scribal error which assumed 'mabinogion' was the plural of 'mabinogi', which is already a Welsh plural occurring correctly at the end of the remaining three branches.
+The word mabinogi itself is something of a puzzle, although clearly derived from the Welsh mab, which means "son, boy, young person". As early as 1632 the lexicographer John Davies quotes a sentence from Math fab Mathonwy with the notation "Mabin" in his Antiquae linguae Britannicae ... dictionarium duplex, article "Hob". Eric P. Hamp, of the earlier school traditions in mythology, found a suggestive connection with Maponos, "the Divine Son", a Gaulish deity.
+Sioned Davies suggests the title Mabinogi properly applies only to the Four Branches, which is a tightly organised quartet very likely by one author, where the other seven stories are very diverse. Each of these four tales ends with the colophon "thus ends this branch of the Mabinogi" (in various spellings), hence the name.
+
+
+== Translations ==
+
+Lady Charlotte Guest's work was helped by the earlier research and translation work of William Owen Pughe. The first part of Charlotte Guest's translation of the Mabinogion appeared in 1838, and it was completed in seven parts in 1845. A three-volume edition followed in 1846, and a revised edition in 1877.  Her version of the Mabinogion was the most frequently used English version until the 1948 translation by Gwyn Jones and Thomas Jones, which has been widely praised for its combination of literal accuracy and elegant literary style.  Several more, listed below, have since appeared.
+
+
+== Date of stories ==
+
+Dates for the tales in the Mabinogion have been much debated, a range from 1050 to 1225 being proposed, with the consensus being that they are to be dated to the late 11th and 12th centuries. The stories of the Mabinogion appear in either or both of two medieval Welsh manuscripts, the White Book of Rhydderch or Llyfr Gwyn Rhydderch, written c. 1350, and the Red Book of Hergest or Llyfr Coch Hergest, written about 1382–1410, though texts or fragments of some of the tales have been preserved in earlier 13th century and later manuscripts. Scholars agree that the tales are older than the existing manuscripts, but disagree over just how much older. It is clear that the different texts included in the Mabinogion originated at different times (though regardless their importance as records of early myth, legend, folklore, culture, and language of Wales remains immense).
+Thus the tale of Culhwch ac Olwen, with its primitive warlord Arthur and his court based at Celliwig, is generally accepted to precede the Arthurian romances, which themselves show the influence of Geoffrey of Monmouth's Historia Regum Britanniae (1134–36) and the romances of Chrétien de Troyes.  Those following R. S. Loomis would date it before 1100, and see it as providing important evidence for the development of Arthurian legend, with links to Nennius and early Welsh poetry. 
+By contrast, The Dream of Rhonabwy is set in the reign of the historical Madog ap Maredudd (1130–60), and must therefore either be contemporary with or postdate his reign, being perhaps early 13th century.
+Much debate has been focused on the dating of the Four Branches of the Mabinogi. Ifor Williams offered a date prior to 1100, based on linguistic and historical arguments, while later Saunders Lewis set forth a number of arguments for a date between 1170 and 1190; Thomas Charles-Edwards, in a paper published in 1970, discussed the strengths and weaknesses of both viewpoints, and while critical of the arguments of both scholars, noted that the language of the stories best fits the 11th century, (specifically 1050–1120), although much more work is needed. In 1991, Patrick Sims-Williams argued for a plausible range of about 1060 to 1200, which seems to be the current scholarly consensus (fitting all the previously suggested date ranges).
+
+
+== Stories ==
+
+The collection represents the vast majority of prose found in medieval Welsh manuscripts which is not translated from other languages. Notable exceptions are the Areithiau Pros. None of the titles are contemporary with the earliest extant versions of the stories, but are on the whole modern ascriptions. The eleven tales are not adjacent in either of the main early manuscript sources, the White Book of Rhydderch (c. 1375) and the Red Book of Hergest (c. 1400), and indeed Breuddwyd Rhonabwy is absent from the White Book.
+
+
+=== Four Branches of the Mabinogi ===
+The Four Branches of the Mabinogi (Pedair Cainc y Mabinogi) are the most clearly mythological stories contained in the Mabinogion collection. Pryderi appears in all four, though not always as the central character.
+
+Pwyll Pendefig Dyfed (Pwyll, Prince of Dyfed) tells of Pryderi's parents and his birth, loss and recovery.
+Branwen ferch Llŷr (Branwen, daughter of Llŷr) is mostly about Branwen's marriage to the King of Ireland. Pryderi appears but does not play a major part.
+Manawydan fab Llŷr (Manawydan, son of Llŷr) has Pryderi return home with Manawydan, brother of Branwen, and describes the misfortunes that follow them there.
+Math fab Mathonwy (Math, son of Mathonwy) is mostly about the eponymous Math and Gwydion, who come into conflict with Pryderi.
+
+
+=== Native tales ===
+Also included in Guest's compilation are five stories from Welsh tradition and legend:
+
+Breuddwyd Macsen Wledig (The Dream of Macsen Wledig)
+Lludd a Llefelys (Lludd and Llefelys)
+Culhwch ac Olwen (Culhwch and Olwen)
+Breuddwyd Rhonabwy (The Dream of Rhonabwy)
+Hanes Taliesin (The History of Taliesin)
+The tales Culhwch and Olwen and The Dream of Rhonabwy have interested scholars because they preserve older traditions of King Arthur. The subject matter and the characters described events that happened long before medieval times. After the departure of the Roman Legions, the later half of the 5th century was a difficult time in Britain. King Arthur's twelve battles and defeat of invaders and raiders are said to have culminated in the Battle of Badon.
+There is no consensus about the ultimate meaning of The Dream of Rhonabwy. On one hand it derides Madoc's time, which is critically compared to the illustrious Arthurian age. However, Arthur's time is portrayed as illogical and silly, leading to suggestions that this is a satire on both contemporary times and the myth of a heroic age.
+Rhonabwy is the most literary of the medieval Welsh prose tales. It may have also been the last written. A colophon at the end declares that no one is able to recite the work in full without a book, the level of detail being too much for the memory to handle. The comment suggests it was not popular with storytellers, though this was more likely due to its position as a literary tale rather than a traditional one.
+The tale The Dream of Macsen Wledig is a romanticised story about the Roman emperor Magnus Maximus, called Macsen Wledig in Welsh. Born in Hispania, he became a legionary commander in Britain, assembled a Celtic army and assumed the title of Roman Emperor in 383. He was defeated in battle in 385 and beheaded at the direction of the Eastern Roman emperor.
+The story of Taliesin is a later survival, not present in the Red or White Books, and is omitted from many of the more recent translations.
+
+
+=== Romances ===
+The tales called the Three Welsh Romances (Y Tair Rhamant) are Welsh-language versions of Arthurian tales that also appear in the work of Chrétien de Troyes. Critics have debated whether the Welsh Romances are based on Chrétien's poems or if they derive from a shared original.  Though it is arguable that the surviving Romances might derive, directly or indirectly, from Chrétien, it is probable that he in turn based his tales on older, Celtic sources. The Welsh stories are not direct translations and include material not found in Chrétien's work.
+
+Owain, neu Iarlles y Ffynnon (Owain, or the Countess (or Lady) of the Fountain)
+Peredur fab Efrog (Peredur son of Efrawg)
+Geraint ac Enid (Geraint and Enid)
+
+
+== Influence on later works ==
+Kenneth Morris, himself a Welshman, pioneered the adaptation of the Mabinogion with The Fates of the Princes of Dyfed (1914) and Book of the Three Dragons (1930).
+Evangeline Walton adapted the Mabinogion in the novels The Island of the Mighty (1936), The Children of Llyr (1971), The Song of Rhiannon (1972) and Prince of Annwn (1974), each one of which she based on one of the branches, although she began with the fourth and ended by telling the first. These were published together in chronological sequence as The Mabinogion Tetralogy in 2002.
+Y Mabinogi is a film version, produced in 2003. It starts with live action among Welsh people in the modern world. They then 'fall into' the legend, which is shown through animated characters. It conflates some elements of the myths and omits others. 
+The tale of "Culhwch and Olwen" was adapted by Derek Webb in Welsh and English as a dramatic recreation for the reopening of Narberth Castle in Pembrokeshire in 2005.
+Lloyd Alexander's award-winning The Chronicles of Prydain fantasy novels for younger readers are loosely based on Welsh legends found in the Mabinogion. Specific elements incorporated within Alexander's books include the Cauldron of the Undead, as well as adapted versions of important figures in the Mabinogion such as Prince Gwydion and Arawn, Lord of the Dead.
+Alan Garner's novel The Owl Service (Collins, 1967; first US edition Henry Z. Walck, 1968) alludes to the mythical Blodeuwedd featured in the Fourth Branch of the Mabinogi. In Garner's tale three teenagers find themselves re-enacting the story. They awaken the legend by finding a set of dinner plates (a "dinner service") with an owl pattern, which gives the novel its title.
+The Welsh mythology of The Mabinogion, especially the Four Branches of the Mabinogi, is important in John Cowper Powys's novels Owen Glendower (1941), and Porius (1951). Jeremy Hooker sees The Mabinogion as having "a significant presence […] through character's knowledge of its stories and identification of themselves or others with figures or incidents in the stories". Indeed, there are "almost fifty allusions to these four […] tales"' (The Four Branches of the Mabinogi) in the novel, though "some ... are fairly obscure and inconspicuous".  Also in Porius Powys creates the character Sylvannus Bleheris, Henog of Dyfed, author of the Four Pre-Arthurian Branches of the Mabinogi concerned with Pryderi, as a way linking the mythological background of Porius with this aspect of the Mabinogion.
+J. R. R. Tolkien worked on a translation of Pwyll Prince of Dyfed, held at the Bodleian Library, and his entire legendarium was influenced by existing mythologies including the Mabinogion, reflected in his choice of the term The Silmarillion as a title for his collection of ancestral tales. The title of his Red Book of Westmarch echoes the Mabinogion's Red Book of Hergest.
+Singer and songwriter Stevie Nicks, who has some Welsh ancestry, wrote the song, Rhiannon (Will You Ever Win) after she read the novel, Triad by Mary Bartlet Leader, itself inspired by the Mabinogion. Nicks received a copy of the Mabinogion after the release, and later wrote the song, Angel about Rhiannon specifically. Nicks has purchased the rights to the translation by Evangeline Walton, and has periodically worked on an adaptation for various media.
+
+
+== See also ==
+Medieval Welsh literature
+Three paintings by Welsh artist Christopher Williams: Ceridwen (1910) and Branwen (1915) at the Glynn Vivian Art Gallery, and Blodeuwedd (1930) at the Newport Museum
+Mabinogion sheep problem
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+=== Translations and retellings ===
+Bollard, John K. (translator), and Anthony Griffiths (photographer). Tales of Arthur: Legend and Landscape of Wales. Gomer Press, Llandysul, 2010. ISBN 978-1-84851-112-5. (Contains "The History of Peredur or The Fortress of Wonders", "The Tale of the Countess of the Spring", and "The History of Geraint son of Erbin", with textual notes.)
+Bollard, John K. (translator), and Anthony Griffiths (photographer). Companion Tales to The Mabinogi: Legend and Landscape of Wales. Gomer Press, Llandysul, 2007. ISBN 1-84323-825-X. (Contains "How Culhwch Got Olwen", "The Dream of Maxen Wledig", "The Story of Lludd and Llefelys", and "The Dream of Rhonabwy", with textual notes.)
+Bollard, John K. (translator), and Anthony Griffiths (photographer). The Mabinogi: Legend and Landscape of Wales. Gomer Press, Llandysul, 2006. ISBN 1-84323-348-7. (Contains the Four Branches, with textual notes.)
+Brown, Matt, and Williams, Eloise. The Mab. Unbound, 2022. ISBN 1-800-18115-9, 978-1-8001-8115-1.
+Caldecott, Moyra (retold by), and Lynette Gussman (illustrator). Three Celtic Tales. Bladud Books, Bath, 2002. ISBN 1-84319-548-8. (Contains "The Twins of the Tylwyth Teg", "Taliesin and Avagddu" and "Bran, Branwen and Evnissyen")
+Davies, Sioned. The Mabinogion. Oxford World's Classics, 2007. ISBN 1-4068-0509-2. (Omits "Taliesin". Has extensive notes.)
+Ellis, T. P., and John Lloyd. The Mabinogion: a New Translation. Oxford: Oxford University Press, 1929. (Omits "Taliesin"; only English translation to list manuscript variants.)
+Ford, Patrick K. The Mabinogi and Other Medieval Welsh Tales. Berkeley: University of California Press, 1977. ISBN 0-520-03414-7. (Includes "Taliesin" but omits  "The Dream of Rhonabwy", "The Dream of Macsen Wledig" and the three Arthurian romances.)
+Gantz, Jeffrey. Trans. The Mabinogion. London and New York: Penguin Books, 1976. ISBN 0-14-044322-3. (Omits "Taliesin".)
+Guest, Lady Charlotte. The Mabinogion. Dover Publications, 1997. ISBN 0-486-29541-9. (Guest omits passages which only a Victorian would find at all risqué. This particular edition omits all Guest's notes.)
+Jones, Gwyn and Jones, Thomas. The Mabinogion. Golden Cockerel Press, 1948. (Omits "Taliesin".)
+Everyman's Library edition, 1949; revised in 1989, 1991.
+Jones, George (Ed), 1993 edition, Everyman S, ISBN 0-460-87297-4.
+2001 Edition, (Preface by John Updike), ISBN 0-375-41175-5.
+Knill, Stanley. The Mabinogion Brought To Life. Capel-y-ffin Publishing, 2013. ISBN 978-1-4895-1528-5. (Omits Taliesin. A retelling with General Explanatory Notes.) Presented as prose but comprising 10,000+ lines of hidden decasyllabic verse.
+
+
+=== Welsh text and editions ===
+Branwen Uerch Lyr. Ed. Derick S. Thomson. Medieval and Modern Welsh Series Vol. II. Dublin: Dublin Institute for Advanced Studies, 1976. ISBN 1-85500-059-8
+Breuddwyd Maxen. Ed. Ifor Williams. Bangor: Jarvis & Foster, 1920.
+Breudwyt Maxen Wledig. Ed. Brynley F. Roberts. Medieval and Modern Welsh Series Vol. XI. Dublin: Dublin Institute for Advanced Studies, 2005.
+Breudwyt Ronabwy. Ed. Melville Richards. Cardiff: University of Wales Press, 1948.
+Culhwch and Olwen: An Edition and Study of the Oldest Arthurian Tale.  Rachel, Bromwich and D. Simon Evans. Eds. and trans. Aberystwyth: University of Wales, 1988; Second edition, 1992.
+Cyfranc Lludd a Llefelys. Ed. Brynley F. Roberts. Medieval and Modern Welsh Series Vol. VII. Dublin: Dublin Institute for Advanced Studies, 1975.
+Historia Peredur vab Efrawc. Ed. Glenys Witchard Goetinck. Cardiff: University of Wales Press. 1976.
+Llyfr Gwyn Rhydderch. Ed. J. Gwenogvryn Evans. Cardiff: University of Wales Press, 1973.
+Math Uab Mathonwy. Ed. Ian Hughes. Aberystwyth: Prifysgol Cymru, 2000.
+Owein or Chwedyl Iarlles y Ffynnawn. Ed. R.L. Thomson. Dublin: Dublin Institute for Advanced Studies, 1986.
+Pedeir Keinc y Mabinogi. Ed. Ifor Williams. Cardiff: University of Wales Press, 1951. ISBN 0-7083-1407-4
+Pwyll Pendeuic Dyuet. Ed. R. L. Thomson. Medieval and Modern Welsh Series Vol. I. Dublin: Dublin Institute for Advanced Studies, 1986. ISBN 1-85500-051-2
+Ystorya Gereint uab Erbin. Ed. R. L. Thomson. Medieval and Modern Welsh Series Vol. X. Dublin: Dublin Institute for Advanced Studies, 1997.
+Ystoria Taliesin. Ed. Patrick K. Ford. Cardiff: University of Wales Press, 1992. ISBN 0-7083-1092-3
+
+
+=== Secondary sources ===
+Breeze, A. C. The Origins of the "Four Branches of the Mabinogi". Leominster: Gracewing Publishing, Ltd., 2009. ISBN 0-8524-4553-9
+Charles-Edwards, T.M. "The Date of the Four Branches of the Mabinogi" Transactions of the Honourable Society of Cymmrodorion (1970): 263–298.
+Ford, Patrick K. "Prolegomena to a Reading of the Mabinogi: 'Pwyll' and 'Manawydan.'" Studia Celtica 16/17 (1981–82): 110–125.
+Ford, Patrick K. "Branwen: A Study of the Celtic Affinities", Studia Celtica 22/23 (1987/1988): 29–35.
+Hamp, Eric P. "Mabinogi". Transactions of the Honourable Society of Cymmrodorion (1974–1975): 243–249.
+Parker, Will (2005). The Four Branches of the Mabinogi. Oregon House, CA: Bardic Press. ISBN 978-0974566757.
+Sims-Williams, Patrick. "The Submission of Irish Kings in Fact and Fiction: Henry II, Bendigeidfran, and the dating of the Four Branches of the Mabinogi", Cambridge Medieval Celtic Studies, 22 (Winter 1991): 31–61.
+Sullivan, C. W. III (editor). The Mabinogi, A Books of Essays. New York: Garland Publishing, Inc., 1996. ISBN 0-8153-1482-5
+ This article incorporates text from a publication now in the public domain: Herbermann, Charles, ed. (1913). "Mabinogion". Catholic Encyclopedia. New York: Robert Appleton Company.
+
+
+== External links ==
+
+The Guest translation can be found with all original notes and illustrations at:
+
+The Mabinogion - From the Llyfr Coch o Hergest, and other ancient Welsh manuscripts, with an English translation and notes (1st version; 1838 and 1845)
+Sacred Texts: The Mabinogion
+The original Welsh texts can be found at:
+
+Mabinogion (an 1887 edition at the Internet Archive; contains all the stories except the "Tale of Taliesin")
+Mabinogion (Contains only the four branches reproduced, with textual variants, from Ifor Williams' edition.)
+Pwyll Pendeuic Dyuet
+Branwen uerch Lyr
+Manawydan uab Llyr
+Versions without the notes, presumably mostly from the Project Gutenberg edition, can be found on numerous sites, including:
+
+Project Gutenberg Edition of The Mabinogion (From the 1849 edition of Guest's translation)
+The Arthurian Pages: The Mabinogion
+Branwaedd: Mabinogion
+Timeless Myths: Mabinogion Archived 2021-04-27 at the Wayback Machine
+ The Mabinogion public domain audiobook at LibriVox
+A discussion of the words Mabinogi and Mabinogion can be found at
+
+Mabinogi and "Mabinogion"
+A discussion of places mentioned
+A theory on authorship can be found at
+
+Is this Welsh princess the first British woman author?

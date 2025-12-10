@@ -1,0 +1,48 @@
+The Oeconomicus (Ancient Greek: Οἰκονομικός) by Xenophon is a Socratic dialogue principally about household management and agriculture.
+Oeconomicus comes from the Ancient Greek words oikos for home or house and nemein which means management, literally translated to 'household management'. It is one of the earliest works on economics in its original sense of household management, and a significant source for the social and intellectual history of Classical Athens. Some philologues see the work as the source of the word "economy". Beyond the emphasis on household economics, the dialogue treats such topics as the qualities and relationships of men and women, rural vs. urban life, slavery, religion, and education. Xenophon explores gentlemanliness, husbandry, and gender roles, through Socrates' conversations about wealth and, more specifically, household management.
+Joseph Epstein states that the Oeconomicus can actually be seen as a treatise on success in leading both an army and a state. Scholars lean towards a relatively late date in Xenophon's life for the composition of the Oeconomicus, perhaps after 362 BC. Cicero translated the Oeconomicus into Latin, and the work gained popularity during the Renaissance in a number of translations.
+
+
+== Summary ==
+The opening framing dialogue is between Socrates and Critoboulus, the son of Crito. There, Socrates discusses the meaning of wealth and identifies it with usefulness and well-being, not merely possessions. He links moderation and hard work to success in household management. The dramatic date of this part of the work can be no earlier than 401 BC, as the Battle of Cunaxa is referred to at 4.18. In his conversation with Critoboulus, Socrates explains the value of property to each man and how some men value certain possessions more than others. Socrates uses flutes as an example:Then although they are the same, they are property to him who knows how to use each of them, but to him who does not know, they are no property; as for instance flutes are property to one who knows how to play tolerably well, but to one who does not know are nothing more than useless pebbles, unless indeed he should sell them (Trans. by B.J. Hayes, 1.10)Critoboulus claims that a man’s wealth consists of things that benefit, while the things that do not benefit and injure him are not part of his wealth. Continuing with the flute analogy, he concludes that as possessions, they are worthless, but if sold, they become part of the man’s wealth. Socrates and Critoboulus go on to use money as an example. If a man does not know how to use something, it is therefore not his property. With money, if a man does not know how to use it then he should not consider it as his property. Socrates makes the argument that a man's assets are not property unless he learns to use them diligently and wisely. This relates back to his points about effectively managing a household and leads him to talk about his conversation with Ischomachus.
+When Critoboulus asks about the practices involved in household management, Socrates pleads ignorance on the subject but relates what he heard of it from an Athenian gentleman-farmer (kaloskagathos) named Ischomachus. In the discussion related by Socrates, Ischomachus describes the methods he used to educate his wife in housekeeping, their practices in ruling and training slaves, and the technology involved in farming. Approximately two thirds of the dialogue concerns the discussion between Socrates and Ischomachus. There is no final reversion to further discussion with Critoboulos.
+
+
+== Commentary and interpretation ==
+Leo Strauss wrote a political-philosophical commentary on the dialogue. He took the Oeconomicus as a more ironic examination of the nature of the gentleman, virtue, and domestic relationships. Michel Foucault devoted a chapter in his The History of Sexuality (1976–1984) to "Ischomachus' Household". He took Xenophon's depiction of the relationship between Ischomachus and his wife as a classical expression of the ancient Greek ideology of power, according to which a man's control of his emotions was externally reflected in his control of his wife, his slaves, and his political subordinates.
+Following Foucault, feminist scholars and social historians such as Sarah Pomeroy have explored the Oeconomicus as a source for Greek attitudes to the relationship between men and women, but successive interpretations have differed. Some see Xenophon's attitude toward women as misogynist and patriarchal, while others maintain that he was a proto-feminist in certain ways.
+Some have taken Xenophon's use of Ischomachus as a supposed expert in the education of a wife as an instance of anachronistic irony, a device used by Plato in his Socratic dialogues. This ironic line of interpretation sees Ischomachus as a target of satire rather than a stand-in for Xenophon. Some have suggested that the Ischomachus of the dialogue is the same man whose family became the subject of ridicule in Athenian political oratory. After this Ischomachus died, his widow moved in with her daughter and son-in-law Callias and soon became pregnant with the man's child, which eventually led to the daughter's suicide attempt. Callias was frequently parodied in Athenian comedies for his sexual excesses and pseudo-intellectualism.
+The import of such irony has also been the subject of much contention: are his wife's actions a sign of a bad education or just the inevitable result of the loss of the controlling influence in her life? How responsible was Ischomachus for his daughter's marriage to a man of such poor character?
+
+
+== Gender roles and social change in Oeconomicus ==
+According to Sarah Pomeroy, the change from the fifth to fourth century largely was the shift from communal concerns to self-interested concerns. This general societal acceptance of the importance of the domestic sphere is represented in Oeconomicus' examination of marital relationships and household management. In Pomeroy's commentary, she argues that Xenophon views a wife as more than just a means of reproduction. This is contrary to misogynistic Athenian ideals of marriage where once a wife birthed the necessary number of children, she was essentially viewed as a consumer. In Oeconomicus, Ischomachus incorporates his wife into household management as soon as they are married and even relies on her to run the household. He does not hide away assets he sees as property, rather he shares them with her. He sees his marriage as a give-and-take relationship, where both he and his wife share equal parts in its success.
+
+
+== Manuscripts ==
+Papyrus Oxyrhynchus 227
+
+
+== See also ==
+Ancient economic thought
+
+
+== Notes ==
+
+
+== References ==
+Danzig, Gabriel (2003). "Why Socrates was Not a Farmer: Xenophon's Oeconomicus as a Philosophical Dialogue". Greece & Rome. 50 (1). Cambridge University Press: 57–76. ISSN 0017-3835. JSTOR 3567820. Retrieved 31 August 2025.
+Conversations of Socrates by Xenophon, edited by Robin H. Waterfield, Penguin Classics 1990 ISBN 0-14-044517-X
+Strauss, Leo, Xenophon's Socratic Discourse: An Interpretation of the "Oeconomicus", Ithaca: Cornell University Press, 1970 ISBN 1-890318-96-5
+Henry W. Spiegel (1987). "Xenophon," The New Palgrave: A Dictionary of Economics, v. 4, pp. 935–36.
+Xenophon, The Shorter Socratic Writings: "Apology of Socrates to the Jury", "Oeconomicus", and "Symposium," trans. and with interpretive essays by Robert C. Bartlett, with Thomas Pangle and Wayne Ambler, Ithaca: Cornell University Press, The Agora Editions, 1996 ISBN 0-8014-7298-9
+Williams, Brock R (2008). "An ecoconomist looks at Xenophon's Oeconomicus". The Classical Outlook. 85 (3): 102–105. JSTOR 43939810.
+Too, Yun Lee (1995). "Oeconomicus". The Classical Review. 45 (2): 246–248. doi:10.1017/S0009840X00293554. JSTOR 712370. S2CID 246881226.
+
+
+== External links ==
+ Works related to Oeconomicus at Wikisource
+Translation of the Oeconomicus by H.G. Dakyns at Project Gutenberg
+Review of a recent edition of the Oeconomicus
+Note on the ironic interpretation of the Oeconomicus Archived 2009-06-20 at the Wayback Machine
+Commentary on the Greek text by A H N_Sewell

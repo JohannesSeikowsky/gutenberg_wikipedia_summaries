@@ -1,0 +1,51 @@
+"The Awful German Language" is an 1880 essay by Mark Twain published as Appendix D in A Tramp Abroad.  The essay is a humorous exploration of the frustrations a native speaker of English has with learning German as a second language.
+
+
+== Background ==
+Twain made his first unsuccessful attempt to learn German in 1850 at age fifteen. He resumed his study 28 years later in preparation for a trip to Europe. Upon his arrival in Germany, the fruit of his recent scholarship was attested to in the advice of a friend: "Speak in German, Mark. Some of these people may understand English." During this 1878 stay in Germany, Twain had a dream in which, according to his notebook, "all bad foreigners went to German Heaven—couldn't talk and wished they had gone to the other place."
+"The Awful German Language" was published in the second volume of Twain's A Tramp Abroad, 1880, as appendix D. Gunnar Magnusson describes the work as "Twain's most famous philological essay".
+On October 31, 1897, Twain delivered a German-language lecture titled "Die Schrecken der deutschen Sprache"  ("The Horrors of the German Language" in English) to the Concordia Festkneipe in Vienna (the Vienna Press Club). Twain continued to give lectures into the 20th century regarding the language.
+
+
+== Text ==
+
+Twain describes his exasperation with German grammar in a series of eight humorous examples that include separable verbs, adjective declension, and compound words. He is, as the subject suggests, focusing on German as a language, but Twain is also dealing with English to compare the two languages. This allows for an analysis in linguistic weight assigned to various typological and stylistic aspects of language which revolve around the difference between an analytic language like English with a language like German that is a synthetic language with some analytic characteristics. Twain emphasizes these changes through interlinear translation, a manner of translation which tries to preserve the original language without context and in a literal manner, and this method emphasizes the mechanics of the language translated.
+
+
+=== Morphology ===
+The German language contains a complex system of inflection that is capable of frustrating learners in a manner similar to Twain's argument:
+
+Surely there is not another language that is so slipshod and systemless, and so slippery and elusive to the grasp. One is washed about in it, hither and thither, in the most helpless way; and when at last he thinks he has captured a rule which offers firm ground to take a rest on amid the general rage and turmoil of the ten parts of speech, he turns over the page and reads, "Let the pupil make careful note of the following exceptions." He runs his eye down and finds that there are more exceptions to the rule than instances of it.
+The inflections within the language are used to represent both syntax and semantics, and function is assigned in hard-to-grasp ways, which combine with Twain's claim about exceptions being rather common in the German language. Part of this stems from the language's word order, along with gender, number, and other linguistic aspects, being connected to the morphology of individual words.
+
+
+=== Gender ===
+One of the key emphases within the work is on German linguistic gender. Twain plays with the differences in natural or sexual gender and linguistic or grammatical gender by pointing out that the German for "girl" is grammatically neuter, unlike many sexless items such as turnips: 
+
+Every noun has a gender, and there is no sense or system in distribution; so the gender of each must be learned separately and by heart. There is no other way. To do this one has to have a memory like a memorandum-book. In German, a young lady has no sex, while a turnip has. Think what overwrought reverence that shows for the turnip, and what callous disrespect for the girl.
+The problem with the linguistic gender is that it appears to make sense in theory, but it operates in an illogical manner. The actual relationship between gender and noun is unclear, and it is difficult for a learner of German to psychologically connect their understanding of the words with the gender rules. To Twain, there was no reason for concepts such as a fish's scale having a feminine gender but a fishwife, an actual female, lacking any. When Twain translates the "Tale of the Fishwife and its Sad Fate", he expresses feelings of anger that result from his attempt to learn the language:
+
+It is a bleak Day. Hear the Rain, how he pours, and the Hail, how he rattles; and see the Snow, how he drifts along, and oh the Mud, how deep he is! Ah the poor Fishwife, it is stuck fast in the Mire; it has dropped its Basket of Fishes; and its Hands have been cut by the Scales as it seized some of the falling Creatures; and one Scale has even got into its Eye. And it cannot get her out. It opens its Mouth to cry for Help; but if any Sound comes out of him, alas he is drowned by the raging of the Storm.
+German is not special in this manner, but, as the linguist Guy Deutscher observes, it was simply the language that Twain was learning at the time of the work. Many other languages contain some or all of the idiosyncrasies that Twain mocks, including French, Russian, and Latin.
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+Anderman, Gunilla and Rogers, Margaret. Translation Today. Clevedon: Multilingual Matters, 2003.
+Deutscher, Guy. The Unfolding of Language. New York: Metropolitan Books, 2005.
+Housen, Alex and Pierrand, M. Investigations in Instructed Second Language Acquisition. New York: Mouton de Gruyter, 2005.
+LeMaster, J. R., Wilson, James. The Mark Twain Encyclopedia. New York: Garland, 1993.
+Potsdam Public Museum (Potsdam, N.Y.) (2004). Images of America: Potsdam. Arcadia Publishing. ISBN 978-0-7385-3650-7. Retrieved 2009-07-16.
+Romaine, Suzanne. Communicating Gender. Mahwah: Erlbaum, 1999.
+Schmid, Monika. First Language Attrition, Use and Maintenance. Philadelphia: Benjamins, 2002.
+
+
+== External links ==
+
+ The Awful German Language public domain audiobook at LibriVox
+1897 German version,  "Die Schrecken der deutschen Sprache", included in brochure published by U.S. Embassy, Berlin, Germany at The Awful German Language. 2010. Retrieved 2016-09-16.

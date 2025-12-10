@@ -1,0 +1,50 @@
+The Three Strategies of Huang Shigong is a treatise on military strategy that was historically associated with the Taoist hermit Huang Shigong and Han dynasty general Zhang Liang. Huang Shigong gave this treatise to Zhang Liang, that allowed Zhang to transform into an adept statesman and powerful war theorist. The treatise's literal name is "the Three Strategies of the Duke of Yellow Rock", based on the traditional account of the book's transmission to Zhang. Modern scholars note the similarity between its philosophy and the philosophy of Huang-Lao Daoism. It is one of China's Seven Military Classics.
+
+
+== Content ==
+As its title would suggest, the Three Strategies of Huang Shigong is organized into three sections, which can be interpreted as a hierarchy of importance or as simple indicators of position in the work.  The work itself states that all three types of strategy are necessary for different styles of government.  Much of the work is concerned with administrative control, but some important tactical concepts are also developed.  Generals are placed in a high position, and must be unquestioned once they assume command.  Attacks should be swift and decisive.
+There are three points that have to be mastered:
+
+Alternate hard and soft approaches.  This means a leader must be both benevolent and awe-inspiring according to what is appropriate.  This links to the second principle:
+Act according to the actual circumstances. Avoid responses which are based on imagination, memory of the past, or habits acquired in other circumstances.  You must rely only on observation and perception and be willing to modify plans at any time.
+Employ only the capable.  This requires an accurate insight into others.
+Each of these principles has deep and various implications.
+
+
+=== Philosophical and Administrative Focus ===
+Many of the themes and ideas present in the Three Strategies are similar to those found in the other Seven Military Classics.  The text contains almost no direct emphasis on battlefield strategy and tactics, instead focusing on logistical concerns: "concepts of government, the administration of forces; the unification of the people; the characteristics of a capable general; methods of nurturing a sound material foundation; motivation of subordinates and the soldiers; implementing rewards and punishments"; and, how to foster majesty via the balance between hard and soft administrative practices.
+Philosophically, the book is a synthesis of Confucian, Legalist, and Daoist ideas. Confucian concepts present in the text include an emphasis on the importance of the commander's cultivation of benevolence (仁) and righteousness (義), humanitarian government via the promotion of the welfare of the people, rule by Virtue (德), and promotion of the Worthy (賢人). Legalist concepts present in the text include an emphasis on strengthening the state, the implementation of rewards and punishments through the strict and impartial enforcement of the law, and the assumption that power is best concentrated in a single, majestic sovereign. The book's general Daoist perspective is recognized by its emphasis on a passive, harmonious social ideal, the ideal of achieving victory without contending, the importance of preserving life, the importance of Dao and De, and the fundamental evilness of warfare. This Daoist perspective pervades the book, but is modified to reflect the complicated realities associated with involvement in politics and warfare. The text asserts that aspects of all three theories are useful for achieving good government.
+
+
+=== Military Theory ===
+The sections of the Three Strategies which directly discuss military strategy and tactics emphasize quality generalship, swiftness, authority, the integration and balance of available forces, and the relationship between hard and soft tactics.  The text supports the view that, once a general assumes command, his authority must be absolute. The commander must be emotionally controlled and never display doubt or indecision. He should be receptive to advice and constructive criticism, but his decisions must ultimately be unquestioned.
+The text agrees with Sun Tzu's Art of War, arguing that speed must be emphasized in military engagements, and that long, indecisive wars of attrition must be avoided.  Secrecy, unity, and righteousness must characterize the commander's decisions. Public doubts, internal dissention, divination, or anything else that would slow an army or weaken its collective commitment must never be permitted.
+The general must cultivate his sense of awesomeness by rigorously, severely, and systematically employing a well-known, public system of rewards and punishments.  It is only when such a system is unquestioned that the commander's awesomeness and majesty will be established. Without a  system of rewards and punishments, the commander will lose the allegiance of his men, and his orders will be publicly ignored and disparaged.
+The author confirms the Daoist belief that the soft and weak can overcome the hard and strong, and extends this belief to military strategy and  tactics. The Three Strategies teaches that an army must adopt a low, passive posture when not directly engaged in action, to prevent becoming brittle, exposed, and easily overcome. The text assumes that the employment of both hard and soft tactics must be used by a successful army, to achieve the desired levels of unpredictability and flexible deployment.
+
+
+== History and authorship ==
+Like the Six Secret Teachings, the Three Strategies is commonly attributed to Jiang Ziya, also known as "the Taigong".  However, four other theories on the origins of the work have been put forth.  The first is that the text was actually written and compiled by later followers of the Taigong, rather than by the man himself.  Another theory is that the man reported to have given the text to Zhang Liang, Huang Shigong, may himself have written the text.  Conservative classical scholars have declared the book a forgery.  The final view is that the text was written around the end of the Former Han dynasty by a reclusive follower of the Huang-Lao school of thought. Because of the absence of archaeological evidence, there is no consensus among scholars as to which of these theories is correct.
+
+
+=== Traditional Perspective ===
+The Three Strategies achieved its place in the canon of Chinese military writings through its historical relationship with the early Han general Zhang Liang. Its sudden, semi-legendary appearance is typical of many historical accounts from that period.  According to the Shiji, while Zhang was living as a fugitive after his failed assassination of Qin Shihuang (in 218 BC), he met a nondescript old man who recognized him while they were both strolling across a bridge.  The old man tested his virtue several times before finally providing him with the Three Strategies and identifying himself with a yellow rock at the foot of Mount Gucheng (giving the treatise its received name, "Huang Shigong", meaning "Duke of Yellow Rock"). According to the Shiji, Zhang Liang then studied the Three Strategies and used its teachings to assist him in his future military accomplishments. A somewhat tenuous source from the Song dynasty claims that Zhang ordered that the Three Strategies be entombed with him upon his death to prevent its transmission to the unworthy, and that the work was only rediscovered in the Jin dynasty by grave robbers.
+Scholars who believe the traditional account of the Three Strategies' transmission trace its origins directly back to the Taigong, assuming that it was written after the Six Secret Teachings, after Jiang Ziya was enfeoffed as Duke of Qi. This theory assumes that the old man who gave the book to Zhang must have been a descendant of Jiang and/or a retired scholar of the recently conquered state of Qi. His action of giving the book to a young fugitive known to have attempted the assassination of Qi's conqueror is explained as an understandable and appropriate gesture.
+
+
+=== Alternative Perspectives ===
+An alternative interpretation to the traditional theory is that the work was the product of the Taigong's disciples, growing and evolving around a core of material dating from antiquity until finally being compiled and revised shortly before Qi's conquest by Qin, in 221 BC.  A third theory is that, rather than having anything to do with the Taigong, Huang Shigong simply wrote the work himself shortly before giving it to Zhang Liang. Supposedly, this accounts for the book's nominal early-Han dynasty Daoist perspective.  Another theory, historically identified with conservative literati in late Chinese history, is that the work is a forgery dating from the Wei-Jin period (or later). Typical condemnations by scholars associated with this theory are that the work's Daoist perspective is "empty", that its content is "brutal", and that its language is "rustic".
+
+
+=== Most Probable Perspective? ===
+A final theory holds that the Three Strategies dates from the late Western Han dynasty (206 BC – 9 AD), around the year 1 AD, and that it is a product of the now-extinct Huang-Lao school of Daoism.  This theory assumes that the work transmitted to Zhang Liang was not the present Three Strategies, but was actually the Six Secret Teachings.  (The work presently known as the Three Strategies of Huang Shigong was supposedly known as the Records of Huang Shigong until the Sui dynasty, accounting for this confusion).  According to this theory, the late composition date accounts for the numerous references to political circumstances (powerful families usurping power; government affairs in an age of peace; and, philosophical syncretism organized around Huang-Lao concepts) and the advanced use of characters found in the text. In the absence of contrary archaeological evidence, many modern scholars consider this final theory to be the most probable.
+
+
+== See also ==
+Qin dynasty
+State of Qi
+Jiang Ziya
+Lingqijing
+
+
+== References ==

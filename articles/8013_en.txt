@@ -1,0 +1,144 @@
+1 Chronicles 13 is the thirteenth chapter of the Books of Chronicles in the Hebrew Bible or the First Book of Chronicles in the Old Testament of the Christian Bible. The book is compiled from older sources by an unknown person or group, designated by modern scholars as "the Chronicler", and had the final shape established in late fifth or fourth century BCE. This chapter contains the account of an unsuccessful attempt to bring the Ark of the Covenant to Jerusalem by David. The whole chapter belongs to the section focusing on the kingship of David (1 Chronicles 9:35 to 29:30).
+
+
+== Text ==
+This chapter was originally written in the Hebrew language. It is divided into 14 verses. 
+
+
+=== Textual witnesses ===
+Some early manuscripts containing the text of this chapter in Hebrew are of the Masoretic Text tradition, which includes the Aleppo Codex (10th century), and Codex Leningradensis (1008).
+There is also a translation into Koine Greek known as the Septuagint, made in the last few centuries BCE. Extant ancient manuscripts of the Septuagint version include Codex Vaticanus (B; 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {G}}}
+  
+B; 4th century), Codex Sinaiticus (S; BHK: 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {G}}}
+  
+S; 4th century), Codex Alexandrinus (A; 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {G}}}
+  
+A; 5th century) and Codex Marchalianus (Q; 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {G}}}
+  
+Q; 6th century).
+
+
+=== Old Testament references ===
+1 Chronicles 13:1–7: 2 Samuel 6:1–4.
+1 Chronicles 13:8–14: 2 Samuel 6:5–11.
+
+
+== The ark brought from Kiriath-Jearim (13:1–4) ==
+Verses 1–4 detail the preparations by David involving all Israel in the first attempt to bring the ark into Jerusalem, more than the parallel account in 2 Samuel 6:1–2. The ark is a national symbol of Israel's religion and important for David as he had been firmly and unanimously established as the king of all Israel. Consistent with the earlier chapters, David consulted his military leaders and then the whole congregation (verse 2) to achieve two conditions for the execution of the effort: the willingness of the participants and God's acceptance of the plan. It was later revealed that the plan lacked God's acceptance, as it was done without the significant collaboration of the priests and Levites. 
+
+
+=== Verse 2 ===
+And David said to all the assembly of Israel, "If it seems good to you, and if it is of the Lord our God, let us send out to our brethren everywhere who are left in all the land of Israel, and with them to the priests and Levites who are in their cities and their common-lands, that they may gather together to us;"
+"Sent out... everywhere": from Hebrew: נפרצה נשלחה, nip̄-rə-tzāh nish-lə-khāh, with the first component ("to send out" or "to break out", perez) is repeated later in this chapter (three times in verse 11 including "Perez-uzza") and also plays an important role elsewhere in 1 Chronicles (14:11; 15:13).
+The priests and Levites lived within the territories of Israel's tribes (1 Chronicles 6:54–81).
+
+
+== Uzza and the ark (13:5–14) ==
+
+Verses 5–14 follows closely to the report in 2 Samuel 6:3–11 (without verse 12). The boundaries of Israel were expanded in Chronicles from the usual phrase "from Beersheba to Dan" to be between "the Shihor river in Egypt and Lebo-hamath"; the area achieved after David's spectacular victories (2 Chronicles 7:8; cf. Joshua 13:3, 5 although the extended regions were not conquered in the time of Joshua). 
+
+
+=== Verse 5 ===
+So David gathered all Israel together, from Shihor in Egypt to as far as the entrance of Hamath, to bring the ark of God from Kirjath Jearim.
+"Shihor in Egypt" (Hebrew: שיחור מצרים, shî-khōr mish-ra-yim), the southern border, is not the Nile, but is the brook of Egypt, eastward from the Nile, also called the "Rhinocorura", now "el Arish". "Shihor" is written as שׁחר in Isaiah 23:3 and שחור in Jeremiah 2:18.
+"The entrance of Hamath" (Hebrew: לבוא חמת, lə-ḇōw khă-māṯ): the northern boundary of the land of Israel as mentioned multiple times in the Hebrew Bible (Numbers 13:21; Joshua 13:5; Judges 3:3; 1 Kings 8:65; 2 Kings 14:25; 1 Chronicles 13:5; 2 Chronicles 7:8; Amos 6:14; Ezekiel 47:15, Ezekiel 47:20; Ezekiel 48:1). "Hamath" is now "Hama" or "Hamah" in west-central Syria (35°08′N 36°45′E), known as "Epiphania" by the Greeks and Romans or "Amathe" by Josephus, located on the Orontes river (cf. Numbers 13:21; Genesis 10:18). However, the term "entrance of Hamath" ("the approach to Hamath" or "the entering in of the district of Hamath") does not refer to the city, but to the kingdom of Hamath, which was named after its capital (2 Chronicles 8:4: Solomon built store cities "in Hamath"), as the city of Hamath never belonged to the kingdom of Israel, nor known to be a border city of Israel, so the term refers only to the southern border of the kingdom of Hamath.
+
+
+=== Verse 6 ===
+And David and all Israel went up to Baalah, to Kirjath Jearim, which belonged to Judah, to bring up from there the ark of God the Lord, who dwells between the cherubim, where His name is proclaimed.
+"Baalah": or "Baale Judah" in 2 Samuel 6:2. The identification as Kiriath-jearim stems from Joshua 15:9.
+
+
+=== Verse 9 ===
+And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.
+"Chidon" (Hebrew: כידן, kî-ḏōn): written as "Nachon" נָכ֑וֹן in 2 Samuel 6:6.
+"Stumbled": or "let it go off"
+
+
+=== Verse 11 ===
+And David was displeased, because the Lord had made a breach upon Uzza: wherefore that place is called Perezuzza to this day.
+"Perez-uzza": from Hebrew פרץ עזא meaning "the bursting out against Uzza", written as "Perez uzzah" (פרץ עזה) in 2 Samuel 6:8. The same verb "perez" is used three times in this verse and also in 1 Chronicles 14:11 and 15:13 (cf. Exodus 19:22).
+
+
+=== Verse 13 ===
+So David would not move the ark with him into the City of David, but took it aside into the house of Obed-Edom the Gittite.
+"Obed-Edom the Gittite" indicates that he is a Philistine. The word 'Gittite' is omitted in 1 Chronicles 15:25.
+"The City of David": refers to a section in southern Jerusalem fortified by David and named after him (1 Chronicles 11:7), also may refer to "Mount Zion"..
+
+
+=== Verse 14 ===
+And the ark of God remained with the household of Obed-edom in his house three months. And the Lord blessed the household of Obed-edom and all that he had.
+"Three months": the period of the ark's stay with Obed-edom is filled in with the account of David's victories over the Philistines (chapter 14) replacing the information in 2 Samuel 6:12 that David is overjoyed to hear the blessing of the ark's presence in Obed-edom's home that he arranged for the subsequent transportation to the city of David.
+
+
+== See also ==
+
+Related Bible parts: Numbers 34, 2 Samuel 6, 1 Chronicles 11, 1 Chronicles 14, 1 Chronicles 15
+
+
+== References ==
+
+
+== Sources ==
+Ackroyd, Peter R (1993). "Chronicles, Books of". In Metzger, Bruce M; Coogan, Michael D (eds.). The Oxford Companion to the Bible. Oxford University Press. pp. 113–116. ISBN 978-0195046458.
+Bennett, William (2018). The Expositor's Bible: The Books of Chronicles. Litres. ISBN 978-5040825196.
+Coogan, Michael David (2007). Coogan, Michael David; Brettler, Marc Zvi; Newsom, Carol Ann; Perkins, Pheme (eds.). The New Oxford Annotated Bible with the Apocryphal/Deuterocanonical Books: New Revised Standard Version, Issue 48 (Augmented 3rd ed.). Oxford University Press. ISBN 9780195288810.
+Endres, John C. (2012). First and Second Chronicles. Liturgical Press. ISBN 9780814628447.
+Hill, Andrew E. (2003). First and Second Chronicles. Zondervan. ISBN 9780310206101.
+Mabie, Frederick (2017). "I. The Chronicler's Genealogical Survey of All Israel". In Longman III, Tremper; Garland, David E (eds.). 1 and 2 Chronicles. The Expositor's Bible Commentary. Zondervan. pp. 267–308. ISBN 978-0310531814. Retrieved December 6, 2019.
+Mathys, H. P. (2007). "14. 1 and 2 Chronicles". In Barton, John; Muddiman, John (eds.). The Oxford Bible Commentary (first (paperback) ed.). Oxford University Press. pp. 267–308. ISBN 978-0199277186. Retrieved February 6, 2019.
+Robinson, George L. (1908). "The Entrance of Hamath". The Biblical World. 32 (1): 7–18. doi:10.1086/474068. JSTOR 3141701. Retrieved February 24, 2021.
+Tuell, Steven S. (2012). First and Second Chronicles. Westminster John Knox Press. ISBN 978-0664238650. Retrieved December 30, 2020.
+Würthwein, Ernst (1995). The Text of the Old Testament. Translated by Rhodes, Erroll F. Grand Rapids, MI: William B. Eerdmans. ISBN 0-8028-0788-7. Retrieved January 26, 2019.
+
+
+== External links ==
+Jewish translations:
+Divrei Hayamim I - I Chronicles - Chapter 13 (Judaica Press) translation [with Rashi's commentary] at Chabad.org
+Christian translations:
+Online Bible at GospelHall.org (ESV, KJV, Darby, American Standard Version, Bible in Basic English)
+First Book of Chronicles Chapter 13. Bible Gateway

@@ -1,0 +1,144 @@
+Die Wissenschaft der Logik ist das Hauptwerk des Philosophen Georg Wilhelm Friedrich Hegel (1770–1831), das zwischen 1812 und 1816 zuerst in Nürnberg erschien. Auf der Phänomenologie des Geistes aufbauend soll hier eine ontologisch-metaphysische Logik entwickelt werden, die an die antike Logos-Philosophie anschließt. Zugleich will sie Ontotheologie sein.
+Dieses Werk zählt zu den einflussreichsten philosophischen Schriften der Neuzeit, die unter anderem im Neomarxismus der Frankfurter Schule, der philosophischen Hermeneutik und dem dialektischen Materialismus eine Rolle spielen. Viele Philosophen setzten sich – bis in die Gegenwart – intensiv mit ihren Inhalten auseinander u. a. Søren Kierkegaard, Bruno Liebrucks oder Dieter Henrich.
+
+
+== Inhalt ==
+Hegel setzt in der Logik den in der Phänomenologie des Geistes gewonnenen „wissenschaftlichen Standpunkt“ voraus. Dieser hatte gezeigt, dass die logischen Bestimmungen (Kategorien), wie in der klassischen Metaphysik, weder als bloße Bestimmungen einer subjektunabhängigen Wirklichkeit aufgefasst werden können, noch als bloße Bestimmungen des Subjektes, wie etwa in der Philosophie Kants. Sie müssen vielmehr aus der Einheit von Subjekt und Objekt begriffen werden.
+Die Aufgabe der Logik ist es, das reine Denken in seiner spezifischen Bedeutung darzustellen. Sie soll die klassischen Disziplinen der Philosophie, Logik und Metaphysik, ersetzen, indem sie die beiden Programme, die Darstellung des reinen Denkens und die Idee des Absoluten, miteinander vereint.
+Die logischen Bestimmungen haben bei Hegel zugleich ontologischen Charakter: Sie sind nicht lediglich als Bewusstseinsinhalte, sondern zugleich als „das Innere der Welt“ zu verstehen.
+Hegels Anliegen ist es, eine systematische Herleitung der Kategorien durchzuführen und ihre Notwendigkeit darzulegen. Das entscheidende Mittel dafür stellt das Prinzip der Dialektik dar, das Hegel in der Natur logischen Bestimmens selbst begründet sieht. Daher ist er der Überzeugung, dass auf diese Weise sämtliche Kategorien „als ein System der Totalität“ vollständig herleitbar sind.
+Die Logik gliedert sich in eine „objektive Logik“ – die Lehre von Sein und Wesen – und eine „subjektive Logik“ – die Lehre vom Begriff.
+
+
+=== Lehre vom Sein ===
+
+Qualität
+Den Anfang der Logik muss für Hegel ein Begriff machen, der sich durch „reine Unmittelbarkeit“ auszeichnet. Dies wird im Begriff des Seins ausgedrückt, der keinerlei Bestimmungen aufweist. Doch der Verzicht auf jede weitere Differenzierung macht die Bestimmung „Sein“ völlig inhaltsleer. Somit ergibt sich für das Sein immerhin die Bestimmung des „Nichts und nicht mehr noch weniger als Nichts“. Nicht „weniger als Nichts“ heißt, dass dieses „Nichts“ immerhin eine Denkbestimmung, ein Gedachtes ist.
+Sein und Nichts „gehen“ daher ineinander „über“. Dieses „Übergehen“ beider ineinander stellt selbst eine neue Kategorie dar, das „Werden“. Im „Werden“ sind beide Bestimmungen, „Sein“ und „Nichts“, enthalten und zwar in ihrem wechselseitigen ineinander Übergehen.
+Wird nun ein durch diese Einheit des Werdens vermitteltes Sein gedacht, dann ergibt sich die Bestimmung des gewordenen Seins, des „Daseins“. Seine Genese verlangt aber, dass auch das „Nichts“ an ihm erkennbar ist. Nach dieser Seite hin zeigt sich das „Dasein“ als ein „Etwas“, das dem „Anderen“ gegenübersteht. Ein Etwas kann nur erfasst werden, wenn es von Anderem unterschieden wird – gemäß dem von Hegel zitierten Satz des Spinoza: „Omnis determinatio est negatio“ (Jede Bestimmung ist eine Verneinung).
+Jede Bestimmung ist eine Grenzziehung, wobei zu jeder Grenze auch etwas gehört, was jenseits von ihr vorhanden ist. Eine Grenze als solche zu denken heißt auch, das Grenzenlose zu denken. Ebenso ist mit dem Gedanken des „Endlichen“ der des „Unendlichen“ gegeben. Das Unendliche ist das „Andere“ des Endlichen, wie auch umgekehrt das Endliche das „Andere“ des Unendlichen ist.
+Doch für Hegel kann das Unendliche dem Endlichen nicht einfach gegenübergestellt werden. Das Unendliche würde sonst an das Endliche „grenzen“ und wäre damit selbst begrenzt und endlich. Das „wahrhaft Unendliche“ muss vielmehr so gedacht werden, dass es das Endliche mit umgreift, als die „Einheit des Endlichen und Unendlichen, die Einheit, die selbst das Unendliche ist, welches sich selbst und die Endlichkeit in sich begreift“.
+Hegel will diese Einheit nicht pantheistisch verstanden wissen, da es sich bei ihr um keine differenzlose Einheit handelt, sondern um eine solche, in der das Unendliche das Endliche durchaus bestehen lässt. Er nennt diese die „wahrhafte“ oder „affirmative Unendlichkeit“. Sie unterscheidet sich von der „schlechten Unendlichkeit“, die nur durch ein bloßes Weiterschreiten von Grenze zu Grenze in einem unendlichen Progress zustande kommt und der der Rückbezug durch das Jenseits der Grenze fehlt.
+Dieser Rückbezug charakterisiert auch das Endliche; er ist das Ergebnis seiner Vermittlung mit dem Unendlichen und macht das „Fürsichsein“ des Endlichen aus.
+Aus der Kategorie des „Fürsichseins“ entwickelt Hegel im weiteren Verlauf des Abschnitts über die „Qualität“ noch andere Bestimmungen. Wenn etwas „für sich“ ist, ist es „Eines“. Ist dieses „Eine“ vermittelt durch „Andere“, so sind diese ebenfalls jeweils als „Eines“ zu betrachten. Aus dem „Eins“ ergibt sich so die Pluralität von „Eins“. Sie unterscheiden sich voneinander, sind aber ebenso aufeinander bezogen, was Hegel als „Repulsion“ und „Attraktion“ bezeichnet. Ihre gleichförmige Pluralität führt zum Begriff der „Quantität“.
+
+Quantität
+Der entscheidende Unterschied der Quantität zur Qualität besteht darin, dass durch die Veränderung der Quantität die Identität dessen, was verändert wird, bestehen bleibt. Ein Ding bleibt, was es ist, egal ob es größer oder kleiner gemacht wird.
+Hegel unterscheidet zwischen der reinen, unbestimmten Quantität und der bestimmten Quantität (dem Quantum). So ist der Raum als solcher eine Instanz der reinen Quantität. Spricht man dagegen von einem bestimmten Raum, so ist er eine Instanz der bestimmten Quantität.
+Die beiden Begriffe „Anziehung“ und „Abstoßung“, die in der Kategorie der Quantität aufgehoben sind, werden hier zu den Momenten der Kontinuität und Trennung (Diskretion).
+Auch diese beiden Begriffe setzen einander voraus. Kontinuität bedeutet, dass ein kontinuierlich fortsetzendes „Etwas“ da ist. Dieses „Etwas“ ist notwendigerweise ein von einem „Anderen“ getrenntes „Etwas“.  Umgekehrt setzt auch der Begriff der Trennung den der Kontinuität voraus; man kann nur trennen unter der Voraussetzung, dass etwas da ist, was nicht getrennt ist und wovon das Getrennte getrennt ist.
+Ein Quantum ist von einer bestimmten Größe, die sich immer durch eine Zahl ausdrücken lässt. Der Begriff der Zahl gehört darum unter die Kategorie des Quantums. Eine Zahl hat zwei Momente: sie ist als Anzahl und als Einheit bestimmt. Der Begriff der Anzahl als eine Summe von Einheiten schließt den Begriff der Trennung, der Begriff der Einheit dagegen schließt Kontinuität ein.
+Ein Quantum kann eine „intensive“ oder „extensive“ Größe sein. Eine intensive Größe (z. B. Farbempfindung, Wärmegefühl) lässt sich mit Hilfe des Begriffs Grad charakterisieren – eines Grades, der je nach Größe mehr oder weniger Intensität hat. Extensive Größen (z. B. Länge oder Volumen) haben weder Grad noch Intensität. Über extensive Größe wird vermittels eines angelegten Maßstabs entschieden. Intensive Größen dagegen können durch keinen außerhalb von ihnen liegenden Maßstab bestimmt werden. Die physikalistische Theorie, jede intensive Größe lasse sich auf eine extensive Größe reduzieren, wird von Hegel verworfen.
+
+Maß
+Die Lehre vom „Maß“ handelt von der Einheit von „Qualität“ und „Quantität“. An anschaulichen Beispielen erläutert Hegel den Charakter dieser Einheit. So führt etwa die quantitative Veränderung der Temperatur des Wassers zu einer qualitativen Änderung seines Zustandes. Es gefriert oder wird zu Dampf. Damit entsteht die Bestimmung eines zugrundeliegenden, indifferent bleibenden „Substrates“, dessen „Zustände“ sich entsprechend den Maßverhältnissen ändern. Der Gedanke eines Etwas, das in dieser Weise nach „Substrat“ und „Zuständen“ in sich unterschieden ist, führt zum zweiten Teil der Logik, der „Lehre vom Wesen“.
+
+
+=== Lehre vom Wesen ===
+Die Lehre vom Wesen gilt als der schwierigste Teil der Logik und wurde von Hegel mehrfach modifiziert. Hegel konnte sich hier nicht in gleichem Maße wie in den anderen beiden Büchern (Lehre vom Sein, Lehre vom Begriff) an die philosophische Tradition anlehnen. Den größten Einfluss übte die „transzendentale Logik“ Kants aus, deren Theorieelemente (Modal- und Relationskategorien, Reflexionsbegriffe und Antinomien) Hegel in einem neuen Zusammenhang begrifflich konsistent abzuleiten versuchte.
+
+Der Begriff des Wesens
+Hegel umschreibt den Begriff des Wesens durch den der „Erinnerung“, den er im wörtlichen Sinne versteht als „Innerlichwerden“ und „Insichgehen“.
+Er bezeichnet eine Sphäre, die tiefer liegt als die äußerliche Unmittelbarkeit des Seins, dessen Oberfläche erst „durchstoßen“ werden muss, um zum Wesen zu gelangen. Die logischen Bestimmungen des Wesens sind von der des Seins unterschieden. Im Unterschied zu den seinslogischen Kategorien treten sie vorzugsweise paarweise auf und erhalten ihre Bestimmtheit aus dem Bezug auf ihr jeweils Anderes: Wesentliches und Unwesentliches, Identität und Unterschied, Positives und Negatives, Grund und Begründetes, Form und Materie, Form und Inhalt, Bedingtes und Unbedingtes usw.
+
+Der Widerspruch
+Hegel beginnt mit der Abhandlung der „Reflexionsbestimmungen“, „Identität“, „Unterschied“,  „Widerspruch“ und „Grund“. Er analysiert die Reflexionsbestimmungen in ihrem Verhältnis zueinander und zeigt auf, dass ihnen in ihrer Isolierung gegeneinander keine Wahrheit zukommt. Die bedeutendste Reflexionsbestimmung ist die des „Widerspruchs“. Hegel legt großen Wert darauf, dass der Widerspruch nicht wie bei Kant „in die subjektive Reflexion geschoben“ werden dürfe. Dies würde eine „zu große Zärtlichkeit“ zu den Dingen bedeuten. Vielmehr kommt der Widerspruch den Dingen selbst zu. Er ist „das Prinzip aller Selbstbewegung“ und deshalb auch in aller Bewegung vorhanden.
+Das Prinzip des Widerspruchs gilt nicht allein für die äußerliche Bewegung, sondern ist das Grundprinzip alles Lebendigen: „Etwas ist also lebendig, nur insofern es den Widerspruch in sich enthält, und zwar diese Kraft ist, den Widerspruch in sich zu fassen und auszuhalten“ – anderenfalls geht es „in dem Widerspruch zu Grunde“. In ganz besonderem Maße  gilt dieses Prinzip für die Sphäre des Denkens: „Das spekulative Denken besteht nur darin, daß das Denken den Widerspruch und in ihm sich selbst festhält“. Der Widerspruch ist so für Hegel die Struktur von logischer, natürlicher und geistiger Wirklichkeit überhaupt.
+
+Die Erscheinung
+Im zweiten Abschnitt der Wesenslogik, „Die Erscheinung“, setzt sich Hegel explizit mit Kant und dem Problem des „Ding an sich“ auseinander. Seine Absicht ist es nicht nur, die Differenz von „Ding an sich“ und „Erscheinung“ zu eliminieren, sondern darüber hinaus die „Erscheinung“ zur Wahrheit des „Ding an sich“ zu erklären: „Die Erscheinung ist das, was das Ding an sich ist, oder seine Wahrheit“.
+Was etwas an sich ist, zeigt sich für Hegel nirgends als in seiner Erscheinung und es ist daher sinnlos, „dahinter“ noch ein Reich des „Ansich“ aufzubauen. Die „Erscheinung“ ist die „höhere Wahrheit“ sowohl gegen das „Ding an sich“ als auch gegen die unmittelbare Existenz, denn sie ist die „wesentliche, dahingegen die [unmittelbare] Existenz die noch wesenlose Erscheinung ist“.
+
+Die Wirklichkeit
+Im dritten Abschnitt, „Die Wirklichkeit“, erörtert Hegel zentrale Lehrstücke der logischen und metaphysischen Tradition. Ein zentrales Thema ist dabei die Auseinandersetzung mit Spinozas Begriff des Absoluten.
+Hegel sieht im Absoluten einerseits „alle Bestimmtheit des Wesens und der Existenz oder des Seins überhaupt sowohl als der Reflexion aufgelöst“, da es sonst nicht als das schlechthin Unbedingte verstanden werden könnte. Würde es aber bloß als die Negation aller Prädikate gedacht, so wäre es lediglich das Leere – obschon es doch als dessen Gegenteil, nämlich als die Fülle schlechthin gedacht sein soll. Diesem Absoluten kann nun aber nicht das Denken als äußere Reflexion gegenüberstehen, denn hierdurch würde der Begriff des Absoluten aufgehoben. Die Auslegung des Absoluten kann daher nicht in eine ihm äußere Reflexion fallen, sondern muss vielmehr seine eigene Auslegung sein: „In der Tat aber ist das Auslegen des Absoluten sein eigenes Tun, und das bei sich anfängt, wie es bei sich ankommt“.
+
+
+=== Lehre vom Begriff ===
+Das dritte Buch der Wissenschaft der Logik entwickelt eine Logik des „Begriffs“, die sich in die drei Abschnitte „Subjektivität“, „Objektivität“ und „Idee“ unterteilt.
+
+Die Subjektivität
+Im Abschnitt „Subjektivität“ handelt Hegel die klassische Lehre von Begriff, Urteil und Schluss ab.
+Zur Erläuterung des „Begriffs des Begriffs“ erinnert Hegel an die „Natur des Ich“. Zwischen dem Begriff und dem Ich besteht eine Strukturanalogie: Wie der Begriff, so ist auch das Ich „sich auf sich beziehende Einheit, und dies nicht unmittelbar, sondern indem es von aller Bestimmtheit und Inhalt abstrahiert und in die Freiheit der schrankenlosen Gleichheit mit sich selbst zurückgeht“.
+Hegels Verwendung des Terminus „Begriff“ unterscheidet sich von dem, was man gewöhnlich unter einem Begriff versteht. Für ihn ist der Begriff keine vom empirischen Inhalt absehende Abstraktion, sondern das Konkrete. Ein wesentliches Moment des Begriffs stellt seine „Negativität“ dar. Hegel lehnt das dem gewöhnlichen Begriffsverständnis zugrundeliegende Konzept einer absoluten Identität ab, da der Begriff der Identität für ihn notwendigerweise den Begriff des Unterschieds mit einschließt.
+Hegels „Begriff“ hat drei Momente: Allgemeinheit, Besonderheit (Getrenntsein) und Einzelheit (Individualität). Negieren heißt zu bestimmen und zu begrenzen. Das Ergebnis der Negation des Allgemeinen ist das Getrennte (Besonderheit), das als Ergebnis der Negation dieser Negation (also der Negation der Besonderheit) mit dem Allgemeinen identisch ist, da die Besonderheit zu der ursprünglichen Einheit zurückkehrt und zur Individualität wird.
+Der Begriff ist für Hegel die Einheit von Allgemeinem und Individuellem. Diese Einheit wird im Urteil „S ist P“ expliziert, wo „S“ das Subjekt, das Individuelle, und „P“ das Prädikat, das Allgemeine ist.
+Ein Satz kann dabei nach Hegel sehr wohl die grammatische Form eines Urteils haben, ohne ein Urteil zu sein. So ist der Satz „Aristoteles ist im 73.  Jahre seines Alters, in dem 4. Jahr der 115. Olympiade gestorben“ kein Urteil. Er zeigt zwar die Syntax des Urteils, verbindet aber keinen Allgemeinbegriff mit dem Individuellen und erfüllt somit nicht die logischen Forderungen des Urteils. Dennoch kann der obige Satz ein Urteil sein, nämlich dann, wenn der Satz in einer Situation benutzt wird, in der man bezweifelte, in welchem Jahr Aristoteles starb oder wie alt er war, und das Beenden des Zweifels in dem hier behandelten Satz ausgedrückt wird.
+Für Justus Hartnack bedeutet dies, dass Hegel damit faktisch – „ohne es so zu formulieren – die analytische Unterscheidung zwischen einem Satz und seinem Gebrauch einführt. Ein und derselbe Satz kann als Imperativ verwandt werden, als Warnung oder Drohung, als ein Ersuchen usw.“.
+Im Schluss findet eine Einheit von Urteil und Begriff statt. Hegel betrachtet folgendes Beispiel (aus L II 383):
+
+Alle Menschen sind sterblich
+Nun ist Cajus ein Mensch
+Ergo ist Cajus sterblich
+Der besondere Begriff (das Besondere) sind hier „Menschen“, das Individuelle (das Einzelne) ist Cajus, und der Begriff „sterblich“ ist das Allgemeine. Das Resultat ist eine Einheit des individuellen Subjekts und des allgemeinen oder universalen Prädikats, also des Prädikats in dem Urteil „Cajus ist sterblich“.
+
+Die Objektivität
+Der Begriff des Objekts lässt sich für Hegel nur insofern verstehen, als er eine notwendige Verbindung zum Begriff des Subjekts hat. Insofern ist er auch Gegenstand der „Wissenschaft der Logik“.  Hegels philosophische Analyse führt schrittweise von einer „mechanischen“ über eine „chemische“ zu einer „teleologischen“ Betrachtungsweise des Objekts. Im teleologischen Objekt können die Prozesse, die zum Zweck führen, und der Zweck selbst nicht mehr voneinander verschieden werden. In ihm objektiviert sich die Subjektivität selbst. Diese Einheit von Subjektivität und Objektivität nennt Hegel die Idee.
+
+Die Idee
+Im Begriff der Idee sind alle Bestimmungen der Seins- und Wesenslogik wie die der Logik des Begriffs „aufgehoben“. Die Idee ist das Wahre; sie ist damit identisch mit allem, was die Wissenschaft der Logik in Bezug auf die logische Struktur des Seins darlegt. Alle Kategorien sind in der Idee integriert; mit ihr endet die sogenannte Bewegung des Begriffs.
+Hegel unterscheidet drei Aspekte der Idee: Leben, Erkenntnis und die absolute Idee.
+Im Leben kann die Idee als Einheit von Seele und Körper verstanden werden. Die Seele macht einen Organismus erst zu einem solchen. Die verschiedenen Teile eines Organismus sind, was sie sind, ausschließlich aufgrund ihres Verhältnisses zur Einheit des Organismus.
+In der Erkenntnis (des Wahren und des Guten) strebt das erkennende Subjekt nach Wissen über ein gegebenes Objekt. Das Objekt der Erkenntnis ist dabei vom Subjekt zugleich unterschieden und mit ihm identisch.
+In der absoluten Idee schließlich – als der Kulmination des philosophischen Denkens – sieht das Bewusstsein die Identität von Subjektivem und Objektivem – von Ansich und Fürsich – ein. Das Subjekt erkennt sich selbst als Objekt und das Objekt ist darum das Subjekt.
+
+
+== Schematischer Überblick ==
+
+
+== Lesarten der Logik ==
+In der Sekundärliteratur lassen sich drei prominente Hauptströmungen unterscheiden: Ontologische, epistemologische (erkenntnistheoretische) und semantische Lesarten:
+Ontologische Lesarten gehen davon aus, dass Hegels Logik eine voraussetzungslose Theorie entwickelt, indem sie die grundlegende Struktur der Wirklichkeit darstellt. Voraussetzungslos ist dieses Unterfangen, da der Anfang der Logik mit dem „absoluten Wissen“ bzw. „reinen Sein“ einen minimalen Startpunkt wählt. Das Projekt einer Logik zeichne sich demnach vor allem darin aus, undogmatisch und skepsisresistent zu sein. Der Fortgang der Untersuchung wird ebenso nicht durch eine dogmatisch vorausgesetzte Methode durchgeführt, sondern soll sich „aus der Sache selbst“ ergeben. Hegels Projekt zeichnet sich also explizit nicht durch das Voraussetzen einer sogenannten „dialektischen Methode“ aus, wie dies beispielsweise von Russell vorgeworfen wurde. Vertreter dieser Lesart sind beispielsweise Vittorio Hösle, Stephen Houlgate und Herbert Marcuse.  
+Epistemologische Lesarten sehen die Wissenschaft der Logik als ein Unterfangen in Kontinuität eines kantischen Projekts. Besonders ausschlaggebend für die Rezeptionsgeschichte dieser Interpretationsströmung ist das 1989 erschienene Buch Hegel’s Idealism. The Satisfactions of Self-Consciousness von Robert B. Pippin.
+Semantische Lesarten lassen sich in zwei Varianten einteilen: erststufige und höherstufige. Erststufigen semantischen Lesarten zufolge werden in der Logik Kategorien dargelegt, die unserer sprachlichen Praxis immanent sind. Hegels Ausgangspunkt ist unsere alltägliche, wissenschaftliche und philosophische Sprache. Darunter fallen dann etwa die Analyse von inferenziellen Zusammenhängen unseres Begriffsgebrauchts in diesen verschiedenen Sprachpraxen. Vertreter dieser Lesart sind Berto und Pinkard. Dagegen verstehen höherstufige semantische Lesarten die Logik als eine Metatheorie über erststufige semantische Projekte. In seinem für diesen Ansatz in besonderem Maße rezipierte Pirmin Stekeler-Weithofer versteht die Logik als „allgemeine Methode der Reflexion auf eine (konventionelle) Praxis unter Einschluss der noch höherstufigen ‚spekulativen‘ Reflexion auf die Möglichkeitsbedingungen des bewussten und kritischen Denkens“.
+
+
+== Ausgaben ==
+Georg Wilhelm Friedrich Hegel: Wissenschaft der Logik. 2 Bände. Schrag, Nürnberg 1812–1816
+Band 1,1. Schrag, Nürnberg 1812. (Digitalisat und Volltext im Deutschen Textarchiv)
+Band 1,2. Schrag, Nürnberg 1813. (Digitalisat und Volltext im Deutschen Textarchiv)
+Band 2. Schrag, Nürnberg 1816. (Digitalisat und Volltext im Deutschen Textarchiv)
+Band 1,1. Cotta, Stuttgart und Tübingen 1832. books.google.de
+Werkausgabe von 1841
+Textkritische Edition im Meiner-Verlag mit besonderer Orthographie und Interpunktion:
+Bd. 11 Wissenschaft der Logik. Erster Band. Die objektive Logik (1812/13). Hrsg. von Friedrich Hogemann und Walter Jaeschke, Hamburg 1978.
+Bd. 12 Wissenschaft der Logik. Zweiter Band. Die subjektive Logik (1816). Hrsg. von Friedrich Hogemann und Walter Jaeschke, Hamburg 1981.
+Bd. 21 Wissenschaft der Logik. Erster Teil. Die objektive Logik. Erster Band. Die Lehre vom Sein (1832). Hrsg. von Friedrich Hogemann und Walter Jaeschke, Hamburg 1985.
+Werke in 20 Bänden. Auf der Grundlage der Werke von 1832 bis 1845 neu ediert. Redaktion: Eva Moldenhauer, Karl Markus Michel. Suhrkamp, Frankfurt am Main 1969–1971; dazu: Register. Zu den 20 Werken erstellt von Helmut Reinicke. Suhrkamp, Frankfurt am Main 1986, ISBN 3-518-28221-2. Hier: Band 5 und 6.
+
+
+== Literatur ==
+Patrick Eiden-Offe: Hegels 'Logik' lesen. Matthes & Seitz, Berlin 2020, ISBN 978-3-75180-302-1.
+David Gray Carlson:  A Commentary on Hegel's Science of Logic. Palgrave Macmillian,  New York 2007, ISBN 978-1-4039-8628-3.
+Lothar Eley: Hegels Wissenschaft der Logik. Leitfaden und Kommentar. München 1976.
+Frank-Peter Hansen: G.W.F. Hegel: „Wissenschaft der Logik“. Ein Kommentar. Ferdinand Schöningh, Würzburg 1997.
+Justus Hartnack: Hegels Logik. Eine Einführung. Peter Lang. Europäischer Verlag der Wissenschaften, Frankfurt am Main 1995.
+Errol E. Harris: An Interpretation of the Logic of Hegel. London 1983.
+Dieter Henrich, Friedhelm Nicolin, Otto Pöggeler (Hrsg.): Die Wissenschaft der Logik und die Logik der Reflexion. (Hegel-Tage Chantilly 1971. Hegel-Studien Beiheft 18). Bonn 1978.
+Dieter Henrich (Hrsg.): Hegels Wissenschaft der Logik: Formation und Rekonstruktion (Veröffentlichungen der Internationalen Hegel-Vereinigung Bd. 16). Stuttgart  1986.
+Anton Friedrich Koch, Friedrike Schick (Hrsg.): G.W.F. Hegel. Wissenschaft der Logik. Akademie Verlag, Berlin 2002, ISBN 3-05-003711-3.
+Anton Friedrich Koch, Friedrike Schick, Klaus Vieweg, Claudia Wirsing (Hrsg.): Deutsches Jahrbuch Philosophie, Band 5. Hegel – 200 Jahre Wissenschaft der Logik, Meiner, Hamburg 2014, ISBN 978-3-7873-2526-9
+John McTaggart: A Commentary on Hegel’s Logic (1910). New York 1964.
+Michael Quante, Nadine Mooren (Hrsg.): Kommentar zu Hegels Wissenschaft der Logik. Meiner, Hamburg 2018, ISBN 978-3-7873-3186-4.
+Hans Rademaker: Hegels Wissenschaft der Logik: Eine darstellende und erläuternde Einführung. Wiesbaden 2. Aufl. 1979.
+Hermann Schmitz: Hegels Logik. Bonn 1992
+Pirmin Stekeler-Weithofer: Hegels Analytische Philosophie. Die Wissenschaft der Logik als kritische Theorie der Bedeutung. Ferdinand Schöningh, Paderborn 1992, ISBN 3-506-78750-0.
+Pirmin Stekeler-Weithofer: Hegels Wissenschaft der Logik. Ein dialogischer Kommentar. 3 Bde.  Band 1 Die Lehre vom Sein. Band 2 Die Lehre vom Wesen, Meiner, Hamburg 2019, ISBN 978-3-7873-2975-5.
+
+
+== Weblinks ==
+Texte
+
+Hegel, Georg Wilhelm Friedrich: Wissenschaft der Logik. Bd. 1,1. Nürnberg, 1812. Digitalisat und Volltext im Deutschen Textarchiv
+Hegel, Georg Wilhelm Friedrich: Wissenschaft der Logik. Bd. 1,2. Nürnberg, 1813. Digitalisat und Volltext im Deutschen Textarchiv
+Hegel, Georg Wilhelm Friedrich: Wissenschaft der Logik. Bd. 2. Nürnberg, 1816. Digitalisat und Volltext im Deutschen Textarchiv
+Literatur
+
+Hermann Schmitz: Hegels Logik (PDF; 683 kB), Bouvier, Bonn 1992.
+Multimediabeiträge
+
+Podcast des ZfL »Bücher im Gespräch«, Episode 1: Hegels Logik lesen
+
+
+== Einzelnachweise ==
+Die Wissenschaft der Logik Hegel wird zitiert auf Grundlage der Theorie-Werkausgabe von Eva Moldenhauer und Karl Markus Michel, Suhrkamp, Frankfurt am Main 1979.

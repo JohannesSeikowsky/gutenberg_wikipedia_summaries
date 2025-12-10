@@ -1,0 +1,147 @@
+The Apology of Socrates (Ancient Greek: Ἀπολογία Σωκράτους, Apología Sokrátous; Latin: Apologia Socratis), written by Plato, is a Socratic dialogue of the speech of legal self-defence which Socrates (469–399 BC) spoke at his trial for impiety and corruption in 399 BC.
+Specifically, the Apology of Socrates is a defence against the charges of "corrupting the youth" and "not believing in the gods in whom the city believes, but in other daimonia that are novel" to Athens (24b).
+Among the primary sources about the trial and death of the philosopher Socrates, the Apology of Socrates is the dialogue that depicts the trial, and is one of four Socratic dialogues, along with Euthyphro, Phaedo, and Crito, through which Plato details the final days of the philosopher Socrates. There are debates among scholars as to whether we should rely on the Apology for information about the trial itself.
+
+
+== The text of  Apology ==
+
+The Apology of Socrates, by the philosopher Plato (429–347 BC), was one of many explanatory apologiae about Socrates's legal defence against accusations of corruption and impiety; most apologiae were published in the decade after the Trial of Socrates (399 BC). As such, Plato's Apology of Socrates is an early philosophic defence of Socrates, presented in the form of a Socratic dialogue. Although Aristotle later classified it as a genre of fiction, it is still a useful historical source about Socrates (469–399 BC) the philosopher. Aristotle believed the dialogue, particularly the scene where Socrates questions Meletus, represented a good use of interrogation.
+Except for Socrates's two dialogues with Meletus, about the nature and logic of his accusations of impiety, the text of the Apology of Socrates is in the first-person perspective and voice of the philosopher Socrates (24d–25d and 26b–27d). Moreover, during the trial, in his speech of self-defence, Socrates twice mentions that Plato is present at the trial (34a and 38b).
+
+
+== Introduction ==
+The Apology of Socrates begins with Socrates addressing the jury of perhaps 500 Athenian men to ask if they have been persuaded by the Orators Lycon, Anytus, and Meletus, who have accused Socrates of corrupting the young people of the city and impiety against the pantheon of Athens.
+Immediately after, Socrates protests his accusers for telling the audience to guard themselves against his eloquence. He claims that his use of language will be extemporaneous, in his own common manner of interrogating highly respected Athenians, and that he himself is a stranger in the ways of court unaccustomed to giving ornamented speech. Socrates later argues that whatever wisdom he does in fact possess comes from knowing that he knows nothing (23b, 29b).
+In the course of the trial, Socrates imitates, parodies, and corrects the Orators, his accusers, and asks the jury to judge him by the truth of his statements, not by his oratorical skill (cf. Lysias XIX 1,2,3; Isaeus X 1; Isocrates XV 79; Aeschines II 24). Socrates says he will not use sophisticated language—carefully arranged ornate words and phrases—but will speak using the common idiom of the Greek language. Socrates says that he will speak in the manner he has used in the agora and at the money tables. Although offered the opportunity to appease the prejudices of the jury, with a minimal concession to the charges of corruption and impiety, Socrates does not yield his integrity to avoid the penalty of death. The jury condemns Socrates to death.
+
+
+== Accusers of Socrates ==
+In the society of 5th-century BC Athens, the three men who formally accused the philosopher Socrates of impiety and corruption against the people and the city, officially represented the interests of the politicians and the craftsmen, of the scholars, poets, and rhetoricians. The accusers of Socrates were:
+
+Anytus, a rich and socially prominent Athenian who opposed the Sophists on principle. Socrates says that Anytus joined the prosecution because he was "vexed on behalf of the craftsmen and politicians" (23e–24a); moreover, Anytus appears in the Meno dialogue (90f). Whilst Socrates and Meno (a visitor to Athens) are discussing Virtue, Anytus unexpectedly appears before them, and overhears their conversation. From the philosophic stance that virtue cannot be taught, Socrates adduces that many socially prominent Athenians have produced sons who are inferior to themselves, as fathers; Socrates names several such men, including Pericles and Thucydides. In the event, Anytus is offended by the observation, and warns Socrates that stepping on people’s toes (kakós legein) could, someday, cause trouble for him (Meno 94e–95a).
+Meletus, the only accuser to speak during Socrates's speech of self-defence; he was the tool of Anytus, the true enemy of Socrates. Socrates says that Meletus joined the prosecution because he was "vexed on behalf of the poets" (23e); moreover, Meletus features in the Euthyphro dialogue. At trial, Socrates identifies Meletus as an unknown, young man with an aquiline nose. In the Apology of Socrates, Meletus agrees to be cross-examined by Socrates, whose questions lead Meletus into a semantic trap. Inattentive to the logical implications of his accusations of corruption and impiety, Meletus contradicts himself in accusing Socrates of atheism and of believing in demigods.
+Lycon, who represented the professional rhetoricians as an interest group. Socrates says that Lycon joined the prosecution because he was "vexed on behalf of the rhetoricians" (24a). That he joined the prosecution because he associated Socrates with the pro–Spartan Oligarchy of the Thirty Tyrants (404 BC), who killed his son, Autolycus. As a prosecutor of Socrates, Lycon also is a figure of ridicule in a play by Aristophanes and had become a successful democratic politician in the democracy restored after the fall of the Oligarchy of the Four Hundred (411 BC).
+
+
+== Accusations ==
+In his defence at trial, Socrates faced two sets of accusations: (i) asebeia (impiety) against the pantheon of Athens, by introducing new gods; and (ii) corruption of Athenian youth. Socrates says to the court that these old accusations arise from years of gossip and prejudice against him; hence, are matters difficult to address. He then summarizes in his own words the accusations from the orators against him in legal form: "Socrates is an evil-doer, and a curious person, who searches into things under the earth and in heaven, and he makes the worse appear the better cause; and he teaches the aforesaid doctrines to others" (19b-c).
+Socrates also says that the accusations for which he is answering in court already had been spoken and published by the comic poet Aristophanes, and are therefore beyond the legal scope of a trial for corruption and impiety. Years earlier, in the play The Clouds (423 BC), Aristophanes lampooned Socrates as a charlatan, the paradigm philosopher of atheist and scientific sophistry—carefully arranged arguments constructed of ornate words and phrases—misrepresented as wisdom. In light of that definition, Socrates defensively argues that he cannot be mistaken for a Sophist philosopher because Sophists are wise men, are thought to be wise by the people of Athens, and, thus, are highly paid for their teaching; whereas he (Socrates) lives in ten-thousand-fold poverty, and knows nothing noble and good (23c).
+
+
+=== Impiety ===
+For his self-defence, Socrates first eliminates any claim that he is a wise man. He says that Chaerephon, reputed to be impetuous, went to the Oracle of Delphi and asked her, the prophetess, Pythia, to tell him of anyone wiser than Socrates. The Pythia answered to Chaerephon that there was no man wiser. On learning of that oracular pronouncement, Socrates says he was astounded, because, on the one hand, it is against the nature of the Oracle to lie, but, on the other hand, he knew he was not wise. Therefore, Socrates sought to find someone wiser than himself, so that he could take that person as evidence to the Oracle at Delphi. Hence why Socrates minutely queried everyone who appeared to be a wise person. In that vein, he tested the minds of politicians, poets, and scholars, for wisdom; although he occasionally found genius, Socrates says that he found no one who possessed wisdom; yet, each man was thought wise by the people, and each man thought himself wise; therefore, he thought he was the better man, because he was aware that he was not wise.
+
+
+=== Corruption of the Athenian youth ===
+Socrates explained that the young, rich men of the city of Athens have little to do with their time. They, therefore, follow him about the city, observing his questioning of the arguments made by other Athenians and their exposed ignorance of their own pretensions. In turn, young men imitate the method of Socrates. Socrates thought that the arguments of the men he examined were wanting, and when he said this, to not lose face, they would restate stock accusations against Socrates; that he is a morally abominable man who corrupts the youth of Athens with sophistry and atheism. In his defence, Socrates said: "For those who are examined, instead of being angry with themselves, are angry with me!".
+
+
+== The dialogue ==
+The Apology of Socrates, by Plato, is a Socratic dialogue in three parts that cover the Trial of Socrates (399 BC): (i) the legal self-defence of Socrates, (ii) the verdict of the jury, and (iii) the sentence of the court.
+
+
+=== Part one: The defence of Socrates ===
+Socrates begins his legal defence by telling the jury that their minds were poisoned by his enemies when they (the jury) were young and impressionable. He also says that his false reputation as a sophistical philosopher comes from his enemies and that all of them are malicious, yet must remain nameless—except for the playwright Aristophanes, who lampooned him (Socrates) as a charlatan-philosopher in the comedy play The Clouds (423 BC). About corrupting the rich, young men of Athens, Socrates argues that deliberate corruption is an illogical action because it would hurt him, as well. He says that the accusations of him being a corrupter of youth began at the time of his obedience to the Oracle at Delphi, and tells how Chaerephon went to the Oracle, to ask her, the Pythian prophetess, if there was a man wiser than Socrates. When Chaerephon reported to him that the Oracle said there is no wiser man, Socrates interpreted that divine report as a riddle—because he was aware of possessing no wisdom "great or small", and that lying is not in the nature of the gods.
+
+
+==== The wisest man ====
+Socrates then sought to solve the divine paradox—how an ignorant man also could be the wisest of all men—in effort to illuminate the meaning of the Oracles' categorical statement that he is the wisest man in the land. After systematically interrogating the politicians, the poets, and the craftsmen, Socrates determined that the politicians were not wise like he was. He says of himself, in reference to a politician: "I am wiser than this man; it is likely that neither of us knows anything worthwhile, but he thinks he knows something when he does not."(21d). Socrates says that the poets did not understand their poetry; that the prophets and seers did not understand what they said; and that the craftsmen while knowing many things, thought they also had much knowledge on things of which they had none. In that light, Socrates saw himself as a spokesman for the Oracle at Delphi (22e). He asked himself if he would rather be an impostor, like the "wise people" he interrogated, or if he would rather be himself, Socrates of Athens. Socrates tells the jury that he would rather be himself than be anyone else. He says that in searching for a man wiser than himself, he came to be regarded as a social gadfly and acquired a bad reputation among Athens' politically powerful personages.
+
+
+==== Corrupter of youth ====
+Having addressed the social prejudices against him, Socrates addresses the first accusation—the moral corruption of Athenian youth—by accusing his accuser, Meletus, of being indifferent to the persons and things about which he professes to care. Whilst interrogating Meletus, Socrates says that no one would intentionally corrupt another person—because the corrupter later stands to be harmed in vengeance by the corrupted person. The matter of moral corruption is important for two reasons: (i) the accusation is that Socrates corrupted the rich, young men of Athens by teaching atheism; (ii) that if he is convicted of corruption, it will be because the playwright Aristophanes already had corrupted the minds of his audience, when they were young, by lampooning Socrates as the "Sophistical philosopher" in The Clouds, a comic play produced about twenty-four years earlier.
+
+
+==== Atheist ====
+Socrates then addresses the second accusation—asebeia (impiety) against the pantheon of Athens—by which Meletus says that Socrates is an atheist. In cross-examination, Socrates leads Meletus to contradict himself: that Socrates is an atheist who also believes in spiritual agencies and demigods. Socrates tells the judges that Meletus has contradicted himself and then asks if Meletus has designed a test of intelligence for identifying logical contradictions.
+
+
+==== On death ====
+Socrates proceeds to say that people who fear death are showing their ignorance, because death might be a good thing, yet people fear it as if it is evil; even though they cannot know whether it is good or evil. Socrates says that his wisdom is in being aware that he is ignorant on this, and other topics.
+
+
+==== Precedence of authority ====
+Regarding a citizen's obedience to authority, Socrates says that a lawful authority, either human or divine, should always be obeyed. In a conflict of obedience to such authorities, he thinks that obeying divine authority supersedes obeying human authority: "Gentlemen, I am your grateful and devoted servant, but I owe a greater obedience to the [Delphic] god than to you; and, as long as I draw breath and have my faculties, I shall never stop practising philosophy"(29d). As a spokesman for the Oracle at Delphi, he is to spur the Athenians to greater awareness of ethics and moral conduct and always shall question and argue. Therefore, the philosopher Socrates of Athens asks his fellow citizens: "Are you not ashamed that you give your attention to acquiring as much money as possible, and similarly with reputation and honour, and give no attention or thought to truth and understanding, and the perfection of your soul?"(29e)
+
+
+==== Provocateur ====
+Granting no concession to his precarious legal situation, Socrates speaks emotionally and provocatively to the court and says that the greatest good to occur upon Athens is his moral concern for them as fellow citizens. He thinks that material wealth is a consequence of goodness; that the god does not permit a better man to be harmed by a lesser man; and that he is the social gadfly required by Athens: "All day long, I will never cease to settle here, there, and everywhere — rousing, persuading, and reproving every one of you." In support of the moral mission assigned him by the Oracle at Delphi, Socrates tells the court that his daimonion continually forbids him to act unethically (implicitly validating Meletus' accusation that Socrates believes in novel deities not of the Athenian pantheon).
+Socrates says he never was a paid teacher; therefore, he is not responsible for the corruption of any Athenian citizen. If he had corrupted anyone, he asks: why have they not come forward to bear witness? If the corrupted Athenians are ignorant of having been corrupted, then why have their families not spoken on their behalf? Socrates indicates, in point of fact, relatives of the Athenian youth he supposedly corrupted are present in court, giving him moral support.
+Socrates concludes his legal defence by reminding the judges that he shall not resort to emotive tricks and arguments, shall not cry in public regret, and that his three sons will not appear in court to pathetically sway the judges. Socrates says he is not afraid of death and shall not act contrary to religious duty. He says he will rely solely upon sound argument and truth to present his case at trial.
+
+
+==== Rhetoric ====
+In Plato's version of the trial, Socrates mocks oratory as a deceitful rhetorical practice designed to lead jurors away from the truth. Some scholarship, however, views this mockery only as a critique of narrow views of rhetoric-as-speechmaking and, in turn, sees the whole trial as an implicit depiction of a more expansive view of rhetoric that unfolds over the course of a lifetime.
+
+
+=== Part two: Socrates' sentencing plea ===
+
+The jurors of the trial voted the guilt of Socrates by a relatively narrow margin (36a). In the Apology of Socrates, Plato cites no total numbers of votes condemning or acquitting the philosopher of the accusations of moral corruption and impiety; Socrates says that he would have been acquitted if thirty more jurors had voted in his favour. This would likely mean that if the court were composed of 500 people then 280 voted against Socrates and 220 voted in his favor. This would make the margin about 12 percent. In such cases—where the penalty of death might arise as a legal sanction for the accusations is presented—Athenian law required that the prosecutor and the defendant each propose an administrative penalty to punish the actions reported in the accusations.
+Socrates antagonises the court by proposing, rather than a penalty, a reward—perpetual maintenance at public expense. He notes that the vote of judgement against him was close. In that vein, Socrates then engages in dark humour, suggesting that Meletus narrowly escaped a great fine for not meeting the statutory requirement of receiving one-fifth of the votes of the assembled judges in favour of his accusations against Socrates. In that way, Socrates published the financial consequence for Meletus to consider as a plaintiff in a lawsuit—because the Athenian legal system discouraged frivolous lawsuits by imposing a financially onerous fine upon the plaintiff if the vote of the judges was less than one-fifth of the number of judges required by the type of lawsuit.
+As punishment for the two accusations formally presented against him at trial, Socrates proposed to the court that he be treated as a benefactor to the city of Athens; that he should be given free meals, in perpetuity, at the Prytaneum, the public dining hall of Athens. Receiving such public largesse is an honour reserved for Olympic athletes, prominent citizens, and benefactors of Athens, as a city and as a state.
+Finally, after the court dismisses the proposed reward—free meals at the Prytaneum—Socrates considers imprisonment and banishment, before settling upon a punishment fine of 100 drachmae. Despite his poverty, this was a minor punishment compared to the death penalty proposed by the prosecutors, and encouraged by the judges of the trial. His supporters, Plato, Crito, Critobulus, and Apollodorus offered even more money to pay as a fine—3,000 drachmae (thirty minae); nonetheless, to the judges of the trial of Socrates, a pecuniary fine was insufficient punishment.
+
+
+=== Part three: Socrates' departing remarks ===
+In the Trial of Socrates, the judgement of the court was death for Socrates; most of the jurors voted for the death penalty (Apology 38c), yet Plato provides no jury-vote numbers in the text of the Apology of Socrates; but Diogenes Laërtius reports that 280 jurors voted for the death penalty and 220 jurors voted for a pecuniary fine for Socrates (2.42). Moreover, the politically provocative language and irreverent tone of Socrates's self-defence speech angered the jurors and invited their punishment of him.
+Socrates responds to the death-penalty verdict by first addressing the jurors who voted for his death. He says that instead of waiting a short time for him to die from old age, they will now have to accept the harsh criticisms from his supporters. He prophesied that his death will cause the youngsters to come forward and replace him as a social gadfly, spurring ethical conduct from the citizens of Athens, in a manner more vexing than him(39d).
+To the jurors who voted to acquit him, Socrates gives encouragement: his supernatural daimonion did not interfere with his conduct of the legal defence, which he viewed as a sign that such a defence was the correct action. In that way, the daimonion communicated to Socrates that death might be a good thing; either death is annihilation (release from earthly worry) and not to be feared, or death is migration to a higher plane of existence in which reside the souls of personages and heroes, such as Hesiod and Homer and Odysseus.
+Socrates concludes his self-defence by saying to the court that he bears no ill-will, neither towards his accusers—Lycon, Anytus, and Meletus—nor the jurors. He then asks the Athenians to correct his three sons if they value material wealth more than living virtuously, or if they become too prideful; and in doing that, justice will finally be served.
+
+
+== Adaptations ==
+Socrates on Trial: A Play Based on Aristophane's Clouds and Plato's Apology, Crito, and Phaedo Adapted for Modern Performance (2007), by Andrew David Irvine, is a contemporary play that portrays Socrates as philosopher and man, based upon The Clouds (423 BC), by Aristophanes, and three Socratic dialogues, by Plato, the Apology of Socrates (the philosopher's defence at trial), the Crito (discussion of the nature of Justice), and the Phaedo (discussion of the nature of the Afterlife).
+Roberto Rossellini's 1971 television film Socrates largely lifts its action and script from this dialogue.
+
+
+== Texts and translations ==
+Greek text at Perseus
+Plato: Euthyphro, Apology, Crito, Phaedo, Phaedrus Greek with translation by Harold North Fowler. Loeb Classical Library 36. Harvard Univ. Press (originally published 1914). ISBN 0-674-99040-4 at Internet Archive
+H.N. Fowler's translation at Perseus
+Plato: Euthyphro, Apology, Crito, Phaedo. Greek with translation by Chris Emlyn-Jones and William Preddy. Loeb Classical Library 36. Harvard Univ. Press, 2017. ISBN 9780674996878 HUP listing
+Plato. Opera, volume I. Oxford Classical Texts. ISBN 978-0198145691
+Plato. Complete Works. Hackett, 1997. ISBN 978-0872203495
+The Last Days of Socrates, translation of Euthyphro, Apology, Crito, Phaedo. Hugh Tredennick, 1954. ISBN 978-0140440379. Made into a BBC radio play in 1986
+"Four Texts on Socrates: Plato's Euthyphro, Apology, and Crito, and Aristophanes' Clouds. Thomas G. West and Grace Starry West. 1984. ISBN 0-8014-8574-6.
+
+
+== See also ==
+Otium
+Trial of Socrates
+
+
+== References ==
+
+
+=== Bibliography ===
+Brickhouse, Thomas C.; Smith, Nicholas D. (1990). Socrates on Trial. Clarendon Press. ISBN 978-0-19-823938-3.
+Hammond, Scullard H. H. (1966). The Oxford Classical Dictionary (Seventh Printing ed.). Oxford.
+
+
+== Further reading ==
+Allen, Reginald E. (1980). Socrates and Legal Obligation. Minneapolis: University of Minnesota Press.
+Brickhouse, Thomas C. (1989). Socrates on Trial. Princeton: Princeton University Press.
+Brickhouse, Thomas C.; Smith, Nicholas D. (2004). Routledge Philosophy Guidebook to Plato and the Trial of Socrates. New York: Routledge.
+Cameron, Alister (1978). Plato's Affair with Tragedy. Cincinnati: University of Cincinnati.
+Compton, Todd, "The Trial of the Satirist: Poetic Vitae (Aesop, Archilochus, Homer) as Background for Plato's Apology", The American Journal of Philology, Vol. 111, No. 3 (Autumn, 1990), pp. 330–347, The Johns Hopkins University Press
+Fagan, Patricia; Russon, John (2009). Reexamining Socrates in the Apology. Evanston: Northwestern University Press.
+Hackforth, Reginald (1933). The Composition of Plato's Apology. Cambridge: Cambridge University Press.
+Irvine, Andrew David (2008). Socrates on Trial: A Play Based on Aristophanes' Clouds and Plato's Apology, Crito, and Phaedo Adapted for Modern Performance. Toronto: University of Toronto Press. ISBN 978-0-8020-9783-5 (cloth); ISBN 978-0-8020-9538-1 (paper); ISBN 978-1-4426-9254-1 (e-pub)
+Reeve, C.D.C. (1989). Socrates in the Apology. Indianapolis: Hackett. ISBN 0872200892.
+West, Thomas G. (1979). Plato's Apology of Socrates. Ithaca: Cornell University Press. ISBN 9780801411274.
+Stone, I. F. (1988). The Trial of Socrates. Boston: Little, Brown. ISBN 9780316817585.
+
+
+== External links ==
+
+Apology, in a collection of Plato's Dialogues at Standard Ebooks
+Translated by Woods & Pack, 2010 
+Bundled with Euthyphro, Crito and the death scene from Phaedo
+Project Gutenberg has English translations of Plato's Apology of Socrates:
+Translated by Benjamin Jowett, 1891
+Bundled with Plato's Crito and Phaedo, translated by Henry Cary, introduced by Edward Brooks Jr. 1901
+ The Apology public domain audiobook at LibriVox
+The Apology of Socrates, free professional-quality downloadable audio book (part one as parts are indicated in this article) from ThoughtAudio.com, in the translation by Benjamin Jowett
+Approaching Plato: A Guide to the Early and Middle Dialogues
+Guides to the Socratic Dialogues: Plato's Apology, a beginner's guide to the Apology, by Dale E. Burrington (from Internet Archive backup)
+G. Theodoridis, 2015: full-text translation

@@ -1,0 +1,172 @@
+Adelphoe (also Adelphoi and Adelphi; from Greek: ἀδελφοί, Brothers) is a play by Roman playwright Terence, adapted mostly from a play of the same name by Menander, with the addition of a scene from Diphilus. It was first performed in 160 BC at the funeral games of Aemilius Paulus. Adelphoe, like all of Terence's works, survives complete. It was Terence's last play and is often considered his masterpiece. Exploring the best form of child-rearing, the play inspired Molière's The School for Husbands.
+
+
+== Plot ==
+Demea, father to Aeschinus and Ctesipho, decides to separate his children and raises Ctesipho while allowing his brother Micio to raise Aeschinus.  Demea is a strict authoritarian father, and Micio is permissive and democratic.  Ctesipho falls in love with a slave-girl musician, but is afraid of exposing his romantic interest due to the strict education he's received from Demea. Therefore, Aeschinus, in order to help his brother, decides to steal the girl away from the slave-dealer Sannio, accepting all blame for the affair. Demea and Micio spar over who did a better job at raising their sons.
+After a long monologue comparing his methods with his brother's, Demea decides to emulate his brother's urbanity and openhandedness as a means of critique. In the last hundred lines of the play, Demea gives away a great deal of money and a large estate, convinces his brother to free two of his slaves, and then finally delivers a closing speech decrying all such liberality: "I will tell you: I did it to show you that what they think is your good nature and pleasantness did not happen from a true life, nor from justice and goodness, but from flattery, indulgence, and largess, Micio" (lines 985–988).
+He then offers to his sons that he will be their strict father if they so desire him to be, but if they prefer to stay with Micio, they can. Both boys choose to submit to Demea, with Micio's approval. At the end of the play, Ctesipho keeps his loved one, Aeschinus celebrates his marriage to Pamphila, Sostrata's daughter, and Micio is made to marry Sostrata.
+
+
+== Characters ==
+Micio - Demea's brother and adopted father of Aeschinus
+Demea - Micio's brother and father of Aeschinus and Ctesipho, raised Ctesipho
+Sannio - A procurer, owner of the slave "Music Girl"
+Aeschinus - son of Demea, raised by Micio
+Syrus - slave of Micio
+Ctesipho - son of Demea raised by Demea
+Canthara - Sostrata's servant
+Geta - Sostrata's slave
+Hegio - close friend of Sostrata's late husband
+Pamphila - daughter of Sostrata
+Music Girl - slave of Sannio
+Dromo - Demea's slave
+Sostrata - widowed woman who lives next to Micio
+Parmeno - a slave
+The main characters in terms of number of lines spoken or sung are:
+
+Demea (28%)
+Micio (23%)
+Syrus (14%)
+Aeschinus (10%)
+Sannio (7%)
+Hegio (5%)
+Geta (5%)
+Ctesipho (4.5%)
+Sostrata (2.5%)
+Canthara (1%)
+Ctesipho, Sostrata, and Canthara sing all their lines. The three old men Demea, Micio, and Hegio speak most of theirs, in iambic senarii, singing only occasionally.
+
+
+== Metrical structure ==
+
+Terence's plays are traditionally divided into five acts. However, it is not thought that these divisions go back to Terence's time. Also, the acts themselves do not always match the structure of the plays, which is more clearly shown by the variation in metres.
+In both Plautus and Terence's plays the usual pattern is to begin each section with iambic senarii (which were spoken without music), then a scene of music in various metres, and finally a scene in trochaic septenarii, which were apparently recited to the accompaniment of tibiae (a pair of reed pipes). In his book The Music of Roman Comedy, Moore calls this the "ABC succession", where A = iambic senarii, B = other metres, C = trochaic septenarii.
+In the Adelphi the ABC pattern is less evident than it is in some other plays. The pattern is:
+
+1. Aeschinus's misbehaviour causes alarm: ABCBAB, BBCB
+2. Syrus prevents Demea from finding Ctesipho: ABBC
+3. Aeschinus apologises and is forgiven: BBBC, ACB
+4. Demea finds Ctesipho: AC
+5. Demea takes control: ABC
+According to Moore, in this play (Terence's last) Terence shows a mastery of metre, moving from one metre to another to express mood and emotion as required.
+The abbreviation ia6 = iambic senarii, tr7 = trochaic septenarii, ia8 = iambic octonarii, tr8 = trochaic octonarii.
+Unusually for Terence, the play contains one short polymetric song (lines 610–617) with an irregular mixture of choriambic, wilamowitzianus, and other metres.
+
+
+=== Prologue ===
+Prologue (1–25): ia6 (25 lines)
+Terence defends himself against critics who accuse him of adding a scene from a play by Diphilus to a comedy by Menander; and also those who say that he received help in his writing. He tells the audience that the actors in the first scene, not the prologue, will explain the background.
+
+
+=== Aeschinus's behaviour causes alarm ===
+1.1–1.2 (26–154): ia6 (129 lines)
+Micio worries because his son Aeschinus, adopted from his brother Demea, has been out all night
+Demea criticises his brother Micio because Aeschinus has forcibly abducted a music-girl
+2.1 (155–196): mixed metres (mostly ia8 and tr7) (42 lines)
+The pimp Sannio attempts to prevent Aeschinus abducting the girl, and gets beaten up.
+2.1 (197–208): tr7 (12 lines)
+Sannio rues his situation (soliloquy).
+2.2 (209–227): tr8 (1 line), ia8 (18 lines)
+The wily slave Syrus negotiates with Sannio.
+2.2 (228–253): ia6 (26 lines)
+Sannio argues with Syrus about the injustice.
+2.3–2.4 (254–287): ia8 (34 lines)
+Ctesipho sings of his gratitude for his brother's help (soliloquy).
+Aeschinus continues the negotiation with Sannio.
+
+
+=== Sostrata is distressed ===
+3.1 (288–304): mixed tr7/ia8 (17 lines)
+Sostrata, whose daughter Aeschinus has secretly married, shares her anxieties with the nurse Canthara.
+3.2 (305–320): mainly ia8 (16 lines)
+Sostrata's slave Geta expresses his distress at Aeschinus's treachery (soliloquy).
+3.2 (321–329): tr7 (9 lines)
+He informs Sostrata about the abduction.
+3.2 (330–354): ia8 (25 lines)
+Sostrata sings of her distress. She sends Geta to the village to beg the assistance of Pamphila's relative, Hegio, and she tells Canthara to fetch a midwife.
+
+
+=== Syrus keeps Demea from finding Ctesipho ===
+3.3–3.5 (355–516): ia6 (163 lines)
+Demea is anxious because his son Ctesipho was involved in the abduction. Syrus arrives with some fish he has bought for a party. Demea is shocked when he overhears Syrus saying that Micio had given money for the harp-player and some for a feast as well. Syrus lies to Demea that Ctesipho disapproved of Aechinus's behaviour. He makes fun of Demea's expressions of approval of Ctesipho. He sends Demea to the farm on a fruitless search for Ctesipho, then goes inside.
+Just as he is setting out for the farm, however, Demea sees his friend Hegio approaching with Sostrata's servant Geta. Hegio tells him the shocking news: Aeschinus has violated the daughter of a friend of Hegio's, promised to marry her, but now has abandoned her for a harp-player. (At this moment cries are heard as Pamphila gives birth.) Hegio begs Demea to preserve the family honour; then he goes into Sostrata's house with Geta. Demea goes off looking for Micio.
+4.1 (517–526): mixed metres (tr8, tr7, ia8) (10 lines)
+Syrus reassures Ctesipho that his father has gone to the farm.
+4.1–4.2 (527–540): ia8 (14 lines)
+Syrus advises Ctesipho on how to deceive his father. Ctesipho begs him not to tell Demea where he is.  Suddenly Syrus is alarmed to see Demea coming back and ushers Ctesipho back inside.
+4.2 (541–591): tr7 (51 lines)
+Syrus spins a lie about how is wounded because Ctesipho beat him up. He sends Demea off on a wild goose chase through the city looking for Micio.
+
+
+=== Aeschinus determines to apologise ===
+4.3 (592–609): ia8 (18 lines)
+Micio apologises to Hegio for the wrong done to Sostrata's daughter. Hegio thanks him and asks him to come and reassure Sostrata. They go into Sostrata's house.
+4.4 (610–617): polymetric song (8 lines)
+Aeschinus, very agitated, sings of his disastrous situation.
+4.4 (618–624): tr7 (1 line), tr8 (6 lines)
+Aeschinus describes how he met Sostrata on her way to fetch a midwife, and how she rejected him.
+4.4–4.5 (625–637): tr7 (13 lines)
+He approaches Sostrata's door, determined to set the record straight
+
+
+=== Micio teases Aeschinus ===
+4.5 (638–678): ia6 (41 lines)
+Micio comes out of the door and teases Aeschinus, pretending that Pamphila is going to marry a stranger.
+4.5 (679–706): tr7 (28 lines)
+Aeschinus bursts into tears and his father reveals the truth.
+4.5 (707–712): ia7, ia8 (8 lines)
+Aeschinus sings of his delight in his father (soliloquy).
+
+
+=== Demea finds Ctesipho misbehaving ===
+4.6–5.3 (713–854): ia6 (142 lines)
+Demea returns furious after his fruitless search for Micio.
+He reproaches Micio about Aeschinus's marriage.
+Syrus, drunk, infuriates Demea even more. A slave comes out to call Syrus in.
+Demea realises Ctesipho is in Micio's house and rushes inside.
+Micio tries to calm Demea, who has discovered Ctesipho's misbehaviour.
+5.4 (855–881): tr7 (27 lines)
+Demea reflects on the error of his ways and determines to teach Micio a lesson.
+
+
+=== Demea takes charge ===
+5.5–5.8 (882–933): ia6 (52 lines)
+Demea surprises Syrus and Geta by speaking to them both affably.
+He surprises Aeschinus by hurrying on the marriage preparations.
+He also suggests that Micio must marry Sostrata.
+5.8 (934–958): ia8 (22 lines), ia6 (2 lines), ia8 (1 line)
+Micio is horrified by the idea, but Demea insists, and says he must also reward Hegio with a farm. (ia8)
+Micio is forced to accept (ia6).
+5.9 (959–997): tr7 (39 lines)
+In addition Demea stipulates Micio must free Syrus and his wife and lend him some money too. Then he tells Aeschinus that if he wishes to be guided in life rightly, he, Demea, is willing to guide him. Aeschinus calls Demea "Father" and agrees. As for Ctesipho, Demea allows him to keep his girlfriend, but it must stop there.
+
+
+== Classical Tradition ==
+Henry Fielding in Tom Jones (1749, Book XIV, ch. VIII) models Mr Nightingale and his brother after Terence's Adelphoe. Fielding writes: “They had always differed in their sentiments concerning the education of their children … For young Nightingale was his uncle’s godson, and had lived more with him than with his father.” Again in Book XVIII, ch. XIII: “These brothers lived in a constant state of contention about the government of their children, both heartily despising the method which each other took.”
+
+
+== References ==
+
+
+== Further reading ==
+Barsby, John A. 2002. "Terence and his Greek Models." In Due seminari Plautini. La tradizione del testo; modelli. Edited by C. Questa and R. Rafaelli, 251–277. Urbino, Italy: Quatro Venti.
+Damen, Mark L. 1990. "Structure and Symmetry in Terence’s Adelphoe." Illinois Classical Studies 15:85–106.
+Forehand, Walter E. 1985. Terence. Boston: Twayne.
+Frauenfelder, D. W. 1996. "Respecting Terence. Adelphoe 155–175." Classical World 90:23–32.
+Goldberg, Sander M. 1986. Understanding Terence. Princeton, NJ: Princeton Univ. Press.
+Grant, John N. 1980. "The Beginning of Menander,᾿Αδελφοί, β." Classical Quarterly 30:341–355.
+Henderson, John. 1988. "Entertaining Arguments: Terence Adelphoe." In Post-Structuralist Classics. Edited by A. Benyamin, 192–226. London: Routledge.
+Lefèvre, Eckard. 2013. Terenz' und Menanders „Adelphoe“ [The "Adelphoe" by Terence and Menander]. Zetemata, vol. 145. Munich: Beck, ISBN 978-3-406-64771-0.
+Leigh, M. 2004. "Fatherhood and the Habit of Command: L. Aemilius Paullus and the Adelphoe." In Comedy and the Rise of Rome. By Matthew Leigh, 158–191. Oxford: Oxford Univ. Press.
+Traill, Ariana. 2013. "Adelphoe." In A Companion to Terence. Edited by Anthony Augoustakis and Ariana Traill, 318–341. Chichester, UK: Wiley-Blackwell.
+Victor, Benjamin. 2012. "Terentius Orator an Poeta: The endings of Eunuch and Adelphoe." Classical Quarterly 62:671–791.
+
+
+== External links ==
+
+ Latin Wikisource has original text related to this article: Adelphoe
+Terence with an English Translation by John Sargeaunt in Two Volumes (Phormio, The Mother-in-Law, The Brothers). Vol. 2. London and New York: William Heinemann and G.P. Putnam's Sons. 1918. p. 213-323. Retrieved 25 January 2018 – via Internet Archive.
+ Adelphi: or, The Brothers public domain audiobook at LibriVox
+The play's Latin text at TheLatinLibrary.com
+Adelphoe at Perseus Digital Library
+Review in BMCR of 2010 translation by David Christenson

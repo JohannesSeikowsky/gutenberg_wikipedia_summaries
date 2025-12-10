@@ -1,0 +1,200 @@
+The Ecclesiastical History of the English People (Latin: Historia ecclesiastica gentis Anglorum), written by Bede in about AD 731, is a history of the Christian Churches in England, and of England generally; its main focus is on the growth of Christianity. It was composed in Latin, and is believed to have been completed in 731 when Bede was approximately 59 years old. It is considered one of the most important original references on Anglo-Saxon history, and according to some scholars has played a key role in the development of an English national identity.
+
+
+== Overview ==
+
+The Historia ecclesiastica gentis Anglorum, or An Ecclesiastical History of the English People, is Bede's best-known work, completed in about 731. The first of the five books begins with some geographical background and then sketches the history of England, beginning with Julius Caesar's invasion in 55 BC. A brief account of Christianity in Roman Britain, including the martyrdom of St Alban, is followed by the story of Augustine's mission to England in 597, which brought Christianity to the Anglo-Saxons.
+The second book begins with the death of Gregory the Great in 604, and follows the further progress of Christianity in Kent and the first attempts to evangelise Northumbria. These encountered a setback when Penda, the pagan king of Mercia, killed the newly Christian Edwin of Northumbria at the Battle of Hatfield Chase in about 632. The setback was temporary, and the third book recounts the growth of Christianity in Northumbria under kings Oswald and Oswy. The climax of the third book is the account of the Council of Whitby, traditionally seen as a major turning point in English history. The fourth book begins with the consecration of Theodore as Archbishop of Canterbury, and recounts Wilfrid's efforts to bring Christianity to the kingdom of Sussex.
+The fifth book brings the story up to Bede's day, and includes an account of missionary work in Frisia, and of the conflict with the British church over the correct dating of Easter. Bede wrote a preface for the work, in which he dedicates it to Ceolwulf, king of Northumbria. The preface mentions that Ceolwulf received an earlier draft of the book; presumably, Ceolwulf knew enough Latin to understand it, and he may even have been able to read it. The preface makes it clear that Ceolwulf had requested the earlier copy, and Bede had asked for Ceolwulf's approval; this correspondence with the king indicates that Bede's monastery had excellent connections among the Northumbrian nobility.
+
+
+== Scope ==
+Divided into five books (totalling about 400 pages), the Historia covers the history of England, ecclesiastical and political, from the time of Julius Caesar to the date of its completion in 731.
+
+Book 1 Late Roman Republic to AD 603
+Book 2 AD 604–633
+Book 3 AD 633–665
+Book 4 AD 664–698
+Book 5 AD 687–731
+The first twenty-one chapters cover the time period before the mission of Augustine; compiled from earlier writers such as Orosius, Gildas, Prosper of Aquitaine, the letters of Pope Gregory I and others, with the insertion of legends and traditions.
+After 596, documentary sources that Bede took pains to obtain throughout England and from Rome are used, as well as oral testimony, which he employed along with critical consideration of its authenticity.
+
+
+== Sources ==
+The monastery at Jarrow had an excellent library. Both Benedict Biscop and Ceolfrith had acquired books from the Continent, and in Bede's day the monastery was a renowned centre of learning.
+For the period prior to Augustine's arrival in 597, Bede drew on earlier writers, including Orosius, Eutropius, Pliny, and Solinus. He used Constantius's Life of Germanus as a source for Germanus's visits to Britain. Bede's account of the Anglo-Saxon settlement of Britain is drawn largely from Gildas's De Excidio et Conquestu Britanniae. Bede would also have been familiar with more recent accounts such as Eddius Stephanus's Life of Wilfrid, and anonymous Lives of Gregory the Great and Cuthbert. He also drew on Josephus's Antiquities, and the works of Cassiodorus, and there was a copy of the Liber Pontificalis in Bede's monastery.
+Bede had correspondents who supplied him with material. Albinus, the abbot of the monastery in Canterbury, provided much information about the church in Kent, and with the assistance of Nothhelm, at that time a priest in London, obtained copies of Gregory the Great's correspondence from Rome relating to Augustine's mission. Almost all of Bede's information regarding Augustine is taken from these letters, which includes the Libellus responsionum, as chapter 27 of book 1 is often known.  Bede acknowledged his correspondents in the preface to the Historia Ecclesiastica; he was in contact with Daniel, the Bishop of Winchester, for information about the history of the church in Wessex, and also wrote to the monastery at Lastingham for information about Cedd and Chad. Bede also mentions an Abbot Esi as a source for the affairs of the East Anglian church, and Bishop Cynibert for information about Lindsey.
+The historian Walter Goffart argues that Bede based the structure of the Historia on three works, using them as the framework around which the three main sections of the work were structured. For the early part of the work, dealing with the time up to the Gregorian mission of Augustine of Canterbury, Goffart asserts that Bede used Gildas's De excidio. The second section, detailing the Gregorian mission, was framed on the anonymous Life of Gregory the Great written at Whitby. The last section, describing events after the Gregorian mission, Goffart says was modelled on Stephen of Ripon's Life of Wilfrid. Most of Bede's informants for information after Augustine's mission came from the eastern part of Britain, leaving significant gaps in the knowledge of the western areas, which were those areas likely to have a native Briton presence.
+
+
+== Contents ==
+The Ecclesiastical History has a clear polemical and didactic purpose. Bede sets out not just to tell the story of the English, but to advance his views on politics and religion.
+In political terms he is a partisan of his native Northumbria, amplifying its role in English history over and above that of Mercia, its great southern rival. He takes greater pains in describing events of the seventh century, when Northumbria was the dominant Anglo-Saxon power than the eighth, when it was not. The only criticism he ventures of his native Northumbria comes in writing about the death of King Ecgfrith in fighting the Picts at Nechtansmere in 685.
+Bede attributes this defeat to God's vengeance for the Northumbrian attack on the Irish in the previous year. For while Bede is loyal to Northumbria he shows an even greater attachment to the Irish and their missionaries, whom he considers to be far more effective and dedicated than their rather complacent English counterparts.
+His final preoccupation is over the precise date of Easter, which he writes about at length. It is here, and only here, that he ventures some criticism of St Cuthbert and the Irish missionaries, who celebrated the event, according to Bede, at the wrong time. In the end he is pleased to note that the Irish Church was saved from error by accepting the correct date for Easter.
+
+
+== Models ==
+Bede's stylistic models included some of the same authors from whom he drew the material for the earlier parts of his history. His introduction imitates the work of Orosius, and his title is an echo of Eusebius's Historia Ecclesiastica. Bede also followed Eusebius in taking the Acts of the Apostles as the model for the overall work: where Eusebius used the Acts as the theme for his description of the development of the church, Bede made it the model for his history of the Anglo-Saxon church.
+Bede quoted his sources at length in his narrative, as Eusebius had done.  Bede also appears to have taken quotes directly from his correspondents at times. For example, he almost always uses the terms "Australes" and "Occidentales" for the South and West Saxons respectively, but in a passage in the first book he uses "Meridiani" and "Occidui" instead, as perhaps his informant had done.  At the end of the work, Bede added a brief autobiographical note; this was an idea taken from Gregory of Tours' earlier History of the Franks.
+Bede's work as hagiographer, and his detailed attention to dating were both useful preparations for the task of writing the Historia Ecclesiastica. His interest in computus, the science of calculating the date of Easter, was also useful in the account he gives of the controversy between the British and Anglo-Saxon church over the correct method of obtaining the Easter date.
+
+
+== Themes ==
+One of the important themes of the Historia Ecclesiastica is that the conversion of Britain to Christianity had all been the work of Irish and Italian missionaries, with no efforts made by the native Britons. This theme was developed from Gildas' work, which denounced the sins of the native rulers during the invasions, with the elaboration by Bede that the invasion and settlement of Britain by the Angles and Saxons was God's punishment for the lack of missionary effort and the refusal to accept the Roman date for celebrating Easter. Although Bede discusses the history of Christianity in Roman Britain, it is significant that he ignores the missionary work of St Patrick.
+He writes approvingly of Aidan and Columba, who came from Ireland as missionaries to the Picts and Northumbrians, but disapproved of the failure of the Welsh to evangelize the invading Anglo-Saxons.  Bede was a partisan of Rome, regarding Gregory the Great, rather than Augustine, as the true apostle of the English.  Likewise, in his treatment of the conversion of the invaders, any native involvement is minimized, such as when discussing Chad of Mercia's first consecration, when Bede mentions that two British bishops took part in the consecration, thus invalidating it. No information is presented on who these two bishops were or where they came from. Also important is Bede's view of the conversion process as an upper-class phenomenon, with little discussion of any missionary efforts among the non-noble or royal population.
+Another view, taken by historian D. H. Farmer, is that the theme of the work is "the progression from diversity to unity". According to Farmer, Bede took this idea from Gregory the Great and illustrates it in his work by showing how Christianity brought together the native and invading races into one church. Farmer cites Bede's intense interest in the schism over the correct date for Easter as support for this argument, and also cites the lengthy description of the Synod of Whitby, which Farmer regards as "the dramatic centre-piece of the whole work." The historian Alan Thacker wrote in 1983 that Bede's works should be seen as advocating a monastic rather than secular ministry, and Thacker argues that Bede's treatment of St Cuthbert is meant to make Cuthbert a role-model for the role of the clergy advocated by Gregory the Great.
+The historian Walter Goffart says of the Historia that many modern historians find it a "tale of origins framed dynamically as the Providence-guided advance of a people from heathendom to Christianity; a cast of saints rather than rude warriors; a mastery of historical technique incomparable for its time; beauty of form and diction; and, not least, an author whose qualities of life and spirit set a model of dedicated scholarship." Goffart also feels that a major theme of the Historia is local, Northumbrian concerns, and that Bede treated matters outside Northumbria as secondary to his main concern with northern history. Goffart sees the writing of the Historia as motivated by a political struggle in Northumbria between a party devoted to Wilfrid, and those opposed to Wilfrid's policies.
+Much of the "current" history in the Historia is concerned with Wilfrid, who was a bishop in Northumbria and whose stormy career is documented not only in Bede's works but in a Life of Wilfrid. A theme in Bede's treatment of Wilfrid is the need to minimize the conflict between Wilfrid and Theodore of Tarsus, the Archbishop of Canterbury, who was involved in many of Wilfrid's difficulties.
+The Historia Ecclesiastica includes many accounts of miracles and visions. These were de rigueur in medieval religious narrative, but Bede appears to have avoided relating the more extraordinary tales; and, remarkably, he makes almost no claims for miraculous events at his own monastery.  There is no doubt that Bede did believe in miracles, but the ones he does include are often stories of healing, or of events that could plausibly be explained naturally.  The miracles served the purpose of setting an example to the reader, and Bede explicitly states that his goal is to teach morality through history, saying "If history records good things of good men, the thoughtful reader is encouraged to imitate what is good; if it records evil of wicked men, the devout reader is encouraged to avoid all that is sinful and perverse."
+
+
+== Bede's sparrow ==
+One of the most famous sections is the parable of the sparrow.  In 627 King Edwin of Northumbria was converted to Christianity. In Bede's account, the king held a meeting of his council to discuss acceptance of the new religion. The chief pagan priest, Coifu, declared that he had not had as much favour from the king or success in his undertakings as many other men even though no one had served the gods more faithfully, so he saw that they had no power and he would convert to Christianity. Then a leading councillor spoke:
+
+This is how the present life of man on earth, King, appears to me in comparison with that which is unknown to us. You are sitting feasting with your ealdormen and thegns in winter time; the fire is burning on the hearth in the middle of the hall and all inside is warm, while outside the wintry storms of rain and snow are raging; and a sparrow flies swiftly through the hall. It enters in at one door and quickly flies out through the other. For the few moments it is inside, the storm and wintry tempest cannot touch it, but after the briefest moment of calm, it flits from your sight, out of the wintry storm and into it again. So this life of man appears but for a moment; what follows or indeed what went before, we know not at all. If this new doctrine brings us more certain information, it seems right that we should accept it.
+
+
+== Omissions and bias ==
+Bede apparently had no informant at any of the main Mercian religious houses.  His information about Mercia came from Lastingham, now in North Yorkshire, and from Lindsey, a province on the borders of Northumbria and Mercia.  As a result, there are noticeable gaps in his coverage of Mercian church history, such as his omission of the division of the huge Mercian diocese by Theodore in the late 7th century. Bede's regional bias is apparent.
+There were clearly gaps in Bede's knowledge, but Bede also says little on some topics that he must have been familiar with.  For example, although Bede recounts Wilfrid's missionary activities, he does not give a full account of his conflict with Archbishop Theodore of Canterbury, or his ambition and aristocratic lifestyle.  Only the existence of other sources such as the Life of Wilfrid make it clear what Bede discreetly avoids saying.  The omissions are not restricted to Wilfrid; Bede makes no mention at all of the English missionary Boniface, though it is unlikely he knew little of him; the final book contains less information about the church in his own day than could be expected.  A possible explanation for Bede's discretion may be found in his comment that one should not make public accusations against church figures, no matter what their sins; Bede may have found little good to say about the church in his day and hence preferred to keep silent.  It is clear that he did have fault to find; his letter to Ecgberht contains several criticisms of the church.
+The Historia Ecclesiastica has more to say about episcopal events than it does about the monasteries of England. Bede does shed some light on monastic affairs; in particular, he comments in book V that many Northumbrians are laying aside their arms and entering monasteries "rather than study the arts of war. What the result of this will be the future will show."  This veiled comment, another example of Bede's discretion in commenting on current affairs, could be interpreted as ominous given Bede's more specific criticism of quasi-monasteries in his letter to Ecgberht, written three years later.
+Bede's account of life at the court of the Anglo-Saxon kings includes little of the violence that Gregory of Tours mentions as a frequent occurrence at the Frankish court. It is possible that the courts were as different as their descriptions make them appear but it is more likely that Bede omitted some of the violent reality. Bede states that he wrote the work as an instruction for rulers, in order that "the thoughtful listener is spurred on to imitate the good". It also was no part of Bede's purpose to describe the kings who did not convert to Christianity in the Historia.
+
+
+== Anno Domini ==
+In 725 Bede wrote The Reckoning of Time (De Temporum Ratione), using something similar to the anno Domini era (BC/AD dating system) created by the monk Dionysius Exiguus in 525, continuing to use it throughout Historia Ecclesiastica, becoming very influential in causing that era to be adopted thereafter in Western Europe. Specifically, he used anno ab incarnatione Domini (in the year from the incarnation of the Lord) or anno incarnationis dominicae (in the year of the incarnation of the Lord). He never abbreviated the term like the modern AD. Bede counted anno Domini from Christ's birth, not from Christ's conception.
+Within this work, he was the first writer to use a term similar to the English before Christ. In book I chapter 2 he used ante incarnationis dominicae tempus (before the time of the incarnation of the Lord). However, the latter was not very influential—only this isolated use was repeated by other writers during the rest of the Middle Ages. The first extensive use of "BC" (hundreds of times) occurred in Fasciculus Temporum by Werner Rolevinck in 1474, alongside years of the world (anno mundi).
+
+
+== Continuation of Bede ==
+Some early manuscripts contain additional annalistic entries that extend past the date of completion of the Historia Ecclesiastica, with the latest entry dated 766.  No manuscripts earlier than the twelfth century contain these entries, except for the entries for 731 through 734, which do occur in earlier manuscripts.  Much of the material replicates what is found in Simeon of Durham's chronicle; the remaining material is thought to derive from northern chronicles from the eighth century.
+The Historia was translated into Old English sometime between the end of the ninth century and about 930; although the surviving manuscripts are predominantly in the West Saxon dialect, it is clear that the original contained Anglian features and so was presumably by a scholar from or trained in Mercia. The translation was once held to have been done by King Alfred of England, but this attribution is no longer accepted, and debate centres on how far it owes its origins to the patronage of Alfred and/or his associates.
+The Anglo-Saxon Chronicle, the earliest tranche of which was composed/compiled around the same time as the translation was made, drew heavily on the Historia, which formed the chronological framework of the early parts of the Chronicle.
+
+
+== Assessment and influence ==
+The Historia Ecclesiastica was copied often in the Middle Ages, and about 160 manuscripts containing it survive. About half of those are located on the European continent, rather than in the British Isles. Most of the 8th- and 9th-century texts of Bede's Historia come from the northern parts of the Carolingian Empire. This total does not include manuscripts with only a part of the work, of which another 100 or so survive. It was printed for the first time between 1474 and 1482, probably at Strasbourg.
+Modern historians have studied the Historia extensively, and a number of editions have been produced. For many years, early Anglo-Saxon history was essentially a retelling of the Historia, but recent scholarship has focused as much on what Bede did not write as what he did. The belief that the Historia was the culmination of Bede's works, the aim of all his scholarship, a belief common among historians in the past, is no longer accepted by most scholars.
+The Historia Ecclesiastica has given Bede a high reputation, but his concerns were different from those of a modern writer of history. His focus on the history of the organization of the English church, and on heresies and the efforts made to root them out, led him to exclude the secular history of kings and kingdoms except where a moral lesson could be drawn or where they illuminated events in the church. In the early Middle Ages, the Anglo-Saxon Chronicle, Historia Brittonum, and Alcuin's Versus de patribus, regibus et sanctis Eboracensis ecclesiae all drew heavily on the text.
+Likewise, the later medieval writers William of Malmesbury, Henry of Huntingdon, and Geoffrey of Monmouth used his works as sources and inspirations. Early modern writers, such as Polydore Vergil and Matthew Parker, the Elizabethan Archbishop of Canterbury, also utilized the Historia, and his works were used by both Protestant and Catholic sides in the Wars of Religion.
+Some historians have questioned the reliability of some of Bede's accounts. One historian, Charlotte Behr, asserts that the Historia's account of the arrival of the Germanic invaders in Kent should be considered as current myth, not history. Historian Tom Holland writes that "When, in the generations that followed Alfred, a united kingdom of England came to be forged, it was Bede's history that provided it with a sense of ancestry that reached back beyond its foundation."
+
+
+== Manuscript tradition ==
+Manuscripts of the Historia Ecclesiastica fall generally into two groups, known to historians as the "c-type" and the "m-type". Charles Plummer, in his 1896 edition of Bede, identified six characteristic differences between the two manuscript types. For example, the c-type manuscripts omit one of the miracles attributed to St Oswald in book IV, chapter 14, and the c-type also includes the years 733 and 734 in the chronological summary at the end of the work, whereas the m-type manuscripts stop with the year 731.
+Plummer thought that this meant the m-type was definitely earlier than the c-type, but this has been disputed by Bertram Colgrave in his 1969 edition of the text. Colgrave points out that the addition of a couple of annals is a simple alteration for a copyist to make at any point in the manuscript history; he also notes that the omission of one of Oswald's miracles is not the mistake of a copyist, and strongly implies that the m-type is a later revision.
+Some genealogical relationships can be discerned among the numerous manuscripts that have survived. The earliest manuscripts used to establish the c-text and m-text are as follows. The letters under the "Version" column are identifying letters used by historians to refer to these manuscripts.
+
+
+=== Relationships between the manuscripts ===
+
+With few exceptions, Continental copies of the Historia Ecclesiastica are of the m-type, while English copies are of the c-type.  Among the c-texts, manuscript K includes only books IV and V, but C and O are complete. O is a later text than C but is independent of it and so the two are a valuable check on correctness. They are thought to have both derived from an earlier manuscript, marked "c2" in the diagram, which does not survive.
+A comparison of K and c2 yields an accurate understanding of the original c-text, but for the first three books, which are not in K, it is sometimes impossible to know if a variant reading in C and O represents the original state of the c-text, or is a variation only found in c2. One long chapter, book I chapter 27, is also found in another manuscript, Rh. 95 at the Zürich Zentralbibliothek; this is another witness to the c-text and appears to be independent of c2, and so is useful as a further cross-check on the c-text.
+The m-text depends largely on manuscripts M and L, which are very early copies, made not long after Bede's death. Both seem likely to have been taken from the original, though this is not certain. Three further manuscripts, U, E, and N, are all apparently the descendants of a Northumbrian manuscript that does not survive but which went to the continent in the late 8th century. These three are all early manuscripts, but are less useful than might be thought, since L and M are themselves so close to the original.
+The text of both the m-type and c-type seems to have been accurately copied. Taking a consensus text from the earliest manuscripts, Bertram Colgrave counted 32 places where there was an apparent error of some kind. However, 26 of these are to be found within a transcription from an earlier source, and it is apparent by checking independent copies of those sources that in such cases Bede copied the mistake into his own text.
+
+
+=== History of the manuscripts ===
+K appears to have been written in Northumbria in the late 8th century. Only books IV and V survive; the others were probably lost during the Middle Ages. The manuscript bears a 15th-century pressmark of the Abbey of Fulda.
+C, also known as the Tiberius Bede, was written in the south of England in the second half of the 8th century. Plummer argued that it was from Durham, but this is dismissed by Colgrave. The manuscript contains glosses in Old English that were added in the south during the 9th century.
+O dates to the early 11th century, and has subsequent corrections many of which are from the 12th century.
+L, also known as the St Petersburg Bede, was copied by four scribes no later than 747. The scribes were probably at either Wearmouth or Jarrow Abbey.
+M, also known as the Moore Bede, was written in Northumbria in 737 or shortly thereafter. The manuscript was owned at one time by John Moore, the Bishop of Ely, and as a result it is known as the Moore MS. Moore's collection was purchased by King George I and given to Cambridge University in 1715, where it still resides.
+U dates to the late 8th century, and is thought to be a copy, made on the continent, of an earlier Northumbrian manuscript ("c2" in the diagram above). It has been at Weissenburg since the end of the Middle Ages.
+E dates from the middle third of the 9th century. In 800, a list was made of books at Würzburg cathedral; the list includes one Historia Anglorum and E may be a copy of that manuscript. Subsequently, E is known to have been in the possession of Ebrach Abbey.
+N was copied in the 9th century by several scribes; at one point it was owned by St Hubert in the Ardennes.
+Manuscripts written before 900 include:
+
+Corbie MS, Bibliothèque Nationale, Paris
+St Gall Abbey Library
+Copies are sparse throughout the 10th century and for much of the 11th century. The greatest number of copies of Bede's work was made in the 12th century, but there was a significant revival of interest in the 14th and 15th centuries. Many of the copies are of English provenance, but also surprisingly many are Continental.
+
+
+== Printing history ==
+The first printed copy of the Historia Ecclesiastica appeared from the press of Heinrich Eggestein in Strasbourg, probably between 1475 and 1480. A defect in the text allows the identification of the manuscript Eggestein used; it subsequently appeared in a catalogue of the Vienna Dominicans of 1513. Eggestein had also printed an edition of Rufinus's translation of Eusebius's Ecclesiastical History, and the two works were reprinted, bound as a single volume, on 14 March 1500 by Georg Husner, also of Strasbourg. Another reprint appeared on 7 December 1506, from Heinrich Gran and S. Ryman at Haguenau.
+A Paris edition appeared in 1544, and in 1550 John de Grave produced an edition at Antwerp. Two reprints of this edition appeared, in 1566 and 1601. In 1563, Johann Herwagen included it in volume III of his eight-volume Opera Omnia, and this was in turn reprinted in 1612 and 1688. Michael Sonnius produced an edition in Paris in 1587, including the Historia Ecclesiastica in a collection of other historical works; and in 1587 Johann Commelin included it in a similar compilation, printed at Heidelberg. In 1643, Abraham Whelock produced at Cambridge an edition with the Old English text and the Latin text in parallel columns, the first in England.
+All of the above editions were based on the C-text. The first edition to use the m-type manuscripts was printed by Pierre Chifflet in 1681, using a descendant of the Moore MS. For the 1722 edition, John Smith obtained the Moore MS., and also, having access to two copies in the Cotton Library, was able to print a very high-quality edition. Smith undertook his edition under the influence of Thomas Gale, encouraged by Ralph Thoresby, and with assistance of Humfrey Wanley on Old English.
+He spent the majority of his time residing in Cambridge, and working on it, but did not live to complete the preparation. His son George brought out in 1722 the Historiæ Ecclesiasticæ Gentis Anglorum Libri Quinque, auctore Venerabili Bæda ... cura et studio Johannis Smith, S. T. P., published by Cambridge University Press. It contains the preface to The Reckoning of Time, and a world-chronicle. It had the Old English version of the Historia ecclesiastica. Smith's edition is described by David C. Douglas as "an enormous advance" on previous ones, adding that textual criticism of Bede hardly then changed until 1896, when the Plummer edition appeared.
+Subsequently, the most notable edition was that of Charles Plummer, whose 1896 Venerabilis Bedae Opera Historica, with a full commentary, has been a foundation-stone for all subsequent scholarship.
+
+
+== Facsimiles and manuscript images ==
+London, British Library, Cotton MS Tiberius C II, 1st half of 9th century, Latin https://www.bl.uk/collection-items/bedes-ecclesiastical-history-of-the-english-people
+Oxford, Bodleian Library MS. Tanner 10, first half of 10th century, Old English https://digital.bodleian.ox.ac.uk/objects/8fb7abbc-bea5-494b-8ed5-34d11c8ce942/surfaces/04b93784-d6fa-4346-852b-724c0d9d7877/
+Cambridge, Corpus Christi College, MS 041, c. 11th century, Old English https://parker.stanford.edu/parker/catalog/qd527zm3425
+Cambridge, University Library, MS Kk.5.16 (The Moore Bede), c.737 https://cudl.lib.cam.ac.uk/view/MS-KK-00005-00016/1
+
+
+== Editions ==
+1475: Heinrich Eggestein, Strasbourg.
+1550: John de Grave, Antwerp.
+1587: Michael Sonnius, Paris.
+1643: Abraham Whelock, Cambridge.
+1722: John Smith, Cambridge.
+1861: Migne, Patrologia Latina (vol. 95), reprint of Smith's edition.
+1896: Charles Plummer (ed.), Venerabilis Baedae Historiam ecclesiasticam gentis Anglorum, Historiam abbatum, Epistolam ad Ecgberctum una cum Historia abbatum auctore anonymo, 2 vols (Oxford: Clarendon Press, 1896).
+1969: Bertram Colgrave and R. A. B. Mynors (eds.), Bede's Ecclesiastical History of the English People (Oxford: Clarendon Press, 1969 [corr. repr. Oxford: Oxford University Press, 1991]).
+2005: Michael Lapidge (ed.), Pierre Monat and Philippe Robin (trans.), Bède le Vénérable, Histoire ecclésiastique du peuple anglais = Historia ecclesiastica gentis Anglorum, Sources chrétiennes, 489–91, 3 volumes (Paris: Cerf, 2005).
+2008–2010: Michael Lapidge (ed.), Paolo Chiesa (trans.), Beda, Storia degli Inglesi = Historia ecclesiastica gentis Anglorum, Scrittori greci e latini, 2 volumes (Rome/Milan: Fondazione Lorenzo Valla/Arnoldo Mondadori, 2008–2010). Complete critical apparatus.
+
+
+=== Translations ===
+Late ninth century: (in Old English) an anonymous, abbreviated translation, possibly at the suggestion of Alfred the Great.
+1565: (in English) Thomas Stapleton (Antwerp: John Laet, at the signe of the Rape) full text.
+1723: (in English) John Stevens (London: J. Batley at the Dove in Paternoster Row, and T. Meighan in Drury Lane) full text
+1845: (in English) John Allen Giles (London: James Bohn) full text.
+1866: (in German) M. M. Wilden. Kirchengeschichte des englischen Volkes (Schaffhausen: Hurter).
+1903: (in English) Lionel Cecil Jane (London: J.M. Dent, Temple Classics) full text.
+1907: (in English) A. M. Sellar (London: George Bell & Sons) full text.
+1910: (in English) Vida Dutton Scudder (London: J.M. Dent) full text.
+1955: (in English) Leo Sherley-Price (Penguin, reprinted with revisions 1965, revised 1968, revised 1990) full text.
+1969: (in English) Bertram Colgrave and R. A. B. Mynors (Oxford: Clarendon Press, reprint with corrections 1992) bilingual full text; English full text.
+1982: (in German) Günter Spitzbart (Darmstadt: Wissenschaftliche Buchgesellschaft).
+1989: (in Chinese) Chen Wei-zhen & Zhou Qing-min (Beijing: Commercial Press, 1st ed 1991).
+1995: (in French) Philippe Delaveau, Histoire ecclésiastique du peuple anglais (Paris: Gallimard).
+1999: (in French) Olivier Szerwiniack, Florence Bourgne, Jacques Elfassi, Mathieu Lescuyer, and Agnès Molinier, Histoire ecclésiastique du peuple anglais (Paris: Les Belles Lettres).
+2003: (in Russian) Vadim Erlikhman, Церковная история народа англов (Saint-Petersburg: Алетейя).
+2005: (in French) Pierre Monat and Philippe Robin, Histoire ecclésiastique du peuple anglais, notes by André Crépin, ed. Michael Lapidge (Paris: Cerf).
+2008: (in Japanese) Hirosi Takahashi (Tokyo: Kodansha).
+2008: (in Czech) Jaromír Kincl and Magdaléna Moravová, Církevní dějiny národa Anglů (Prague: Argo).
+2009: (in Italian) Paolo Chiesa, Storia degli Inglesi, ed. M. Lapidge (Milan: Fondazione Valla-Arnoldo Mondadori).
+2015: (in Slovene) Bogdan Kolar and Miran Sajovic, Cerkvena zgodovina ljudstva Anglov (Celje: Mohorjeva družba).
+
+
+== See also ==
+
+List of manuscripts of Bede's Historia Ecclesiastica
+Cædmon
+
+
+== Citations ==
+
+
+== Bibliography ==
+Abels, Richard (1983). "The Council of Whitby: A Study in Early Anglo-Saxon Politics". Journal of British Studies. 23 (1): 1–25. doi:10.1086/385808. JSTOR 175617. S2CID 144462900.
+Bede (1994). McClure, Judith; Collins, Roger (eds.). The Ecclesiastical History of the English People. Oxford, UK: Oxford University Press. ISBN 978-0-19-953723-5.
+Blair, Peter Hunter (1990). The World of Bede (Reprint of 1970 ed.). Cambridge: Cambridge University Press. ISBN 0-521-39819-3.
+Brown, George Hardin (1999). "Royal and Ecclesiastical rivalries in Bede's History". Renascence. 51 (1): 19–33. doi:10.5840/renascence19995213.
+Farmer, David Hugh (1978). The Oxford Dictionary of Saints. Oxford: Oxford University Press. ISBN 0-19282-038-9.
+Higham, N. J (2006). (Re-)Reading Bede: The Historia Ecclesiastica in Context. Routledge. ISBN 978-0415353687.
+Lapidge, Michael (2014). "Bede, OE". In Lapidge, Michael; Blair, John; Keynes, Simon; Scragg, Donald (eds.). The Wiley Blackwell Encyclopedia of Anglo-Saxon England (2nd ed.). Chichester, UK: Wiley Blackwell. p. 62. ISBN 978-0-631-22492-1.
+Ray, Roger (2001). "Bede". In Lapidge, Michael; et al. (eds.). Blackwell Encyclopedia of Anglo-Saxon England. Malden, MA: Blackwell. pp. 57–59. ISBN 978-0-631-22492-1.
+Thacker, Alan (1998). "Memorializing Gregory the Great: The Origin and Transmission of a Papal Cult in the 7th and early 8th centuries". Early Medieval Europe. 7 (1): 59–84. doi:10.1111/1468-0254.00018. S2CID 161546509.
+Tyler, Damian (April 2007). "Reluctant Kings and Christian Conversion in Seventh-Century England". History. 92 (306): 144–161. doi:10.1111/j.1468-229X.2007.00389.x.
+Waite, Greg (2025). "The Old English Bede: A Short Introduction, ROEP: Resources for Old English Prose, University of Oxford, 2025".
+
+
+== Further reading ==
+Jones, Putnam Fennell, A Concordance to the Historia ecclesiastica of Bede, Cambridge, 1929.
+Wallace-Hadrill, J. M., Bede's Ecclesiastical history of the English people: a historical commentary, Oxford: Clarendon Press; New York: Oxford University Press, 1988.
+
+
+== External links ==
+
+Bede, Historia ecclesiastica gentis Anglorum, in Latin from The Latin Library.
+Bede, Bede's Ecclesiastical History of England, A.M. Sellar's 1907 Translation. From the Christian Classics Ethereal Library. Also from Project Gutenberg
+Bede, The Ecclesiastical History of the English People in a freely-distributable PDF document.
+
+ Bede's Ecclesiastical History of England public domain audiobook at LibriVox
+The Old English Bede: A Short Introduction, by Greg Waite, ROEP: Resources for Old English Prose, University of Oxford, 2025

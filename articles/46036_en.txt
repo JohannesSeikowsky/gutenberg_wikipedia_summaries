@@ -1,0 +1,87 @@
+Sidereus Nuncius (usually Sidereal Messenger, also Starry Messenger or Sidereal Message) is a short astronomical treatise (or pamphlet) published in Neo-Latin by Galileo Galilei on March 13, 1610. It was the first published scientific work based on observations made through a telescope, and it contains the results of Galileo's early observations of the imperfect and mountainous Moon, of hundreds of stars not visible to the naked eye in the Milky Way and in certain constellations, and of the Medicean Stars (Galilean moons) that appeared to be circling Jupiter.
+The Latin word nuncius was typically used during this time period to denote messenger; however, it was also (though less frequently) rendered as message. Though the title Sidereus Nuncius is usually translated into English as Sidereal Messenger, many of Galileo's early drafts of the book and later related writings indicate that the intended purpose of the book was "simply to report the news about recent developments in astronomy, not to pass himself off solemnly as an ambassador from heaven."
+
+
+== Telescope ==
+The first telescopes appeared in the Netherlands in 1608, when Middelburg spectacle-maker Hans Lippershey tried to obtain a patent on one. By 1609 Galileo had learned of this and built his own improved version. He was not the first person to aim the new invention at the night sky but his was the first published study of celestial bodies using one. One of Galileo's first telescopes had 8x to 10x linear magnification and was made out of lenses that he had ground himself. This was increased to 20x linear magnification in the improved telescope he used to make the observations in Sidereus Nuncius.
+
+
+== Content ==
+
+Sidereus Nuncius contains more than seventy drawings and diagrams of the Moon, certain constellations such as Orion, the Pleiades, and Taurus, and the Medicean Stars of Jupiter. Galileo's text also includes descriptions, explanations, and theories of his observations.
+
+
+=== Moon ===
+In observing the Moon, Galileo saw that the line separating lunar day from night (the terminator) was smooth where it crossed the darker regions of the Moon but quite irregular where it crossed the brighter areas. From this he deduced that the darker regions are flat, low-lying areas, and the brighter regions rough and mountainous. Basing his estimate on the distance of sunlit mountaintops from the terminator, he judged, quite accurately, that the lunar mountains were at least four miles high. Galileo's engravings of the lunar surface provided a new form of visual representation, besides shaping the field of selenography, the study of physical features on the Moon.
+
+
+=== Stars ===
+Galileo reported that he saw at least ten times more stars through the telescope than are visible to the naked eye, and he published star charts of the belt of Orion and the star cluster Pleiades showing some of the newly observed stars. With the naked eye observers could see only six stars in the Pleiades; through his telescope, however, Galileo was capable of seeing thirty-five – almost six times as many. When he turned his telescope on Orion, he was capable of seeing eighty stars, rather than the previously observed nine – almost nine times more. In Sidereus Nuncius, Galileo revised and reproduced these two star groups by distinguishing between the stars seen without the telescope and those seen with it. Also, when he observed some of the "nebulous" stars in the Ptolemaic star catalogue, he saw that rather than being cloudy, they were made of many small stars. From this he deduced that the nebulae and the Milky Way were "congeries of innumerable stars grouped together in clusters" too small and distant to be resolved into individual stars by the naked eye.
+
+
+=== Medicean Stars (Moons of Jupiter) ===
+
+In the last part of Sidereus Nuncius, Galileo reported his discovery of four objects that appeared to form a straight line of stars near Jupiter. On the first night he detected a line of three little stars close to Jupiter parallel to the ecliptic; the following nights brought different arrangements and another star into his view, totalling four stars around Jupiter. Throughout the text, Galileo gave illustrations of the relative positions of Jupiter and its apparent companion stars as they appeared nightly from late January through early March 1610. That they changed their positions relative to Jupiter from night to night and yet always appeared in the same straight line near it, persuaded Galileo that they were orbiting Jupiter. On January 11 after four nights of observation he wrote:
+
+I therefore concluded and decided unhesitatingly, that there are three stars in the heavens moving about Jupiter, as Venus and Mercury round the Sun; which at length was established as clear as daylight by numerous subsequent observations. These observations also established that there are not only three, but four, erratic sidereal bodies performing their revolutions round Jupiter...the revolutions are so swift that an observer may generally get differences of position every hour.
+In his drawings, Galileo used an open circle to represent Jupiter and asterisks to represent the four stars. He made this distinction to show that there was in fact a difference between these two types of celestial bodies. It is important to note that Galileo used the terms planet and star interchangeably, and "both words were correct usage within the prevailing Aristotelian terminology."
+At the time of Sidereus Nuncius' publication, Galileo was a mathematician at the University of Padua and had recently received a lifetime contract for his work in building more powerful telescopes. He desired to return to Florence, and in hopes of gaining patronage there, he dedicated Sidereus Nuncius to his former pupil, now the Grand Duke of Tuscany, Cosimo II de' Medici. In addition, he named his discovered four moons of Jupiter the "Medicean Stars," in honor of the four royal Medici brothers. This helped him receive the position of Chief Mathematician and Philosopher to the Medici at the University of Pisa. Ultimately, his effort at naming the moons failed, for they are now referred to as the "Galilean moons".
+
+
+== Reception ==
+The reactions to Sidereus Nuncius, ranging from appraisal and hostility to disbelief, soon spread throughout Italy and England. Many poems and texts were published expressing love for the new form of astronomical science. Three works of art were even created in response to Galileo's book: Adam Elsheimer's The Flight into Egypt (1610; contested by Keith Andrews), Lodovico Cigoli's Assumption of the Virgin (1612), and Andrea Sacchi's Divine Wisdom (1631). In addition, the discovery of the Medicean Stars fascinated other astronomers, and they wanted to view the moons for themselves. Their efforts "set the stage for the modern scientific requirement of experimental reproducibility by independent researchers. Verification versus falsifiability…saw their origins in the announcement of Sidereus Nuncius."
+But many individuals and communities were sceptical. A common response to the Medicean Stars was simply to say that the telescope had a lens defect and was producing illusory points of light and images; those saying this completely denied the existence of the moons. That only a few could initially see and verify what Galileo had observed supported the supposition that the optical theory during this period "could not clearly demonstrate that the instrument was not deceiving the senses". By naming the four moons after the Medici brothers and convincing the Grand Duke Cosimo II of his discoveries, the defence of Galileo's reports became a matter of State. Moran notes, "the court itself became actively involved in pursuing the confirmation of Galileo's observations by paying Galileo out of its treasury to manufacture spyglasses that could be sent through ambassadorial channels to the major courts of Europe". The secretary to Giovanni Antonio Magini, a Bohemian astronomer named Martin Horký, published an incendiary pamphlet criticizing the Sidereus Nuncius, alleging in it that Galileo's observations were the result of poor lenses and influenced by personal ambitions. After gaining some traction in Italy, however, Horky's work was ultimately strongly rebutted.
+The first astronomer to publicly support Galileo's findings was Johannes Kepler, who published an open letter in April 1610, enthusiastically endorsing Galileo's credibility. It was not until August 1610 that Kepler was able to publish his independent confirmation of Galileo's findings, due to the scarcity of sufficiently powerful telescopes.
+Several astronomers, such as Thomas Harriot, Joseph Gaultier de la Vatelle, Nicolas-Claude Fabri de Peiresc, and Simon Marius, published their confirmation of the Medicean Stars after Jupiter became visible again in the autumn of 1610. Marius, a German astronomer who had studied with Tycho Brahe, was the first to publish a book of his observations. Marius attacked Galileo in Mundus Jovialis (published in 1614) by insisting that he had found Jupiter's four moons before Galileo and had been observing them since 1609. Marius believed that he therefore had the right to name them, which he did: he named them after Jupiter's love conquests: Io, Europa, Ganymede, and Callisto. But Galileo was not confounded; he pointed out that being outside the Church, Marius had not yet accepted the Gregorian calendar and was still using the Julian calendar. Therefore, the night Galileo first observed Jupiter's moons was January 7, 1610 on the Gregorian calendar—December 28, 1609 on the Julian calendar (Marius claimed to have first observed Jupiter's moons on December 29, 1609). Although Galileo did indeed discover Jupiter's four moons before Marius, Io, Europa, Ganymede, and Callisto are now the names by which Galileo's four moons are known.
+By 1626 knowledge of the telescope had spread to China when German Jesuit and astronomer Johann Adam Schall von Bell published Yuan jing shuo, (Explanation of the Telescope) in Chinese and Latin.
+
+
+== Controversy with the Catholic Church ==
+Galileo's drawings of an imperfect Moon directly contradicted Ptolemy's and Aristotle's cosmological descriptions of perfect and unchanging heavenly bodies made of quintessence (the fifth element in ancient and medieval philosophy of which the celestial bodies are composed).
+Before the publication of Sidereus Nuncius, the Catholic Church accepted the Copernican heliocentric system as strictly mathematical and hypothetical. However, once Galileo began to speak of the Copernican system as fact rather than theory, it introduced "a more chaotic system, a less-than-godly lack of organization." In fact, the Copernican system that Galileo believed to be real challenged the Scripture, "which referred to the sun 'rising' and the earth as 'unmoving.'"
+The conflict ended in 1633 with Galileo being sentenced to a form of house arrest by the Catholic Church. However, by 1633, Galileo had published other works in support of the Copernican view, and these were largely what caused his sentencing.
+
+
+== Translations ==
+
+
+=== English ===
+Edward Stafford Carlos; translations with introduction and notes. The Sidereal messenger of Galileo Galilei, and a part of the preface to Kepler's Dioptrics. Waterloo Place, London: Oxford and Cambridge, January 1880. 148 pp. ISBN 9781151499646.
+Stillman Drake. Discoveries and Opinions of Galileo, includes translation of Galileo's Sidereus Nuncius. Doubleday: Anchor, 1957. 320 pp. ISBN 978-0385092395.
+Stillman Drake. Telescopes, Tides, and Tactics: A Galilean Dialogue about The Starry Messenger and Systems of the World, including translation of Galileo's Sidereus Nuncius. London: University Of Chicago Press, 1983. 256 pp. ISBN 978-0226162317.
+Albert Van Helden (Professor Emeritus of History at Rice University); translation with introduction, conclusion and notes. Galileo Galilei, Sidereus Nuncius, or The Sidereal Messenger. Chicago and London: The University of Chicago Press, 1989. xiii + 127 pp. ISBN 978-0226279039.
+William R. Shea and Tiziana Bascelli; translated from the Latin by William R. Shea, introduction and notes by William R. Shea and Tiziana Bascelli. Galileo's Sidereus Nuncius or Sidereal Message. Sagamore Beach, MA: Science History Publications/USA, 2009. viii + 115 pp. ISBN 978-0-88135-375-4.
+
+
+=== French ===
+Isabelle Pantin. Sidereus Nuncius: Le Messager Céleste. Paris: Belles Lettres, 1992. ASIN B0028S7JLK.
+Fernand Hallyn. Le messager des étoiles. France: Points, 1992. ISBN 978-2757812259.
+
+
+=== German ===
+Anna Mudry. Sternenbotschaft, in Galilei Galilei: Schriften, Briefe, Dokumente, Band 1, pp. 94–144. Berlin: Rütten & Loening, 1987. ISBN 978-3-352-00122-2
+Hans Blumenberg. Sidereus Nuncius. Nachricht von neuen Sternen. Frankfurt: Suhrkamp, 1980. ISBN 978-3-51827937-3
+
+
+=== Italian ===
+Maria Timpanaro Cardini. Sidereus nuncius. Firenze: Sansoni, 1948.
+
+
+== See also ==
+Discourse on Comets
+Letters on Sunspots
+Nuncius (journal)
+Selenographia, sive Lunae descriptio
+
+
+== References ==
+
+
+== External links ==
+
+Sidereus Nuncius 1610. From Rare Book Room. Photographed first edition.
+Sidereus Nuncius, in Latin in HTML format, or in Italian in pdf format  or odt format. From LiberLiber.
+Linda Hall Library has a scanned first edition, as well as a scanned pirated edition from Frankfurt, also from 1610.
+Sidereus nuncius (Adams.5.61.1) Full digital edition in Cambridge Digital Library.
+The Sidereal Messenger of Galileo Galilei in English at Project Gutenberg.
+Sidereus nuncius Full digital edition in the Stanford Libraries.

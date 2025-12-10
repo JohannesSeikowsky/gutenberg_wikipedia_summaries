@@ -1,0 +1,55 @@
+The Luxuriant Dew of the Spring and Autumn Annals (Chinese: 春秋繁露; pinyin: Chūnqiū Fánlù) is an undated work attributed to philosopher Dong Zhongshu (179–104 BC). It has survived to the present, though its compilation might have continued past his lifetime into the 4th century. It is 82 chapters long and is about 72,000 words, although three of the chapters within the present text have been lost, and there is considerable textual confusion in other chapters. In its current form, the book deals with topics such as the five elements and their relation to politics. One of the chapters in this book presents the concept of the "source" (元), which became important to later Neo-Confucianism.
+
+
+== Authorships ==
+
+The work cannot be considered an authentic work by Dong or even a work mostly written by him. It bears many marks of multiple authorship and is both externally contradictory with other material on Dong's thought, and inconsistent with itself. Different chapters espouse mutually contradictory cosmological schemas, and there even seem to be references to the rise of Wang Mang, which did not happen until a century after the death of Dong. The title Luxuriant Dew of the Spring and Autumn Annals is not listed in the Book of Han, and there are no references whatsoever to any book of that name before 4th century mentioned by Ge Hong, 500 years after Dong's death.
+Whether the work was written by Dong himself has been called into question since the Song dynasty. For the first time the doubt is pronounced in the Chongwen Zongmu zh:崇文總目 (1034). The skeptical position was argumented by scholars including Zhu Xi, Cheng Yanzuo, Dai Junren, Keimatsu Mitsuo, and Tanaka Masami. Scholars now reject as later additions all of the passages that discuss five elements theory, and much of the rest of the work is questionable, as well. It seems safest to regard it as a collection of unrelated or loosely related chapters and shorter works, which could be subdivided into five categories. Most are more or less connected to the Gongyang Commentary and its school, written by a number of different persons at different times throughout the Han dynasty.
+Indeed, it may be nothing more than the mislabeled remains of a book listed in the Book of Han, the 82-chapter Miscellaneous Records of the Gongyang School (公羊雜記). Nevertheless, the Luxuriant Dew of the Spring and Autumn Annals should not be cast aside, especially since it seems to be a misattribution rather than an outright forgery. It remains a valuable compendium of early and mid-Han Confucian thought, if properly interpreted and contextualized, and it had an influence on later thinkers.
+
+
+== Content and structure ==
+Several subdivisions have been put forward in the past in an attempt to impose some sort of order on the contents of the Luxuriant Dew of the Annals. One can divide the text into seven main sections, some of which can be further divided into subsections, based on features of both content and structure. 
+These sections are:
+
+The Annals group
+The "Huang-lao" or "Daoist" group
+The politico-ethical group
+The cosmological group
+The Five Forces or Five Elements group
+The sacrifices group
+The miscellaneous group
+Section A, the Annals group, chapters 1-17, is characterized by a concentration on the meaning of Annals texts, or on more general principles extracted from the canon.
+Section B is the "Huang-Lao" or "Daoist" group. This is one of the better-recognized subdivisions in the text. It is composed of the chapter titles from 18 to 22 and the chapter texts from 19 to 22. (The text of Chapter 18, for reasons discussed elsewhere, should be repositioned in Section G2). One can underestimate the amount of Confucian thought in these essays, some of it displayed in a very subtle manner, but on the whole the spirit is Huang-lao and the canon and Confucian norms are taken lightly here.
+Section C concerns political and ethical theory, and once again the chapters can be subdivided into three smaller groupings:
+
+Section C1, the first six chapters, all address the order of rank in government and society. Chapter 23, "The three dynasties changed regulations from simple to refined" is a theoretical statement of historical change, complete with prescriptions for proper ritual in each of the cosmic periods. Chapters 24, "Official regulations take Heaven as image" and 28, "Ranks and states," discuss official hierarchies and feudal rankings, respectively. Chapter 25, "Yao and Shun did not abdicate on their own authority, Tang and Wu did not presume to kill," clarifies the rightness of some alleged violations of the order of rank charged to the sage-kings. Finally, 26 "Clothing regulations" (lost except for its first sentence) and 27 "Measured regulations" lay down sumptuary rules.
+Section C2 is made up of the six chapters 29, "The standard of selflessness and right," 30, "It is necessary to be both selfless and wise," 31, "Emphasize the right in the nourishment of the self," 32, "Reply to the King of Jiaoxi [sic]: The great officers of Yue were incapable of selflessness," 33, "Examining moral power," and 34, "Reverencing the root." The chapters as a whole center around ethical questions, particularly casuistry, the interplay, and possible or apparent interference, between ethical norms. Most have a political relevance, more or less distant, and there is a great deal of reference to the canon.
+Section C3 contains three chapters dealing with epistemology. Chapter 35, "A profound examination of names and appellations" takes up the subject at length, including a concerted attack on Mencius for stating that the xing, "natural tendency," is intrinsically good. Chapter 36, "The real meaning of 'nature'," is either a summary of 35 or a much briefer text from which 35 was developed. Su Yu, the late Qing dynasty editor, believes it is the former, but it is very hard to be sure one way or the other. Chapter 37, "Feudal lords," is a very short treatment of the words that form its title, with the intent of explaining their "real" meaning.
+Section D, from 38, "Reply on the Five Forces" to 57, "Things of the same kind stimulate each other," discuss the stimulus-response relationship between Heaven and man. Most chapters in the group make extensive use of Yin-Yang and Five Forces concepts, separately or in combination. There is little evident order in the sequence they are presented, and three of the chapters (39, 40, and 54) are missing.
+Section E, which runs from Chapter 58, "The mutual production of the Five Forces," to 64, "The Five Forces and the Five Affairs," also discusses stimulus-response cosmology. However, the overwhelming influence in these chapters is from Five Forces theory: the words "Five Forces" appear in each of the chapter titles, and Yin-Yang is in a very subordinate position when used at all. As Tanaka Masami and Sarah Queen have pointed out (echoing Su Yu), many close parallels to the Huang-lao Daoist work Huai nanzi can be found here.
+Section F, the twelve chapters from 65, "A discourse on the suburban sacrifice," to 76, "The significance of sacrifices," discusses sacrificial services. Most of the first half of this section is devoted to discussion of the suburban sacrifice, but the texts are in bad shape and the damage seems to be very early. Other topics covered include the four seasonal sacrifices and the starting and stopping of rain (chapters 74 and 75). There is also Chapter 73, the "Praise-ode to mountains and rivers," which can be confidently dated to the last few decades of Former Han at the latest.
+Section G is a mixed bag of sometimes rather dull political texts and documents from the yangsheng "nourishing life" school. Only two of the chapters, 79, "The birthplace of severity and moral power," and 80, "Like the doings of Heaven," have proper titles. Chapters 77, "Following the Way of Heaven," 78, "The actions of Heaven and earth," 81, "Heaven, earth, Yin, and Yang," and 82, "The Way of Heaven acts," all lack their own titles and pass under the first few characters of their text. The "Chapter 18" text, minus its title, also belongs in this group. (The only other chapters in the book with disturbed or irregular titles are Chapter 1, "King Zhuang of Chu," where the original title "Luxuriant Dew" (Fanlu) was appropriated as part of the book title, and Chapter 67, "The suburban sacrifice," where the copyist omitted removing the original title from the head of the essay when the text was recopied.)
+The chapters in Section G fall into two groups:
+
+Section G1 is the yangsheng "nourishing life" group. This includes chapters 77 and 78. They present techniques for living out one's full lifespan.
+Section G2 is made up of the political essays from Chapters 79 to 82, plus the untitled material from Section B (Chapter 18 text), rather dull and generic material on the whole. They are far more tolerant of punishment, and establishing the right to punish, than better attributed Gongyang material usually is.
+
+
+== Notes ==
+
+
+== References ==
+
+Jin, Chunfeng, Chunqiu Fanlou (Luxuriant Dew of the Spring and Autumn Annals). Encyclopedia of China (Philosophy Edition), 1st ed.
+Cui, Tao. Chunqiu Fanlou Danxingben Banben Kaolue (A Review of the Extand Edition of Book Chunqiu Fanlu) Journal of Huazhong University of Science and Technology, p. 95-98, 2004.3. 
+Arbuckle, Gary. (1989). A note on the authenticity of the Chunqiu Fanlu: the date of Chapter 73, "Shan Chuan Song" ("Praise-Ode to Mountains and Rivers"), T'oung Pao LXXV: 226-234.
+Arbuckle, Gary. (1993). Five divine lords or one (human) emperor?, Journal of the American Oriental Society 113(2): 277-280.
+Arbuckle, Gary. (1994). The Gongyang school and Wang Mang, Monumenta Serica 42: 127-150.
+Arbuckle, Gary. (1995). Inevitable treason: Dong Zhongshu's theory of historical cycles and the devalidation of the Han mandate, Journal of the American Oriental Society 115(4).
+Gentz, Joachim (2008). "Language of Heaven, Exegetical Skepticism, and the Re-Insertion of Religious Concepts in the Gongyang Tradition". In Lagerwey, John; Kalinowski, Marc (eds.). Early Chinese Religion, Part One: Shang through Han (1250 BC-220 AD). Vol. II. Leiden: Brill. pp. 869–894. ISBN 9789047442424.
+*Queen, Sarah A. (1996). "Tung Chung-shu's literary corpus". From Chronicle to Canon: The Hermeneutics of the Spring and Autumn According to Tung Chung-shu. Cambridge: Cambridge University Press. ISBN 0-521-48226-7.
+
+
+== External links ==
+春秋繁露 Original text in Chinese

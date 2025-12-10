@@ -1,0 +1,93 @@
+Apicius, also known as De re culinaria or De re coquinaria (On the Subject of Cooking), is a collection of Roman cookery recipes, which may have been compiled in the fifth century AD, or earlier. Its language is in many ways closer to Vulgar than to Classical Latin, with later recipes using Vulgar Latin (such as ficatum, bullire) added to earlier recipes using Classical Latin (such as iecur, fervere). 
+The book has been attributed to an otherwise unknown Caelius Apicius, an invention based on the fact that one of the two manuscripts is headed with the words "API CAE" or rather because a few recipes are attributed to Apicius in the text: Patinam Apicianam sic facies (IV, 14) Ofellas Apicianas (VII, 2). It has also been attributed to Marcus Gavius Apicius, a Roman gourmet who lived sometime in the 1st century AD during the reign of Tiberius. The book also may have been authored by a number of different Roman cooks from the first century AD. Many of the recipes contain the ingredient silphium, which is speculated to have become extinct in the first century AD, which supports the earlier date. However, based on textual analysis, the food scholar Bruno Laurioux believes that the surviving version dates only from the fifth century (that is, the end of the Roman Empire): "The history of De Re Coquinaria indeed belongs then to the Middle Ages".
+
+
+== Organization ==
+
+The Latin text is organized in ten books with Greek titles, in an arrangement similar to that of a modern cookbook:
+
+Epimeles — The Diligent
+Sarcoptes — The Butcher
+Cepuros — The Gardener
+Pandectes — The Encyclopedia
+Ospreon — Pulses & Legumes
+Aeropetes — The Bird
+Polyteles — The Sumptuous
+Tetrapus — The Quadruped, Four-legged animals
+Thalassa — The Sea, Seafood
+Halieus — The Fisherman
+
+
+== Foods ==
+The foods described in the book are useful for reconstructing the dietary habits of the ancient world around the Mediterranean Basin. But the recipes are geared for the wealthiest classes, and a few contain what were exotic ingredients at that time (e.g., flamingo). A sample recipe from Apicius (8.6.2–3) follows:
+
+Aliter haedinam sive agninam excaldatam: mittes in caccabum copadia. cepam, coriandrum minutatim succides, teres piper, ligusticum, cuminum, liquamen, oleum, vinum. coques, exinanies in patina, amulo obligas. [Aliter haedinam sive agninam excaldatam] agnina a crudo trituram mortario accipere debet, caprina autem cum coquitur accipit trituram.
+Hot kid or lamb stew. Put the pieces of meat into a pan. Finely chop an onion and coriander, pound pepper, lovage, cumin, garum, oil, and wine. Cook, turn out into a shallow pan, thicken with wheat starch. If you take lamb you should add the contents of the mortar while the meat is still raw, if kid, add it while it is cooking.
+
+
+== Vinidarius ==
+In a completely different manuscript, there is also a very abbreviated epitome entitled Apici excerpta a Vinidario, a "pocket Apicius" by "an illustrious man" named Vinidarius, made as late as the Carolingian era. The Vinidarius of this book may have been a Goth, in which case his Gothic name may have been Vinithaharjis (𐍅𐌹𐌽𐌹𐌸𐌰𐌷𐌰𐍂𐌾𐌹𐍃), but this is only conjecture; despite being called "illustrious", nothing about him is truly known.
+Apici excerpta a Vinidario survives in a single 8th-century uncial manuscript. Despite the title, this booklet is not an excerpt purely from the Apicius text we have today, as it contains material not included in the longer Apicius manuscripts. Either some text was lost between the time the excerpt was made and the time the manuscripts were written, or there never was a "standard Apicius" text because the contents changed over time as it was adapted by readers.
+
+
+== Editions ==
+
+Once manuscripts surfaced, there were two early printed editions of Apicius, in Milan (1498, under the title In re quoquinaria) and Venice (1500). Four more editions in the next four decades reflect the appeal of Apicius. In the long-standard edition of C. T. Schuch (Heidelberg, 1867), the editor added some recipes from the Vinidarius manuscript. 
+Between 1498 (the date of the first printed edition) and 1936 (the date of Joseph Dommers Vehling's translation into English and bibliography of Apicius), there were 14 editions of the Latin text (plus one possibly apocryphal edition). The work was not widely translated, however; the first translation was into Italian, in 1852, followed in the 20th century by two translations into German and French. The French translation by Bertrand Guégan was awarded the 1934 Prix Langlois by the Académie française.
+
+
+== See also ==
+Medieval cuisine
+Le Viandier – a recipe collection generally credited to Guillaume Tirel, c 1300
+Liber de Coquina – (The book of cooking/cookery) is one of the oldest medieval cookbooks.
+The Forme of Cury – (Method of Cooking, cury being from Middle French cuire: to cook) is an extensive collection of medieval English recipes of the 14th century.
+
+
+== Notes ==
+
+
+== Bibliography ==
+
+
+=== Texts and translations ===
+Apicii decem libri qui dicuntur De re coquinaria ed. Mary Ella Milham. Leipzig: Teubner, 1969. [Latin]
+The Roman Cookery Book: A Critical Translation of the Art of Cooking By Apicius for Use in the Study and the Kitchen. Trans. Barbara Flower and Elisabeth Rosenbaum. London: Harrap, 1958. [Latin and English]
+Apicius: A Critical Edition with an Introduction and an English Translation. Ed. and trans. Christopher Grocock and Sally Grainger. Totnes:Prospect Books, 2006. ISBN 1-903018-13-7 [Latin and English]
+Apicius. L'art culinaire. Ed. and trans. Jacques André. Paris: Les Belles Lettres, 1974. [Latin and French]
+Apicius. Cookery and Dining in Imperial Rome. Trans. Joseph Dommers Vehling. 1936. [English]
+The Roman Cookery of Apicius. Trans. John Edwards. Vancouver: Hartley & Marks, 1984. [English]
+Nicole van der Auwera & Ad Meskens, Apicius. De re coquinaria: De romeinse kookkunst. Trans. Nicole van der Auwera and Ad Meskens. Archief- en Bibliotheekwezen in België, Extranummer 63. Brussels, Koninklijke Bibliotheek, 2001. [Dutch]
+
+
+=== Secondary material ===
+Alföldi-Rosenbaum, Elisabeth (1972). "Apicius de re coquinaria and the Vita Heliogabali". In Straub, J., ed., Bonner Historia-Augusta-Colloquium 1970. Bonn, 1972. Pp. 5–18.
+Bode, Matthias (1999). Apicius – Anmerkungen zum römischen Kochbuch. St. Katharinen: Scripta Mercaturae Verlag.
+Déry, Carol. "The Art of Apicius". In Walker, Harlan, ed. Cooks and Other People: Proceedings of the Oxford Symposium on Food and Cookery 1995. Totnes: Prospect Books. Pp. 111–17.
+Grainger, Sally (2006). Cooking Apicius: Roman Recipes for Today. Totnes: Prospect Books.
+Grainger, Sally (2007). "The Myth of Apicius". Gastronomica, 7(2): 71–77.
+Lindsay, H. (1997). “Who was Apicius?”. Symbolae Osloenses, 72: 144-154.
+Mayo, H. (2008). "New York Academy of Medicine MS1 and the textual tradition of Apicius". In Coulson, F. T., & Grotans, A., eds., Classica et Beneventana: Essays Presented to Virginia Brown on the Occasion of her 65th Birthday. Turnhout: Brepols. Pp. 111–135.
+Milham, Mary Ella (1950). A Glossarial Index to De re coquinaria of Apicius. Ph.D. thesis, University of Wisconsin.
+
+
+== External links ==
+
+
+=== Latin text ===
+
+Bibliotheca Augustana: De Re Coquinaria Libri Decem Mary Ella Milham's edition, nicely presented (Latin)
+Text of the cookbook in Latin at The Latin Library
+Works by Apicius at Project Gutenberg
+Works by or about Apicius at the Internet Archive
+Another version of the Latin text (source not stated)
+Vehling English translation
+Diplomatic version of the Latin text, with parallel English translation and modern redaction of the recipes.
+Digital facsimile of Apici excerpta a Vinidario, BnF, MS lat. 10318, fols. 196–203, on Gallica
+
+
+=== Secondary material ===
+How to prepare a 5-dish ancient Roman meal by Apicius
+An alternate 5-dish ancient Roman meal by Apicius
+James Grout's Apicius, part of the Encyclopædia Romana
+Partial re-translation from a German translation, adapted for modern cooking styles (the untranslated "Liebstoeckl" is lovage; Poleiminze is pennyroyal; Saturei is savory herb)
+A 6 course banquet incorporating 12 Apician recipes and 9 from other Roman sources

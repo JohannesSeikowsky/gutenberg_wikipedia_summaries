@@ -1,0 +1,40 @@
+The Chemical History of a Candle was the title of a series of six lectures on the chemistry and physics of flames given by Michael Faraday at the Royal Institution in 1848, as part of the series of Christmas lectures for young people founded by Faraday in 1825 and still given there every year.
+The lectures described the different zones of combustion in the candle flame and the presence of carbon particles in the luminescent zone. Demonstrations included the production and examination of the properties of hydrogen, oxygen, nitrogen and carbon dioxide gases. An electrolysis cell is demonstrated, first in the electroplating of platinum conductors by dissolved copper, then the production of hydrogen and oxygen gases and their recombination to form water. The properties of water itself are studied, including its expansion while freezing (iron vessels are burst by this expansion), and the relative volume of steam produced when water is vaporized. Techniques for weighing gases on a balance are demonstrated. Atmospheric pressure is described, and its effects are demonstrated.
+Faraday emphasizes that several of the demonstrations and experiments performed in the lectures may be performed by children "at home" and makes several comments regarding proper attention to safety.
+The lectures were first printed as a book in 1861.
+In 2016, Bill Hammack published a video series of lectures supplemented by commentary and a companion book. Faraday's ideas are still used as the basis for open teaching about energy in modern primary and secondary schools 
+
+
+== Contents of the six lectures ==
+Lecture 1: A Candle: The Flame - Its Sources - Structure - Mobility - Brightness
+Lecture 2: Brightness of the Flame - Air necessary for Combustion - Production of Water
+Lecture 3: Products: Water from the Combustion - Nature of Water - A Compound - Hydrogen
+Lecture 4: Hydrogen in the Candle - Burns into Water - The Other Part of Water - Oxygen
+Lecture 5: Oxygen present in the Air - Nature of the Atmosphere - Its Properties - Other Products from the Candle - Carbonic Acid - Its Properties
+Lecture 6: Carbon or Charcoal - Coal Gas Respiration and its Analogy to the Burning of a Candle - Conclusion
+
+
+== Reception ==
+
+Intended for young beginners, for whom it is well adapted, as an introduction to the study of chemistry.
+According to Frank Wilczek:
+
+It is a wonderful laying-bare of surprising facts and intricate structure in a (superficially) familiar process — the burning of a candle. I think it exhibits a marvellously creative mind at work on its home ground, poking into details and following peculiarities to their root with carefully crafted experiments.
+According to Bill Griffith, F.R.S.C., of Imperial College London:
+
+Faraday uses the candle as a symbol to talk about the nature of combustion — how the oxygen from air is needed, how water and CO2 are produced and the hidden role of hydrogen. The text is lyrical and beautifully expressed, communicating his obvious enthusiasm, authority and sense of excitement. There were many accompanying demonstrations, often involving explosions and bright lights. Endearingly, Faraday talks about himself and the audience as ’we philosophers’ and, on one occasion, as ’we juveniles’.
+The book was of inspiration for the Nobel-prize winner Akira Yoshino when he was a child.
+Austrian philosopher Ludwig Wittgenstein admired the book and mentions it in Philosophical Investigations. Wittgenstein considered the book as an example of popular science done well, in contrast to other examples of popular science which "pander to people's curiosity to be titillated by the wonders of science without having to do any of the really hard work involved in understanding what science is about", such as the works of James Jeans. Faraday in contrast explains the difficulties and details of experiments.
+
+
+== References ==
+
+
+== External links ==
+
+Faraday, Michael (1861). W. Crookes (ed.). A Course of Six Lectures on the Chemical History of a Candle. Griffin, Bohn & Co. Full text of The Chemical History Of A Candle from Project Gutenberg
+Walker, Mark; Gröger, Martin; Schlüter, Kirsten; Mosler, Bernd (1 January 2008). "A Bright Spark: Open Teaching of Science Using Faraday's Lectures on Candles". Journal of Chemical Education. 85 (1): 59–62. doi:10.1021/ed085p59. Retrieved 5 November 2020.
+Faraday, Michael (1861). W. Crookes (ed.). A Course of Six Lectures on the Chemical History of a Candle. Griffin, Bohn & Co. ISBN 1-4255-1974-1. {{cite book}}: ISBN / Date incompatibility (help) Full text of The Chemical History Of A Candle from Internet Archive, with illustrations.
+Pattison, Darcy and Michael Faraday (2016). Burn: Michael Faraday's Candle. Mims House. Retrieved 5 November 2020. Picture book adaptation of Faraday's lecture.
+ The Chemical History of a Candle public domain audiobook at LibriVox
+The Chemical History of a Candle playlist on YouTube

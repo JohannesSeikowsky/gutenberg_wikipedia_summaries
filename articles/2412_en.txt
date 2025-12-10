@@ -1,0 +1,87 @@
+The Categories (Ancient Greek: Κατηγορίαι, romanized: Katēgoriai; Latin: Categoriae or Praedicamenta) is a text from Aristotle's Organon that enumerates all the possible kinds of things that can be the subject or the predicate of a proposition.  They are "perhaps the single most heavily discussed of all Aristotelian notions". The work is brief enough to be divided not into books, as is usual with Aristotle's works, but into fifteen chapters.
+The Categories places every object of human apprehension under one of ten categories (known to medieval writers as the Latin term praedicamenta). Aristotle intended them to enumerate everything that can be expressed without composition or structure, thus anything that can be either the subject or the predicate of a proposition.
+
+
+== The text ==
+
+
+=== The antepraedicamenta ===
+The text begins with an explication of what Aristotle means by  "synonymous", or univocal words, what is meant by "homonymous", or equivocal words, and what is meant by "paronymous", or denominative (sometimes translated "derivative") words.
+It then divides forms of speech as being:
+
+Either simple, without composition or structure, such as "man", "horse", "fights".
+Or having composition and structure, such as "a man argued", "the horse runs".
+Only composite forms of speech can be true or false.
+Next, he distinguishes between what is said "of" a subject and what is "in" a subject.  What is said "of" a subject describes the kind of thing that it is as a whole, answering the question "what is it?"  What is said to be "in" a subject is a predicate that does not describe it as a whole but cannot exist without the subject, such as the shape of something.  The latter has come to be known as inherence.
+Of all the things that exist, 
+
+Some may be predicated (that is, said) of a subject, but are in no subject; as man may be predicated of James or John (one may say "John is a man"), but is not in any subject.
+Some are in a subject, but cannot be predicated of any subject. Thus, a certain individual point of grammatical knowledge is in me as in a subject, but it cannot be predicated of any subject; because it is an individual thing.
+Some are both in a subject and able to be predicated of a subject, for example science, which is in the mind as in a subject, and may be predicated of geometry as of a subject ("Geometry is science").
+Last, some things neither can be in any subject nor can be predicated of any subject. These are individual substances, which cannot be predicated, because they are individuals; and cannot be in a subject, because they are substances.
+
+
+=== The praedicamenta ===
+Then we come to the categories themselves, whose definitions depend upon these four forms of predication. Aristotle's own text in Ackrill's standard English version is:
+
+Of things said without any combination, each signifies either substance or quantity or qualification or a relative or where or when or being-in-a-position or having or doing or being-affected. To give a rough idea, examples of substance are man, horse; of quantity: four-foot, five-foot; of qualification: white, grammatical; of a relative: double, half, larger; of where: in the Lyceum, in the market-place; of when: yesterday, last-year; of being-in-a-position: is-lying, is-sitting; of having: has-shoes-on, has-armour-on; of doing: cutting, burning; of being-affected: being-cut, being-burned. (1b25-2a4)
+
+A brief explanation (with some alternative translations) is as follows:
+
+Substance (οὐσία, ousia, essence or substance).  Substance is that which cannot be predicated of anything or be said to be in anything. Hence, this particular man or that particular tree are substances. Later in the text, Aristotle calls these particulars “primary substances”, to distinguish them from secondary substances, which are universals and can be predicated. Hence, Socrates is a primary substance, while man is a secondary substance. Man is predicated of Socrates, and therefore all that is predicated of man is predicated of Socrates.
+Quantity (ποσόν, poson, how much). This is the extension of an object, and may be either discrete or continuous.  Further, its parts may or may not have relative positions to each other. All medieval discussions about the nature of the continuum, of the infinite and the infinitely divisible, are a long footnote to this text.  It is of great importance in the development of mathematical ideas in the medieval and late Scholastic period. Examples: two cubits long, number, space, (length of) time.
+Qualification or quality (ποιόν, poion, of what kind or quality). This determination characterizes the nature of an object. Examples: white, black, grammatical, hot, sweet, curved, straight.
+Relative (πρός τι, pros ti, toward something). This is the way one object may be related to another. Examples: double, half, large, master, knowledge.
+Where or place (ποῦ, pou, where). Position in relation to the surrounding environment. Examples: in a marketplace, in the Lyceum.
+When or time (πότε, pote, when). Position in relation to the course of events. Examples: yesterday, last year.
+Relative position, posture, attitude (κεῖσθαι, keisthai, to lie). The examples Aristotle gives indicate that he meant a condition of rest resulting from an action: ‘Lying’, ‘sitting’, ‘standing’. Thus position may be taken as the end point for the corresponding action. The term is, however, frequently taken to mean the relative position of the parts of an object (usually a living object), given that the position of the parts is inseparable from the state of rest implied.
+Having or state, condition (ἔχειν, echein, to have or be). The examples Aristotle gives indicate that he meant a condition of rest resulting from an affection (i.e. being acted on): ‘shod’, ‘armed’. The term is, however, frequently taken to mean the determination arising from the physical accoutrements of an object: one's shoes, one's arms, etc. Traditionally, this category is also called a habitus (from Latin habere, to have).
+Doing or action (ποιεῖν, poiein, to make or do). The production of change in some other object (or in the agent itself qua other).
+Being affected or affection (πάσχειν, paschein, to suffer or undergo). The reception of change from some other object (or from the affected object itself qua other). Aristotle's name paschein for this category has traditionally been translated into English as "affection" and "passion" (also "passivity"), easily misinterpreted to refer only or mainly to affection as an emotion or to emotional passion.  For action he gave the example, ‘to lance’, ‘to cauterize’; for affection, ‘to be lanced’, ‘to be cauterized.’ His examples make clear that action is to affection as the active voice is to the passive voice — as acting is to being acted on.
+The first four are given a detailed treatment in four chapters, doing and being-affected are discussed briefly in a single small chapter, the remaining four are passed over lightly, as being clear in themselves. Later texts by scholastic philosophers also reflect this disparity of treatment.
+
+
+=== The postpraedicamenta ===
+In this part, Aristotle sets forth four ways things can be said to be opposed. Next, the work discusses five senses wherein a thing may be considered prior to another, followed by a short section on simultaneity. Six forms of movement are then defined: generation, destruction, increase, diminution, alteration, and change of place. The work ends with a brief consideration of the word 'have' and its usage.
+
+
+== See also ==
+Categories (Stoic) – Virtue-focused philosophical systemPages displaying short descriptions of redirect targets
+Categorization – Putting things into categoriesPages displaying short descriptions of redirect targets
+Category (disambiguation)
+Category (Kant) – Pure concept of the understanding in Kantianism
+Category of being – In ontology, the highest kinds or genera of entitiesPages displaying short descriptions of redirect targets
+Isagoge – Textbook on Logic by Prophyry
+Nyaya#Sixteen categories (padārthas) – One of six schools of Hindu philosophy
+Padārtha – Ontological categories in Indian philosophy
+Schema (Kant) – Rule by which a concept is associated with a sensory input in Kantianism
+Simplicius of Cilicia – Greek pagan philosopher (c. 480 – c. 540)
+Vaisheshika#The Categories or Padārtha – Ancient Indian philosophy
+
+
+== Notes ==
+
+
+== References ==
+Ackrill, John (1963). Aristotle, Categories and De Interpretatione (pdf). Oxford: At the Clarendon Press. ISBN 0198720866. {{cite book}}: ISBN / Date incompatibility (help)
+Aristotle (2014). "Categories". In Barnes, Jonathan (ed.). The Complete Works of Aristotle, 2 vols (One-Volume Digital Edition). Transl. J. L. Ackrill. Princeton: Princeton University Press. p. 2510. ISBN 9781400852765.
+Aristotle (1936). L. Minio-Paluello (ed.). Categoriae et Liber de Interpretatione. Oxford: Oxford University Press. ISBN 9780198145073. {{cite book}}: ISBN / Date incompatibility (help)
+Aristotle (1938). H. P. Cooke, Hugh Tredennick (ed.). Categories; On Interpretation; Prior Analytics. Loeb Classical Library 325. Cambridge, MA: Harvard University Press. ISBN 9780674993594. {{cite book}}: ISBN / Date incompatibility (help)
+
+
+== External links ==
+
+
+=== Text and translations ===
+ Works related to Categories (Owen) at Wikisource
+ Greek Wikisource has original text related to this article: Κατηγορίαι
+1930 "Oxford" translation by E. M. Edghill
+Classical Library HTML
+MIT Classical Archive HTML
+1963 translation by J. L. Ackrill, Chapters 1-5 PDF
+ Categories public domain audiobook at LibriVox
+
+
+=== Commentary ===
+Aristotle's Theory of Categories with an extensive bibliography
+Studtmann, Paul. "Aristotle's Categories". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.

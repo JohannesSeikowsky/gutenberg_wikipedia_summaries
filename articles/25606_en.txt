@@ -1,0 +1,76 @@
+The Records of the Three Kingdoms is a Chinese official history written by Chen Shou in the late 3rd century CE, covering the end of the Han dynasty (c. 184 – 220 CE) and the subsequent Three Kingdoms period (220–280 CE). It is regarded as to be the authoritative source text for these periods. Compiled following the reunification of China under the Jin dynasty (266–420), the work chronicles the political, social, and military events within rival states Cao Wei, Shu Han and Eastern Wu into a single text organized by individual biography.
+The Records are the primary source of information for the 14th-century historical novel Romance of the Three Kingdoms, considered to be one of the four classic novels emblematic of written vernacular Chinese.
+While large subsections of the work have been selected and translated into English, the entire corpus has yet to receive an unabridged English translation.
+
+
+== Origin and structure ==
+The Book of Han and Records of the Three Kingdoms join the original Han-era universal history Records of the Grand Historian to constitute the first three entries in the Twenty-Four Histories canon, with each work cementing the new genre's literary and historiographical qualities as established by Sima Qian. The Records of the Three Kingdoms consist of 65 fascicles divided into three books—one per eponymous kingdom—totaling around 360,000 Chinese characters in length. The Book of Wei, Book of Shu, and Book of Wu receive 30 fascicles, 15 fascicles, and 20 fascicles respectively. Each fascicle is organised in the form of one or more biographies.
+The author Chen Shou was born in present-day Nanchong, Sichuan, then in the state of Shu Han. After the Conquest of Shu by Wei in 263, he became an official historian under the government of the Jin dynasty, and created a history of the Three Kingdoms period. After the Conquest of Wu by Jin in 280, his work received the acclaim of senior minister Zhang Hua.
+Prior to the Jin dynasty, both the states of Cao Wei and Wu has already composed their own official histories: the Book of Wei by Wang Chen, Xun Yi, and Ruan Ji; and the Book of Wu by Wei Zhao, Hua He, Xue Ying, Zhou Zhao (周昭), and Liang Guang (梁廣). Additionally, Yu Huan had completed his privately compiled history of Wei, the Weilüe. Chen Shou used these texts as the foundation of the Records of the Three Kingdoms. However, since the state of Shu lacked an official history bureau, the Book of Shu in the Records was composed by Chen Shou himself based on his earlier personal notes about events in Shu and other primary sources he collected, such as his previously compiled writings of Zhuge Liang.
+The Records of the Three Kingdoms used the year 220 CE—when the last emperor of the Han dynasty was forced to abdicate to Cao Pi—as the year in which the Wei dynasty was established. The Records refer to the rulers of Wei as 'Emperors' and those of Shu and Wu as 'Lords' or by their personal names.
+
+
+== Dates ==
+Due to the biographical rather than primarily annalistic arrangement of the work, assigning dates to the historical content is both imprecise and non-trivial. Certain fascicles contain background information about their subjects' forebears which date back centuries before the main record. For example, the biography of Liu Yan begins with discussing his ancestor Liu Yu's enfeoffment at Jingling (present-day Tianmen, Hubei) in around 85 CE. The first event to receive detailed description throughout the work is the Yellow Turban Rebellion in 184. Many biographies make passing mention of the event, but more concrete information such as correspondence and troop movements during the uprising can be found in fragmentary form in at least four fascicles: the biographies of Cheng Yu, Yu Jin, Liu Bei, and Sun Jian.
+The three books in the Records of the Three Kingdoms end at different dates, with the main section of the Book of Wei ending with the abdication of Cao Huan in February 266, the Book of Shu ending with the death of Liu Shan in 271, and the Book of Wu ending with the death of Sun Hao in 284.
+
+One abstract regarding the chronology is translated as follows: In the 24th year (of Jian'an), the Former Lord became the King of Hanzhong, and he appointed (Guan) Yu as the General of the Vanguard. In the same year, (Guan) Yu led his men to attack Cao Ren at Fan. Lord Cao sent Yu Jin to aid (Cao) Ren. In autumn, great rains caused the Han River to flood. (Yu) Jin and all seven armies he oversaw were inundated.
+
+
+== Contents ==
+
+
+=== Book of Wei (魏書) ===
+
+
+=== Book of Shu (蜀書) ===
+
+
+=== Book of Wu (吳書) ===
+
+
+== Annotations ==
+
+During the fifth century, the Liu Song dynasty historian Pei Songzhi (372–451) extensively annotated Chen Shou's Records of the Three Kingdoms using a variety of other sources, augmenting the text to twice the length of the original. This work, completed in 429, became one of the official histories of the Three Kingdoms period, under the title Sanguozhi zhu (三国志注 zhu meaning "notes"). Bibliographical records indicate that up until Pei's own Liu Song dynasty, Chen Shou's three books had circulated individually rather than as a single work.
+Pei collected other records to add information he felt should be added. He provided detailed explanations to some of the geography and other elements mentioned in the original. He also included multiple accounts of the same events. Sometimes, the accounts he added contradicted each other, but he included them anyway since he could not decide which version was the correct one. If Pei added something that sounded wrong, he would make a note or even offer a correction. In regard to historical events and figures, as well as Chen Shou's original text, he added his own commentary. Crucially, he cited his sources in almost every case.
+
+
+== Legacy ==
+The Records of the Three Kingdoms was the main source of inspiration for the 14th century Romance of the Three Kingdoms, one of the four great Classic Chinese Novels. As such the records is considered one of the most influential historical and cultural texts in Chinese history. In addition, the records provide one of the earliest accounts of Korea and Japan. Chen's Records set the standard for how Korea and Japan would write their official histories as well.
+
+
+=== Influence on Asia ===
+Chen's Records is the chronologically final text of the "Four Histories" (四史), which together influenced and served as a model for Korean and Japanese official histories.
+The Records are important to the research of early Korean (삼국지 Samguk ji) and Japanese history (三国志 Sangokushi). It provides, among other things, the first detailed account of Korean and Japanese societies such as Goguryeo, Yemaek and Wa. The passages in Fascicle 30 about the Wa, where the Yamatai-koku and its ruler Queen Himiko are recorded, are referred to as the Wajinden in Japanese studies. The Japanese did not have their own records until more than three centuries later, with the earliest extant native record being the Kojiki of 712.
+
+
+=== Romance of the Three Kingdoms ===
+The text forms the foundation on which the 14th-century novel Romance of the Three Kingdoms by Luo Guanzhong is based. In addition, Chen Shou's literary style and vivid portrayal of characters have been a source of influence for the novel.
+The Records include biographies of historical figures such as Cao Cao and Guan Yu who feature prominently in the Romance of the Three Kingdoms, though the Romance also includes a number of characters and stories that are fictional. However, most of the historical facts were drawn from Chen's Records.
+
+
+== Translations ==
+The Records of the Three Kingdoms has not been fully translated into English. William Gordon Crowell alludes to a project to translate Chen Shou's work with Pei Songzhi's commentary in full, but it was apparently discontinued. Parts of that project are published by Robert Joe Cutter and William Gordon Crowell under the title Empresses and Consorts: Selections from Chen Shou's Records of the Three States With Pei Songzhi's Commentary (University of Hawaii Press, 1999), which includes the translations for fascicles 5, 34, and 50.
+Other translations include Kenneth J. Dewoskin's Doctors Diviners and Magicians of Ancient China: Biographies of Fang-Shih (Columbia University Press, 1983), which includes a full translation of fascicle 29. Rafe de Crespigny, in addition to his translation of Sun Jian's biography (Fascicle 46), also translated excerpts of the Records of the Three Kingdoms in his translation of the Zizhi Tongjian that deals with the last years of the Han dynasty, as does Achilles Fang, who translated the Zizhi Tongjian fascicles that deal with the Three Kingdoms period proper. The Zizhi Tongjian fascicles in question draw heavily from Records of the Three Kingdoms. Further excerpts of the Records can be found in various sourcebooks dealing with East Asian history.
+Below is a table containing the known English translations of the Records of the Three Kingdoms that have been published in academia:
+
+
+== See also ==
+Lists of people of the Three Kingdoms
+Timeline of the Three Kingdoms period
+Military history of the Three Kingdoms
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+== External links ==
+
+(in Chinese) Records of the Three Kingdoms on the Chinese Text Project page
+(in Chinese) Records of the Three Kingdoms 《三國志》 Chinese text with matching English vocabulary

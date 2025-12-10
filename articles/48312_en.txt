@@ -1,0 +1,94 @@
+The Foundations of Arithmetic (German: Die Grundlagen der Arithmetik) is a book by Gottlob Frege, published in 1884, which investigates the philosophical foundations of arithmetic. Frege refutes other idealist and materialist theories of number and develops his own platonist theory of numbers.  The Grundlagen also helped to motivate Frege's later works in logicism. 
+The book was also seminal in the philosophy of language. Michael Dummett traces the linguistic turn to Frege's Grundlagen and his context principle.
+The book was not well received and was not read widely when it was published. It did, however, draw the attentions of Bertrand Russell and Ludwig Wittgenstein, who were both heavily influenced by Frege's philosophy. An English translation was published (Oxford, 1950) by J. L. Austin, with a second edition in 1960.
+
+
+== Linguistic turn ==
+Gottlob Frege, Introduction to The Foundations of Arithmetic (1884/1980)
+In the enquiry that follows, I have kept to three fundamental principles:
+always to separate sharply the psychological from the logical, the subjective from the objective;
+never to ask for the meaning of a word in isolation, but only in the context of a proposition
+never to lose sight of the distinction between concept and object.
+In order to answer a Kantian question about numbers, "How are numbers given to us, granted that we have no idea or intuition of them?" Frege invokes his "context principle", stated at the beginning of the book, that only in the context of a proposition do words have meaning, and thus finds the solution to be in defining "the sense of a proposition in which a number word occurs." Thus an ontological and epistemological problem, traditionally solved along idealist lines, is instead solved along linguistic ones.
+
+
+== Criticisms of predecessors ==
+
+
+=== Psychologistic accounts of mathematics ===
+Frege objects to any account of mathematics based on psychologism, that is, the view that mathematics and numbers are relative to the subjective thoughts of the people who think of them. According to Frege, psychological accounts appeal to what is subjective, while mathematics is purely objective: mathematics is completely independent from human thought.  Mathematical entities, according to Frege, have objective properties regardless of humans thinking of them: it is not possible to think of mathematical statements as something that evolved naturally through human history and evolution. He sees a fundamental distinction between logic (and its extension, according to Frege, math) and psychology. Logic explains necessary facts, whereas psychology studies certain thought processes in individual minds. Ideas are private, so idealism about mathematics implies there is "my two" and "your two" rather than simply the number two.
+
+
+=== Kant ===
+Frege greatly appreciates the work of Immanuel Kant. However, he criticizes him mainly on the grounds that numerical statements are not synthetic-a priori, but rather analytic-a priori.
+Kant claims that 7+5=12 is an unprovable synthetic statement. No matter how much we analyze the idea of 7+5 we will not find there the idea of 12. We must arrive at the idea of 12 by application to objects in the intuition. Kant points out that this becomes all the more clear with bigger numbers. Frege, on this point precisely, argues towards the opposite direction. Kant wrongly assumes that in a proposition containing "big" numbers we must count points or some such thing to assert their truth value. Frege argues that without ever having any intuition toward any of the numbers in the following equation: 654,768+436,382=1,091,150 we nevertheless can assert it is true. This is provided as evidence that such a proposition is analytic. While Frege agrees that geometry is indeed synthetic a priori, arithmetic must be analytic.
+
+
+=== Mill ===
+Frege roundly criticizes the empiricism of John Stuart Mill. He claims that Mill's idea that numbers correspond to the various ways of splitting collections of objects into subcollections is inconsistent with confidence in calculations involving large numbers. He further quips, "thank goodness everything is not nailed down!"  Frege also denies that Mill's philosophy deals adequately with the concept of zero. 
+He goes on to argue that the operation of addition cannot be understood as referring to physical quantities, and that Mill's confusion on this point is a symptom of a larger problem of confounding the applications of arithmetic with arithmetic itself.
+Frege uses the example of a deck of cards to show numbers do not inhere in objects. Asking "how many" is nonsense without the further clarification of cards or suits or what, showing numbers belong to concepts, not to objects.
+
+
+== Julius Caesar problem ==
+The book contains Frege's famous anti-structuralist Julius Caesar problem. Frege contends a proper theory of mathematics would explain why Julius Caesar is not a number.
+
+
+== Development of Frege's own view of a number ==
+
+Frege makes a distinction between particular numerical statements such as 1+1=2, and general statements such as a+b=b+a. The latter are statements true of numbers just as well as the former. Therefore, it is necessary to ask for a definition of the concept of number itself. 
+Frege investigates the possibility that number is determined in external things. He demonstrates how numbers function in natural language just as adjectives. "This desk has 5 drawers" is similar in form to "This desk has green drawers". The drawers being green is an objective fact, grounded in the external world. But this is not the case with 5. Frege argues that each drawer is on its own green, but not every drawer is 5.
+Frege urges us to remember that from this it does not follow that numbers may be subjective. Indeed, numbers are similar to colors  at least in that both are wholly objective.  
+Frege tells us that we can convert number statements where number words appear adjectivally (e.g., 'there are four horses') into statements where number terms appear as singular terms ('the number of horses is four').  Frege recommends such translations because he takes numbers to be objects.  It makes no sense to ask whether any objects fall under 4. After Frege gives some reasons for thinking that numbers are objects, he concludes that statements of numbers are assertions about concepts.
+Frege takes this observation to be the fundamental thought of Grundlagen.  For example,  the sentence "the number of horses in the barn is four" means that four objects fall under the concept horse in the barn.  Frege attempts to explain our grasp of numbers through a contextual definition of the cardinality operation ('the number of...', or 
+  
+    
+      
+        N
+        x
+        :
+        F
+        x
+      
+    
+    {\displaystyle Nx:Fx}
+  
+).  He attempts to construct the content of a judgment involving numerical identity by relying on Hume's principle (which states that the number of Fs equals the number of Gs if and only if F and G are equinumerous, i.e. in one-one correspondence). He rejects this definition because it doesn't fix the truth value of identity statements when a singular term not of the form 'the number of Fs' flanks the identity sign.  Frege goes on to give an explicit definition of number in terms of extensions of concepts, but expresses some hesitation.
+
+
+=== Frege's definition of a number ===
+Frege argues that numbers are objects and assert something about a concept.    Frege defines numbers as extensions of concepts.  'The number of F's' is defined as the extension of the concept '... is a concept that is equinumerous to F'.   The concept in question leads to an equivalence class of all concepts that have the number of F (including F).  Frege defines 0 as the extension of the concept being non self-identical. So, the number of this concept is the extension of the concept of all concepts that have no objects falling under them. The number 1 is the extension of being identical with 0.
+
+
+== Legacy ==
+The book was fundamental in the development of two main disciplines, the foundations of mathematics and philosophy. Although Bertrand Russell later found a major flaw in Frege's Basic Law V (this flaw is known as Russell's paradox, which is resolved by axiomatic set theory), the book was influential in subsequent developments, such as Principia Mathematica. The book can also be considered the starting point in analytic philosophy, since it revolves mainly around the analysis of language, with the goal of clarifying the concept of number. Frege's views on mathematics are also a starting point on the philosophy of mathematics, since it introduces an innovative account on the epistemology of numbers and mathematics in general, known as logicism.
+
+
+== Editions ==
+Frege, Gottlob (1884). Die Grundlagen der Arithmetik. Eine logisch-mathematische Untersuchung über den Begriff der Zahl. Breslau: Verlag von Wilhelm Koebner.
+Frege, Gottlob (1960). The Foundations of Arithmetic: A Logico-Mathematical Enquiry Into the Concept of Number. Translated by Austin, J. L. (2nd ed.). Evanston, Illinois: Northwestern University Press. ISBN 0810106051. OCLC 650. {{cite book}}: ISBN / Date incompatibility (help)
+
+
+== See also ==
+Begriffsschrift
+Foundationalism
+Round square copula
+Concept horse paradox
+
+
+== References ==
+
+
+== Sources ==
+Boolos, George (1998). "Chapter 9: Gottlob Frege and the Foundations of Arithmetic". Logic, logic, and logic. Edited by Richard C. Jeffrey, introduction by John P. Burgess. Cambridge, Mass: Harvard University Press. ISBN 9780674537675. OCLC 37509971.
+Shapiro, Stewart (2000). Thinking about Mathematics: The Philosophy of Mathematics. New York: Oxford University Press. pp. 95–98. ISBN 9780192893062. OCLC 43864339.
+
+
+== External links ==
+Frege, Gottlob (1960). Foundations of Arithmetic
+ Die Grundlagen der Arithmetik at Project Gutenberg – Free, full-text German edition
+Die Grundlagen der Arithmetik at archive.org – Free, full-text German edition (Book from the collections of Harvard University)
+Die Grundlagen der Arithmetik at archive.org – Free, full-text German edition (Book from the collections of    Oxford University)
+Zalta, Edward. "Frege's Theorem and Foundations for Arithmetic". Stanford Encyclopedia of Philosophy.
+Nechaev, V. I. (2001) [1994], "Number", Encyclopedia of Mathematics, EMS Press
+Suber, Peter (2002). "Geometry and Arithmetic are Synthetic".

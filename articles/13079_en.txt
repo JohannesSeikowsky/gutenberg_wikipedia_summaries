@@ -1,0 +1,83 @@
+The String Quartet No. 14 in C♯ minor, Op. 131, was completed by Ludwig van Beethoven in 1826. It is the last-composed of a trio of string quartets, written in the order Opp. 132, 130 (with the Große Fuge ending), 131.
+It was Beethoven's favourite of the late quartets: he is quoted as remarking to a friend that he would find "a new manner of part-writing and, thank God, less lack of imagination than before". It is said that upon listening to a performance of this quartet Schubert remarked, "After this, what is left for us to write?" Schumann said that this quartet and Op. 127 had a "grandeur ... which no words can express. They seem to me to stand ... on the extreme boundary of all that has hitherto been attained by human art and imagination."
+This work is dedicated to Baron Joseph von Stutterheim as a gesture of gratitude for taking Beethoven's nephew Karl into the army after a suicide attempt. Beethoven died before the work's publication by Schott Music and before its first performance, the date of which is uncertain.
+
+
+== Music ==
+About 40 minutes in length, it consists of seven movements played without break:
+
+The Op. 131 quartet is a monumental feat of integration. While Beethoven composed the quartet in six distinct key areas, the work begins and ends in C♯ minor. The finale directly quotes the first movement's fugue theme in its second thematic area. This type of cyclical composition was avant-garde for a work of that period. Joseph Kerman wrote: "blatant functional reference to the theme of another movement: this never happens". (It had happened in some other Beethoven works such as the Piano Sonata Op. 101, Cello Sonata Op. 102 No. 1, and the Fifth and Ninth Symphonies; it had even happened before in Joseph Haydn's Forty-Sixth Symphony. Nevertheless, Op. 131 is the first Beethoven work in which the quotation is integrated completely into its new context instead of appearing like an explicit quotation, though even this effect had been anticipated the previous year in the young Felix Mendelssohn's Octet, and much earlier in Christian Latrobe's A major Piano Sonata dedicated to Haydn.)
+Op. 131 is often grouped with Opp. 132 and 130. There is motivic sharing among the three works. In particular, the "motto" fugue of the leading note rising to the tonic before moving to the minor sixth and then dropping down to the dominant is an important figure these works share.
+This quartet is one of Beethoven's most elusive works musically. The topic has been written about extensively since very early after its creation, from Karl Holz, the second violinist of the Schuppanzigh Quartet, to Richard Wagner, to contemporary musicologists. One popular topic is a possible religious/spiritual genesis for this work, supported by similarities to the Missa Solemnis. In the first movement of Op. 131, the continually flowing texture resembles the earlier work's Benedictus and Dona Nobis Pacem. In addition, purposely or not, Beethoven quotes a motivic figure from Missa Solemnis in the quartet's second movement.
+A week before Schubert's death, Holz and his string quartet visited to play for him. The last musical work Schubert wished to hear was the String Quartet No. 14; Holz later recalled that "Schubert was sent into such transports of delight and enthusiasm and was so overcome that we all feared for him."
+The piece was featured in the plot of the 2012 film A Late Quartet. It also featured in the Band of Brothers episode "Why We Fight".
+
+
+== Analysis ==
+
+
+=== I. Adagio ma non troppo e molto espressivo ===
+A fugue based on the following subject, which contains (bars 2–3) the second tetrachord of the harmonic minor scale, the unifying motif of Beethoven's last string quartets:
+
+Richard Wagner said this movement "reveals the most melancholy sentiment expressed in music". Joseph Kerman calls it "this most moving of all fugues". J.W.N. Sullivan (1927, p. 235) hears it as "the most superhuman piece of music that Beethoven has ever written." Philip Radcliffe says "[a] bare description of its formal outline can give but little idea of the extraordinary profundity of this fugue."
+
+
+=== II. Allegro molto vivace ===
+A delicate dance in compound duple meter in the key of D major, in compact sonata form based on the following folk-like theme:
+
+
+=== III. Allegro moderato – Adagio ===
+In the spirit of recitativo obbligato following the key of B minor; the modulation from B minor to E major functions as a short introduction to the next movement.
+
+
+=== IV. Variations ===
+This, the central movement of the quartet, is a set of 7 variations (6 complete and 1 incomplete, with coda) on the following simple theme in A major shared between the first and second violins:
+
+The tempo indications of the variations are: Andante ma non troppo e molto cantabile – Andante moderato e lusinghiero – Adagio – Allegretto – Adagio, ma non troppo e semplice – Allegretto
+This movement is the apotheosis of the 'Grand Variation' form from Beethoven's late period.
+
+
+=== V. Presto ===
+In E major, this is a brilliant scherzo (though in duple rather than triple time), based on the following simple idea:
+
+Toward the end of the scherzo, there is "an astounding" passage of pianissimo sul ponticello writing for all the instruments, mostly on their highest strings." Joseph Kerman asks, "Was this a sound Beethoven had actually heard, back in the days when he was hearing, or did he make up the sound for the first time in 1826? Beethoven deaf was quite capable of 'hearing' or imagining or inventing not only relationships between notes but also sonorities pure and simple."
+
+
+=== VI. Adagio quasi un poco andante ===
+In G♯ minor, this movement is in bar form with a coda, which serves as a slow, sombre introduction to the next movement.
+
+
+=== VII. Allegro ===
+The finale is in sonata form and returns to the home key of C♯ minor. The first subject has two main ideas:
+
+The violent rhythm in this subject is contrasted with the soaring, lyrical second theme:
+
+
+== References ==
+
+Sources
+
+Deutsch, Otto Erich (1958). Schubert: Memoirs by His Friends. Translated by Rosamond Ley; John Nowell. London: A. & C. Black.
+Kerman, Joseph (1967). The Beethoven Quartets. Knopf. ISBN 9780193151352.
+Kerman, Joseph (Fall 2001 – Spring 2002). "Beethoven's Opus 131 and the Uncanny". 19th-Century Music. 25 (2–3): 155–164. doi:10.1525/ncm.2001.25.2-3.155. JSTOR 10.1525/ncm.2001.25.2-3.155.
+Solomon, Maynard (November 1979). "Schubert and Beethoven". 19th-Century Music. 3 (2): 114–125. doi:10.2307/746283. JSTOR 746283.
+
+
+== Further reading ==
+Barry, Barbara (Spring 2017). "Invisible cities and imaginary landscapes 'quasi una fantasia': on Beethoven's op. 131" (PDF). The Musical Times. 158 (1938): 5–26. JSTOR 44862800 – via Boston University.
+November, Nancy (2021). Beethoven's String Quartet in C-sharp Minor, Op. 131. Oxford University Press. doi:10.1093/oso/9780190059200.001.0001. ISBN 9780190059200.
+Ross, Megan (2019). The Critical and Artistic Reception of Beethoven's String Quartet in C♯ minor, Op. 13 (Doctor of Philosophy). Department of Music in the College of Arts and Sciences, University of North Carolina at Chapel Hill.
+Vernon, David (2023). Beethoven: The String Quartets. Edinburgh: Candle Row Press, 2023. ISBN 978-1739659929.
+
+
+== External links ==
+
+String Quartet No. 14, Op. 131: Scores at the International Music Score Library Project
+Performance by the Orion String Quartet from the Isabella Stewart Gardner Museum in MP3 format
+
+ String Quartet No. 14 in C-sharp minor Opus 131 by Ludwig van Beethoven at Project Gutenberg, PDF and Finale files
+An account of the relation among Beethoven, his nephew Carl, and the dedicatee Joseph von Stutterheim, further on the circumstances behind the dedication of this quartet.
+Commentary by Robert Winter, interviewed by Jason Lopez, on the quartet as it is played, telescoped down to 17 minutes, 31 October 2010
+Video on YouTube, Alban Berg Quartett
+Audio on YouTube, organ arrangement by Iris Lan
+String Quartet No. 14 at AllMusic

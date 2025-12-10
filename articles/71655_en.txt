@@ -1,0 +1,91 @@
+Hilbert's problems are 23 problems in mathematics published by German mathematician David Hilbert in 1900. They were all unsolved at the time, and several proved to be very influential for 20th-century mathematics. Hilbert presented ten of the problems (1, 2, 6, 7, 8, 13, 16, 19, 21, and 22) at the Paris conference of the International Congress of Mathematicians, speaking on August 8 at the Sorbonne. The complete list of 23 problems was published later, and translated into English in 1902 by Mary Frances Winston Newson in the Bulletin of the American Mathematical Society. Earlier publications (in the original German) appeared in Archiv der Mathematik und Physik.
+Of the cleanly formulated Hilbert problems, numbers 3, 7, 10, 14, 17, 18, 19, and 21 have resolutions that are accepted by consensus of the mathematical community. Problems 1, 2, 5, 6, 9, 11, 12, 15, 20, and 22 have solutions that have partial acceptance, but there exists some controversy as to whether they resolve the problems. That leaves 8 (the Riemann hypothesis), 13 and 16 unresolved. Problems 4 and 23 are considered as too vague to ever be described as solved; the withdrawn 24 would also be in this class.
+
+
+== List of Hilbert's problems ==
+The following are the headers for Hilbert's 23 problems as they appeared in the 1902 translation of Hilbert's presentation, published in the Bulletin of the American Mathematical Society.
+
+1. Cantor's problem of the cardinal number of the continuum.
+2. The compatibility of the arithmetical axioms.
+3. Scissor congruence of polyhedra of equal volumes.
+4. Problem of the straight line as the shortest distance between two points.
+5. Lie's concept of a continuous group of transformations without the assumption of the differentiability of the functions defining the group.
+6. Mathematical treatment of the axioms of physics.
+7. Irrationality and transcendence of certain numbers.
+8. Problems of prime numbers (The "Riemann Hypothesis").
+9. Proof of the most general law of reciprocity in any number field.
+10. Determination of the solvability of a Diophantine equation.
+11. Quadratic forms with any algebraic numerical coefficients.
+12. Extensions of Kronecker's theorem on Abelian fields to any algebraic realm of rationality.
+13. Impossibility of the solution of the general equation of 7th degree by means of functions of only two arguments.
+14. Proof of the finiteness of certain complete systems of functions.
+15. Rigorous foundation of Schubert's enumerative calculus.
+16. Problem of the topology of algebraic curves and surfaces.
+17. Expression of definite forms by squares.
+18. Building up of space from congruent polyhedra.
+19. Are the solutions of regular problems in the calculus of variations always necessarily analytic?
+20. The general problem of boundary values (boundary value problems in PDE).
+21. Proof of the existence of linear differential equations having a prescribed monodromy group.
+22. Uniformization of analytic relations by means of automorphic functions.
+23. Further development of the methods of the calculus of variations.
+
+
+== The 24th problem ==
+
+Hilbert originally included 24 problems on his list, but decided against including one of them in the published list. The "24th problem" (in proof theory, on a criterion for simplicity and general methods) was rediscovered in Hilbert's original manuscript notes by German historian Rüdiger Thiele in 2000.
+
+
+== Nature and influence of the problems ==
+Hilbert's problems ranged greatly in topic and precision. Some of them, like the 3rd problem, which was the first to be solved, or the 8th problem (the Riemann hypothesis), which still remains unresolved, were presented precisely enough to enable a clear affirmative or negative answer. For other problems, such as the 5th, experts have traditionally agreed on a single interpretation, and a solution to the accepted interpretation has been given, but closely related unsolved problems exist. Some of Hilbert's statements were not precise enough to specify a particular problem, but were suggestive enough that certain problems of contemporary nature seem to apply; for example, most modern number theorists would probably see the 9th problem as referring to the conjectural Langlands correspondence on representations of the absolute Galois group of a number field.  Still other problems, such as the 11th and the 16th, concern what are now flourishing mathematical subdisciplines, like the theories of quadratic forms and real algebraic curves.
+There are two problems that are not only unresolved but may in fact be unresolvable by modern standards. The 6th problem concerns the axiomatization of physics, a goal that 20th-century developments seem to render both more remote and less important than in Hilbert's time. Also, the 4th problem concerns the foundations of geometry, in a manner that is now generally judged to be too vague to enable a definitive answer.
+The 23rd problem was purposefully set as a general indication by Hilbert to highlight the calculus of variations as an underappreciated and understudied field. In the lecture introducing these problems, Hilbert made the following introductory remark to the 23rd problem:
+
+"So far, I have generally mentioned problems as definite and special as possible, in the opinion that it is just such definite and special problems that attract us the most and from which the most lasting influence is often exerted upon science. Nevertheless, I should like to close with a general problem, namely with the indication of a branch of mathematics repeatedly mentioned in this lecture—which, in spite of the considerable advancement lately given it by Weierstrass, does not receive the general appreciation which, in my opinion, is its due—I mean the calculus of variations."
+The other 21 problems have all received significant attention, and late into the 20th century work on these problems was still considered to be of the greatest importance. Paul Cohen received the Fields Medal in 1966 for his work on the first problem, and the negative solution of the tenth problem in 1970 by Yuri Matiyasevich (completing work by Julia Robinson, Hilary Putnam, and Martin Davis) generated similar acclaim. Aspects of these problems are still of great interest today.
+
+
+== Knowability ==
+Following Gottlob Frege and Bertrand Russell, Hilbert sought to define mathematics logically using the method of formal systems, i.e., finitistic proofs from an agreed-upon set of axioms. One of the main goals of Hilbert's program was a finitistic proof of the consistency of the axioms of arithmetic: that is his second problem.
+However, Gödel's second incompleteness theorem gives a precise sense in which such a finitistic proof of the consistency of arithmetic is provably impossible. Hilbert lived for 12 years after Kurt Gödel published his theorem, but does not seem to have written any formal response to Gödel's work.
+Hilbert's tenth problem does not ask whether there exists an algorithm for deciding the solvability of Diophantine equations, but rather asks for the construction of such an algorithm: "to devise a process according to which it can be determined in a finite number of operations whether the equation is solvable in rational integers". That this problem was solved by showing that there cannot be any such algorithm contradicted Hilbert's philosophy of mathematics.
+In discussing his opinion that every mathematical problem should have a solution, Hilbert allows for the possibility that the solution could be a proof that the original problem is impossible. He stated that the point is to know one way or the other what the solution is, and he believed that we always can know this, that in mathematics there is not any "ignorabimus" (statement whose truth can never be known).  It seems unclear whether he would have regarded the solution of the tenth problem as an instance of ignorabimus.
+On the other hand, the status of the first and second problems is even more complicated: there is no clear mathematical consensus as to whether the results of Gödel (in the case of the second problem), or Gödel and Cohen (in the case of the first problem) give definitive negative solutions or not, since these solutions apply to a certain formalization of the problems, which is not necessarily the only possible one.
+
+
+== Follow-ups ==
+Since 1900, mathematicians and mathematical organizations have announced problem lists but, with few exceptions, these have not had nearly as much influence nor generated as much work as Hilbert's problems.
+One exception consists of three conjectures made by André Weil in the late 1940s (the Weil conjectures). In the fields of algebraic geometry, number theory and the links between the two, the Weil conjectures were very important. The first of these was proved by Bernard Dwork; a completely different proof of the first two, via ℓ-adic cohomology, was given by Alexander Grothendieck. The last and deepest of the Weil conjectures (an analogue of the Riemann hypothesis) was proved by Pierre Deligne. Both Grothendieck and Deligne were awarded the Fields medal. However, the Weil conjectures were, in their scope, more like a single Hilbert problem, and Weil never intended them as a programme for all mathematics. This is somewhat ironic, since arguably Weil was the mathematician of the 1940s and 1950s who best played the Hilbert role, being conversant with nearly all areas of (theoretical) mathematics and having figured importantly in the development of many of them.
+Paul Erdős posed hundreds, if not thousands, of mathematical problems, many of them profound. Erdős often offered monetary rewards; the size of the reward depended on the perceived difficulty of the problem.
+The end of the millennium, which was also the centennial of Hilbert's announcement of his problems, provided a natural occasion to propose "a new set of Hilbert problems". Several mathematicians accepted the challenge, notably Fields Medalist Steve Smale, who responded to a request by Vladimir Arnold to propose a list of 18 problems (Smale's problems).
+At least in the mainstream media, the de facto 21st century analogue of Hilbert's problems is the list of seven Millennium Prize Problems chosen during 2000 by the Clay Mathematics Institute. Unlike the Hilbert problems, where the primary award was the admiration of Hilbert in particular and mathematicians in general, each prize problem includes a million-dollar bounty. As with the Hilbert problems, one of the prize problems (the Poincaré conjecture) was solved relatively soon after the problems were announced.
+The Riemann hypothesis is noteworthy for its appearance on the list of Hilbert problems, Smale's list, the list of Millennium Prize Problems, and even the Weil conjectures, in its geometric guise. Although it has been attacked by major mathematicians of our day, many experts believe that it will still be part of unsolved problems lists for many centuries. Hilbert himself declared: "If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proved?"
+In 2008, DARPA announced its own list of 23 problems that it hoped could lead to major mathematical breakthroughs, "thereby strengthening the scientific and technological capabilities of the DoD". The DARPA list also includes a few problems from Hilbert's list, e.g. the Riemann hypothesis.
+
+
+== Table of problems ==
+Hilbert's 23 problems, and the unpublished 24th problem, are listed below. For details on the solutions and references, see the articles that are linked to in the first column.
+
+
+== See also ==
+Landau's problems
+Millennium Prize Problems
+Smale's problems
+Taniyama's problems
+Thurston's 24 questions
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+"Hilbert problems". Encyclopedia of Mathematics. EMS Press. 2001 [1994].
+"Original text of Hilbert's talk, in German". Archived from the original on 2012-02-05. Retrieved 2005-02-05.
+"David Hilbert's "Mathematical Problems": A lecture delivered before the International Congress of Mathematicians at Paris in 1900" (PDF).
+ Mathematical Problems public domain audiobook at LibriVox

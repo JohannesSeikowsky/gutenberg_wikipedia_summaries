@@ -1,0 +1,171 @@
+Le Discours de la méthode, dont le titre complet est Discours de la méthode pour bien conduire sa raison et chercher la vérité dans les sciences, est un texte philosophique publié anonymement par René Descartes à Leyde le 8 juin 1637 chez le libraire et imprimeur Jan Maire (d). Le Discours devait originellement servir d'introduction générale aux traités scientifiques écrits par l'auteur, soit La Dioptrique, Les Météores et La Géométrie, mais la célébrité du texte est devenue telle qu'il est désormais souvent publié seul, comme un essai indépendant. Il est reconnu comme l'une des œuvres fondatrices de la philosophie moderne occidentale.
+
+
+== Contexte historique ==
+Pourquoi Descartes décide-t-il, précisément en 1637, de faire paraître le Discours et les Essais, alors qu'il a déjà beaucoup écrit, mais n'a encore rien publié, et qu'il a été encouragé à le faire depuis longtemps par divers amis et connaissances, dont le cardinal de Bérulle et Guez de Balzac ? Plusieurs facteurs décisifs expliquent ce choix.
+Un premier facteur est l'opposition officielle de l'Église à l'héliocentrisme. Le Discours de la méthode est conçu par Descartes quelques années après le procès de Galilée, qui a été condamné par l'Église en juin 1633 à cause de son ouvrage Dialogue sur les deux grands systèmes du monde. Descartes a écrit en français en 1632-1633 Le Monde, ou le Traité de la lumière, dans lequel il défend, à l'instar de Galilée, la thèse de l'héliocentrisme et du mouvement de la terre. Au début de la sixième partie du Discours, Descartes fait allusion à la fois à cette thèse et à la condamnation de Galilée, et assure n'y avoir rien remarqué qui aurait pu « être préjudiciable ni à la religion ni à l'État ». Il décide cependant, par respect pour les autorités religieuses, mais peut-être surtout pour éviter les disputes et préserver sa tranquillité, de ne pas publier l'ouvrage, mais ne renonce pas pour autant à ses projets scientifiques ; il présente finalement ceux-ci sous une autre forme, et sans nom d'auteur. Descartes est toutefois rapidement identifié comme étant l’auteur du Discours et des Essais par les intellectuels de la République des Lettres de l’époque.
+Le second facteur tient à la personnalité même de Descartes, qui déclare n'avoir « jamais eu l'humeur portée à faire des livres ». Plutôt que de présenter au public des théories qui ne seraient pas encore complètes ou certaines ou des thèses qui ne seraient pas pleinement convaincantes ou satisfaisantes, Descartes, « auteur à la fois prudent et exigeant », préfère attendre que sa philosophie soit suffisamment développée pour la présenter au public savant. Il écrit d'ailleurs dans la sixième partie du Discours que durant ces années au cours desquelles il a conçu sa méthode et ses règles, résolu « quelques difficultés qui appartiennent aux sciences » et appris à appliquer ses principes de morale à sa propre vie, il ne s'est « point cru obligé d'en rien écrire », ajoutant que son « inclination » lui a toujours « fait haïr le métier de faire des livres ». De fait, la plupart des textes aujourd'hui connus et publiés de Descartes sont des lettres et des ouvrages qui n'avaient pas été rendus publics de son vivant.
+Un troisième facteur, qui n'est pas sans rapport avec le précédent, est l'insatisfaction de Descartes relativement à ses travaux antérieurs. Il a commencé vers 1627 ou 1628 à rédiger les Règles pour la direction de l'esprit, dont il a conçu le projet dès 1619, mais il en a abandonné la rédaction, car il semble manquer à l'ouvrage une dimension métaphysique qui pourrait venir fonder les règles de la méthode et leur procurer une réelle unité leur permettant de s'appliquer à tous les domaines de la science. Il a alors l'intention de faire paraître en 1636 « quatre Traités tous français », le « Projet d'une Science universelle qui puisse élever notre nature à son plus haut degré de perfection » faisant initialement partie de ces traités. Or, le projet lui-même s'affirme de plus en plus radicalement comme méthode, et les traités scientifiques comme essais de cette méthode, de sorte qu'un an plus tard, Descartes écrit : « je ne mets pas Traité de la Méthode, mais Discours de la Méthode, ce qui est le même que Préface ou Avis touchant la Méthode, pour montrer que je n'ai pas dessein de l'enseigner, mais seulement d'en parler ». Entretemps, Descartes a pu développer sa métaphysique, dont il expose les rudiments dans le Discours. Le texte de Descartes se présente alors, en 1637, moins comme un traité ou un essai de philosophie que comme une autobiographie, laquelle a pour fonction de « préfacer », autrement dit de justifier les traités scientifiques, afin de démontrer la fécondité et l'universalité de la méthode, désormais fondée sur une métaphysique, tout en présentant les principales étapes du parcours intellectuel de l'auteur ; en ce sens, le Discours n'est pas une somme, comme le seront les Principes de la philosophie, mais un simple aperçu des principales thèses cartésiennes. Il s'agit pour Descartes non pas de raconter toute sa vie, ni d'exposer toutes les règles de la méthode, mais « d’en dire assez pour faire juger que les nouvelles opinions, qui se verraient dans la Dioptrique et dans les Météores, n’étaient point conçues à la légère ». Cette remarque n’est pas isolée dans la correspondance de Descartes, qui déclare ailleurs que la méthode « consiste plus en pratique qu'en théorie », et qu'il nomme les traités « Essais de cette Méthode », précisément parce que « les choses qu'ils contiennent n'ont pu être trouvées sans elle, et qu'on peut connaître par eux ce qu'elle vaut ». Il affirme également avoir « inséré quelque chose de métaphysique, de physique et de médecine » dans le Discours, « pour montrer qu'elle s'étend à toutes sortes de matières ».
+Descartes fut ainsi « le premier, sinon le seul, à penser dans sa radicalité l'unité du projet scientifique, et l'universalité de la visée technique que cette science autorisait ». L'idée d'une science universelle, ou mathesis universalis, débouche ainsi tout naturellement sur l'exposé ou « discours » de la méthode qui fonde cette science, ainsi que sur l'espoir de maîtriser les forces de la nature en vue de l'amélioration de la vie humaine. Le Discours marque en ce sens une rupture avec la tradition scolastique, jugée trop « spéculative » par Descartes, et se présente comme un plaidoyer en faveur du progrès technique et pour une nouvelle fondation des sciences sur des bases certaines.
+Chose notable, le texte est écrit en français, « langue vulgaire », et non en latin, « langue de l'école », Descartes voulant par là s’opposer à la tradition scolastique et s’adresser à un public plus large que les savants et les théologiens. Il justifie ce choix de la langue française en évoquant la volonté que ses idées soient mieux diffusées et comprises de tous. Il souhaitait en effet que toute personne suffisamment instruite puisse lire son texte, et l'a ainsi écrit de sorte que « les femmes mêmes pussent entendre quelque chose » à celui-ci ; les femmes ne recevant pour la plupart, à cette époque, aucune instruction latine.
+
+
+== Résumé ==
+Le Discours de la méthode est le premier texte publié par Descartes, et aussi le plus diversifié, en raison de la variété des thèmes qu'il aborde : il traite aussi bien de la méthode qu'annonce le titre, de la métaphysique et de la morale, que de la physique et des autres sciences qui intéressent Descartes, comme la médecine, et des applications techniques de la science. Il s'agit aussi d'une autobiographie dans laquelle l'auteur relate ses découvertes et ses expériences les plus marquantes. En fait, ces thèmes correspondent aux principales étapes de son apprentissage, qui débute par ses études au collège jésuite de La Flèche. Descartes expose en effet dans le Discours son parcours intellectuel de façon rétrospective, depuis son regard critique porté sur les enseignements qu'il a reçus au collège de La Flèche, jusqu'à sa fondation d'une philosophie nouvelle quelques années plus tard. Il y propose une méthode, composée de règles simples et précises pour éviter l'erreur, et y développe le doute méthodique, visant à reconstruire le savoir sur des fondements certains, en s'inspirant de la certitude exemplaire des mathématiques. L’énoncé « je pense, donc je suis » (cogito, ergo sum) permet à Descartes de sortir du doute et lui sert à ce titre de premier principe. Il y résume également ses méditations sur l'âme et sur Dieu, dont il donne une version beaucoup plus étendue dans les Méditations métaphysiques, quatre ans plus tard.
+Le Discours de la méthode est aussi l’occasion pour Descartes de présenter une morale provisoire, tenant en quelques maximes de conduite rendues nécessaires par la méthode elle-même, dans la mesure où la bonne conduite de la vie ne peut pas attendre, contrairement à la connaissance scientifique qui exige que l'on prenne le temps qu'il faut pour éviter l'erreur. Descartes propose également ses considérations sur le corps, qu'il compare à un mécanisme, le corps des animaux excluant selon lui la conscience ou l'existence d'une âme, mais non de la sensibilité (théorie des « animaux-machines »), ainsi que sur le rôle et le fonctionnement du cœur dans la circulation du sang. Enfin, le Discours présente des déclarations sur le rapport de l’homme à la nature, représentatives de la modernité, puisque Descartes propose l'idée que les hommes se rendent « comme maîtres et possesseurs de la nature » par le progrès des techniques, au premier rang desquelles il recommande d’améliorer la médecine.
+
+
+== Analyse ==
+
+
+=== Première partie ===
+
+Considérations touchant les sciences
+Descartes ouvre son Discours par une remarque qui n'est pas dénuée d'ironie : « Le bon sens est la chose du monde la mieux partagée ; car chacun pense en être si bien pourvu, que ceux même qui sont les plus difficiles à contenter en toute autre chose n'ont point coutume d'en désirer plus qu'ils en ont ». Descartes affirme que le bon sens, qui est le pouvoir de bien juger, et qu'il nomme plus loin « raison », est réparti également chez chaque être humain ; toutefois, les avantages que la raison procure dans la conduite de la vie et l'apprentissage des sciences dépend de la manière dont chacun en use. C'est cela même qui crée la divergence des opinions. La méthode aura donc pour but de bien guider la raison afin qu'elle ne s'égare pas.
+Ces considérations font écho à une réflexion de Montaigne : « On dit communément que le plus juste partage que nature nous ait fait de ses grâces, c'est celui du sens : car il n'est aucun qui ne se contente de ce qu'elle lui en a distribué. N'est-ce pas raison ? Qui verrait au-delà, il verrait au-delà de sa vue. Je pense avoir les opinions bonnes et saines, mais qui n'en pense autant des siennes ? » La même observation se trouve chez Hobbes, qui affirme que « la nature a fait les hommes égaux quant aux facultés du corps et de l'esprit » et que « parmi les humains, l'égalité est plus grande en ce qui concerne les facultés de l'esprit ».
+Soulignant son intérêt pour toutes les sciences et les lettres, que ce soit la poésie, les mathématiques, les écrits des anciens païens, la théologie ou la philosophie, Descartes entreprend des recherches dans les pensées les plus étrangères et anticonformistes de son époque, bien qu’il pût passer pour sot, afin de s’en faire son propre jugement. Il dénonce néanmoins des sciences aussi superstitieuses que l'astrologie, l'alchimie ou la magie. Il privilégie surtout les mathématiques, rappelant son goût pour cette science lors de ses études au collège de La Flèche :
+
+« Je me plaisais surtout aux mathématiques, à cause de la certitude et de l'évidence de leurs raisons : mais je ne remarquais point encore leur vrai usage ; et, pensant qu'elles ne servaient qu'aux arts mécaniques, je m'étonnais de ce que leurs fondements étant si fermes et si solides, on n'avait rien bâti dessus de plus relevé. »
+
+C'est en se fondant sur ces connaissances aussi diverses, également acquises lors de voyages, que Descartes apprend à consolider son savoir, tout en n'oubliant pas d'extraire de ses sources le vrai du faux.
+
+
+=== Deuxième partie ===
+Règles de la méthode
+Enfermé dans son poêle (chambre chauffée), Descartes établit un retour à sa pensée et sa subjectivité acquise dans sa jeunesse sans vouloir se soucier des principes déjà fondés. Ce retour à la raison lui semble nécessaire, à l'image d'une ville construite d'une part par des hommes de raison, qui ont fondé les premières ruelles ordonnées, guidés par la volonté, et d'autre part, par quelques architectes fous, qui ont construit les grandes places, guidés par la fantaisie et la fortune. Démontrant que le travail seul peut être plus efficace qu'un travail de groupe par la conduite plus simple du raisonnement de construction de l'œuvre, du bâtiment…
+Descartes se prépare donc à remettre en question tous les concepts qu'il connaît, afin que rien de fantaisiste ne vienne polluer sa pensée, au profit de la raison inconditionnelle ; pour ce faire, il s'impose quatre préceptes :
+
+Ne recevoir aucune chose pour vraie tant que son esprit ne l'aura clairement et distinctement assimilée préalablement.
+Diviser chacune des difficultés afin de mieux les examiner et les résoudre.
+Établir un ordre de pensées, en commençant par les objets les plus simples jusqu'aux plus complexes et divers, et ainsi de les retenir toutes et en ordre.
+Passer toutes les choses en revue afin de ne rien omettre.
+Descartes l'appliqua d'abord à l'arithmétique avant de l'appliquer à la philosophie.
+
+
+=== Troisième partie ===
+Règles de la morale
+Afin de ne pas être irrésolu dans ses actions « pendant que la raison m’obligeait de l‘être en mes jugements » (par la remise en cause de toute connaissance), Descartes fonde une morale « par provision » (c’est-à-dire en attendant mieux : une morale définitive liée à une connaissance totale), une morale qui respecte quatre maximes :
+
+En premier, « d'obéir aux lois et aux coutumes de mon pays retenant constamment la religion en laquelle Dieu m'a fait la grâce d'être instruit dès mon enfance». De plus, les opinions auxquelles on se conforme sont choisies. Il faut que les opinions soient modérées, viennent des gens les plus sensés et doivent être celles de l'endroit où on se trouve.
+En second, il s'agit d'être « le plus ferme et le plus résolu en mes actions que je pourrais, et de ne suivre pas moins constamment les opinions les plus douteuses lorsque je m'y serais une fois déterminé, que si elles eussent été très assurées ». Ceci afin de pratiquer toute chose comme bonne et de ne point être soumis à la mauvaise conscience d'avoir suivi une chose que l'on sait maintenant mauvaise.
+La troisième maxime « était de tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l’ordre du monde ; et généralement de m’accoutumer à croire qu’il n’y a rien qui soit entièrement en notre pouvoir, que nos pensées. »
+La quatrième maxime, dit Descartes, c'est « d'employer toute ma vie à cultiver ma raison, et m'avancer autant que je pourrais en la connaissance de la vérité, suivant la méthode que je m'étais prescrite ».
+Après cela, Descartes entreprit de voyager pendant huit ou neuf ans, à observer, chercher la vérité et « déraciner » les idées reçues.
+Il ne s'adonna toutefois pas encore à la philosophie, mais se forgea de solides idées.
+
+
+=== Quatrième partie ===
+Fondements de la métaphysique
+Descartes reconsidère tout ce qu’il sait au cours de méditations métaphysiques ; tout objet, toute chose et toute pensée devient alors faux et illusoire.
+Or, puisque tout est illusoire, il se demande comment savoir avec certitude qu’il existe lui-même, qu’il n’est pas lui-même néant. Pour Descartes, le simple fait de se poser cette question l’amène aussitôt à une réponse certaine : « je pense, donc je suis ». Il jugea cette vérité comme le premier principe incontestable de la philosophie qu’il cherchait.
+Puisqu’il a trouvé une proposition qui soit vraie, il se demande ce qui doit être requis pour qu’une proposition soit vraie ; et il conclut que « les choses que nous concevons fort clairement et fort distinctement, sont toutes vraies », mais il ajoute tout de suite qu'il y a quelques difficultés à « bien remarquer quelles sont celles que nous concevons distinctement ».
+Il établit ensuite le concept de dualité de l’âme et du corps : ce qui fait être un humain est son esprit ; cette « substance dont toute l’essence ou la nature n’est que de penser, et qui pour être n’a besoin d’aucun lieu ni d’aucune chose matérielle. »
+Puis il en vint à se dire que la perfection de ce savoir acquis (cogito, ergo sum) venait de quelque chose d’extérieur à lui-même. Il émit alors l’idée que les éléments de la nature étaient existants, et comprit que sa propre conscience lui avait été insufflée par la nature par un tout dont chaque élément dépendait l’un de l’autre.
+Ce tout, c’était Dieu : la perfection, l’immuable, l’infini, l’éternel, le tout connaissant, le tout puissant, par opposition au néant et autres choses comme le doute, l’inconstance, la tristesse…
+L’idée de Dieu acquiert le statut d’idée la plus certaine et la mieux démontrée, dans la continuité des objets de la géométrie.
+
+
+=== Cinquième partie ===
+Ordre des questions de physique
+Descartes vient ici parler des principes physiques qui découlent naturellement des principes métaphysiques dont il traite dans les parties précédentes.
+Il y expose notamment sa théorie sur la circulation du sang qu’il explique comme étant due à la dilatation rapide du sang par la chaleur lorsqu’il est dans le cœur.
+Enfin, c’est dans cette partie qu’il nous fait part de sa fameuse théorie des « animaux-machines », c’est-à-dire comme étant des êtres totalement dénués de raison et n’agissant qu’en fonction de la disposition de leurs organes. Pour lui, seul l’homme dispose d’une âme.
+
+Extrait : 
+« car on peut bien concevoir qu’une machine soit tellement faite qu’elle profère des paroles … mais non pas qu’elle les arrange diversement pour répondre au sens de tout ce qui se dira en sa présence, ainsi que les hommes les plus hébétés peuvent faire. »
+
+
+=== Sixième partie ===
+
+Voici un extrait de la sixième partie permettant de comprendre « Quelles raisons l’ont fait écrire » :
+
+« Mais, sitôt que j’ai eu acquis quelques notions générales touchant la physique, et que, commençant à les éprouver en diverses difficultés particulières, j’ai remarqué jusques où elles peuvent conduire, et combien elles diffèrent des principes dont on s’est servi jusques à présent, j’ai cru que je ne pouvais les tenir cachées sans pécher grandement contre la loi qui nous oblige à procurer autant qu’il est en nous le bien général de tous les hommes : car elles m’ont fait voir qu’il est possible de parvenir à des connaissances qui soient fort utiles à la vie ; et qu’au lieu de cette philosophie spéculative qu’on enseigne dans les écoles, on en peut trouver une pratique, par laquelle, connaissant la force et les actions du feu, de l’eau, de l’air, des astres, des cieux, et de tous les autres corps qui nous environnent, aussi distinctement que nous connaissons les divers métiers de nos artisans, nous les pourrions employer en même façon à tous les usages auxquels ils sont propres, et ainsi nous rendre comme maîtres et possesseurs de la nature. Ce qui n’est pas seulement à désirer pour l’invention d’une infinité d’artifices, qui feraient qu’on jouirait sans aucune peine des fruits de la terre et de toutes les commodités qui s’y trouvent, mais principalement aussi pour la conservation de la santé, laquelle est sans doute le premier bien et le fondement de tous les autres biens de cette vie ; car même l’esprit dépend si fort du tempérament et de la disposition des organes du corps, que, s’il est possible de trouver quelque moyen qui rende communément les hommes plus sages et plus habiles qu’ils n’ont été jusques ici, je crois que c’est dans la médecine qu’on doit le chercher. »
+
+
+== Éditions ==
+Il y aurait eu, entre 1637 et la fin du siècle, cinq éditions du Discours de la méthode en français : Leyde, 1637 ; Paris, 1657 ; 1658 ; puis deux fois en 1668, soit en avril et en mai. L'existence d'une seconde édition en 1657 pose toutefois problème.
+Descartes confie l'impression du Discours et des Essais à Jan Maire ; l'ouvrage paraît à Leyde le 8 juin 1637. Il y a encore quelques rares exemplaires de cette première édition en circulation. Il faut attendre 1657, soit sept ans après la mort de l'auteur, pour que paraisse une réédition en langue française ; l'ouvrage est ensuite réimprimé à Paris chez divers éditeurs jusqu'en 1668. Bien qu'il existe quelques exemplaires des éditions de 1658 et de 1668, il ne reste pratiquement aucune trace de la seconde édition de 1657. Albert-Jean Guibert mentionne une édition publiée en 1657 par Théodore Girard à Paris, dont un exemplaire serait conservé à la Bibliothèque nationale et universitaire de Strasbourg, mais le catalogue informatisé de la bibliothèque ne donne aucun résultat pour cette année. En fait, l'exemplaire ayant la cote donnée par A.-J. Guibert correspond dans le catalogue de la bibliothèque de Strasbourg à l'édition parisienne d'Henry Le Gras de 1658. Cette édition comprend le Discours, accompagné de la Dioptrique et des Météores, sans la Géométrie. Deux autres établissements sont censés posséder un exemplaire de cette fameuse édition de 1657 : l'un est situé aux États-Unis, l'autre au Canada. L'exemplaire américain appartenait à la Burndy Library de Norwalk au Connecticut, qui détenait avant son démantèlement en 2006 l'une des plus grandes collections au monde en histoire des sciences et des technologies ; une partie de sa collection, dont faisait partie l'exemplaire du Discours de la méthode de 1657, a été transférée à la Huntington Library de San Marino en Californie. Il s'agirait sinon du seul exemplaire connu datant réellement de 1657, en tout cas de l'un des très rares encore existants de cette seconde édition. Quant à l'exemplaire canadien, il appartient à la Thomas Fisher Rare Book Library de l'Université de Toronto. Il a été numérisé et il apparaît qu'en dépit de la mention de l'année 1657 qui figure en page de titre, cet exemplaire comprend un privilège daté de 1666. Son contenu est identique à celui signalé par A.-J. Guibert et ne peut donc correspondre à l'édition publiée chez Théodore Girard en 1668 ; la bibliothèque de Toronto indique d'ailleurs 1667 comme date de publication. Bref, il semble clairement y avoir eu des réimpressions du Discours de la méthode entre 1658 et 1668.
+Parmi les rééditions parisiennes de 1668, une quatrième paraît chez Michel Bobin et Nicolas Le Gras, et, simultanément, chez Théodore Girard, le 28 avril 1668. A.-J. Guibert liste également une cinquième édition, augmentée du traité de mécanique et de l'abrégé de musique, le 8 mai 1668, chez Charles Angot.
+Le Discours de la méthode est réimprimé à Paris en 1724, avec la Dioptrique, les Météores, la Mécanique et la Musique, mais sans la Géométrie, chez Robert-Marc d’Espilly. Victor Cousin en a donné une édition nouvelle en 1824, au tome I des Œuvres complètes de Descartes (Paris, Levrault, 1824-1826). Il ne semble pas qu'il y ait eu d'impression du Discours durant le siècle qui sépare ces deux dernières éditions. L'édition de référence des Œuvres complètes de Descartes demeure celle de Charles Adam et Paul Tannery (Paris, Le Cerf, 1897-1913) ; le Discours et les Essais paraissent au tome VI en 1902. On peut compter au nombre des éditions notables celle d'Étienne Gilson (Paris, Vrin, 1925). Une nouvelle édition des Œuvres complètes de Descartes (Paris, Gallimard), sous la direction de Jean-Marie Beyssade et Denis Kambouchner, a débuté en 2009 avec le Discours et les Essais, qui en constituent le tome III.
+Les éditions scolaires récentes comprennent celle de J.-M. Beyssade (Paris, Le Livre de Poche, 1973), qui n'est plus rééditée mais dont le commentaire est désormais disponible dans ses Études sur Descartes ; celle de Denis Moreau (Paris, Le Livre de Poche, 2000), qui remplace cette dernière ; peu avant il y eut celle de Frédéric de Buzon (Paris, Gallimard, 1991 et 1997) ; enfin, celle de Laurence Renault (Paris, Flammarion, 2000 et 2016).
+Une traduction du Discours de la méthode en latin, sous le titre Specimina philosophiae, c'est-à-dire « Éléments » ou « Échantillons de philosophie », paraît en 1644 à Amsterdam, chez Louis Elzevier, avec les Principia philosophiae, directement rédigés en latin ; le traducteur du Discours est Étienne de Courcelles, un théologien, ami de Descartes. La traduction latine du Discours est entreprise à l'initiative de Descartes lui-même, qui supprime la Géométrie, qui sera désormais publiée à part, comme on peut le constater avec les éditions de 1658 et 1668. Dix éditions de la traduction latine se succèdent entre 1644 et la fin du siècle, ce qui démontre que le latin demeurait définitivement, au XVIIe siècle, la langue de la communauté scientifique.
+
+
+== Réception ==
+
+« Les propositions de Descartes provoquent nombre de réactions aussi bien parmi les catholiques, notamment les Jésuites dont il avait reçu l'enseignement, que parmi les protestants » :
+
+« [...] cependant j'ai à me plaindre de ce que les huguenots me haïssent comme papiste et ceux de Rome ne m'aiment pas comme pensant que je suis entaché de l'hérésie du mouvement de la terre. »
+
+René Descartes, Lettre à Mersenne, 16 octobre 1639, f.2
+
+
+=== Querelle d'Utrecht ===
+
+« Gisbertus Voetius (1589-1676), influent prédicateur de l'Église réformée et recteur de l'université d'Utrecht, devient l'un des adversaires les plus virulents de Descartes, dont les thèses sont enseignées par un de ses disciples, Henricus Regius (1598-1679), professeur de médecine et de botanique dans la même université ».
+
+
+=== Diffusion aux Pays-Bas, en Allemagne puis en France ===
+« Diversement appréciées selon les sensibilités théologiques, culturelles et politiques, les propositions de Descartes sont enseignées, promues ou au contraire fermement combattues et condamnées dans les universités des Pays-Bas, d'Allemagne puis de France ».
+
+
+=== Réaction de l'Église catholique ===
+La réaction de l'Église catholique fut plutôt négative, puisqu'elle mit un certain nombre d'œuvres de Descartes à l'Index en 1663, mais cela ne concerna pas le Discours de la méthode.
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+
+
+==== Primaire ====
+René Descartes, Discours de la méthode pour bien conduire sa raison et chercher la vérité dans les sciences, plus la Dioptrique, les Météores et la Géométrie, qui sont des Essais de cette Méthode, 1637, 537 p. (lire en ligne) (reproduction de l'édition originale avec les essais)
+René Descartes, Discours de la méthode, 1902, 80 p. (lire en ligne [PDF]) (reproduction de l'édition de Ch. Adam et P. Tannery)
+René Descartes, Discours de la méthode, commentaires et notes par Jean-Marie Beyssade, Paris, Le Livre de poche, 1973.
+René Descartes, Discours de la méthode et Essais, Œuvres complètes, tome VI, réimpression de l'édition de Charles Adam et Paul Tannery, Paris, Vrin, 1996, 725 p.
+René Descartes, Discours de la méthode, texte et commentaire par Étienne Gilson, Paris, Vrin, 1925, 498 p. (plusieurs rééditions)
+René Descartes, Discours de la méthode, édition de Frédéric de Buzon, Paris, Gallimard, coll. « Folio Essais », 1991, 352 p.
+René Descartes, Discours de la méthode, introduction, notes et dossier par Denis Moreau, Paris, Librairie générale française, coll. « Le Livre de Poche », 2000, 232 p.
+René Descartes, Discours de la méthode et Essais, Œuvres complètes, tome III, édition publiée sous la direction de Jean-Marie Beyssade et Denis Kambouchner, Paris, Gallimard, coll. « Tel », 2009, 826 p.
+René Descartes, Discours de la méthode, présentation, notes, dossier, bibliographie et chronologie par Laurence Renault, Paris, Flammarion, coll. « GF », 2016, 192 p.
+René Descartes, Discours de la méthode  (version audio)
+
+
+==== Secondaire ====
+Ferdinand Alquié, Descartes, l'homme et l'œuvre, Paris, Hatier, 1988, 160 p. (réédition La Table ronde, 2017)
+(it) Giulia Belgioioso (dir.), Descartes : il metodo e i saggi, Florence, Istituto della Enciclopedia Italiana, 1990, 730 p. (plusieurs articles en français)
+Jean-Marie Beyssade, Études sur Descartes. L'histoire d'un esprit, Paris, Le Seuil, coll. « Points », 2001, 394 p.
+J. M. de Bujanda, Index Librorum Prohibitorum, Montréal et Genève, Médiaspaul et Librairie Droz, 2002, 980 p.
+Henri Gouhier, Descartes. Essais sur le Discours de la méthode, la métaphysique et la morale, Paris, Vrin, 1973, 304 p.
+Nicolas Grimaldi et Jean-Luc Marion (dir.), Le Discours et sa méthode, Paris, PUF, coll. « Épiméthée », 1987, 416 p.
+Pierre Guenancia, La Voie des idées. De Descartes à Hume, Paris, PUF, 2015, 244 p.
+Albert-Jean Guibert, Bibliographie des œuvres de René Descartes publiées au XVIIe siècle, Paris, CNRS Éditions, 1976, 236 p. (réédition numérique en 2017)
+(en) Anthony Kenny, The Rise of Modern Philosophy, Oxford, Oxford University Press, 2006, 376 p.
+Henry Méchoulan (dir.), Problématique et réception du Discours de la méthode et des Essais, Paris, Vrin, 1988, 352 p.
+Alain Poussard, Premières leçons sur le Discours de la méthode de Descartes, Paris, PUF, coll. « Bibliothèque Major », 1999, 144 p.
+Jean-François Revel, Descartes inutile et incertain, Paris, Stock, 1976, 126 p.
+Didier Souiller, « Descartes héritier de l’écriture picaresque. Le Discours de la Méthode », dans Le style des philosophes, Bruno Curatolo et Jacques Poirier (dir.), Besançon/Dijon, Presses universitaires de Franche-Comté/Éditions universitaires de Dijon, 2007 (ISBN 978-2-84867-192-5, DOI 10.4000/books.pufc.26567 , lire en ligne), p. 67-79.
+
+
+=== Articles connexes ===
+Révolution copernicienne
+Mathesis universalis
+Relation entre science et religion
+Maîtres et possesseurs de la nature
+Théologie de la nature
+Controverses du cartésianisme
+
+
+=== Liens externes ===
+
+Ressources relatives à la recherche : Internet Encyclopedia of Philosophy Stanford Encyclopedia of Philosophy  
+
+Podcast Le Discours de la méthode de René Descartes, Les Chemins de la philosophie, sur France Culture, janvier 2019
+Exposition 1637, le Discours de la méthode sur le site de la bibliothèque interuniversitaire de la Sorbonne (BIS)
+Commentaire de Jacques Darriulat sur le Discours de la méthode
+
+ Portail de la philosophie   Portail du Grand Siècle

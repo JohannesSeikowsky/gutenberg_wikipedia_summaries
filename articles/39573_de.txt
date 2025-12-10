@@ -1,0 +1,175 @@
+Die Germania ist eine kurze ethnographische Schrift des römischen Historikers Tacitus (ca. 58–120 n. Chr.) über die Germanen. Sie wurde seit der Frühen Neuzeit verstärkt gelesen und entfaltete auf diese Weise eine erhebliche Breitenwirkung. In der neueren Forschung wird das Werk durchaus kritischer betrachtet und auf die problematische Rezeptionsgeschichte hingewiesen.
+
+
+== Datierung ==
+Die Germania wird in aller Regel in das Jahr 98 n. Chr. datiert, auf der Grundlage der Formulierung:
+
+Das zweite Konsulat Trajans fiel in das Jahr 98 n. Chr. Jedoch handelt es sich bei dieser Zeitangabe lediglich um einen terminus post quem, an dem das Werk frühestens verfasst worden sein kann; ein absolutes Datum liegt somit nicht vor.
+Ein Vorschlag von Roland Schuhmann nimmt an, dass die Abfassung der Germania nach 103–106 n. Chr. anzusetzen ist, weil der Name Pannoniis im ersten Satz des Textes die Existenz zweier pannonischer Provinzen (Pannonia superior und inferior, entstanden durch Teilung der Provinz Pannonien) voraussetzt, wenn er als Ländername verstanden wird; die traditionelle Auffassung sieht ihn als Völkernamen.
+
+
+== Titel ==
+Die Schrift Germania ist ohne einen einheitlichen Titel überliefert. Die erste Erwähnung der Schrift findet sich in einem Brief des Humanisten Antonio Beccadelli an Guarino da Verona von April 1426: Compertus est Cor. Tacitus de origine et situ Germanorum („Cornelius Tacitus de origine et situ Germanorum ist in Erfahrung gebracht“). In einem Inventar von Niccolò Niccoli aus dem Jahre 1431 steht: Cornelii taciti de origine & situ germanorum liber incipit sic („de origine et situ Germanorum liber des Cornelius Tacitus fängt so an“). Pier Candido Decembrio, der den Codex Hersfeldensis (nach 1455, s. u. Rezeption) in Rom einsah, gibt den Titel als: Cornelii taciti liber … de Origine et situ Germaniae („von Cornelius Tacitus das Buch de Origine et situ Germaniae“). Beide Titelvarianten gehen auf den Hersfelder Codex zurück; die zweite Variante ist semantisch inkonsistent.
+Aus der Antike ist kein Titel des Werks überliefert. Es gibt nur zwei Titel, die einigermaßen plausibel erscheinen: De origine et situ Germanorum („Über Ursprung und geographische Lage der Germanen“) und De origine et moribus Germanorum („Über Ursprung und Sitten der Germanen“). Für einen Werktitel De origine et situ Germanorum könnten zwei parallele Titelformulierungen Senecas sprechen: De situ Indiae („Die geographische Lage Indiens“) und De situ et sacris Aegyptiorum („Über die geographische Lage und die Heiligtümer der Ägypter“). Beide Titel bilden jedoch keine genauen Entsprechungen zur Germania. India ist anders als der Völkername Germani ein Ländername, während in Senecas zweitem Buch nicht vom Ursprung, sondern von den Heiligtümern der Ägypter die Rede ist. Der aus der Renaissance überlieferte Titel De origine et situ Germanorum erscheint gewissermaßen als Kombination aus den beiden Titeln Senecas. Für De origine et moribus Germanorum würde eine Passage im Text selbst sprechen, denn in Germania c. 27,2 heißt es: Haec in commune de omnium Germanorum origine ac moribus accepimus („Dies haben wir im Allgemeinen über Ursprung und Sitten aller Germanen vernommen“). Der Titel erweckt allerdings den Eindruck, dass er aus diesem Kapitel übernommen ist. Da keiner der beiden Titel über jeden Zweifel erhaben ist, hat man der Schrift den Arbeitstitel Germania gegeben.
+
+
+== Zeitgeschichtliche Einordnung ==
+Zu Tacitus’ Lebzeiten befand sich das römische Reich auf seinem Höhepunkt. Geographisch hatte es fast seine größte Ausdehnung erreicht und erlebte auch kulturell eine Blüte. Die Grenzen zu Germanien waren gezogen und weitgehend gesichert worden. Nach der Varusschlacht im Jahre 9 n. Chr. waren die römischen Offensiven schließlich 16 n. Chr. eingestellt worden (siehe Germanicus); erst im späten 1. Jahrhundert hatten die Römer die Grenze unter Domitian leicht vorverschoben (siehe Agri decumates) und die beiden Rheinprovinzen (Germania inferior, Germania superior) eingerichtet. Einige germanische Stämme hatten sich mit dem neuen mächtigen Nachbarn durchaus arrangiert, andere standen Rom allerdings weiterhin feindlich gegenüber. Diese Situation erforderte lange Zeit eine hohe und kostspielige Truppenpräsenz an der Grenze des römischen Reiches zu den Germanen. Das Besondere an den germanisch-römischen Beziehungen ergibt sich daraus, dass im Unterschied zur anderen großen Grenzzone […] im Norden keine organisierte Großmacht Rom gegenüberstand.
+
+
+== Inhalt ==
+
+In der Germania, die sich in einen allgemeinen und einen besonderen Teil gliedert, beschreibt Tacitus Germanien, ansatzweise auch dessen Geographie und benennt verschiedene germanische Stämme vom Rhein bis zur Weichsel. Er stellt Sitten und Gebräuche der Germanen dar und hebt dabei ihre ihm zufolge sittliche Lebensweise hervor, wie ihr streng geregeltes Familienleben, ihren treuen und aufrichtigen Charakter, ihre Tapferkeit im Krieg und ihren Freiheitswillen. Er weist aber auch auf Schwächen hin, wie ihre Trägheit, ihren Hang zu Würfelspiel und übermäßigem Alkoholkonsum.
+
+
+=== Allgemeiner Teil ===
+
+
+==== Kapitel 1–5: Allgemeine Beschreibung ====
+Tacitus beginnt mit den Grenzen Germaniens, seinem Volk, der Beschaffenheit des Landes und den Bodenschätzen. Dabei betrachtet er die Germanen als abgehärtet, ursprünglich und unvermischt mit anderen Völkern, als Urbevölkerung ihrer Heimat, da sie phänotypisch seinen Schilderungen nach keiner Ethnie der bekannten damaligen Welt ähnlich seien, und er sich auch nicht vorstellen könne, dass jemand freiwillig in solch eine Region, die seiner Ansicht nach sehr rau, unwirtlich und nur schwer überhaupt zu erreichen sei, einwandern könne. Er beschreibt Land und Klima als unfreundlich und trostlos, arm an fruchtbarem Boden und ohne wertvolle Bodenschätze.
+
+
+==== Kapitel 6–15: Das öffentliche Leben ====
+Er fährt fort mit der Beschreibung der Kriegsführung, der Religion und Volksversammlungen, spricht dann über die germanische Rechtsprechung und die Rolle der Fürsten im Krieg. Dabei beschreibt er die Germanen als wilde Barbaren, schwach bewaffnet, aber tapfer im Kampf und voller Wertschätzung für ihre Frauen, als fromme Menschen, die auf Vorzeichen und Orakel vertrauen. Entscheidungen fielen, so Tacitus, in Versammlungen, die abhängig vom Stand des Mondes abgehalten würden. Hier kritisiert er aber eine gewisse Disziplinlosigkeit. Der Kampf, meint Tacitus, sei bei den Germanen höher bewertet als die Mühe täglicher Arbeit. Er zeichnet sogar das Bild eines faulen, dem Müßiggang verfallenen Volkes, das lieber seine Frauen und Alten arbeiten lasse als sich selber um Haus, Hof und Feld zu kümmern.
+
+
+==== Kapitel 16–27: Das private Leben ====
+Die nächsten Abschnitte beschäftigen sich mit den Behausungen der Germanen, ihrer Wohnweise und Kleidung; es folgen Exkurse über Ehe, Erziehung und Erbrecht, bis die Rede auf Gastfreundschaft, Feiern und Spiele kommt. Der allgemeine Teil endet schließlich in einer Beschreibung des Ackerbaus und der Totenbestattung. Tacitus zeichnet auch hier wieder das Bild eines wilden, nachlässig bekleideten Volkes, das sich allerdings, und dafür lobt er die Germanen ausdrücklich, durch hohe Sittsamkeit auszeichne. Die Germanen seien monogam und dem Ehepartner gegenüber treu ergeben. Besonders diese Bemerkung führte zur Annahme, die Germania stelle einen Sittenspiegel dar, der an die Adresse der römischen Gesellschaft gerichtet sei. An kaum einer anderen Stelle betont Tacitus eine Eigenart germanischen Lebens so nachdrücklich.
+Die Gastfreundschaft der Germanen wird lobend hervorgehoben, die dabei auftretenden Ausschweifungen aber auch dargestellt. Ihre Feiern, so Tacitus, dauerten oft tagelang und endeten nicht selten in Schlägereien der Betrunkenen und Totschlag. Hier erwähnt der Autor auch ihr einfaches Essen und das ihm unbekannte alkoholische Getränk (Bier), das die Germanen im Übermaß konsumierten. Es überrascht, dass fast im selben Atemzug ihre absolute Ehrlichkeit gerühmt wird. Verwundert stellt Tacitus dann fest, dass so ziemlich das Einzige, was die Germanen nüchtern und ernsthaft betrieben, das Würfelspiel sei. Hier setzten sie sogar ihre persönliche Freiheit als letzten Einsatz ein und ließen sich als Sklaven verkaufen. Landwirtschaft betrieben sie zwar gemeinschaftlich, aber stets auf niedrigem Niveau. Letzter Punkt dieses Teils ist die Darstellung der Totenbestattung, die als einfach und prunklos beschrieben wird, jedoch in würdevoller Verehrung der Verstorbenen.
+
+
+=== Besonderer Teil ===
+In den letzten elf Kapiteln beschreibt Tacitus Bräuche und Besonderheiten einzelner Stämme und kommt auch auf diejenigen zu sprechen, die Germanien verlassen und sich in Gallien angesiedelt haben.
+
+
+==== Kapitel 28–29: Stämme im Westen und Süden ====
+Erwähnt werden hier anfangs gallische Stämme, Helvetier und Bojer (Boier), die nach Germanien gezogen seien. Dem stellt er Treverer und Nervier gegenüber, die, seiner Darstellung nach, als Germanen in Gallien leben. Diese Zuordnung ist allerdings nicht ganz unproblematisch, wenngleich schon Gaius Iulius Caesar vermerkte, dass ein großer Teil der Belger sich germanischer Abstammung rühmte. Tacitus erwähnt Vangionen, Triboker und Nemeter am Rhein, besonders hebt er die Ubier hervor, die dem römischen Reich treu ergeben seien. Als besonders tapfer werden die Bataver am Niederrhein beschrieben, die Rom ebenso treu zur Seite stünden wie die Mattiaker in der Gegend um das heutige Wiesbaden.
+
+
+==== Kapitel 30–31: Die Chatten ====
+Den kräftigen und militärisch gut organisierten Chatten sagt Tacitus nach, sie schnitten Haupthaar und Bart erst nach der Tötung eines Feindes. Dies sei die Bestimmung ihres Daseins.
+
+
+==== Kapitel 32–34: Weitere Stämme im Westen ====
+Die Tenkterer seien geschulte Reiter, deren Nachbarn, die Brukterer, von anderen Germanen vernichtet worden seien. Er erwähnt hier die Angrivarier und Chamaver, die Dulgubnier und Chasuarier, schließlich die Friesen am Rand des Weltmeeres.
+
+
+==== Kapitel 35–37: Stämme im Norden ====
+Als Nachbarn der Friesen erwähnt Tacitus die Chauken, die von der Nordseeküste bis an das Gebiet der Chatten siedeln. Sie seien, frei von Habgier und Herrschsucht, bei den übrigen Germanen sehr angesehen. Er kommt auf die Cherusker zu sprechen, nennt sie Tölpel und Toren – vielleicht in einem Reflex auf die verlorene Schlacht im Teutoburger Wald gegen den Arminius – und endet mit der Erwähnung der ruhmreichen Kimbern und der für die Römer ebenfalls verlustreichen Kimbernkriege.
+
+
+==== Kapitel 38–45: Die Sueben ====
+Den vorletzten und größten Abschnitt des besonderen Teils widmet Tacitus den Sueben. Diese bewohnten einen großen Teil Germaniens. Sie seien, anders als andere Stämme, keine einheitliche Volksgruppe und unterschieden sich von den übrigen durch ihre Haartracht (Suebenknoten). Bis in das hohe Alter hinein knoteten sie ihr Haar zu einer kunstvollen Frisur, allerdings nicht aus Schönheitsgründen, sondern um groß und furchterregend zu erscheinen. Er erwähnt öffentliche Menschenopfer bei der Untergruppe der Semnonen, nennt weiter Langobarden und andere Stämme. Ihre Verehrung gelte der Mutter Erde (Nerthus), der sie in einem Heiligtum auf einer Insel des Weltmeeres huldigen.
+Der suebische Stamm der Hermunduren sei den Römern hingegen treu ergeben, sie dürften als einziger germanischer Stamm ohne Beaufsichtigung über die römische Grenze ziehen und Handel treiben. Neben vielen anderen erwähnt Tacitus Narister, Markomannen und Quaden, auch die rechts des suebischen Meeres (an der Ostküste der Ostsee) lebenden Aesti, die in Lebensweise und Religion den Sueben ähnelten, ihre Sprache aber gleiche der britannischen Sprache (also einer Form des Keltischen). Sie sammelten Bernstein (Glesum) und verkaufen ihn an die Römer, ohne zu wissen, wie er entstehe oder wo er herkomme. Tacitus endet mit den Sithonen, die so tief in die Knechtschaft gesunken seien, dass sie von einer Frau regiert würden.
+
+
+==== Kapitel 46: Grenzvölker im Osten ====
+Im letzten Kapitel der Germania bespricht Tacitus Peukiner, Veneter und Fenni, Stämme jenseits des Gebietes der Sueben, von denen er nicht weiß, ob er sie den Germanen zuordnen soll.
+
+
+== Diskussion ==
+
+
+=== Quellen ===
+Tacitus selbst war nie in Germanien gewesen. Wahrscheinlich ist, dass er sein Wissen größtenteils aus literarischen Quellen bezog, wie aus Gaius Iulius Caesars Werk über den Gallischen Krieg (De bello Gallico) und dem darin enthaltenen Germanenexkurs. Womöglich zog er auch andere schriftliche Quellen zu Rate, in Frage kommen unter anderem der Germanenexkurs im Geschichtswerk des Titus Livius und die bella Germaniae („Germanenkriege“) des älteren Plinius. Beide Werke sind nicht oder nicht vollständig erhalten. Erwähnung in der Germania findet jedoch allein Caesar. Es gilt als wahrscheinlich, dass auch mündliche Berichte von zeitgenössischen Germanien-Reisenden in sein Werk eingeflossen sind. Die Beschreibung des Sueben-Knotens, der Opferriten und die Bestrafung der treulosen Ehefrau werden auf tatsächliche Beobachtung zurückgeführt.
+
+
+=== Tacitus’ Germanenbild ===
+Tacitus beschreibt seiner Leserschaft ein Volk, das sich anscheinend grundlegend von dem eigenen unterscheidet. Es ist anzunehmen, dass das Objekt seiner Beschreibung, die Germanen, dem römischen Volk äußerst fremd vorgekommen sein müsste, hätte er sich dabei nicht der Methode bedient, das Fremde „begrifflich und inhaltlich in die eigene Welt zu integrieren“. Diese römische Interpretation (Interpretatio Romana) fällt besonders bei der Beschreibung der germanischen Götter auf. So spricht Tacitus von Merkur (für Odin) als dem höchsten Gott und erwähnt Herkules (für Thor) und Mars (für Tyr). Auch bei der Beschreibung des Heerwesens (hier die Truppeneinteilung in Hundertschaften/Centurien) sowie der Trennung von Öffentlicher Sache (res publica) und Privatangelegenheiten (res privatae) ist dies erkennbar.
+Tacitus sieht alle Germanen als ursprünglich an, d. h. alle haben dieselbe Herkunft und sind nicht mit anderen Völkern vermischt und seien auch nicht nach Germanien eingewandert. Charakterzüge, die er im allgemeinen Teil dem gesamten Volk zuschreibt, führt er auf diese gemeinsame Herkunft zurück. Das kann Tacitus allerdings nicht belegen, er geht schlicht davon aus, dass kein Volk freiwillig in dieses karge Land gezogen sein könnte, um sich mit den Germanen zu vermischen.
+In der ganzen Germania ist erkennbar, dass er das Bekannte seiner Welt in der Welt der Germanen sucht, um es für sein römisches Publikum zu beschreiben und zu vergleichen. Das durchaus polarisierende Bild, das Tacitus dabei gibt (ehrenwerte Sitten, Freiheitsliebe und Moral versus primitive, lasterhafte und faule Lebensweise), lässt den heutigen Leser auch einen Eindruck der römischen Gesellschaft zu Zeiten Tacitus’ erahnen. Insofern kann die Germania nicht nur als Ethnographie der Germanen gesehen werden, sondern auch als Anhaltspunkt für das Verständnis von Tacitus’ eigener, römischen Gesellschaft.
+
+
+=== Tacitus’ Absichten ===
+Um die Germania richtig verstehen zu können, ist es unumgänglich, Tacitus’ Beweggründe zu kennen. Will er an seiner Zeit und Gesellschaft Kritik üben oder Überlegenheit beweisen? Will er lediglich ein fremdes Volk beschreiben und seinen römischen Zeitgenossen näher bringen, was ihnen selbst fremd und barbarisch erscheint? Dies zu verstehen ist Grundlage für die Bewertung seiner Arbeit.
+Tacitus selbst äußert sich dazu jedoch nicht. Auch existiert zur Germania weder eine Einleitung noch ein Nachwort des Autors, in denen mögliche Absichten erläutert oder zumindest angedeutet werden. Die Forschung kann also nur vergleichbare Werke heranziehen (auch heutige Ethnographien) und/oder die Schrift im Kontext ihrer damaligen Zeit sehen. Tacitus’ Germania ist einzigartig für ihre Zeit. Antike ethnographische Schriften, die keine weitere Erläuterung (Exkurs) enthalten, sind uns nicht bekannt, was die Klärung dieser zentralen Frage erschwert. Die Wissenschaft zieht deswegen auch Tacitus’ andere Werke, hauptsächlich den Agricola, heran. Das Werk im Kontext seiner Zeit zu sehen wird dadurch erschwert, dass wir nicht viel über die damalige öffentliche Meinung wissen.
+In der Forschung ist die Frage nach den Absichten Tacitus’ ein zentraler Punkt und stark umstritten. Einige Theorien dominieren diese Diskussion, können aber vermutlich nie vollständig veri- oder falsifiziert werden. Möglich ist, dass alle zu einem gewissen Teil ihre Berechtigung haben.
+
+
+==== Sittenspiegel-Theorie ====
+Möglicherweise wollte Tacitus der Dekadenz der römischen Sitten ein positives Gegenbeispiel (Sittenspiegel) entgegenhalten; dafür spricht, dass er die Germanen an einigen Stellen stark idealisierte. Beispielsweise stellt er der Sittsamkeit germanischer Frauen lüsterne Schauspiele und Verführung durch aufreizende Gelage in Rom gegenüber. Es findet sich sogar explizite Kritik an den römischen Verhältnissen: Tacitus macht eigene Zwietracht und Bürgerkrieg für germanische Erfolge verantwortlich.
+
+
+==== Ethnographie-Theorie ====
+Andere Forscher halten das Werk nicht für eine sittliche Mahnung zur Aufrichtung der römischen Moral, sondern für eine objektive Ethnographie. Diese stellenweise stark polarisierenden negativen und positiven Gegensätze zu Tacitus’ eigener Kultur dienten demnach lediglich dem Verständnis des Andersartigen. Dafür spricht, dass sich viele seiner Beschreibungen als richtig herausgestellt haben und durch die moderne Archäologie bestätigt wurden.
+Allerdings sei die römische Ethnographie stets zweckgebunden gewesen, so Ernst Baltrusch: Tacitus’ Werk sei „Ausdruck eines […] römischen Interesses an den Charaktereigenschaften der Untertanen“, ihren Stärken und Schwächen, ihrer Bekämpfbarkeit oder ihrem Integrationspotenzial, ihrer Tauglichkeit als Untertanen oder ihrer Rolle als Kriegsgegner. Auch „Charakter-Kataloge“ wie der des Tacitus über die Undiszipliniertheit und Trunksucht der Germanen, ihre Vorliebe für das Nichtstun und ihre Abneigung gegen den Ackerbau, schließlich über ihre Selbstsicht und ihre Handlungsunfähigkeit als Großgruppe waren in diesem Sinne römisches Herrschaftswissen. Baltrusch hält Tacitus’ differenzierende Sicht auf einzelne Stammesgruppen für ansatzweise realistisch: Er „dünnt die Germanen sowohl nach Osten als auch nach Westen hin aus: hier zivilisierter, dort wilder als die ‚Durchschnittsgermanen‘. Von einer festen Grenze ist keine Rede; Migrationen werden durchaus berücksichtigt.“
+
+
+==== Weitere Ansätze ====
+Diskutiert wird auch, dass Tacitus womöglich aufzeigen wollte, warum Rom in jahrzehntelangen Versuchen Germanien nie vollständig erobern konnte. Der Grund sei demnach die Gesellschaftsform und der freiheitsliebende Charakter der Germanen. Neuere Deutungen gehen sogar noch weiter: Tacitus wolle nicht nur erklären, warum Germanien nicht besiegt werden konnte, sondern sogar vor weiteren Eroberungsversuchen warnen.
+
+
+== Rezeption ==
+Die Schrift hat, zusammen mit den anderen „Kleinen Schriften“ des Tacitus, nur in einem einzigen Exemplar die Zeit des Humanismus erreicht. Es wurde von Enoch von Ascoli in der Abtei Hersfeld aufgefunden und ca. 1455 nach Italien gebracht. Als Erster hat sich Enea Silvio Piccolomini, der spätere Papst Pius II., mit der Schrift befasst. Im mittelalterlichen Deutschland spielte der Begriff Germanen als Selbstbezeichnung für „die Deutschen“ kaum eine Rolle, versuchte man sich doch historisch in die Nähe der Römer zu stellen.
+Um Begeisterung für einen Kreuzzug gegen die Türken zu entfachen, wurde die Germania auf dem Regensburger Reichstag 1471 benutzt, indem die kriegerischen Eigenschaften der Germanen hervorgehoben wurden. Es waren aber erst die deutschen Humanisten, die auf Tacitus aufmerksam wurden (Conrad Celtis, Aventinus, vor allem Ulrich von Hutten). Von da an hielt das Interesse der Deutschen an dem, was sie als „ihre Urgeschichte“ betrachteten, lange Zeit an, wenngleich jede Epoche ihre eigene, jeweils unterschiedliche Auslegung hatte. Die Humanisten schwärmten für die angebliche „germanische Reinheit“ und die Ursprünglichkeit ihrer Vorfahren, in diesem Sinne diente die Germania einer anachronistischen Identitätsstiftung. Erst mit Jacob Grimm (und Karl Müllenhoff) kam eine wissenschaftliche Betrachtungsweise hinzu.
+Bereits im 19. Jahrhundert begann aber auch die wissenschaftliche Konstruktion eines Germanenmythos durch die Altertumswissenschaften. Über Gustaf Kossinna trug diese Entwicklung mit zur Entstehung der pseudo-wissenschaftlichen Rassenlehre des Nationalsozialismus bei. Nationalsozialistische Rassenpolitiker, allen voran Heinrich Himmler und die von ihm mitgegründete „Forschungsgemeinschaft Deutsches Ahnenerbe“, entstellten und missbrauchten die Aussagen bei Tacitus als Argumente für eine angebliche „rassische Überlegenheit“ der Deutschen und ihren millionenfachen Massenmord in den NS-Konzentrations- und Vernichtungslagern.
+In der neueren Forschung wird hingegen auf die problematische Rezeptionsgeschichte und die Instrumentalisierung des Inhalts der Schrift kritisch hingewiesen, zumal die Gleichsetzung Germanen/Deutsche längst nicht mehr haltbar ist. Die Behandlung durch Eduard Norden, der das Werk 1920 in das Umfeld der antiken Ethnographie gestellt hat, auch und gerade im Vergleich zu der weithin herrschenden Germanenideologie, ist immer noch grundlegend. Die moderne Forschung betrachtet die Germania (etwa bezüglich Intention und Quellenkritik) kritischer als die ältere und ist teilweise auch zu neuen Bewertungen gelangt.
+Die Germania wurde in die Zeit-Bibliothek der 100 Bücher aufgenommen.
+
+
+== Ausgaben, Übersetzungen und Kommentare ==
+Einsprachig lateinische Ausgaben
+
+Erich Koestermann (Hrsg.): Cornelius Tacitus. Germania, Agricola, Dialogus de oratoribus. Teubner, Stuttgart 1970 [Reprint 3. Auflage 2011], ISBN 978-3-11-095884-3 (P. Cornelii Taciti libri qui supersunt, T. 2,2)
+Alf Önnerfors (Hrsg.): De origine et situ Germanorum liber. Teubner, Stuttgart 1983 [Reprint 2011], ISBN 978-3-11-096377-9 (P. Cornelii Taciti libri qui supersunt, T. 2,2)
+Rodney P. Robinson: The Germania of Tacitus. A critical edition. (= Philological Monographs published by the American Philological Association, no. 5). Middletown, Connecticut 1935. Reprint: Olms Verlag, Hildesheim u. a. 1991, ISBN 3-487-09523-8.
+Übersetzungen, teils mit Kommentar
+
+Maurice Hutton (Hrsg.): Agricola and Germania. In: Tacitus, Agricola. Germania. Dialogus (Loeb Classical Library). William Heinemann/Macmillan, London/New York 1914, S. 147–354, hier S. 255–333. Neuausgabe, Harvard University Press/W. Heinemann, Cambridge (Mass.)/London 1970 (die Germania überarbeitet von Eric Herbert Warmington).
+Curt Woyte (Hrsg.): Tacitus, Germania. Ins Deutsche übertragen und mit Einleitung und Anmerkungen versehen. Reclam, Leipzig 1925 (mehrere Neuauflagen).
+Wilhelm Reeb (Hrsg.): Tacitus, Germania. Kommentar W. Reeb unter Mitarbeit von H. Klenk mit Beiträgen von A. Dopsch, H. Reis, K. Schumacher. B. G. Teubner, Berlin/Leipzig 1930 (Digitalisat SLUB Dresden).
+Arno Mauersberger: Tacitus, Germania. Lateinisch und Deutsch. Übertragen und erläutert (= Sammlung Dieterich. Band 100). Dieterich, Leipzig 1942.
+Karl Büchner (Hrsg.): Publius Cornelius Tacitus, Die historischen Versuche. Agricola, Germania, Dialogus (= Kröners Taschenausgabe. Band 225). Alfred Kröner, Stuttgart 1955, S. 125–148 (Einführung) und S. 149–179 (deutsche Übersetzung).
+Manfred Fuhrmann (Hrsg.): Tacitus, Germania. Lateinisch/Deutsch. Reclam, Stuttgart 1972, ISBN 3-15-009391-0 (mehrere Neuauflagen).
+Gerhard Perl: Tacitus. Germania – Lateinisch und Deutsch. In: Joachim Hermann (Hrsg.): Griechische und Lateinische Quellen zur Geschichte Mitteleuropas bis zur Mitte des 1. Jahrtausends u.Z. (= Schriften und Quellen der Alten Welt. Band 37,2). Akademie-Verlag, Berlin 1990, ISBN 3-05-000349-9.
+Allan A. Lund (Hrsg.): P. Cornelius Tacitus, Germania. Interpretiert, herausgegeben, übertragen, kommentiert und mit einer Bibliographie versehen. Universitätsverlag Carl Winter, Heidelberg 1988, ISBN 3-533-03875-0.
+Alfons Städele (Hrsg.): Cornelius Tacitus, Agricola. Germania (Sammlung Tusculum). Artemis und Winkler, München 1991, ISBN 3-7608-1664-9.
+Anthony R. Birley (Hrsg.): Tacitus. Agricola and Germany. Oxford University Press, Oxford 1999, ISBN 0-19-283300-6.
+James B. Rives (Hrsg.): Tacitus, Germania. Clarendon Press, Oxford 1999, ISBN 0-19-815050-4 (englische Übersetzung mit ausführlicher Einleitung und umfangreichem Kommentar).
+Wissenschaftliche Kommentare
+
+Rudolf Much: Die Germania des Tacitus. Winter, Heidelberg 1937 (3. Auflage unter Bearbeitung durch Wolfgang Lange und Herbert Jankuhn, 1967, DNB 457642858).
+Roland Schuhmann: Geographischer Raum und Lebensform der Germanen: Kommentar zu Tacitus’ „Germania“, c. 1–20. Dissertation Uni Jena 2006, DNB 995223548 (Volltext PDF; 4,3 MB).
+
+
+== Literatur ==
+
+
+=== Über die Germanen allgemein ===
+Bruno Bleckmann: Die Germanen. C.H.Beck, München 2009, ISBN 3-406-58476-4.
+Ulrike Peters: Die Germanen. Marix Verlag, Wiesbaden 2014, ISBN 978-3-86539-989-2.
+Walter Pohl: Die Germanen. 2. Auflage. Oldenbourg Wissenschaftsverlag, München 2004, ISBN 3-486-56755-1.
+
+
+=== Über Tacitus und die Germania ===
+Jan-Wilhelm Beck:  'Germania' – 'Agricola': Zwei Kapitel zu Tacitus' zwei kleinen Schriften. Untersuchungen zu ihrer Intention und Datierung sowie zur Entwicklung ihres Verfassers. Hildesheim 1998, ISBN 3-12-645000-8 (Spudasmata 68).
+Herbert Jankuhn, Dieter Timpe (Hrsg.): Beiträge zum Verständnis der Germania des Tacitus, Teil 1. Bericht über die Kolloquien der Kommission für die Altertumskunde Nord- und Mitteleuropas im Jahr 1986. Göttingen 1989, ISBN 3-525-82459-9 (AbhGöttingen 175).
+Christopher B. Krebs: Negotiatio Germaniae. Tacitus’ Germania und Enea Silvio Piccolomini, Giannantonio Campano, Conrad Celtis und Heinrich Bebel. Vandenhoeck & Ruprecht, Göttingen 2005, ISBN 3-525-25257-9 (Hypomnemata 158).
+Allan A. Lund: Zur Gesamtinterpretation der Germania des Tacitus. In: Hildegard Temporini, Wolfgang Haase (Hrsg.): Aufstieg und Niedergang der römischen Welt. Teil II, Bd. 33.3. De Gruyter, Berlin/New York 1991, S. 1858–1988, ISBN 3-11-012541-2, ISBN 978-3-11-012541-2.
+Allan A. Lund: Kritischer Forschungsbericht zur ‘Germania’ des Tacitus. In: Hildegard Temporini, Wolfgang Haase (Hrsg.): Aufstieg und Niedergang der römischen Welt. Teil II, Bd. 33.3. De Gruyter, Berlin/New York 1991, S. 1989–2222 und S. 2341–2344.
+Allan A. Lund: Zum Germanenbegriff bei Tacitus. In: Heinrich Beck (Hrsg.): Germanenprobleme in heutiger Sicht (= Reallexikon der Germanischen Altertumskunde – Ergänzungsbände 1). 2. Auflage, De Gruyter, Berlin/New York 1999, ISBN 3-11-016439-6, S. 53–87.
+Günter Neumann, Henning Seemann (Hrsg.): Beiträge zum Verständnis der Germania des Tacitus, Teil 2. Bericht über die Kolloquien der Kommission für die Altertumskunde Nord- und Mitteleuropas im Jahr 1986 und 1987. Göttingen 1992, ISBN 3-525-82482-3 (AbhGöttingen 195).
+Eduard Norden: Die germanische Urgeschichte in Tacitus Germania. 6. Auflage, unveränderter Abdruck der 1. Auflage 1920. Teubner, Stuttgart 1974, ISBN 3-519-07224-6.
+Stephan Schmal: Tacitus. Georg Olms Verlag, Hildesheim 2005, ISBN 3-487-12884-5.
+Dieter Timpe: Romano-Germanica: gesammelte Studien zur Germania des Tacitus. Teubner, Stuttgart und Leipzig 1995, ISBN 3-519-07428-1.
+
+
+=== Zur Rezeption der Germania ===
+Gerhard Binder: Vom Schicksal einer Schicksalsschrift der Deutschen im 19. Jahrhundert. Zur Germania des Tacitus. In: Manfred Jakubowski-Tiessen (Hrsg.): Religion zwischen Kunst und Politik. Aspekte der Sãkularisierung im 19. Jahrhundert. Gõttingen 2004, S. 26–47.
+Ludwig Krapf: Germanenmythus und Reichsideologie. Frühhumanistische Rezeptionsweisen der taciteischen „Germania“ (= Studien zur deutschen Literatur. Band 59). Niemeyer, Tübingen 1979, ISBN 3-484-18055-2.
+Christopher B. Krebs: „… jhre alte Muttersprache … unvermengt und unverdorben“: Zur Rezeption der taciteischen Germania im 17. Jahrhundert. In: Philologus. Band 154 (2010) 119–139 (academia.edu).
+Christopher B. Krebs: Ein gefährliches Buch – Die „Germania“ des Tacitus und die Erfindung der Deutschen. DVA, München 2012.
+Allan A. Lund: Germanenideologie im Nationalsozialismus. Zur Rezeption der „Germania“ des Tacitus im „Dritten Reich“. Universitätsverlag C. Winter, Heidelberg 1995.
+Dieter Mertens: Die Instrumentalisierung der „Germania“ des Tacitus durch die deutschen Humanisten. In: Heinrich Beck (Hrsg.): Zur Geschichte der Gleichung „germanisch-deutsch“. De Gruyter, Berlin/New York 2004, S. 37–101 (online; PDF; 6,2 MB).
+Ingo Wiwjorra: Der Germanenmythos. Konstruktion einer Weltanschauung in der Altertumsforschung des 19. Jahrhunderts. Wissenschaftliche Buchgesellschaft, Darmstadt 2006, ISBN 3-534-19016-5.
+
+
+== Weblinks ==
+
+Germania, lateinisch und deutsch mit weiterführenden Angaben
+Lateinische Germania
+Germania, lateinisch und deutsch mit Kommentar
+Digitalisat der ersten deutschen Ausgabe der Germania, Nürnberg 1473/74. (abgerufen am 12. April 2015)
+
+
+== Anmerkungen ==

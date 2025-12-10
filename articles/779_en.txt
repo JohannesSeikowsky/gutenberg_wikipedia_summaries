@@ -1,0 +1,160 @@
+The Tragical History of the Life and Death of Doctor Faustus, commonly referred to simply as Doctor Faustus, is an Elizabethan tragedy by Christopher Marlowe, based on German stories about a scholar who sells his soul to the devil in exchange for magical power. Written in the late 16th century and first performed around 1594, the play follows Faustus’s rise as a magician through his pact with Lucifer—facilitated by the demon Mephistopheles—and his ultimate downfall as he fails to repent before his damnation.
+The play survives in two major versions: the shorter 1604 "A" text and the expanded 1616 "B" text, which includes additional scenes and material of debated authorship. Though once considered less authoritative, the "B" text has gained renewed scholarly interest, especially regarding its comic elements and their thematic significance.
+Doctor Faustus blends classical tragedy with Elizabethan drama, employing a five-act structure and a chorus. Thematically, it explores ambition, the limits of knowledge, Christian theology, and Renaissance humanism. Critics have long debated its stance on Calvinist predestination and its reflection of Reformation-era anxieties.
+The play has had a lasting influence, inspiring adaptations across stage, film, and other media. Performances have been associated with supernatural legends since the 17th century, and the characters of Faustus and Mephistopheles remain iconic figures in Western literature.
+
+
+== Performance ==
+The Admiral's Men performed the play 23 times between September 1594 and October 1597. On 22 November 1602, the diary of Philip Henslowe recorded a £4 payment to Samuel Rowley and William Bird for additions to the play, which suggests a revival soon after that date.
+The powerful effect of the early productions is indicated by the legends that quickly accrued around them. In Histriomastix, his 1632 polemic against the drama, William Prynne records the tale that actual devils once appeared on the stage during a performance of Faustus, "to the great amazement of both the actors and spectators". Some people were allegedly driven mad, "distracted with that fearful sight." John Aubrey recorded a related legend, that Edward Alleyn, lead actor of The Admiral's Men, devoted his later years to charitable endeavours, like the founding of Alleyn's College, in direct response to this incident.
+
+
+== Text ==
+Given its source in the Historia von D. Johann Fausten, published as a chapbook in Germany in 1587, and the fact that the earliest known translation of the latter work into English was in 1592, the play was probably written in 1592 or 1593. It may have been entered into the Stationers' Register on 18 December 1592, though the records are confused and appear to indicate a conflict over the rights to the play. A subsequent Stationers' Register entry, dated 7 January 1601, assigns the play to the bookseller Thomas Bushell (variant written forms: Busshell or Bushnell), the publisher of the 1604 first edition. Bushell transferred his rights to the play to John Wright on 13 September 1610.
+
+
+=== Text A and Text B ===
+Two versions of the play exist:
+
+The 1604 quarto, printed by Valentine Simmes for Thomas Bushell is usually called the A text. The title page attributes the play to "Ch. Marl.". A second edition (A2) of the A text was printed by George Eld for John Wright in 1609. It is merely a direct reprint of the 1604 text. The text is short for an English Renaissance play, only 1485 lines long.
+The 1616 quarto, published by John Wright, enlarged and altered the text and is usually called the B text. This second text was reprinted in 1619, 1620, 1624, 1631, and as late as 1663. The B text includes additions and revisions attributed to the minor playwright and actor Samuel Rowley and William Borne (or Birde), with possible contributions from Marlowe himself.
+The 1604 version was once believed to be closer to the play as originally performed in Marlowe's lifetime, simply because it was older. By the 1940s, after influential studies by Leo Kirschbaum and W. W. Greg, the 1604 version came to be regarded as an abbreviation, and the 1616 version as Marlowe's original fuller version. Kirschbaum and Greg considered the A-text a "bad quarto", and thought that the B-text was linked to Marlowe himself. Since then scholarship has swung the other way, most scholars now considering the A-text more authoritative, even if "abbreviated and corrupt", according to Charles Nicholl.
+The 1616 version omits 36 lines but adds 676 new lines, making it roughly one third longer than the 1604 version. Some of the shared lines differ in wording; for example, "Never too late, if Faustus can repent" in the 1604 text becomes "Never too late, if Faustus will repent" in the 1616 text, a change that offers a very different possibility for Faustus's hope and repentance.
+The B texts contains many exchanges that the A text does not. One of the most pivotal is the exchange between Dr. Faustus and Mephistopheles. In the B text, Mephistopheles takes credit for Dr. Faustus' damnation. This changes the trajectory of the story because it makes Dr. Faustus seem less culpable. He is more a victim of evil forces and less a man who damns himself through rash actions.
+Another difference between texts A and B is the name of the devil summoned by Faustus. Text A states the name is generally "Mephistopheles", while the version of text B commonly states "Mephostophilis". The name of the devil is in each case a reference to Mephistopheles in Faustbuch, the source work, which appeared in English translation in about 1588.
+The relationship between the texts is uncertain and many modern editions print both. As an Elizabethan playwright, Marlowe had nothing to do with the publication and had no control over the play in performance, so it was possible for scenes to be dropped or shortened, or for new scenes to be added, so that the resulting publications may be modified versions of the original script.
+
+
+== Characters ==
+
+
+=== Doctor Faustus ===
+Doctor Faustus is the protagonist. He is a scholar from Wittenberg University. In addition he is a Doctor of Theology. He is the man who considers himself as a scholar of almost every discipline including Law, Medicine, Philosophy etc. Now he wants to master Necromancy which pulls him. He is an intelligent man whose curiosity and ambition lead him to sell his soul for power. Throughout the play, he goes back and forth between reveling in his newfound power and trying to repent to God. Pensky theorizes that while in the presence of real devils, Faustus still does not truly believe/understand the consequence of selling his soul is going to hell until the end of the play.
+
+
+=== Mephistopheles ===
+Mephistopheles is a demon who accompanies Doctor Faustus throughout the play. He is first introduced in Act 1, Scene 3, when Doctor Faustus attempts to conjure a demon from the underworld. He tries to warn Faustus about the consequences of abjuring God and Heaven. Mephistopheles gives Faustus a description of Hell and the continuous horrors it possesses; he wants Faustus to know what he is getting himself into before going through with the bargain:
+
+Mephistopheles offers twenty-four years of worldly power in exchange for his soul, a temptation that leads Faustus to a path of damnation. Despite this, he believes that supernatural powers are worth a lifetime in Hell:
+
+Mephistopheles's description of Hell suggests the kind of pain Faustus will endure when his contract is up and his soul is finally taken. Mephistopheles is not so grave all the time though, he also participates and plays along with the petty pranks that Faustus pulls on others.
+
+
+=== Wagner ===
+Wagner is Doctor Faustus's assistant who is first introduced in Act 1, Scene 1. Scott observes that although Wagner has a moral responsibility to dissuade Faustus from magic, he instead follows his commands and imitates him. Wagner shares in some of Doctor Faustus's magic powers, but his uses of magic are more for his entertainment. Such as in Act 1, Scene 4, when he conjures up demons to terrify the clown, Robin, into working for him. Walker argues that Wagner is Doctor Faustus's comedic foil in the play; subverting Doctor Faustus's ability and intelligence by showing that acquiring demonic magic takes no real skill.
+
+
+=== Good Angel and Bad Angel ===
+The Good Angel and the Bad Angel are two characters who appear at multiple points in the play when Faustus is at a crossroads of what to do. The Good Angel tries to persuade Faustus to repent and turn back to God, while the Bad Angel tries to convince Faustus that he is past the point of forgiveness from God.
+
+
+=== Lucifer ===
+Lucifer is the ultimate authority in hell. Mephistopheles tells Faustus that he can't do anything without Lucifer's say-so and that Lucifer allows people to sell their souls to him because he wants more people in hell. He appears to Faustus twice in the play, once to keep Faustus from repenting by showing him the Seven Deadly Sins and once to collect his soul at the end of the play. In Act 5, Scene 2 of the B-text, there is an added conversation between Lucifer, Mephistopheles, and Beelzebub about how Faustus is soon to suffer in hell.
+
+
+=== Robin and Rafe ===
+Robin and Rafe are the main comedic characters of the play, although Rafe is renamed "Dick" in the B-text. Robin steals one of Doctor Faustus's conjuring books to play petty tricks on people with Rafe. Along with Wagner, Robin and Rafe show that anybody could use demonic magic and that Doctor Faustus's skills are not special.
+
+
+=== Old man ===
+A mysterious and devoutly religious figure who appears in the final act, the Old Man serves as a personification of Christian faith and redemption. He represents a final opportunity for Faustus to repent and turn back to God, urging him to seek mercy even after the demonic pact. Unmoved by Mephistopheles’s threats, the Old Man remains steadfast in his belief that divine grace is still within Faustus's reach. His presence underscores the play's central theme of salvation versus damnation and heightens the tragedy of Faustus’s ultimate refusal to repent
+
+
+== Sources ==
+Doctor Faustus is based on an older tale; it is believed to be the first dramatization of the Faust legend. Leo Ruickbie believes that Marlowe developed the story from a popular 1592 translation, commonly called The English Faust Book. This was based on  the 1587 German language Historia von D. Johann Fausten, which itself may have been influenced by even earlier and ill-preserved pamphlets in Latin (such as those that likely inspired Jacob Bidermann's treatment of the damnation of the doctor of Paris, Cenodoxus (1602)).
+Several soothsayers or necromancers of the late fifteenth century adopted the name Faustus, a reference to the Latin for "favoured" or "auspicious"; typical was Georgius Faustus Helmstetensis, calling himself astrologer and chiromancer, who was expelled from the town of Ingolstadt for such practices. Subsequent commentators have identified this individual as the prototypical Faustus of the legend.
+Whatever the inspiration, the development of Marlowe's play is very faithful to the Faust Book, especially in the way it mixes comedy with tragedy.
+However, Marlowe also introduced some changes to make it more original. He made four main additions:
+
+Faustus's soliloquy, in Act 1, on the vanity of human science
+Good and Bad Angels
+The substitution of a Pageant of Devils for the seven deadly sins. He also emphasized Faustus's intellectual aspirations and curiosity, and minimized the vices in the character, to lend a Renaissance aura to the story.
+The name Bruno in the rival Pope scenes recalls that of Giordano Bruno who was tried for heresy by the Inquisition and burnt at the stake in 1600. This reference indicates that Marlowe recognized the cosmic machinery of the Faust story as a reflection of terrestrial power and authority, by which dissidents were tortured and executed in the name of obedience and conformity.
+
+
+== Structure ==
+
+The play is in blank verse and prose in thirteen scenes (1604) or twenty scenes (1616).
+Blank verse is largely reserved for the main scenes; prose is used in the comic scenes. Modern texts divide the play into five acts; act 5 being the shortest. As in many Elizabethan plays, there is a chorus (which functions as a narrator), that does not interact with the other characters but rather provides an introduction and conclusion to the play and, at the beginning of some Acts, introduces events that have unfolded.
+Along with its history and language style, scholars have critiqued and analyzed the structure of the play. Leonard H. Frey wrote a document entitled In the Opening and Close of Doctor Faustus, which mainly focuses on Faustus's opening and closing soliloquies. He stresses the importance of the soliloquies in the play, saying: "the soliloquy, perhaps more than any other dramatic device, involved the audience in an imaginative concern with the happenings on stage". By having Doctor Faustus deliver these soliloquies at the beginning and end of the play, the focus is drawn to his inner thoughts and feelings about succumbing to the devil.
+The soliloquies also have parallel concepts. In the introductory soliloquy, Faustus begins by pondering the fate of his life and what he wants his career to be. He ends his soliloquy with the solution: he will give his soul to the devil. Similarly in the closing soliloquy, Faustus begins pondering and finally comes to terms with the fate he created for himself. Frey also explains: "The whole pattern of this final soliloquy is thus a grim parody of the opening one, where decision is reached after, not prior to, the survey".
+
+
+== Synopsis ==
+
+The Chorus explains that Faustus was low-born, or born of low social rank, but still managed to quickly achieve a doctorate in theology at the University of Wittenberg. However, his interest in learning and his pride soon led him to necromancy.
+In the first scene of the play, Faustus expresses his boredom and impatience with the various branches of knowledge and concludes that only magic is worth learning. He asks his servant Wagner to return with the magicians Valdes and Cornelius, who have been trying to interest him in magic for some time. While he waits, he is visited by a Good Angel, who tries to dissuade him from this path, and a Bad Angel, who encourages him. Valdes and Cornelius arrive and declare that if Faustus devotes himself to magic, great things are indeed possible with someone of Faustus's learning and intelligence.
+While Faustus is at dinner with the magicians, two scholars notice Faustus's absence and ask Wagner about his whereabouts. When Wagner tells them he is with Valdes and Cornelius, the scholars worry that the magicians have corrupted him and leave to inform the rector of the university.
+Faustus attempts to conjure a devil, and Mephistopheles arrives. Faustus believes that he has summoned him, but Mephistopheles says that he came of his own accord, and that he serves Lucifer, and cannot do anything without his leave. Faustus questions Mephistopheles about Lucifer and Hell, and tells him to speak to Lucifer and return. The next scene is a comedic reflection in which Wagner calls two devils, with which he scares the Clown into serving him.
+Mephistopheles returns, and Faustus signs a contract in his own blood: Mephistopheles will serve him for 24 years, at which point Lucifer will claim him, body and soul. Once the contract is signed, Faustus asks for a wife, but Mephistopheles declines, saying marriage is "but a ceremonial toy"; he asks for books of knowledge, and Mephistopheles provides a single book. In the corresponding comedic scene, Robin, a hostler, has stolen a conjuring book, and plans mischief with it.
+Faustus begins to waver and think about God and is visited again by the Good and Bad Angels. Lucifer arrives to remind him of his contract and entertains him with a show of the Seven Deadly Sins. Faustus and Mephistopheles then travel Europe, eventually arriving in Rome, where they play tricks on the Pope. Next, Robin and Rafe (A version) or Dick (B version), having been caught for stealing a goblet, call on Mephistopheles, who arrives and angrily turns them into animals before returning to attend on Faustus. Faustus has been called to the court of the Holy Roman Emperor, where he and Mephistopheles conjure Alexander the Great and his paramour and give a knight cuckold's horns for being a heckler. In the A version, the emperor asks Faust to relent, and he does; in the B version a longer scene follows in which the knight and his friends attack Faustus; all are given horns. In both versions, Faustus then plays tricks on a horse dealer. Faustus and Mephistopheles then put on a magic show for the Duke and Duchess of Vanholt.
+When Faustus's 24 years are nearly up, he bequeaths his possessions to Wagner. He conjures Helen of Troy for some students, and, when he starts to think of repenting again, renews his pledge to Lucifer and asks Mephistopheles for Helen as his lover. In the final scene, Faustus admits to some scholars that he has bargained away his soul; despite their prayers, the devils come for him.
+
+
+== The Calvinist/anti-Calvinist controversy ==
+The theological implications of Doctor Faustus have been the subject of considerable debate. Among the most complicated points of contention is whether the play supports or challenges the Calvinist doctrine of absolute predestination, which dominated the lectures and writings of many English scholars in the latter half of the sixteenth century. According to Calvin, predestination meant that God, acting of his own free will, elects some people to be saved and others to be damned—thus, the individual has no control over his own ultimate fate. This doctrine was the source of great controversy because it was seen by the so-called anti-Calvinists to limit man's free will in regard to faith and salvation, and to present a dilemma in terms of theodicy.
+At the time Doctor Faustus was performed, this doctrine was on the rise in England, and under the direction of Puritan theologians at Cambridge and Oxford had come to be considered the orthodox position of the Church of England. Nevertheless, it remained the source of vigorous and, at times, heated debate between Calvinist scholars, such as William Whitaker and William Perkins, and anti-Calvinists, such as William Barrett and Peter Baro. The dispute between these Cambridge intellectuals had quite nearly reached its zenith by the time Marlowe was a student there in the 1580s, and likely would have influenced him deeply, as it did many of his fellow students.
+Concerning the fate of Faustus, the Calvinist concludes that his damnation was inevitable. His rejection of God and subsequent inability to repent are taken as evidence that he never really belonged to the elect but rather had been predestined from the very beginning for reprobation. For the Calvinist, Faustus represents the worst kind of sinner, having tasted the heavenly gift and rejected it. His damnation is justified and deserved because he was never truly adopted among the elect. According to this view, the play demonstrates Calvin's "three-tiered concept of causation," in which the damnation of Faustus is first willed by God, then by Satan, and finally, by himself.
+
+
+== Themes and motifs ==
+"Ravished" by magic (1.1.112), Faustus turns to the dark arts when law, logic, science, and theology fail to satisfy him. According to Charles Nicholl this places the play firmly in the Elizabethan period when the problem of magic ("liberation or damnation?") was a matter of debate, and when Renaissance occultism aimed at a furthering of science. Nicholl, who connects Faustus as a "studious artisan" (1.1.56) to the "hands-on experience" promoted by Paracelsus, sees in the former a follower of the latter, a "magician as technologist".
+The play is well-known for a famous line: "Was this the face that launched a thousand ships / And burnt the topless towers of Ilium?", said by Faustus upon seeing a demon impersonating Helen. The line is a paraphrase of a statement from Lucian's Dialogues of the Dead. It is frequently quoted out of context to convey astonishment at Helen's beauty. However, in Doctor Faustus, it is said to a devil posing as Helen, and is a response to the illusion; it may even express disappointment that she is not more beautiful. The German poet and polymath Johann Wolfgang von Goethe re-envisioned the meeting of Faust and Helen.  In Faust: The Second Part of the Tragedy, the union of Helen and Faust becomes a complex allegory of the meeting of the classical-ideal and modern worlds.
+Religion is a central theme represented throughout the play by using Dr. Faustus to portray the struggles of religious belief and worldly knowledge. The play explores the conflict between religious piety and the temptation of earthly power and wisdom. The text is deeply rooted in Christian theology given its references to heaven, hell, devils, and biblical characters while simultaneously portraying anti-religious imagery which in turn reflects the criticism of religion during the Reformation.
+Faustus's fate reflects the theme of seeking redemption and salvation through a religious perspective. Despite several occasions of listening to the warnings from the scholars about the consequences of his actions, Faustus continues down his path of sin. It is not until his deal with Mephistopheles must be fulfilled that he begs for God's mercy and the chance to repent. In the end, his prayers go unanswered as he is ultimately damned, highlighting the irreversible consequences of his choices.
+
+
+== Comic scenes ==
+In the past, it was assumed that the comic scenes within the play were additions by other writers and were not written by Christopher Marlowe himself. However, most scholars today consider the comic interludes an integral part of the play, regardless of their author, and so they continue to be included in print. The tone of the comedic scenes throughout both A-text and B-text shows the progressive change in Faustus' ambitions, which, in turn, created various theories of the composers of the comedic lines.
+The Clowns and comedic figures in Marlowe's Doctor Faustus (Wagner, Robin, and Rafe) serve as both comic relief and demonstrate that anyone can access the supernatural regardless of their degree of experience. The scenes including clown characters provide a lighter alternate outlook of demonic studies. Additionally, scholar Bryan Lowrance suggests that Christopher Marlowe utilizes humor to make various positions in society easier to grasp.
+
+
+== Adaptations ==
+The first television adaptation was broadcast in 1947 by the BBC starring David King-Wood as Faustus and Hugh Griffith as Mephistopheles. In 1958, another BBC television version starred William Squire as Faustus in an adaptation by Ronald Eyre intended for schools. In 1961, the BBC adapted the play for television as a two-episode production starring Alan Dobie as Faustus; this production was also meant for use in schools.
+The play was adapted for the screen in 1967 by Richard Burton and Nevill Coghill, who based the film on an Oxford University Dramatic Society production in which Burton starred opposite Elizabeth Taylor as Helen of Troy.
+There have been several adaptations on BBC Radio and elsewhere:
+
+The first production on BBC Radio was broadcast on 29 June 1932, directed by Barbara Burnham with Ion Swinley as Faustus.
+The Oxford University Dramatic Society broadcast a production on the BBC National Programme on 13 April 1934 with R. F. Felton as Faustus and P.B.P. Glenville as Mephistopheles.
+The BBC Third Programme broadcast an adaptation on 11 October 1946 with Alec Guinness as Faustus and Laidman Browne as Mephistopheles.
+A second BBC Third Programme adaptation was broadcast on 18 October 1949 with Robert Harris as Faustus, Peter Ustinov as Mephistopheles, Rupert Davies as Lucifer and Donald Gray as the Emperor of Germany.
+The BBC Home Service broadcast a production on 1 June 1964 with Stephen Murray as Faustus and Esme Percy as Mephistopheles.
+On 24 December 1995, BBC Radio 3 broadcast an adaptation of the play with Stephen Moore as Faustus, Philip Voss as Mephistopheles and Maurice Denham as the Old Man.
+An adaptation was broadcast on BBC Radio 3 on 23 September 2007, this time with Paterson Joseph as Faustus, Ray Fearon as Mephistopheles, Toby Jones as Wagner, Janet McTeer as the Evil Angel and Anton Lesser as the Emperor.
+American composer Mary McCarty Snow (1928–2012) composed music for a Texas Tech University production of Dr. Faustus.
+A production, adapted and directed by Emma Harding with John Heffernan as both Faustus and Mephistopheles, Pearl Mackie as Wagner, Tim McMullan as Cornelius/Emperor Charles V/Covetousness, Simon Ludders as Valdes/Beelzebub/Knight and Frances Tomelty as the Good Angel, was broadcast on BBC Radio 3 on 19 September 2012.
+The Canadian Broadcasting Corporation broadcast a full radio adaptation of the play with Kenneth Welsh as Faustus and Eric Peterson as Mephistopheles, later releasing it on audio cassette (ISBN 978-0-660-18526-2) in 2001 as part of its "Great Plays of the Millennium" series.
+Two live performances in London have been videotaped and released on DVD: one at the Greenwich Theatre in 2010 and one at the Globe Theatre in 2011 starring Paul Hilton as Faustus and Arthur Darvill as Mephistopheles.
+In 2020 the Beyond Shakespeare Company released online a play-reading and discussion of the A Text.
+
+
+== Critical history ==
+The Doctor Faustus play was written by Christopher Marlowe post-Protestant Reformation, and during the height of the Elizabethan era. The religious reformation, otherwise known as the Protestant Reformation, helped the various religious, moral, and philosophical questions presented by Marlowe in Doctor Faustus to even be considered as legitimate, answerable questions at the time.  It is also believed by some that the Doctor Faustus play tapped into some form of post-reformation religious trauma for its viewers, which furthered its overall cultural significance and impact for its early audiences. Doctor Faustus has raised much controversy due to Faust's alleged interaction with the demonic realm.
+Before Marlowe, there were few authors who ventured into this kind of writing. After his play, other authors began to expand on their views of the spiritual world.  Marlowe also never specifies the intentions of his play, or who it was intended to be directed towards. This lack of specification has since led to the increase of academic interest in both A and B texts. Nonetheless, the Doctor Faustus play also served and continues to serve as a representation for the restless, rebellious, and inquisitive minds of Renaissance writers and culture.
+Furthermore, Doctor Faustus has sparked extensive critical debate since its first performances. As Terence P. Logan and Denzell S. Smith observe, “no Elizabethan play outside the Shakespeare canon has raised more controversy” regarding its textual history, date of composition, and interpretive ambiguity. They emphasize that the centrality of the Faust legend in Western intellectual history complicates any attempt at a definitive reading of the play. Over the centuries, scholars have variously interpreted the play as a Christian morality tale, a critique of Renaissance ambition, a satire of scholasticism, and a reflection of Marlowe’s own views on religion and humanism.
+
+
+== See also ==
+Solamen miseris socios habuisse doloris, a line from the play commonly translated as "misery loves company"
+
+
+== References ==
+
+
+== Further reading ==
+Chambers, E. K. The Elizabethan Stage. 4 Volumes, Oxford, Clarendon Press, 1923.
+Logan, Terence P., and Denzell S. Smith, eds. The Predecessors of Shakespeare: A Survey and Bibliography of Recent Studies in English Renaissance Drama. Lincoln, NE, University of Nebraska Press, 1973.
+Bevington, David M., and Eric Rasmussen. Doctor Faustus A- and B- Texts (1604, 1616) : Christopher Marlowe and His Collaborator and Revisers. Manchester University Press; Distributed exclusively in the USA and Canada by St. Martin’s Press, 1962. Google Books
+Ule, Louis. Louis A Concordance to the Works of Christopher Marlowe. Hildesheim–New York: Georg Olms Verlag, 1979. Google Books.
+
+
+== External links ==
+
+Doctor Faustus at Standard Ebooks
+ The Tragical History of Doctor Faustus public domain audiobook at LibriVox
+1616 quarto online
+
+ The Tragical History of Doctor Faustus From the Quarto of 1604 by Christopher Marlowe at Project Gutenberg
+
+ The Tragical History of Doctor Faustus From the Quarto of 1616 by Christopher Marlowe at Project Gutenberg
+​Doctor Faustus​ at the Internet Broadway Database

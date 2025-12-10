@@ -1,0 +1,58 @@
+The Mencius is an anthology of conversations and anecdotes attributed to the Confucian philosopher Mencius (c. 371 – c. 289 BC). The book is one of the Chinese Thirteen Classics, and explores Mencius's views on the topics of moral and political philosophy, often as a dialogue with the ideas presented by Confucianism. The interviews and conversations are depicted as being either between Mencius and the various rulers of the Warring States period (c. 475 – 221 BC), or with his students and other contemporaries. The book documents Mencius's travel across the states, and his philosophical conversations and debates with those he meets on his journey. A number of scholars suggest that the text was not written by Mencius himself, but rather by his disciples. The text is believed to have been written during the late 4th century BC.
+
+
+== History ==
+Mencius's core ideas on education and human nature were largely shaped during the Warring States period.  When the Zhou dynasty was ended by the Qin, Mencius and other scholars went to the different kingdoms and advised the rulers and people like in the Jixia Academy. It was during this time that Mencius was able to access, and further developed the philosophical doctrines of Confucius. The creation of the Mencius, serves as a further elaboration on the Confucian school of thought called 'subjective idealism'. Through this work, Mencius developed the theory of natural goodness (xingshan), that confers that all people have intrinsic cardinal virtues, and that these virtues are developed in the same way that knowledge is cultivated.
+The Mencius came to be regarded as one of the most important texts that explores the philosophy of Confucianism—mainly due to its philosophical dialogue with the Analects. Despite its importance, the Mencius was not canonized as one of the Chinese classics until the Song dynasty (960 – 1279).
+
+
+=== Interpretation ===
+Various interpretations exist of the Mencius as a philosophical and literary text. E. Bruce Brooks and A. Taeko Brooks state that these various interpretations belong to a continuous discourse that represents each new generation of readers. Examples are scholars such as James Legge, who opened the text to Western readers by comparatively exploring the Mencius through a Victorian missionary perspective. The text's ability to transcend culture and time is seen by scholars such as Behuniak as what canonises the work as a world classic.
+
+
+== Content ==
+There are seven chapters within the Mencius, each divided into two halves. The book's narrative depicts its characters' extensive dialogues on specific philosophical arguments, alongside Mencius's own reflections upon them in the form of short sentences. Most of the chapters that explore moral philosophy are presented as conversations with other thinkers, while those offering political counsel are depicted as conversations with rulers. Frequently explored is Mencius's most famous idea that there exists intrinsic good in human nature. His argument that each person possessed an inborn potential of virtue, contrasts with the position of contemporary figure Yang Zhu (440 – 360 BC), who argued that that human nature is motivated by self-interest. Alongside this, the Mencius largely expands on Confucian ideas of political ruling, and benevolent politics.
+
+
+=== Moral philosophy ===
+In the Mencius, debates about morality and human nature are in direct dialogue with Confucian views. The theory of natural goodness is explored through a concept of 'sprouts'. According to Mencius, 'sprouts' are innate moral habits that are present at birth, and are related to one's 'family affection' (qīn 親), and likewise grow in a family environment. There exist four 'sprouts': 'humanity' (rén 仁), 'appropriateness' (yì 義), 'ritual propriety' (lǐ 禮), and 'wisdom' (zhì 智). The four sprouts are what distinguish humans from other beings; though they are innate, these virtues develop in the acculturation of one's environment, "just as we have four limbs" (§2A:6).
+Mencius also thinks that there exists a common human nature that causes people to respond the same way to certain ethical situations. One of the most famous arguments for this is presented when Mencius successfully predicts an observer's immediate reaction to seeing a child about to fall into a well (§2A:6). Mencius argues that all people have innate compassion, and goes further to imply that compassion is a universal duty. Mencius refers to a physical notion of compassion as a form of duty, as "our sense of duty pleases the heart just as meat pleases the tastebuds" (§4A:2). To Mencius, in acting compassionately, we not only please ourselves physically but also dutifully.
+
+
+=== Political philosophy ===
+The Mencius expands on the Confucian claims about the necessary practices of a good ruler. This consists of 'virtue politics' (dé zhèng 德政), 'benevolent politics' (rén zhèng 仁政), or 'politics that is sensitive to the suffering of others' (bùrěn rén zhī zhèng 不忍人之政). These refer to the ideal modes of governance, where enacted policies extend benevolence. Such policies result in a fair material distribution and protection for marginalized members of society. Confucius and Mencius contend that a good ruler must gain the devotion of the people through the exertion of benevolence and goodness; Mencius asserts Confucian ethics as the basis for achieving an ideal state.
+These views are expressed in a passage detailing an encounter between Mencius and King Xuan of Qi (r. 319–301 BC), who rules without practising benevolent politics. In this encounter, Mencius refers to the king's actions as 'looking for fish by climbing a tree' (yuán mù qiú yú 緣木求魚; §2A:4). Other passages address benevolence in politics more directly:
+
+An Emperor cannot keep the Empire within the Four Seas unless he is benevolent; a feudal lord cannot preserve the altars to the gods of earth and grain unless he is benevolent; a Minister or a Counsellor cannot preserve his ancestral temple unless he is benevolent; a junzi or a commoner cannot preserve his four limbs unless he is benevolent. Now if one dislikes death yet revels in cruelty, he is just like someone who drinks alcohol beyond his capacity while he dislikes drunkenness. (§4A:3)
+
+Mencius also counsels against the political use of violence and force:
+
+When one uses force to win people's allegiance (yǐ lì fú rén 以力服人), as opposed to subdue others by virtue (yǐ dé fú rén 以徳服人), one does not win people's hearts and minds (xīn fú 心服); they submit to your force because they are not strong enough. (§4A:7)
+
+
+== Influences on hermeneutics ==
+Asides from its influences on Neo-Confucianism. The Mencius has also had an effect on the field of literary discourse in China, mainly in a direction for Chinese literary criticism that resembles Western intentionalist hermeneutics. This concept of interpretation, termed "Mencian literary criticism", is seen as having dominated the methodology of literary criticism and interpretation in China since its emergence.
+Traditionally, Western intentionalism judges the meaning of a literary work by the intentions of the author at the moment of its conception. Jane Gearney notes that there exist various passages within the Mencius that propose a theory of literary interpretation that resembles this tradition—an example being "one who explains poetry should not let the form obstruct the phrases or let the phrases obstruct the drift. One should meet the drift with one's own thoughts—that's how to obtain it." (§5A:4) In her evaluation of this passage, Gearney notes that the "drift" being referred to here can be understood as the author's intention. In this passage, Mencius poses that when it comes to evaluating a text, its form or structure should not come before the individual phrases. While the individual phrases should not obstruct the authorial intention (the drift) of the work, where the intention is met with the reader's own thoughts to form meaning. Mencius also encourages a friendship-based approach to literary criticism:
+
+The good scholars of a village befriend other good scholars of the village. The good scholars of the world befriend other good scholars of the world. If befriending the good scholars in the world isn't enough, they also proceed to consider the ancients. But how can they recite their poetry and read their books without knowing what kind of people they are? Therefore, they consider their age. This is "proceeding to befriend" [the ancients]. (§5B:8)
+The idea of knowing authors as people, is seen by Gearney as Mencius's suggestion for the reader to attempt to learn, as best they can, the author's intention when they were creating the text. Mencius emphasises knowing the author as a person, to suggest the importance of the setting and temporal context of a literary work in one's evaluation of it.
+Though Mencian literary criticism is seen as having fostered intentionalist hermeneutics in China. Gearney notes that the form of intentionalism within the book differs from the style of traditional Western intentionalist modes of criticism. This difference is mainly to do with Mencius's emphasis on learning the author's contextual settings during the conception of the work, instead of the author's own feelings during its conception. Hence, the standard by which a work should be analysed does not involve the sentiments of the author at the moment of conception, as characterised by E. D. Hirsh. Rather, Mencian standard posits that one should become acquainted with the author's personal, cultural, and political context before evaluating a literary work.
+
+
+== Selected translations ==
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Works cited ===
+
+
+== External links ==
+ Works related to Mencius at Wikisource
+The Works of Mencius: Legge's English translation
+Mengzi Chinese text with Legge's English translation
+Mencius (Selections), translated by A. Charles Muller

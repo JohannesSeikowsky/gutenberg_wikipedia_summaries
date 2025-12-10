@@ -1,0 +1,13 @@
+O Novo Dicionário da Língua Portuguesa (na grafia original de 1899 "Nôvo Diccionário da Língua Portuguêsa") é um dicionário no idioma português da autoria de Cândido de Figueiredo, publicado em 1899 pela editora Livraria Editôra Tavares Cardoso & Irmão, com sucessivas reedições por várias editoras até à 25ª em 1996.
+Foi editado em Portugal, para além da primeira edição de 1899 pela Livraria Editôra Tavares Cardoso & Irmão, entre 1899 e 1913 pela editora Livraria Clássica, em 1922 pela editora Portugal Brasil Lda. e 1926 pela Portugal-Brasil Sociedade Editora, e pelo menos desde 1939 pela editora Bertrand.
+O autor faleceu em 1925 e a edição de 1913 entrou em domínio público no ano 2000, foi alvo de digitalização e conversão em texto por uma equipa de voluntários do projeto Distributed Proofreaders entre 2007 e 2010, tendo sido disponibilizado ao público no sítio do Projeto Gutemberg a 8 de Março de 2010. Posteriormente, o resultado desta digitalização serviu para disponibilizar um sítio web como o nome Dicionário Aberto, sujeito a algumas adaptações e correções, permite pesquisar e usar como um dicionário web, sob a licença CC-BY-SA 2.5 PT.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Novo Dicionário da Língua Portuguesa - disponível em versão digital em vários formatos no Projeto Gutenberg
+Novo Dicionário da Língua Portuguesa - no Internet Archive, digitalização da 1ª edição de 1899 pela Google da biblioteca da Universidade de Harvard
+Dicionário-Aberto.net sítio que utilizou o conteúdo do dicionário da edição de 1913 em domínio público, disponível no sítio sob a licença CC-BY-SA 2.5 PT
+WebJspell - Analisador morfológico sítio web do Projeto Natura da Universidade do Minho que utiliza o conteúdo do Novo Dicionário da Língua Portuguesa

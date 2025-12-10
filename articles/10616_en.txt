@@ -1,0 +1,81 @@
+An Essay Concerning Human Understanding is a work by John Locke concerning the foundation of human knowledge and understanding. It first appeared in 1689 (although dated 1690) with the printed title An Essay Concerning Humane Understanding. He describes the mind at birth as a blank slate (tabula rasa, although he did not use those actual words) filled later through experience. The essay was one of the principal sources of empiricism in modern philosophy, and influenced many enlightenment philosophers, such as David Hume and George Berkeley.
+Book I of the Essay is Locke's attempt to refute the rationalist notion of innate ideas. Book II sets out Locke's theory of ideas, including his distinction between passively acquired simple ideas—such as "red", "sweet", "round"—and actively built complex ideas, such as numbers, causes and effects, abstract ideas, ideas of substances, identity, and diversity. Locke also distinguishes between the truly existing primary qualities of bodies, like shape, motion and the arrangement of minute particles, and the secondary qualities that are "powers to produce various sensations in us" such as "red" and "sweet." These secondary qualities, Locke claims, are dependent on the primary qualities. He also offers a theory of personal identity, offering a largely psychological criterion. Book III is concerned with language, and Book IV with knowledge, including intuition, mathematics, moral philosophy, natural philosophy ("science"), faith, and opinion.
+
+
+== Content ==
+
+
+=== Book I ===
+The main thesis is that there are "No Innate Principles." Locke wrote, "If we will attentively consider new-born children, we shall have little reason to think, that they bring many ideas into the world with them." Rather, "by degrees, afterwards, ideas come into their minds; and...they get no more, nor no other, than what experience, and the observation of things, that come in their way, furnish them with." Book I of the Essay is an attack on nativism or the doctrine of innate ideas; Locke indeed sought to rebut a prevalent view of innate ideas that was, in his words, an "established opinion" firmly held by philosophers of his time. While he allowed that some ideas are in the mind from an early age, he argued that those ideas are furnished by the senses starting in the womb—for instance, differences between colours or tastes. If we have a universal understanding of a concept like sweetness, it is not because this is an innate idea, but because we are all exposed to sweet tastes at an early age.
+One of Locke's fundamental arguments against innate ideas is the very fact that there is no truth to which all people attest. He took the time to argue against a number of propositions that rationalists offer as universally accepted truth, for instance the principle of identity, pointing out that at the very least children and idiots are often unaware of these propositions. In anticipating a counterargument, namely the use of reason to comprehend already existent innate ideas, Locke states that "by this means, there will be no difference between the maxims of the mathematicians, and theorems they deduce from them; all must be equally allowed innate; they being all discoveries made by the use of reason."
+
+
+=== Book II ===
+Whereas Book I is intended to reject the doctrine of innate ideas proposed by Descartes and the rationalists, Book II explains that every idea is derived from experience either by sensation—i.e. direct sensory information—or reflection—i.e. "the perception of the operations of our own mind within us, as it is employed about the ideas it has got."
+In Book II, Locke focuses on the ideas of substances and qualities, in which the former are "an unknown support of qualities" and latter have the "power to produce ideas in our mind." Substance is what holds qualities together, while qualities themselves allow us to perceive and identify objects. A substance consists of bare particulars and does not have properties in themselves except the ability to support qualities. Substances are "nothing but the assumption of an unknown support for a group of qualities that produce simple ideas in us." Despite his explanation, the existence of substances is still questionable as they cannot necessarily be "perceived" by themselves and can only be sensed through the qualities. 
+In terms of qualities, Locke divides such into primary and secondary, whereby the former give our minds ideas based on sensation and actual experience. In contrast, secondary qualities allow our minds to understand something based on reflection, in which we associate what we perceive with other ideas of our own.
+
+Furthermore, Book II is also a systematic argument for the existence of an intelligent being:Thus, from the consideration of ourselves, and what we infallibly find in our own constitutions, our reason leads us to the knowledge of this certain and evident truth, that there is an eternal, most powerful, and most knowing being; which whether any one will please to call God, it matters not!
+Locke contends that consciousness is what distinguishes selves, and thus,
+
+…in this alone consists personal Identity, i.e. the sameness of rational Being: And as far as this consciousness can be extended backwards to any past Action or Thought, so far reaches the Identity of that Person; it is the same self now it was then; and 'tis by the same self with this present one that now reflects on it, that that Action was done.
+
+
+=== Book III ===
+Book III focuses on words. Locke connects words to the ideas they signify, claiming that man is unique in being able to frame sounds into distinct words and to signify ideas by those words, and then that these words are built into language.
+Chapter ten in this book focuses on "Abuse of Words." Here, Locke criticizes metaphysicians for making up new words that have no clear meaning. He also criticizes the use of words which are not linked to clear ideas, and to those who change the criteria or meaning underlying a term.
+Thus, Locke uses a discussion of language to demonstrate sloppy thinking, following the Port-Royal Logique (1662) in numbering among the abuses of language those that he calls "affected obscurity" in chapter 10. Locke complains that such obscurity is caused by, for example, philosophers who, to confuse their readers, invoke old terms and give them unexpected meanings or who construct new terms without clearly defining their intent. Writers may also invent such obfuscation to make themselves appear more educated or their ideas more complicated and nuanced or erudite than they actually are.
+
+
+=== Book IV ===
+This book focuses on knowledge in general—that it can be thought of as the sum of ideas and perceptions. Locke discusses the limit of human knowledge, and whether such can be said to be accurate or truthful.
+
+Thus, there is a distinction between what an individual might claim to know, as part of a system of knowledge, and whether or not that claimed knowledge is actual.  Locke writes at the beginning of the fourth chapter ("Of the Reality of Knowledge"):I doubt not but my Reader by this Time may be apt to think that I have been all this while only building a Castle in the Air; and be ready to say to me, To what purpose all this stir?  Knowledge, say you, is only the Perception of the Agreement or Disagreement of our own Ideas: but who knows what those Ideas may be?… But of what use is all this fine Knowledge of Men's own Imaginations, to a Man that enquires after the reality of things?  It matters not what Men's Fancies are, 'tis the Knowledge of Things that is only to be priz'd; 'tis this alone gives a Value to our Reasonings, and Preference to one Man's Knowledge over another's, that it is of Things as they really are, and not of Dreams and Fancies.In the last chapter of the book, Locke introduces the major classification of sciences into natural philosophy, semiotics, and ethics.
+
+
+== Reaction, response, and influence ==
+Many of Locke's views were sharply criticized by rationalists and empiricists alike. In 1704, rationalist Gottfried Leibniz wrote a response to Locke's work in the form of a chapter-by-chapter rebuttal, titled the Nouveaux essais sur l'entendement humain (New Essays on Human Understanding). Leibniz was critical of a number of Locke's views in the Essay, including his rejection of innate ideas; his skepticism about species classification; and the possibility that matter might think (a resolution of the mind–body problem), among other things. Leibniz thought that Locke's commitment to ideas of reflection in the Essay ultimately made him incapable of escaping the nativist position or being consistent in his empiricist doctrines of the mind's passivity. 
+Empiricist George Berkeley was equally critical of Locke's views in the Essay. Berkeley's most notable criticisms of Locke were first published in A Treatise Concerning the Principles of Human Knowledge, in which Berkeley holds that Locke's conception of abstract ideas is incoherent and leads to severe contradictions. He also argues that Locke's conception of material substance was unintelligible, a view which he also later advanced in the Three Dialogues Between Hylas and Philonous. 
+At the same time, Locke's work provided crucial groundwork for future empiricists such as David Hume. John Wynne published An Abridgment of Mr. Locke's Essay concerning the Human Understanding, with Locke's approval, in 1696. Likewise, Louisa Capper wrote An Abridgment of Locke's Essay concerning the Human Understanding, published in 1811.
+Some European philosophers saw the book's impact on psychology as comparable to Isaac Newton's impact upon science. Voltaire wrote:
+
+Just as a skilled anatomist explains the workings of the human body, so does Locke's Essay on the Human Understanding give the natural history of consciousness.… So many philosophers having written the romance of the soul, a sage has arrived who has modestly written its history.
+
+
+== Editions ==
+Locke, John. 1690. An Essay Concerning Humane Understanding (1st ed.). 1 vols. London: Thomas Basset.
+— 1894. An Essay Concerning Human Understanding, edited by Alexander Campbell Fraser. 2 vols. Oxford: Clarendon Press.
+— 1722. Works, Vol 1. London: Taylor.
+
+
+== See also ==
+Second Treatise on Civil Government
+Turtles all the way down
+
+
+== References ==
+
+
+== Bibliography ==
+Clapp, James Gordon. 1967. "John Locke." Encyclopedia of Philosophy. New York: Macmillan.
+Uzgalis, William. [2001] 2018. "John Locke" (revised ed.). Stanford Encyclopedia of Philosophy. Retrieved on 16 June 2020.
+Ayers, Michael. 1991. Locke: Epistemology and Ontology. 2 vols. London: Routledge.
+Bennett, Jonathan. 1971. Locke, Berkeley, Hume: Central Themes. Oxford: Oxford University Press.
+Bizzell, Patricia, and Bruce Herzberg, eds. 2001. The Rhetorical Tradition (2nd ed.). Boston: Bedford/St. Martin's.
+Chappell, Vere, ed. 1994. The Cambridge Companion to Locke. Cambridge: Cambridge University Press.
+Fox, Christopher. 1988. Locke and the Scriblerians. Berkeley: University of California Press.
+Gordon-Roth, Jessica (2019). Zalta, Edward N. (ed.). "Locke on Personal Identity". Stanford Encyclopedia of Philosophy.
+Jolley, Nicholas. 1999. Locke: His Philosophical Thought. Oxford: Oxford University Press.
+Lowe, E. J. 1995. Locke on Human Understanding. London: Routledge.
+Yolton, John. John Locke and the Way of Ideas. Oxford: Oxford University Press, 1956.
+— 1970. John Locke and the Compass of Human Understanding. Cambridge: Cambridge University Press.
+
+
+== External links ==
+
+John Locke at Project Gutenberg, including the Essay.
+Internet Encyclopedia of Philosophy entry on John Locke
+Site containing a version of this work, slightly modified for easier reading
+EpistemeLinks
+ An Essay Concerning Human Understanding public domain audiobook at LibriVox
+'Hayy ibn Yaqdhan' and the European Enlightenment

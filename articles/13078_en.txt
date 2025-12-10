@@ -1,0 +1,53 @@
+Ludwig van Beethoven completed his String Quartet No. 12 in E♭ major, Op. 127, in 1825. It is the first of his late quartets. Commissioned by Nicolas Galitzin over a year earlier, the work was not ready when it was scheduled to premiere. When it was finally premiered by the Schuppanzigh Quartet, it was not well received. Only with subsequent performances by the Bohm Quartet and the Mayseder Quartet did it begin to gain public appreciation.
+
+
+== Background ==
+String Quartet No. 12, Op. 127, is the first of Beethoven's late quartets and was commissioned by the wealthy Russian prince Nicolas Galitzin, an enthusiast of Beethoven's music. A cellist himself, Galitzin strove to play Beethoven's music, waiting impatiently for him to compose at whatever price he saw fit. Galitzin's commission brought Beethoven back to composing in the string quartet genre after a 10-year absence, and suspended his financial woes. Beethoven replied to Galitzin on January 25, 1823, requesting 50 ducats for three quartets: Opp. 127, 132, and 130. He committed to completing the first quartet by the end of February or mid-March. At the time, his Symphony No. 9 was taking the majority of Beethoven's time. Therefore he pushed work on Op. 127 back well over a year, completing Symphony No. 9 in February 1824.
+
+
+== Analysis ==
+Op. 127 has four movements and a typical performance takes 36–38 minutes. Beethoven initially planned two additional movements: one between the first and second, and another between the third and fourth.
+
+In the first edition of 1826, published by Schott, the finale had no initial tempo marking other than Finale, and the third movement's opening indication was "Scherzo: Vivace", not "Scherzando vivace".
+
+
+=== 1st movement: Maestoso ===
+
+The first movement is in sonata form and opens with a six-bar chorale-like Maestoso. The Allegro ensues with the start of the exposition at bar 7 with a more committed tone. The Maestoso has an unusual rhythmic structure. Rhythms of two-bar groups fall in a 5+3 pattern in eighth notes. The metric pulse is in quarter notes. Each of its bars stresses a rising step until ultimately C is reached in the first violin with an elaborate trill leading to the Allegro. Episodic explosions or virtuosic passages occur toward the middle of the development. Contrapuntal texture ensues in the first half of the development. Canons come in with thematic material, leading to thematic material from the C major Maestoso.
+
+
+=== 2nd movement: Theme and variations ===
+
+The immense second movement, marked Adagio, ma no troppo e molto cantabile, is in the subdominant key of A♭ major. It consists of a set of six variations and a coda. The last two variations have qualities of recapitulations in unrelated keys. The 3rd variation is in the flat submediant F♭ major, enharmonically notated in E. The 4th variation returns to the tonic and the original theme. It is altered rhythmically, using 16th-notes in place of eighth notes in the melody.
+
+The first variation is in 128 meter with darker harmonies and quick changes in dynamics.
+The second variation increases the tempo to andante con moto and adjusts the meter to 44. The violins engage in a dialogue over staccato accompaniment.
+The third variation shifts to E major, enharmonically the flat submediant, and the tempo shifts to a hymnlike adagio molto espressivo.
+The fourth variation returns to 128 and A♭ major by dropping a half-step from E to the dominant, E♭. This variation has a codetta that transitions to D♭ major in preparation for the next variation.
+The fifth variation is sotto voce and has been called a "mysterious episode". It begins in D♭ major and transitions to the parallel C♯ minor.
+The recapitulatory sixth variation returns to 128, presents only half of the theme and connects directly to the coda.
+The penultimate variation recapitulates the theme after a contrasting section in the submediant, while the final variation restores the tonic and basic thematic material after an episode in the subdominant. Beethoven based this tonal progression on the finale of the Ninth Symphony, where the orchestral double fugue episode in B♭ is followed by the "grand" variation for full orchestra and choir in D major, followed by the "Seid umschlungen" episode in G major, which moves into the choral double fugue in the tonic D major.
+
+Op. 127: A♭ → E (lowered submediant) – penultimate variation → D♭ (subdominant) → final variation
+Op. 125: D → B♭ (lowered submediant) – penultimate variation → G (subdominant) → final variation
+
+
+=== 3rd movement: Scherzo ===
+
+The dancelike scherzo features a dotted-rhythm figure. This is the quartet's most contrapuntal movement. The scherzo's trio is a Presto of a kind Beethoven did not use very often, though it is similar in sound and phrasing to some of his bagatelles from the contemporary Op. 126 set.
+
+
+=== 4th movement: Finale ===
+
+The fourth movement is in sonata form. Its four-bar opening is expanded to an 11-bar harmonic recall. The coda, marked Allegro con moto, is in 6/8 meter. The key changes from E minor to C major.
+
+
+== Reception ==
+The Schuppanzigh Quartet premiered Op. 127 on March 6, 1825. Few people were moved as the performance was regarded as a failure. Its first listeners described it as incomprehensible. Joseph Bohm, first violinist of the Bohm Quartet, reported: "When Beethoven learned of this—for he was not present at the performance—he became furious and let both performers and the public in for some harsh words." Op. 127's premiere was scheduled for a concert on January 23, 1825, but the quartet was still unfinished at this time. Op. 95 was substituted for it instead. Op. 127's next scheduled performance was on March 6, 1825. On February 8, Schuppanzigh asked Beethoven how the quartet was going as the quartet hadn't had any rehearsals yet. The quartet ended up with only two weeks for rehearsal. After the premiere, Schuppanzigh wrote to Beethoven saying he didn't want to present it until it was perfect.
+
+
+== Notes ==
+
+
+== External links ==
+String Quartet No. 12 (Beethoven): Scores at the International Music Score Library Project

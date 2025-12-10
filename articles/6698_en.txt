@@ -1,0 +1,152 @@
+The Phenomenology of Spirit (or The Phenomenology of Mind; German: Phänomenologie des Geistes) is the first published book by Georg Wilhelm Friedrich Hegel. Hegel described the 1807 work, a ladder to the greater philosophical system of the Encyclopaedia of the Philosophical Sciences, as an "exposition of the coming-to-be of knowledge". This development traced through the logical self-origination and dissolution of "the various shapes of spirit as stations on the way through which spirit becomes pure knowledge".
+The text marks a development in German idealism. Focusing on topics in consciousness, metaphysics, ethics, and religion, it is where Hegel develops well-known concepts and methods such as speculative philosophy, the dialectic, the movement of immanent critique, absolute idealism, Sittlichkeit, and Aufhebung. It continues to influence Western philosophy, and "has been praised and blamed for the development of existentialism, communism, fascism, death of God theology, and historicist nihilism".
+
+
+== Historical context ==
+
+Hegel was putting the finishing touches to this book as Napoleon engaged Prussian troops on October 14, 1806, in the Battle of Jena on a plateau outside the city. On the day before the battle, Napoleon entered the city of Jena. Later that same day, Hegel wrote a letter to his friend, the theologian Friedrich Immanuel Niethammer:
+
+I saw the Emperor – this world-soul – riding out of the city on reconnaissance. It is indeed a wonderful sensation to see such an individual, who, concentrated here at a single point, astride a horse, reaches out over the world and masters it ... this extraordinary man, whom it is impossible not to admire.
+
+In 2000, Terry Pinkard noted that Hegel's comment to Niethammer "is all the more striking since at that point he had already composed the crucial section of the Phenomenology in which he remarked that the Revolution had now officially passed to another land (Germany) that would complete 'in thought' what the Revolution had only partially accomplished in practice".
+
+
+== Publication history ==
+The Phenomenology of Spirit was published with the title "System of Science: First Part: The Phenomenology of Spirit". Some copies contained either "Science of the Experience of Consciousness", or "Science of the Phenomenology of Spirit" as a subtitle between the "Preface" and the "Introduction". On its initial publication, the work was identified as Part One of a projected "System of Science", which would have contained the Science of Logic "and both the two real sciences of philosophy, the Philosophy of Nature and the Philosophy of Spirit" as its second part. The Encyclopaedia of the Philosophical Sciences in Basic Outline, in its third section (Philosophy of Spirit), contains a second subsection ("The Encyclopedia Phenomenology") that recounts in a briefer and somewhat altered form the major themes of the original Phenomenology.
+
+
+== Structure ==
+
+The book consists of a Preface (written after the rest was completed), an Introduction, and six major divisions (of greatly varying size). 
+
+(A) Consciousness is divided into three chapters:
+(I) Sensuous-Certainty,
+(II) Perceiving, and
+(III) Force and the Understanding.
+(B) Self-Consciousness contains one chapter:
+(IV) The Truth of Self-Certainty which contains a preliminary discussion of Life and Desire, followed by two subsections: (A) Self-Sufficiency and Non-Self-Sufficiency of Self-Consciousness; Mastery and Servitude and (B) Freedom of Self-Consciousness: Stoicism, Skepticism, and the Unhappy Consciousness. This section contains Hegel's famous discussion of lordship and bondage, which has been essential to the work of philosophers such as Frantz Fanon and Alexandre Kojève, among others.
+(C), (AA) Reason contains one chapter:
+(V) The Certainty and Truth of Reason which is divided into three chapters: (A) Observing Reason, (B) The Actualization of Rational Self-Consciousness Through Itself, and (C) Individuality, Which, to Itself, is Real in and for Itself.
+(BB) Spirit contains one chapter:
+(VI) Spirit or Geist which is again divided into three chapters: (A) True Spirit, Ethical Life, (B) Spirit Alienated from Itself: Cultural Formation, and (C) Spirit Certain of Itself: Morality.
+(CC) Religion contains one chapter:
+(VII) Religion, which is divided into three chapters: (A) Natural Religion, (B) The Art-Religion, and (C) Revealed Religion.
+(DD) Absolute Knowing contains one chapter:
+(VIII) Absolute Knowing.
+Due to its obscure nature and the many works by Hegel that followed its publication, even the structure or core theme of the book itself remains contested. First, Hegel wrote the book under close time constraints with little chance for revision (individual chapters were sent to the publisher before others were written). Furthermore, according to some readers, Hegel may have changed his conception of the project over the course of the writing. Secondly, the book abounds with both highly technical arguments in philosophical language, and concrete examples, either imaginary or historical, of developments by people through different states of consciousness. The relationship between these is disputed: whether Hegel meant to prove claims about the development of world history, or simply used it for illustration; whether or not the more conventionally philosophical passages are meant to address specific historical and philosophical positions; and so forth.
+Jean Hyppolite interpreted the work as a Bildungsroman that follows the progression of its protagonist, spirit, through the history of consciousness, a characterization that remains prevalent among literary theorists. However, others contest this literary interpretation and instead read the work as a "self-conscious reflective account" that a society must give of itself in order to understand itself and therefore become reflective. Martin Heidegger saw it as the foundation of a larger "System of Science" that Hegel sought to develop, while Alexandre Kojève saw it as akin to a "Platonic Dialogue ... between the great Systems of history". It has also been called "a philosophical roller coaster ... with no more rhyme or reason for any particular transition than that it struck Hegel that such a transition might be fun or illuminating".
+
+
+=== Preface ===
+The Preface to the text is a preamble to the scientific system and cognition in general. Paraphrased "on scientific cognition" in the table of contents, its intent is to offer a rough idea of scientific cognition, while at the same time aiming "to rid ourselves of a few forms which are only impediments to philosophical cognition". As Hegel’s own announcement noted, it was to explain "what seems to him the need of philosophy in its present state; also about the presumption and mischief of the philosophical formulas that are currently degrading philosophy, and about what is altogether crucial in it and its study". It can thus be seen as a heuristic attempt at creating the need for philosophy (in the present state) and of what philosophy itself in its present state needs. This involves an exposition on the content and standpoint of philosophy, i.e, the true shape of truth and the element of its existence, that is interspersed with polemics aimed at the presumption and mischief of philosophical formulas and what distinguishes it from that of any previous philosophy, especially that of his German idealist predecessors (Kant, Fichte, and Schelling).
+The Hegelian method consists of actually examining consciousness's experience of both itself and of its objects and eliciting the contradictions and dynamic movement that come to light in looking at this experience. Hegel uses the phrase "pure looking at" (reines Zusehen) to describe this method. If consciousness just pays attention to what is actually present in itself and its relation to its objects, it will see that what looks like stable and fixed forms dissolve into a dialectical movement. Thus, philosophy, according to Hegel, cannot just set out arguments based on a flow of deductive reasoning. Rather, it must look at actual consciousness, as it really exists.
+Hegel also argues strongly against the epistemological emphasis of modern philosophy from Descartes through Kant, which he describes as having to first establish the nature and criteria of knowledge prior to actually knowing anything, because this would imply an infinite regress, a foundationalism that Hegel maintains is self-contradictory and impossible. Rather, he maintains, one must examine actual knowing as it occurs in real knowledge processes. This is why Hegel uses the term "phenomenology". "Phenomenology" comes from the Greek word for "to appear", and the phenomenology of mind is thus the study of how consciousness or mind appears to itself. In Hegel's dynamic system, it is the study of the successive appearances of the mind to itself, because on examination, each one dissolves into a later, more comprehensive and integrated form or structure of mind.
+
+
+=== Introduction ===
+Whereas the Preface was written after Hegel completed the Phenomenology, the Introduction was written beforehand.
+In the Introduction, Hegel addresses the seeming paradox that people cannot evaluate their faculty of knowledge in terms of its ability to know the absolute without first having a criterion for what the absolute is, one that is superior to people's knowledge of the Absolute. Yet, people could only have such a criterion if they already had the improved knowledge that they seek.
+To resolve this paradox, Hegel adopts a method whereby the knowing that is characteristic of a particular stage of consciousness is evaluated using the criterion presupposed by consciousness itself. At each stage, consciousness knows something, and at the same time distinguishes the object of that knowledge as different from what it knows. Hegel and his readers will simply "look on" while consciousness compares its actual knowledge of the object—what the object is "for consciousness"—with its criterion for what the object must be "in itself". One would expect that, when consciousness finds that its knowledge does not agree with its object, consciousness would adjust its knowledge to conform to its object. However, in a characteristic reversal, Hegel explains that under his method, the opposite occurs.
+As just noted, consciousness's criterion for what the object should be is not supplied externally but rather by consciousness itself. Therefore, like its knowledge, the "object" that consciousness distinguishes from its knowledge is really just the object "for consciousness"—it is the object as envisioned by that stage of consciousness. Thus, in attempting to resolve the discord between knowledge and object, consciousness inevitably alters the object as well. In fact, the new "object" for consciousness is developed from consciousness's inadequate knowledge of the previous "object". Thus, what consciousness really does is to modify its "object" to conform to its knowledge. Then the cycle begins anew as consciousness attempts to examine what it knows about this new "object".
+The reason for this reversal is that, for Hegel, the separation between consciousness and its object is no more real than consciousness's inadequate knowledge of that object. The knowledge is inadequate only because of that separation. At the end of the process, when the object has been fully "spiritualized" by successive cycles of consciousness's experience, consciousness will fully know the object and, at the same time, fully recognize that the object is none other than itself.
+At each stage of development, Hegel adds, "we" (Hegel and his readers) see this development of the new object out of the knowledge of the previous one, but the consciousness that they are observing does not. As far as it is concerned, it experiences the dissolution of its knowledge in a mass of contradictions, and the emergence of a new object for knowledge, without understanding how that new object has been born.
+
+
+== Important concepts ==
+
+
+=== Hegelian dialectic ===
+
+The famous dialectical process of thesis–antithesis–synthesis has been controversially attributed to Hegel: 
+
+Whoever looks for the stereotype of the allegedly Hegelian dialectic in Hegel's Phenomenology will not find it. What one does find on looking at the table of contents is a very decided preference for triadic arrangements. ... But these many triads are not presented or deduced by Hegel as so many theses, antitheses, and syntheses. It is not by means of any dialectic of that sort that his thought moves up the ladder to absolute knowledge.
+
+
+== Criticism ==
+Walter Kaufmann, on the question of organisation, argued that Hegel's arrangement, "over half a century before Darwin published his Origin of Species and impressed the idea of evolution on almost everybody's mind, was developmental." The idea is supremely suggestive but, in the end, untenable according to Kaufmann: "The idea of arranging all significant points of view in such a single sequence, on a ladder that reaches from the crudest to the most mature, is as dazzling to contemplate as it is mad to try seriously to implement it". While Kaufmann viewed Hegel as right in seeing that the way a view is reached is not necessarily external to the view itself, since, on the contrary, a knowledge of the development, including the prior positions through which a human being passed before adopting a position may make all the difference when it comes to comprehending his or her position, some aspects of the conception are still somewhat absurd and some of the details bizarre. Kaufmann also remarks that the very table of contents of the Phenomenology may be said to "mirror confusion" and that "faults are so easy to find in it that it is not worth while to adduce heaps of them." However, he excuses Hegel since he understands that the author of the Phenomenology "finished the book under an immense strain".
+
+
+== English translations ==
+G. W. F. Hegel: The Phenomenology of Spirit, translated by Peter Fuss and John Dobbins (University of Notre Dame Press, 2019)
+Georg Wilhelm Friedrich Hegel: The Phenomenology of Spirit (Cambridge Hegel Translations), translated by Terry Pinkard (Cambridge University Press, 2018) ISBN 0-52185579-9
+Hegel: The Phenomenology of Spirit: Translated with introduction and commentary, translated by Michael Inwood (Oxford University Press, 2018) ISBN 0-19879062-7
+Phenomenology of Spirit, translated by A. V. Miller with analysis of the text and foreword by J. N. Findlay (Oxford: Clarendon Press, 1977) ISBN 0-19824597-1
+Phenomenology of Mind, translated by J. B. Baillie (London: Harper & Row, 1967) Baillie (1872-1940) Baillie translation 1910.
+Hegel's Preface to the Phenomenology of Spirit, translated with introduction, running commentary and notes by Yirmiyahu Yovel (Princeton: Princeton University Press, 2004) ISBN 0-69112052-8.
+Texts and Commentary: Hegel's Preface to His System in a New Translation With Commentary on Facing Pages, and "Who Thinks Abstractly?", translated by Walter Kaufmann (South Bend: University of Notre Dame Press, 1977) ISBN 0-26801069-2.
+"Introduction", "The Phenomenology of Spirit", translated by Kenley R. Dove, in Martin Heidegger, "Hegel's Concept of Experience" (New York: Harper & Row, 1970)
+"Sense-Certainty", Chapter I, "The Phenomenology of Spirit", translated by Kenley R. Dove, "The Philosophical Forum", Vol. 32, No 4
+"Stoicism", Chapter IV, B, "The Phenomenology of Spirit", translated by Kenley R. Dove, "The Philosophical Forum", Vol. 37, No 3
+"Absolute Knowing", Chapter VIII, "The Phenomenology of Spirit", translated by Kenley R. Dove, "The Philosophical Forum", Vol. 32, No 4
+Hegel's Phenomenology of Spirit: Selections Translated and Annotated by Howard P. Kainz. The Pennsylvania State University Press. ISBN 0-27101076-2
+Phenomenology of Spirit selections translated by Andrea Tschemplik and James H. Stam, in Steven M. Cahn, ed., Classics of Western Philosophy (Hackett, 2007)
+Hegel's Phenomenology of Self-consciousness: text and commentary [A translation of Chapter IV of the Phenomenology, with accompanying essays and a translation of "Hegel's summary of self-consciousness from 'The Phenomenology of Spirit' in the Philosophical Propaedeutic"], by Leo Rauch and David Sherman. State University of New York Press, 1999.
+
+
+== See also ==
+Process theology
+Sittlichkeit
+Weltgeist
+
+
+== Notes ==
+
+
+== Citations ==
+
+
+== References ==
+
+
+=== Primary ===
+Hegel, Georg Wilhelm Friedrich (2018) [1807]. The phenomenology of spirit. Cambridge Hegel Translations. Translated by Pinkard, Terry. Cambridge: Cambridge University Press. ISBN 9781139050494.
+G. W. Hegel (2015). Georg Wilhelm Friedrich Hegel: The Science of Logic
+
+
+=== Secondary ===
+Lawler, James (2014). "Chapter 8: They're Not Just Goddamn Trees: Hegel's Philosophy of Nature and the Avatar of Spirit". In Dunn, G.A.; Irwin, W. (eds.). Avatar and Philosophy: Learning to See. The Blackwell Philosophy and Pop Culture Series. Wiley. pp. 104–114. ISBN 978-1-118-88676-2.
+H. S. Harris (1997). Hegel's Ladder (Vol 1 & 2)
+Hyppolite, Jean (1979) [1974]. Genesis and Structure of Hegel's "Phenomenology of Spirit". John Heckman, Samuel Cherniak (trans.) (reprint ed.). Evanston, Illinois: Northwestern University Press. ISBN 0-81010594-2.
+Kaufmann, Walter Arnold (1965). Hegel. Reinterpretation, Texts, and Commentary. New York City: Doubleday.
+Magee, G.A. (2010). "Evolution". The Hegel Dictionary. Bloomsbury Philosophy Dictionaries. Bloomsbury Academic. ISBN 978-1-847-06591-9.
+Pinkard, Terry (1996). Hegel's Phenomenology. The Sociality of Reason. Cambridge University Press. ISBN 978-0-521-56834-0.
+Pinkard, Terry (2001) [2000]. Hegel. A Biography. Cambridge University Press. ISBN 978-0-521-00387-2.
+Rorty, R. (1998). Truth and Progress: Philosophical Papers. Philosophical papers. Cambridge University Press. ISBN 978-0-521-55686-6.
+Russon, John Edward (2004). Reading Hegel's Phenomenology. Bloomington, Indiana: Indiana University Press. ISBN 978-0-253-21692-2.
+Schopenhauer, Arthur (1974). "Sketch of a History of the Doctrine of the Ideal and the Real, Appendix". Parerga and Paralipomena, Volume 1. Oxford: Clarendon Press. ISBN 0-19824508-4.
+Solomon, R.C. (1985). In the Spirit of Hegel. Oxford University Press. ISBN 978-0-195-36512-2.
+
+
+== Further reading ==
+Davis, Walter A., 1989. Inwardness and Existence: Subjectivity in/and Hegel, Heidegger, Marx and Freud. University of Wisconsin Press. ISBN 0-29912014-7.
+Doull, James (2000). "Hegel's "Phenomenology" and Postmodern Thought" (PDF). Animus. 5. ISSN 1209-0689.
+Doull, James; Jackson, F. L. (2003). "The Idea of a Phenomenology of Spirit" (PDF). Animus. 8. ISSN 1209-0689.
+Heidegger, Martin, 1988. Hegel's Phenomenology of Spirit. Bloomington: Indiana University Press. ISBN 0-25332766-0.
+Kojève, Alexandre. Introduction to the Reading of Hegel: Lectures on the Phenomenology of Spirit. ISBN 0-80149203-3.
+Taylor, Charles, 1975. Hegel. Cambridge: Cambridge University Press. ISBN 0-52129199-2.
+Pippin, Robert B., 1989. Hegel's Idealism: the Satisfactions of Self-Consciousness. Cambridge: Cambridge University Press, 1989. ISBN 0-52137923-7.
+Forster, Michael N., 1998. Hegel's Idea of a Phenomenology of Spirit. University of Chicago Press. ISBN 0-22625742-8.
+Harris, H. S., 1995. Hegel: Phenomenology and System. Indianapolis: Hackett. ISBN 0-87220281-X.
+Kadvany, John, 2001, Imre Lakatos and the Guises of Reason. Duke University Press. ISBN 0-82232659-0.
+Loewenberg, J., 1965. Hegel's Phenomenology. Dialogues on the Life of Mind. La Salle IL.
+Pahl, Katrin (2012). Tropes of Transport: Hegel and Emotion. Evanston, Ill.: Northwestern University Press. ISBN 9780810165670. OCLC 867784716.
+Stern, Robert, 2002. Hegel and the Phenomenology of Spirit London: Routledge. ISBN 0-41521788-1 An introduction for students.
+Stewart, Jon, 2000. The Unity of Hegel's "Phenomenology of Spirit": A Systematic Interpretation Evanston, Illinois : Northwestern University Press. ISBN 978-0-810-11693-1
+Yovel, Yirmiyahu, Hegel's Preface to the Phenomenology of Spirit: Translation and Running Commentary, Princeton and Oxford : Princeton University Press, 2005, ISBN 0-69112052-8
+Westphal, Kenneth R., 2003. Hegel's Epistemology: A Philosophical Introduction to the Phenomenology of Spirit. Indianapolis: Hackett. ISBN 0-87220645-9.
+Westphal, Merold, 1998. History and Truth in Hegel’s Phenomenology. Bloomington: Indiana University Press. ISBN 0-25321221-9.
+Kalkavage, Peter, 2007. The Logic of Desire: An Introduction to Hegel's Phenomenology of Spirit. Paul Dry Books. ISBN 978-1-589-88037-5.
+
+
+== External links ==
+
+Electronic versions of the English translation of Hegel's Phenomenology of Mind are available at:
+
+Marxists Internet Archive: Hegel's Phenomenology of Mind
+Translating Hegel blog, including a running translation of the Preface to the Phenomenology of Spirit
+Phenomenology of Spirit. Bilingual, with Dictionary
+ The Phenomenology of Mind public domain audiobook at LibriVox
+Detailed audio commentary by an academic:
+
+The Bernstein Tapes: Hegel’s Phenomenology of Mind
+Gregory Sadler, Half Hour Hegel: The Complete Phenomenology of Spirit on YouTube

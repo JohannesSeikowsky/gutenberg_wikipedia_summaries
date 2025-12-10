@@ -1,0 +1,224 @@
+The Constitution Act, 1867 (French: Loi constitutionnelle de 1867), originally enacted as the British North America Act, 1867 (BNA Act), is a major part of the Constitution of Canada. The act created Canada, a federal country, and defines much of its structure, including the Parliament of Canada  (composed of the monarch, the House of Commons, and the Senate), the executive, parts of the court system, and the division of powers between the federal government and the provinces. The act also created two new provinces, Ontario and Quebec, and set out their constitutions. 
+In 1982, with the patriation of the Constitution, the British North America Acts which were originally enacted by the British Parliament, including this act, were renamed the Constitution Acts. However, the acts are still known by their original names in records of the United Kingdom. Amendments were also made at this time: section 92A was added, giving provinces greater control over non-renewable natural resources.
+The long title is "An Act for the Union of Canada, Nova Scotia and New Brunswick, and the Government Thereof; and for Purposes Connected Therewith."
+
+
+== History ==
+
+
+== Preamble and Part I ==
+
+The act begins with a preamble declaring that the three provinces New Brunswick, Nova Scotia, and the Province of Canada (which later became Ontario and Quebec) have requested to form "one Dominion...with a Constitution similar in Principle to that of the United Kingdom". This description of the Constitution has proven important in its interpretation. As Peter Hogg wrote in Constitutional Law of Canada, some have argued that, since the United Kingdom had some freedom of expression in 1867, the preamble extended this right to Canada even before the enactment of the Canadian Charter of Rights and Freedoms in 1982; this was a supposed basis for the Implied Bill of Rights. In New Brunswick Broadcasting Co. v. Nova Scotia, the leading Canadian case on parliamentary privilege, the Supreme Court of Canada grounded its 1993 decision on the preamble. Moreover, since the UK had a tradition of judicial independence, the Supreme Court ruled in the Provincial Judges Reference of 1997 that the preamble shows judicial independence in Canada is constitutionally guaranteed. Political scientist Rand Dyck criticized the preamble in 2000, saying it was "seriously out of date". He claimed the act "lacks an inspirational introduction".
+The preamble to the act is not the Constitution of Canada's only preamble. The Charter also has a preamble.
+Part I consists of just one extant section. Section 1 gives the short title of the act as Constitution Act, 1867. Section 2, repealed in 1893, originally stated that all references to the Queen (then Victoria) equally apply to all her heirs and successors.
+
+
+== Part II: Union ==
+
+The act established the Dominion of Canada by uniting the North American British "Provinces" (colonies) of Canada, New Brunswick, and Nova Scotia. Section 3 established that the union would take effect within six months of passage of the act and Section 4 confirmed "Canada" as the name of the country (and the word "Canada" in the rest of the act refers to the new federation and not the old province).
+Section 5 listed the four provinces of the new federation. Those were formed by dividing the former Province of Canada into two: its two subdivisions, Canada West and Canada East, renamed Ontario and Quebec, respectively, become full provinces in Section 6. Section 7 confirmed that the boundaries of Nova Scotia and New Brunswick are not changed. And Section 8 provided that a national census of all provinces must be held every ten years.
+
+
+== Part III: Executive Power ==
+Section 9 confirms that all executive authority "of and over Canada is hereby declared to continue and be vested in the Queen". In section 10, the Governor General or an administrator of the government, is designated as "carrying on the Government of Canada on behalf and in the Name of the Queen". Section 11 creates the King's Privy Council for Canada. Section 12 states that the statutory powers of the executives of the former provinces of Upper Canada, Lower Canada, Canada, Nova Scotia, and New Brunswick continue to exist, until modified by subsequent legislation.  To the extent those pre-Confederation statutory powers now came within provincial jurisdiction, they could be exercised by the lieutenant governors of the provinces, either alone or by the advice of the provincial executive councils. To the extent the pre-Confederation statutory powers now came within federal jurisdiction, they could be exercised by the Governor General, either with the advice of the Privy Council or alone. Section 13 defines the Governor General in Council as the governor general acting with the advice of the Privy Council. Section 14 allows the Governor General to appoint deputies to exercise their powers in various parts of Canada. The Commander-in-Chief of all armed forces in Canada continues to be vested in the King under Section 15. Section 16 declares Ottawa to be the seat of government for Canada.
+
+
+== Part IV: Legislative Power ==
+The Parliament of Canada comprises the King and two chambers (the House of Commons of Canada and the Senate of Canada), as created by section 17. Section 18 defines its powers and privileges as being no greater than those of the British parliament. Section 19 states that Parliament's first session must begin six months after the passage of the act.
+
+
+=== Senate ===
+
+The Senate has 105 senators (Section 21), most of whom represent (Section 22) one of four equal divisions: Ontario, Quebec, the Maritime Provinces and the Western Provinces (at the time of the Union, there were 72 senators). Section 23 lays out the qualifications to become a senator. Senators are appointed by the governor general under Section 24 (which until the 1929 judicial decision in Edwards v Canada (AG) was interpreted as excluding women), and the first group of senators was proclaimed under section 25. Section 26 allows the Crown to add four or eight senators at a time to the Senate, divided among the divisions, but according to section 27 no more senators can then be appointed until, by death or retirement, the number of senators drops below the regular limit of 24 per division. The maximum number of senators was set at 113, in Section 28. Senators are appointed for life (meaning until age 75 since 1965), under Section 29, though they can resign under Section 30 and can be removed under the terms of section 31, in which case the vacancy can be filled by the governor general (Section 32). Section 33 gives the Senate the power to rule on its own disputes over eligibility and vacancy. The speaker of the Senate is appointed and dismissed by governor general under Section 34. Quorum for the Senate is (initially) set at 15 senators by Section 35, and voting procedures are set by Section 36.
+
+
+=== House of Commons ===
+
+The composition of the Commons, under Section 37, consists of 343 members: 122 for Ontario, 78 for Quebec, 11 for Nova Scotia, 10 for New Brunswick, 14 for Manitoba, 43 for British Columbia, 4 for Prince Edward Island, 37 for Alberta, 14 for Saskatchewan, 7 for Newfoundland and Labrador, 1 for Yukon, 1 for the Northwest Territories, and 1 for Nunavut. The House is summoned by the governor general under Section 38. Section 39 forbids senators to sit in the Commons. Section 41 divides the provinces in electoral districts and Section 41 continues electoral laws and voting qualifications of the time, subject to revision. Section 44 allows the house to elect its own speaker and allows the House to replace the speaker in the case of death (Section 45) or prolonged absence (47). A speaker is required to preside at all sittings of the House (46). Quorum for the house is set at 20 members, including the speaker by Section 48. Section 49 says that the speaker cannot vote except in the case of a tied vote. The maximum term for a house is five years between elections under Section 50. Section 51 sets out the rules by which Commons seats are to be redistributed following censuses, allowing for more seats to be added by section 52.
+
+
+=== Money votes and royal assent ===
+"Money bills" (dealing with taxes or appropriation of funds) must originate in the Commons under Section 53 and must be proposed by the governor general under section 54. Sections 55, 56, and 57 allow the governor general to assent to in the monarch's name, withhold assent to or "reserve" for the "signification of the Queen's pleasure" any bill passed by both houses. Within two years of the governor general's royal assent to a bill, the King-in-Council or Queen-in-Council may disallow the act; and within two years of the governor general's reservation, the King-in-Council or Queen-in-Council may assent to the bill.
+
+
+== Part V: Provincial Constitutions ==
+The basic governing structures of the provinces are laid out in Part V of the act. (Specific mentions are made to the four founding provinces, but the general pattern holds for all the provinces.)
+
+
+=== Executive power ===
+Each province must have a lieutenant governor (Section 58), who serves at the pleasure of the governor general (Section 59), whose salary is paid by the federal parliament (Section 60), and who must swear the oath of allegiance (Section 61). The powers of a lieutenant governor can be substituted for by an administrator of government (Sections 62 and 66). All provinces also have an executive council (Sections 63 and 64). The lieutenant governor can exercise executive power alone or "in council" (Section 65). Section 68 establishes the seats of government of the first four provinces (Ontario, Quebec, Nova Scotia, New Brunswick), but also allows those provinces to change their seats of government.
+
+
+=== Legislative power ===
+
+
+==== Ontario and Quebec ====
+Sections 69 and 70 establishes the Legislature of Ontario, comprising the lieutenant governor and the Legislative Assembly of Ontario, and Sections 71 to 80 establishes the Parliament of Quebec, which at the time comprised the lieutenant governor, the Legislative Assembly of Quebec (renamed in 1968 to the National Assembly of Quebec), and the Legislative Council of Quebec (since abolished). The legislatures are summoned by the Lieutenant Governors (Section 82). Section 83 prohibits provincial civil servants (excluding cabinet ministers) from sitting in the provincial legislatures. Section 84 allows for existing election laws and voting requirements to continue after the union. Section 85 sets the life of each legislature as no more than four years, with a session at least once every twelve months under Section 86. Section 87 extends the rules regarding speakers, by-elections, quorum, etc., as set for the federal House of Commons to the legislatures of Ontario and Quebec.
+
+
+==== Nova Scotia and New Brunswick ====
+Section 88 simply extends the pre-union constitutions of those provinces into the post-Confederation era.
+
+
+==== Application of certain provisions to the provincial legislatures ====
+Section 90 extends the provisions regarding money votes, royal assent, reservation and disallowance, as established for the federal Parliament to the provincial legislatures but with the governor general in the role of the Queen-in-Council.
+
+
+=== Amendments by provincial legislatures ===
+
+Amendments can be added to the Constitution by provincial legislatures using the unilateral amending procedure set out in section 45 of the Constitution Act, 1982. This has been done by the provinces of Quebec (twice in 2022) and Saskatchewan (once in 2023), both relating to the autonomy of these provinces within Canadian confederation.
+
+
+==== Quebec ====
+Section 90Q was added to the Canadian Constitution by the National Assembly of Quebec passing Bill 96 in 2022, which made updates to the Charter of the French Language, entrenching French as the only official language of Québec and French as the common language of the Québec nation.
+Section 128Q was added to the Canadian Constitution by the National Assembly of Quebec passing An Act to recognize the oath provided in the Act respecting the National Assembly as the sole oath required in order to sit in the Assembly in 2022, which deleted the Oath of Allegiance to the Canadian monarch from the Oath of Office in Quebec's National Assembly.
+
+
+==== Saskatchewan ====
+
+Section 90S was added to the Canadian Constitution by the Saskatchewan Legislature passing the Saskatchewan First Act in 2023, which made changes to the Constitution of Saskatchewan, asserting Saskatchewan's autonomy and constitutional jurisdiction over its natural resources.
+
+
+== Part VI: Division of Powers ==
+
+The powers of government are divided between the provinces and the federal government and are described in sections 91 to 95 of the act. Sections 91 and 92 are of particular importance, as they enumerate the subjects for which each jurisdiction can enact a law, with section 91 listing matters of federal jurisdiction and section 92 listing matters of provincial jurisdiction. Sections 92A and 93 and 93A are concerned with non-renewable natural resources and education, respectively (both are primarily provincial responsibilities). Section 94 leaves open a possible change to laws regarding property and civil rights, which so far has not been realized. Sections 94A and 95, meanwhile, address matters of shared jurisdiction, namely old age pensions (section 94A) and agriculture and immigration (section 95).
+
+
+=== Peace, order and good government ===
+Section 91 authorizes Parliament to "make laws for the peace, order, and good government of Canada, in relation to all matters not coming within the classes of subjects by this act assigned exclusively to the Legislatures of the provinces". Although the text of the act appears to give Parliament residuary powers to enact laws in any area that has not been allocated to the provincial governments, subsequent Privy Council jurisprudence held that the "peace, order, and good government" power is in a delimited federal competency like those listed under section 91 (see e.g. AG Canada v AG Ontario (Labour Conventions), [1937] AC 326 (PC)).
+In 2019, the Saskatchewan Court of Appeal sided with the federal government in a 3–2 split on the Greenhouse Gas Pollution Pricing Act, allowing an expansion of the federal government's taxation power over the provinces in the wake of the climate change crisis, concurrently as Parliament joined with other national legislatures in declaring that the nation was in a "climate emergency" on 17 June.  In Grant Huscroft's dissenting opinion on the Court of Appeal for Ontario, he provides that "counsel for Canada conceded that the act was not passed on the basis that climate change constitutes an emergency".
+
+
+=== First Nations, Inuit and Métis ===
+
+Section 91(24) of the act provides that the federal government has the legislative jurisdiction for "Indians and lands reserved for the Indians". Aboriginal Affairs and Northern Development Canada (AANDC), formerly known as Indian and Northern Affairs Canada (INAC), has been the main federal organization exercising this authority.
+This empowered the Canadian government to act as if the treaties between the Indigenous peoples and the British Crown preceding Confederation did not exist. The Treaty of Niagara of 1764 bound the Crown and the Indigenous peoples of the Great Lakes basin together in a familial relationship, a relationship that exists to this day, exemplified by First Nations attendance at the coronation of King Charles III. Treaty rights would be incorporated into the 1982 Constitution.
+
+
+=== Criminal law ===
+
+Section 91(27) gives Parliament the power to make law related to the "criminal law, except the constitution of courts of criminal jurisdiction, but including the procedure in criminal matters". It was on this authority that Parliament enacted and amends the Criminal Code.
+However, under section 92(14), the provinces are delegated the power to administer justice, "including the constitution, maintenance, and organization of provincial courts, both of civil and criminal jurisdictions, and including procedure in civil matters in both courts". This provision allows the provinces to create the courts of criminal jurisdiction and to create provincial police forces such as the OPP and the Sûreté du Québec (SQ).
+As a matter of policy dating back to Confederation, the federal government has delegated the prosecutorial function for almost all criminal offences to the provincial Attorneys General. Crown Prosecutors appointed under provincial law thus prosecute almost all Criminal Code offences across Canada.
+Section 91(28) gives Parliament exclusive power over "penitentiaries" while section 92(6) gives the provinces powers over the "prisons". This means that offenders sentenced to two years or more go to federal penitentiaries while those with lighter sentences go to provincial prisons.
+
+
+=== Property and civil rights ===
+
+Section 92(13) gives the Provinces the exclusive power to make law related to "property and civil rights in the province". In practice, this power has been read broadly to give the provinces authority over numerous matters such as professional trades, labour relations, and consumer protection.
+
+
+=== Marriage ===
+Section 91(26) gives the federal government power over divorce and marriage. On this basis, Parliament can legislate on the substantive law of marriage and divorce. However, the provinces have power over the procedural law governing the solemnization of marriage (section 92(12)).
+There are also several instances of overlap in laws relating to marriage and divorce, which in most cases is solved through interjurisdictional immunity. For instance, the federal Divorce Act is valid legislation, even though the Divorce Act has some incidental effects on child custody, which is usually considered to be within the provincial jurisdictions of "civil rights" (s. 92(13)) and "matters of a private nature" (s. 92(16)).
+
+
+=== Works and undertakings ===
+
+Section 92(10) allows the federal government to declare any "works or undertakings" to be of national importance, and thereby remove them from provincial jurisdiction.
+
+
+=== Education (Sections 93 and 93A) ===
+
+Sections 93 and 93A give the Provincial Provinces power over the competency of education, but there are significant restrictions designed to protect minority religious rights. This is due that it was created during a time when there was a significant controversy between Protestants and Catholics in Canada over whether schools should be parochial or non-denominational. Section 93(2) specifically extends all pre-existing denominational school rights into the post-Confederation era.
+
+
+=== Section 94 ===
+Section 94 allows for the provinces that use the British-derived common law system, in effect all but Quebec, to unify their property and civil rights laws. This power has never been used.
+
+
+=== Old Age Pensions (Section 94A) ===
+Under Section 94A, the federal and provincial governments share power over Old Age Pensions. Either order of government can make laws in this area, but in the case of a conflict, provincial law prevails.
+
+
+=== Agriculture and Immigration (Section 95) ===
+
+Under Section 95, the federal and provincial governments share power over agriculture and immigration. Either order of government can make laws in this area, but in the case of a conflict, federal law prevails.
+
+
+== Part VII: Judicature ==
+
+The authority over the judicial system in Canada is divided between Parliament and the provincial Legislatures.
+
+
+=== Parliament's power to create federal courts ===
+Section 101 gives Parliament power to create a "general court of appeal for Canada" and "additional Courts for the better Administration of the Laws of Canada". Parliament has used this power to create the Supreme Court of Canada and lower federal courts. It has created the Supreme Court under both branches of s. 101. The lower federal courts, such as the Federal Court of Appeal, the Federal Court, the Tax Court of Canada and the Court Martial Appeal Court of Canada are all created under the second branch, i.e. as "additional Courts for the better Administration of the Laws of Canada".
+
+
+=== Provincial power to create courts ===
+Section 92(14) gives the provincial legislatures the power over the "Constitution, Maintenance, and Organization of Provincial Courts, both of Civil and of Criminal Jurisdiction". This power includes the creation of both the superior courts, both of original jurisdiction and appeal, as well as inferior tribunals.
+Superior courts are known as "courts of inherent jurisdiction", as they receive their constitutional authority from historical convention inherited from the United Kingdom.
+
+
+=== Section 96 courts ===
+Section 96 authorizes the federal government to appoint judges for "the Superior, District, and County Courts in each Province". No provinces have district or county courts anymore, but all provinces have superior courts. Although the provinces pay for these courts and determine their jurisdiction and procedural rules, the federal government appoints and pays their judges.
+Historically, this section has been interpreted as providing superior courts of inherent jurisdiction with the constitutional authority to hear cases. The "section 96 courts" are typically characterized as the "anchor" of the justice system around which the other courts must conform. As their jurisdiction is said to be "inherent", the courts have the authority to try all matters of law except where the jurisdiction has been taken away by another court. However, courts created by the federal government under section 101 or by the provincial government under 92(14) are generally not allowed to intrude on the core jurisdiction of a section 96 court.
+The scope of the core jurisdiction of section 96 courts has been a matter of considerable debate and litigation. When commencing litigation a court's jurisdiction may be challenged on the basis that it does not have jurisdiction. The issue is typically whether the statutory court created under section 101 or 92(14) has encroached upon the exclusive jurisdiction of a section 96 court.
+To validate the jurisdiction of a federal or provincial tribunal it must satisfy a three-step inquiry first outlined in Reference Re Residential Tenancies Act (Ontario). The tribunal must not touch upon what was historically intended as the jurisdiction of the superior court. The first stage of inquiry considers what matters were typically exclusive to the court at the time of Confederation in 1867. In Sobeys Stores Ltd. v. Yeomans (1989) the Supreme Court stated that the "nature of the disputes" historically heard by the superior courts, not just the historical remedies provided, must be read broadly. If the tribunal is found to intrude on the historical jurisdiction of the superior court, the inquiry must turn to the second stage which considers whether the function of the tribunal and whether it operates as an adjudicative body. The final step assesses the context of the tribunal's exercise of power and looks to see if there are any further considerations to justify its encroachment upon the superior court's jurisdiction.
+
+
+=== Constitutional jurisdiction ===
+Not all courts and tribunals have jurisdiction to hear constitutional challenges. The court, at the very least, must have jurisdiction to apply the law. In N.S. v. Martin; N.S. v. Laseur (2003) the Supreme Court re-articulated the test for constitutional jurisdiction from Cooper v. Canada. The inquiry must begin by determining whether the enabling legislation gives explicit authority to apply the law. If so, then the court may apply the constitution. The second line of inquiry looks into whether there was implied authority to apply the law. This can be found by examining the text of the act, its context, and the general nature and characteristics of the adjudicative body.
+See Section Twenty-four of the Canadian Charter of Rights and Freedoms for the jurisdiction of the Charter.
+
+
+== Part VIII: Revenues; debts, assets; taxation ==
+
+This Part lays out the financial functioning of the government of Canada and the provincial governments. It establishes a fiscal union where the federal government is liable for the debts of the provinces (Sections 111–116). It establishes the tradition of the federal government supporting the provinces through fiscal transfers (Section 119). It creates a customs union which prohibits internal tariffs between the provinces (Sections 121–124). Section 125 prevents one order of government from taxing the lands or assets of the other.
+
+
+== Part IX: Miscellaneous ==
+Section 132 gives the federal Parliament the legislative power to implement treaties entered to by the British government on behalf of the Empire.  With the acquisition of full sovereignty by Canada, this provision has limited effect.
+Section 133 establishes English and French as the official languages of the Parliament of Canada and the Legislature of Quebec.  Either language can be used in the federal Parliament and the National Assembly of Quebec.  All federal and Quebec laws must be enacted in both languages, and both language versions have equal authority.
+
+
+== Part X: Admission of Other Colonies ==
+
+Section 146 allows the federal government to negotiate the entry of new provinces into the Union without the need to seek the permission of the existing provinces. Section 147 establishes that Prince Edward Island and Newfoundland would have 4 senators upon joining Confederation.
+
+
+== Small bill of rights ==
+
+The act does not include a written bill of rights and judicial theory on an implied bill of rights did not emerge until the 20th century.
+Canadian constitutional scholar Peter Hogg identified several rights provided in various sections of the act that he termed the "small bill of rights": section 50 limits the duration of a House of Commons of Canada to a maximum of five years; sections 51 and 52 require readjustment of seats in the House of Commons following each census to guarantee proportionate representation of all provinces; section 86 requires Parliament and all legislatures sit at least once per year; section 93 provides, notwithstanding provincial jurisdiction over education in Canada, the right to separate schools for either Protestant or Catholic minorities; section 99 establishes a right for judges to serve during good behaviour unless removed by the governor general under advice from Parliament; section 121 prohibits customs duties and tariffs on inter-provincial trade; section 125 exempts governments in Canada from paying most taxes; and section 133 provides for bilingualism in the legislative and judicial branches of the federal and Quebec governments (see below).
+Many of these rights were repeated or expanded in sections 4, 5, 16, 17, 18, 19, and 20 of the Charter. Section 29 of the Charter does not repeat or establish new rights for separate schools but reaffirms the right to separate schools provided under the 1867 act.
+
+
+=== Language rights ===
+Although the act does not establish English and French as Canada's official languages, it does provide some rights for the users of both languages in respect of some institutions of the federal and Quebec governments.
+Section 133 allows bilingualism in both the federal Parliament and the Quebec legislature, allows for records to be kept in both languages, and allows bilingualism in federal and Quebec courts. Interpretation of this section has found that this provision requires that all statutes and delegated legislation be in both languages and be of equal force. Likewise, it has been found that the meaning of "courts" in Section 133 includes all federal and provincial courts as well as all tribunals that exercise an adjudicative function.
+These rights are duplicated in respect to the federal government, but not Quebec, and extended to New Brunswick, by sections 17, 18 and 19 of the Charter of Rights; Sections 16 and 20 of the Charter elaborate by declaring English and French to be the official languages and allowing for bilingual public services.
+
+
+== Canada Day ==
+The anniversary of the act's entry into force and creation of the Dominion of Canada on 1 July 1867 is observed annually as Canada Day (known as Dominion Day prior to 1982) and is celebrated as Canada's national holiday.
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Notes ===
+
+
+== Further reading ==
+Cote, Philip; Tidridge, Nathan (2024). "Ties of Kinship". Canada's History. No. October-November 2024.
+Gwyn, Richard J. (2011). Nation Maker—Sir John A. Macdonald: His Life, Our Times. Mississauga, Ontario: Random House Canada.
+Kennedy, P.M. (15 June 1937). "The British North America Act: Past and Future". Canadian Bar Review. XV (6): 393–400.
+McConnell, W. H (1977). Commentary on the British North America Act. Toronto: Macmillan of Canada.
+Morton, W. L (1968). The Critical Years: The Union of British North America, 1857–1873. s: McClelland & Stewart.
+Riddell, William Renwick (1917). The Constitution of Canada in its History and Practical Working. New Haven: Yale University Press.
+Taylor, Martin Brook; Doug Owram (1994). Canadian History: Beginnings to Confederation vol. 1. University of Toronto Press. ISBN 0-8020-5016-6.; Guide to historiography
+
+
+=== Primary sources ===
+Pope, Joseph. Documents on the Confederation of British North America (1895) online
+
+
+== External links ==
+
+Constitution Act, 1867
+British North America Act, 1867, as originally enacted, in the UK Statute Law Database
+Digital reproduction of the British North America Act 1867 on the Parliamentary Archives catalogue

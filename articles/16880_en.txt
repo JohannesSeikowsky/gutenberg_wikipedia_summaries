@@ -1,0 +1,111 @@
+Aristotle's Poetics (Ancient Greek: Περὶ ποιητικῆς Peri poietikês; Latin: De Poetica; c. 335 BCE) is the earliest surviving work of Greek dramatic theory and the first extant philosophical treatise to solely focus on literary theory. In this text, Aristotle offers an account of ποιητική, which refers to poetry, and more literally, "the poetic art", deriving from the term for "poet; author; maker", ποιητής. Aristotle divides the art of poetry into verse drama (comedy, tragedy, and the satyr play), lyric poetry, and epic. The genres all share the function of mimesis, or imitation of life, but differ in three ways that Aristotle describes:
+
+There are differences in musical rhythm, harmony, meter, and melody.
+There is a difference of goodness in the characters.
+A difference exists in how the narrative is presented: telling a story or acting it out.
+The surviving book of Poetics is primarily concerned with drama; the analysis of tragedy constitutes the core of the discussion.
+Although the text is universally acknowledged in the Western critical tradition, "every detail about this seminal work has aroused divergent opinions.", of scholarly debates on the Poetics, four have been most prominent. These include the meanings of catharsis and hamartia, the Classical unities, and the question of whether Aristotle contradicts himself between chapters 13 and 14.
+
+
+== Background ==
+Aristotle's works on aesthetics consist of the Poetics, Politics (Bk VIII), and Rhetoric. The Poetics was lost to the Western world for a long time. The text was restored to the West in the Middle Ages and early Renaissance only through a Latin translation of an Arabic version written by Averroes. The accurate Greek-Latin translation made by William of Moerbeke in 1278 was virtually ignored. At some point during antiquity, the original text of the Poetics was divided in two, each "book" written on a separate roll of papyrus. Only the first part—that which focuses on tragedy and epic (as a quasi-dramatic art, given its definition in Ch. 23)—survives. The lost second part addressed comedy. Some scholars speculate that the Tractatus coislinianus summarizes the contents of the lost second book.
+
+
+== Overview ==
+The table of contents page of the Poetics found in Modern Library's Basic Works of Aristotle (2001) identifies five basic parts within it.
+
+Preliminary discourse on tragedy, epic poetry, and comedy as the chief forms of imitative poetry.
+Definition of a tragedy, and the rules for its construction. Definition and analysis into qualitative parts.
+Rules for the construction of a tragedy: Tragic pleasure, or catharsis experienced by fear and pity should be produced in the spectator. The characters must be four things: good, appropriate, realistic, and consistent. Discovery must occur within the plot. Narratives, stories, structures, and poetics overlap. It is important for the poet to visualize all of the scenes when creating the plot. The poet should incorporate complication and dénouement within the story, as well as combine all of the elements of tragedy. The poet must express thought through the characters' words and actions, while paying close attention to diction and how a character's spoken words express a specific idea. Aristotle believed that all of these different elements had to be present in order for the poetry to be well-done.
+Possible criticisms of an epic or tragedy and the answers to them.
+Tragedy is artistically superior to epic poetry: Tragedy has everything that the epic has, even the epic meter being admissible. The reality of presentation is felt in the play as read, as well as in the play as acted. The tragic imitation requires less time for the attainment of its end. If it has a more concentrated effect, it is more pleasurable than one with a large admixture of time to dilute it. There is less unity in the imitation of the epic poets (a plurality of actions), and this is proved by the fact that an epic poem can supply enough material for several tragedies.
+
+Aristotle also draws a famous distinction between the tragic mode of poetry and the type of history-writing practiced among the Greeks. Whereas history deals with things that took place in the past, tragedy concerns itself with what might occur, or could be imagined to happen. History deals with particulars, whose relation to one another is marked by contingency, accident, or chance. Contrarily, poetic narratives are determined objects, unified by a plot whose logic binds up the constituent elements by necessity and probability. In this sense, he concluded, such poetry was more philosophical than history was in so far as it approximates a knowledge of universals.
+
+
+== Synopsis ==
+Aristotle distinguishes between the genres of "poetry" in three ways:
+
+Matter
+Language, rhythm, and melody, for Aristotle, make up the matter of poetic creation. Where the epic poem makes use of language alone, the playing of the lyre involves rhythm and melody. Some poetic forms include a blending of all materials; for example, Greek tragic drama included a singing chorus, and so music and language were all part of the performance. These points also convey the standard view. Recent work, though, argues that translating rhuthmos here as "rhythm" is absurd: melody already has its own inherent musical rhythm, and the Greek can mean what Plato says it means in Laws II, 665a: "(the name of) ordered body movement," or dance. This correctly conveys what dramatic musical creation, the topic of the Poetics, in ancient Greece had: music, dance, and language. Also, the musical instrument cited in Ch. 1 is not the lyre but the kithara, which was played in the drama while the kithara-player was dancing (in the chorus), even if that meant just walking in an appropriate way. Moreover, epic might have had only literary exponents, but as Plato's Ion and Aristotle's Ch. 26 of the Poetics help prove, for Plato and Aristotle at least some epic rhapsodes used all three means of mimesis: language, dance (as a pantomimic gesture), and music (if only by chanting the words).
+Subjects
+(Also "agents" in some translations.) Aristotle differentiates between tragedy and comedy throughout the work by distinguishing between the nature of the human characters that populate either form. Aristotle finds that tragedy deals with serious, important, and virtuous people. Comedy, on the other hand, treats of less virtuous people and focuses on human "weaknesses and foibles". Aristotle introduces here the influential tripartite division of characters: superior (βελτίονας) to the audience, inferior (χείρονας), or at the same level (τοιούτους).
+Method
+One may imitate the agents through use of a narrator throughout, or only occasionally (using direct speech in parts and a narrator in parts, as Homer does), or only through direct speech (without a narrator), using actors to speak the lines directly. This latter is the method of tragedy (and comedy): without the use of any narrator.
+Having examined briefly the field of "poetry" in general, Aristotle proceeds to his definition of tragedy:
+
+Tragedy is a representation of a serious, complete action that has magnitude, in embellished speech, with each of its elements [used] separately in the [various] parts [of the play] and [represented] by people acting and not by narration, accomplished using pity and terror the catharsis of such emotions.
+By "embellished speech", I mean that which has rhythm and melody, i.e. song. By "with its elements separately", I mean that some [parts of it] are accomplished only by using spoken verses, and others again by means of song.
+
+He then identifies the "parts" of tragedy:
+
+plot (mythos)
+Refers to the "organization of incidents". It should imitate an action that evokes pity and fear. The plot involves a change from bad towards good, or good towards bad. Complex plots have reversals and recognitions. These and suffering (or violence) evoke the tragic emotions. The most tragic plot pushes a good character towards undeserved misfortune because of a mistake (hamartia). Plots revolving around such a mistake are more tragic than plots with two sides and an opposite outcome for the good and the bad. Violent situations are most tragic if they are between friends and family. Threats can be resolved by being done in knowledge, done in ignorance and then discovered, or almost done in ignorance but discovered at the last moment. Aristotle judges the last to be the best. This, however, seems to contradict his statement regarding the most tragic plot.
+Actions should follow logically from the situation created by what has happened before, and from the character of the agent. This goes for recognitions and reversals as well, as even surprises are more satisfying to the audience if they afterwards are seen as a plausible or necessary consequence.
+character (ethos)
+Aristotle defines a tragedy as entertaining by satisfying the moral sense and imitating actions that "excite pity and fear". The success of a tragedy in calling forth these qualities is revealed through the moral character of the agents, which is revealed through the actions and choices of the agents. In a perfect tragedy, the character will support the plot, which means personal motivations and traits will somehow connect parts of the cause-and-effect chain of actions producing pity and fear.
+The main character should be:
+Good—a character must be between the two extremes of morality, they must simply be good. A character should not be on either of the moral extremities. To follow a character of virtue from prosperity to adversity merely serves to shock the audience; yet to follow them from adversity to prosperity is a story of triumph that satisfies the moral sense but ignores the excitement of fear and pity altogether. To follow a villain from prosperity to adversity will undoubtedly satisfy the moral sense, but it once again ignores the tragic qualities of fear and pity. On the other hand, a villain going from adversity to prosperity possesses no tragic qualities at all, neither satisfying the moral sense nor exciting fear and pity.
+Appropriate—if a character is supposed to be wise, it is unlikely he is young (supposing wisdom is gained with age).
+Consistent—as the actions of a character should follow the Law of Probability and Necessity, they must be written to be internally consistent. When applied, the Law of Probability and Necessity defines it as necessary for a character to react and as probable for them to react in a certain way. To be truly realistic, these reactions must be true and expected of the character. As such, they must be internally consistent.
+"consistently inconsistent"—if a character always behaves foolishly it is strange if he suddenly becomes intelligent. In this case, it would be good to explain such the cause of such a change; otherwise, the audience may be confused. If a character changes their opinion a lot it should be made clear that this is a trait of the character.
+thought (dianoia)—spoken (usually) reasoning of human characters can explain the characters or story background.
+diction (lexis)—Lexis is better translated, according to some, as "speech" or "language". Otherwise, the relevant necessary condition stemming from logos in the definition (language) has no follow-up: mythos (plot) could be done by dancers or pantomime artists, given chapters 1, 2, and 4, if the actions are structured (on stage, as drama was usually done), just like plot for us can be given in film or in a story-ballet with no words.
+Refers to the quality of speech in tragedy. Speeches should reflect character: the moral qualities of those on the stage. The expression of the meaning of the words.
+melody (melos)—"Melos" can also mean "music-dance", especially given that its primary meaning in ancient Greek is "limb" (an arm or a leg). This is arguably more sensible because then Aristotle is conveying what the chorus actually did.
+The Chorus should be written as one of the actors. As such, It should be an integral part of the whole: taking a share in the action and contributing to the unity of the plot. It is a factor in the pleasure of the drama.
+spectacle (opsis)
+Refers to the visual apparatus of the play, including set, costumes, and props (anything you can see). Aristotle calls spectacle the "least artistic" element of tragedy, and the "least connected with the work of the poet (playwright). For example: if the play has "beautiful" costumes and "bad" acting and "bad" story, there is "something wrong" with it. Even though that "beauty" may save the play it is "not a nice thing".
+He offers the earliest-surviving explanation for the origins of tragedy and comedy:
+
+Anyway, arising from an improvisatory beginning (both tragedy and comedy—tragedy from the leaders of the dithyramb, and comedy from the leaders of the phallic processions which even now continue as a custom in many of our cities)...
+
+
+== Influence ==
+
+The Arabic version of Aristotle's Poetics that influenced the Middle Ages was translated from a Greek manuscript dated to some time prior to the year 700. This manuscript, translated from Greek to Syriac, is independent of the currently-accepted 11th-century source designated Paris 1741. The Syriac-language source used for the Arabic translations departed widely in vocabulary from the original Poetics and it initiated a misinterpretation of Aristotelian thought that continued through the Middle Ages.
+The scholars who published significant commentaries on Aristotle's Poetics included Avicenna, Al-Farabi, and Averroes. Many of these interpretations sought to use Aristotelian theory to impose morality on the Arabic poetic tradition. In particular, Averroes added a moral dimension to the Poetics by interpreting tragedy as the art of praise and comedy as the art of blame. Averroes' interpretation of the Poetics was accepted by the West, where it reflected the "prevailing notions of poetry" into the 16th century.
+Giorgio Valla's 1498 Latin translation of Aristotle's text (the first to be published) was included in a collection of various translations. In 1508 the Aldine Press published the Greek original as part of another anthology, Rhetores graeci. By the early decades of the sixteenth century, vernacular versions of Aristotle's Poetics appeared, culminating in Lodovico Castelvetro's Italian editions of 1570 and 1576. Italian culture produced the great Renaissance commentators on Aristotle's Poetics, and in the baroque period Emanuele Tesauro, with his Cannocchiale aristotelico, re-presented to the world of post-Galilean physics Aristotle's poetic theories as the sole key to approaching the human sciences.
+Recent scholarship has challenged whether Aristotle focuses on literary theory per se (given that not one poem exists in the treatise) or whether he focuses instead on dramatic musical theory that only has language as one of the elements.
+The lost second book of Aristotle's Poetics is a core plot element in Umberto Eco's novel The Name of the Rose.
+
+
+== Core terms ==
+Anagnorisis or "recognition", "identification"
+Catharsis or, variously, "purgation", "purification", "clarification"
+Dianoia or "thought", "theme"
+Ethos or "character"
+Hamartia or "miscalculation" (understood in Romanticism as "tragic flaw")
+Hubris or Hybris, "pride"
+Lexis or "diction", "speech"
+Melos, or "melody"; also "music-dance" (melos meaning primarily "limb")
+Mimesis or "imitation", "representation", or "expression", given that, e.g., music is a form of mimesis, and often there is no music in the real world to be "imitated" or "represented".
+Mythos or "plot", defined in Chapter 6 explicitly as the "structure of actions".
+Nemesis or, "retribution"
+Opsis or "spectacle"
+Peripeteia or "reversal"
+
+
+== Editions, commentaries, and translations ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+
+
+== External links ==
+
+librivox.org audio recording
+Project Gutenberg – Poetics (Aristotle)
+Aristotle's Poetics: Perseus Digital Library edition
+Greek text from Hodoi elektronikai
+Critical edition (Oxford Classical Texts) by Ingram Bywater
+Seven parallel translations of Poetics: Russian, English, French
+Aristotle: Poetics entry by Joe Sachs in the Internet Encyclopedia of Philosophy
+Notes of Friedrich Sylburg (1536–1596) in a critical edition (parallel Greek and Latin) available at Google Books
+Analysis and discussion in the BBC's In Our Time series on Radio 4.

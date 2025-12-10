@@ -1,0 +1,18 @@
+The Xiao Erya (simplified Chinese: 小尔雅; traditional Chinese: 小爾雅; pinyin: Xiǎo Ěryǎ; Wade–Giles: Hsiao Erh-ya; "Little [Er]ya") was an early Chinese dictionary that supplements the Erya. It was supposedly compiled in the early Han dynasty by Kong Fu (Chinese: 孔鮒 264?–208 BCE), a descendant of Confucius. However, the received Xiao Erya text was included in a Confucianist collection of debates, the Kongcongzi (Chinese: 孔叢子; K'ung-ts'ung-tzu; "The Kong Family Master's Anthology"), which contains fabrications that its first editor Wang Su (Chinese: 王肅, 195–256 CE) added to win his arguments with Zheng Xuan (Chinese: 鄭玄, 127–200 CE). The Qing dynasty scholar Hu Chenggong (Chinese: 胡承珙, 1776–1832), who wrote the Xiao Erya yizheng (Chinese: 小爾雅義證 "Exegesis and Proof for the Xiao Erya"), accepted Kong Fu as the author. Liu concludes the Xiao Erya reliably dates from the Western Han dynasty and suggests its compiler was from the southern state of Chu.
+The Xiao Erya has 374 entries, far less than the Erya with 2091. It simplifies the Erya's 19 semantically-based chapter divisions into 13, and entitles them with guang (廣 "expanding") instead of shi (釋 "explaining").
+
+In comparison with the Erya chapter arrangement, Xiao Erya sections 1–3 (defining abstract words) are identical. Despite the different title with yi ("righteousness") instead of qin ("relatives"), both Section 4 and Chapter 4 ("Explaining Relatives") define kinship terms. Sections 6 and 7 divide Chapter 6 ("Explaining Utensils"). Xiao Erya Section 8 combines Chapters 13 ("Explaining Plants") and 14 ("Explaining Trees"); 9 mirrors 17; and Section 10 combines 18 ("Explaining Beasts") and 19 ("Explaining Domestic Animals"). Xiao Erya sections 5 (funeral terms) and 11–13 (units of measurement) are not included in the Erya.
+
+
+== See also ==
+Shiming
+Guangya
+Piya
+
+
+== References ==
+
+
+== External links ==
+Xiao Erya Complete text in Chinese
+Kongcongzi 孔叢子 "The Kong Family Master's Anthology", ChinaKnowledge

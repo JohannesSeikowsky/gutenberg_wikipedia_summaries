@@ -1,0 +1,93 @@
+De origine actibusque Getarum (The Origin and Deeds of the Getae), commonly abbreviated Getica (), written in Late Latin by Jordanes in or shortly after 551 AD, claims to be a summary of a voluminous account by Cassiodorus of the origin and history of the Gothic people, which is now lost. However, the extent to which Jordanes actually used the work of Cassiodorus is unknown. It is significant as the only remaining contemporaneous resource that gives an extended account of the origin and history of the Goths, although to what extent it should be considered history or origin mythology is a matter of dispute.
+
+
+== Synopsis of the work ==
+The Getica begins with a discussion of a large island named Scandza, which faces the mouth of the Vistula river and had been described by the writers Claudius Ptolemy and Pomponius Mela. Jordanes reports this island to be the original home of many different peoples including the Goths, who have swarmed like bees from there (16-25). Jordanes commences the history of the Goths with the emigration of a Gothic king named Berig with three ships from Scandza to Gothiscandza (25, 94), in the distant past. In the account of Jordanes (or Cassiodorus), Herodotus' Getian demi-god Zalmoxis becomes a king of the Goths (39). Jordanes tells how the Goths sacked "Troy and Ilium" just after they had recovered somewhat from the war with Agamemnon (108). They are also said to have encountered the Egyptian pharaoh Vesosis (47). The less-fictional part of Jordanes' work begins when the Goths encounter Roman military forces in the 3rd century AD. The work concludes with the defeat of the Goths by the Byzantine general Belisarius, which was recent in the time of Jordanes. Jordanes states that he writes to honour those who were victorious over the Goths after a history of 2030 years.
+
+
+== Importance and credibility ==
+Because the original work of Cassiodorus has not survived, the work of Jordanes is one of the most important sources for the period of the migration of the European tribes, and the Ostrogoths and Visigoths in particular, from the 3rd century AD. Jordanes mentioned that his work, perhaps via Cassiodorus, also drew upon Gothic "folk songs" (carmina prisca) as an important source, and a Gothic chronicler . Modern scholars have struggled to find any confirming evidence that his claims about such sources can give credibility to the more doubtful parts of the work.
+Like many other classical writers, Jordanes equated the earlier Getae to the later Goths. He specified that he did this on the testimony of Orosius Paulus. In a passage that has become controversial, he identifies the Venedi, a people mentioned by Tacitus, Pliny the Elder and Ptolemy, with the Slavs of the 6th century. Since as early as 1844, this passage has been used by some scholars in eastern Europe to support the idea that there was a distinct Slavic ethnicity long before the last phase of the Late Roman period. Others have rejected this view because of the absence of concrete archaeological and historiographical data.
+The book is important to some medieval historians because it mentions the campaign in Gaul of one Riothamus, "King of the Brettones", a possible source of inspiration for the early stories of King Arthur.
+One of the major questions concerning the historicity of the work is concerning the periods before the Goths enter the written record in the third century. Although there is a range of views, the earliest parts of the narratives are considered mainly mythological, and the account becomes more reliable as it approaches the 6th century. Whether or not Cassiodorus was the main collator of the information about the earliest Goths, not only contains chronologically untenable parts, but also shows evidence of being at least partly derived by culling ancient Greek and Latin authors for descriptions of peoples who might have been Goths. Furthermore, it seems that Jordanes distorted Cassiodorus's narrative by presenting a cursory abridgement of it mixed with 6th-century ethnic names.
+Some scholars claim that, while acceptance of Jordanes' text at face value may be too naïve, a totally skeptical view is not warranted. For example, Jordanes writes that the Goths originated in Scandinavia in 1490 BC. Although the chronology is untenable, one Austrian historian, Herwig Wolfram, believes that there might be a kernel of truth in the claim, proposing that a clan of the Gutae may have left Scandinavia and contributed to the ethnogenesis of the Gutones in eastern Pomerania (see Wielbark culture). An example of more believable material concerning the more recent centuries is the name of King Cniva, which David S. Potter thinks is genuine because, since it doesn't appear in the fictionalized genealogy of Gothic kings given by Jordanes, he must have found it in a genuine 3rd-century source.
+On the other hand, a Danish scholar, Arne Søby Christensen, claims that the Getica is an entirely fabricated account, and that the origin of the Goths that Jordanes outlines is a construction based on popular Greek and Roman myths, as well as misinterpretation of recorded names from Northern Europe. The purpose of this fabrication, according to Christensen, may have simply been to preserve a memory of a people who, at the time, looked liked they were about to cease to exist. Canadian scholar Walter Goffart suggests another incentive, arguing that the Getica was part of a conscious plan by Justinian I and the propaganda machine at his court to affirm that the Goths and their barbarian cousins did not belong to the Roman world, thus justifying the claims of the Eastern Roman Empire to hegemony over the  western part.
+
+
+== Editions ==
+A manuscript of the text was rediscovered in Vienna in 1442 by the Italian humanist Enea Silvio Piccolomini. Its editio princeps was issued in 1515 by Konrad Peutinger, followed by many other editions.
+The classic edition is that of 19th-century German classical scholar Theodor Mommsen (in Monumenta Germaniae Historica, auctores antiqui, v. i.). The best surviving manuscript was the Heidelberg manuscript, written in Heidelberg, Germany, probably in the 8th century, but this was destroyed in a fire at Mommsen's house on July 7, 1880.  Subsequently, another 8th-century manuscript was discovered, containing chapters I to XLV, and is now the 'Codice Basile' at the Archivio di Stato in Palermo.  The next of the manuscripts in historical value are the Vaticanus Palatinus of the 10th century, and the Valenciennes manuscript of the 9th century.
+Jordanes' work had been well known prior to Mommsen's 1882 edition. It was cited in Edward Gibbon's classic 6 volumes of The History of the Decline and Fall of the Roman Empire (1776), and had been earlier mentioned by Degoreus Whear (1623) who refers to both Jordanes' De regnorum ac temporum successione and to De rebus Geticis.
+First English translation was made in 1908 by Charles Christopher Mierow as his Ph.D. dissertation in Princeton University, and it was published as a commercial book in 1915.
+
+
+== Sources ==
+In his Preface, Jordanes presents his plan
+
+"...to condense in my own style in this small book the twelve volumes of [Cassiodorus] Senator on the origin and deeds of the Getae [i.e., Goths] from olden times to the present day."
+Jordanes admits that he did not then have direct access to Cassiodorus's book, and could not remember the exact words, but that he felt confident that he had retained the substance in its entirety. He goes on to say that he added relevant passages from Latin and Greek sources, composed the Introduction and Conclusion, and inserted various things of his own authorship. Due to this mixed origin, the text has been examined in an attempt to sort out the sources for the information it presents.
+
+
+=== Jordanes himself ===
+
+Former notarius to a Gothic magister militum Gunthigis, Jordanes would have been in a position to know traditions concerning the Gothic peoples without necessarily relying on anyone else. However, there is no evidence for this in the text, and some of the instances where the work refers to carmina prisca can be shown to depend on classical authors.
+
+
+=== Cassiodorus ===
+
+Cassiodorus was a native Italian (Squillace, Bruttium), who rose to become advisor and secretary to the Gothic kings in various high offices. His and the Goths' most successful years were perhaps the reign of Theodoric. The policy of Theodoric's government at that time was reconciliation and in that spirit he incorporated Italians into the government whenever he could. He asked Cassiodorus to write a work on the Goths that would, in essence, demonstrate their antiquity, nobility, experience and fitness to rule.
+Theodoric died in 526 and Cassiodorus went on to serve his successors in the same capacity. He had not by any means forgotten the task assigned to him by his former king. In 533 a letter ostensibly written by King Athalaric to the senate in Rome, but ignored by Cassiodorus, mentions the great work on the Goths, now complete, in which Cassiodorus "restored the Amali with the illustriousness of their race."
+The work must have been written at Ravenna, seat of the Gothic kings, between 526 at latest and 533.
+What Cassiodorus did with the manuscripts after that remains unknown. The fact that Jordanes once obtained them from a steward indicates that the wealthy Cassiodorus was able to hire at least one full-time custodian of them and other manuscripts of his, i.e., a private librarian (a custom not unknown even today).
+Jordanes says in the preface to Getica that he obtained them from the librarian for three days in order to read them again (relegi). The times and places of these readings have been the concern of many scholars, as this information possibly bears on how much of Getica is based on Cassiodorus.
+There are two main theories, one expressed by the Mierow source below, and one by the O'Donnell source below. Mierow's is earlier and does not include a letter cited by O'Donnell.
+Gothic sovereignty came to an end with the reconquest of Italy by Belisarius, military chief of staff for Justinian, ending in 539. Cassiodorus' last ghost writing for the Gothic kings was done for Witiges, who was removed to Constantinople in 540. A number of token kings ruled from there while Belisarius established that the Goths were not going to reinvade and retake Italy (which was however taken again by the Lombards after Justinian's death).
+Cassiodorus retired in 540 to his home town of Squillace, where he used his wealth to build a monastery with school and library, Vivarium.
+
+
+=== Authors cited by Getica ===
+The events, persons and peoples of Getica are put forward as being up to many centuries prior to the time of Jordanes. Taken at face value, they precede any other history of Scandinavia.
+Jordanes does cite some writers well before his time, to whose works he had access but we do not, and other writers whose works are still extant. Mierow gives a summary of these, which is reviewed below, and also states other authors he believed were used by Jordanes but were not cited in Getica (refer to the Mierow source cited below). Mierow's list of cited authors is summarized as follows:
+
+Ablabius. Otherwise unknown historian, author of the work Gothorum gentis ("of the Gothic people"), now lost.
+Dexippus on the Vandals and the Heruli.
+Dio, either Dio Cassius or Dio Chrysostom, author of another Getica. Description of Britain in Jordanes.
+Fabius. Otherwise unknown, author of a work including the siege of Ravenna, now missing.
+Josephus in IV.29, brief mention of the Goths as Scyths.
+Livy, brief mention in II.10.
+Lucan on the Amali, V.43.
+Pompeius Trogus, now known only in Justinus' epitome of Historiae Philippicae.
+Pomponius Mela.
+Priscus. Events concerning Attila.
+Ptolemy on Scandinavia in Getica Part III.
+Strabo. Authority on Britain.
+Symmachus. Copies of his copies from Julius Capitolinus on Maximinus.
+Tacitus. Authority on Britain.
+Virgil.
+
+
+== The Late Latin of Jordanes ==
+The early Late Latin of Jordanes evidences a certain variability in the structure of the language which has been taken as an indication that the author no longer had a clear standard of correctness. Jordanes tells us in Getica that he interrupted work on the Romana to write Getica, and then finished Romana. Jordanes states in Romana that he wrote it in the 24th year of the emperor Justinian, which began April 1, 551. In Getica he mentions a plague of nine years previous. This is probably the Plague of Justinian, which began in Egypt in 541, reached Constantinople in 542 and Italy in 543. The time is too early to identify a direction of change toward any specific Romance language, as none had appeared yet. This variability, however, preceded the appearance of the first French, Italian, Spanish, Romanian, etc. After those languages developed, the scholastics gradually restored classical Latin as a means of scholarly communication.
+Jordanes refers to himself as agrammaticus before his conversion. This obscure statement is sometimes taken to refer to his Latin. Variability, however, characterizes all Late Latin, and besides, the author was not writing just after his conversion (for the meaning of the latter, see under Jordanes), but a whole career later, after associating with many Latin speakers and having read many Latin books. According to him, he should have been grammaticus by that time. More likely, his style reflects the way Latin was under the Goths.
+Some of the variabilities are as follows (Mierow):
+Orthography. The spelling of many words differs from the classical standard, which Jordanes would certainly have known. For example, Grecia replaces Graecia; Eoropam replaces Europam; Atriatici replaces Adriatici.
+Inflection. Substantives migrate between declensions, verbs between conjugations. Some common changes are fourth to second (lacu to laco), second declension adjective to third (magnanimus to magnanimis), i-stems to non-i-stems (mari to mare in the ablative). Gender may change. Verbs may change voice.
+One obvious change in a modern direction is the indeclinability of many formerly declined nouns, such as corpus. Also, the -m accusative ending disappears, leaving the preceding vowel or replacing it with -o (Italian, Romanian), as in Danubio for Danubium.
+Syntax. Case variability and loss of agreement in prepositional phrases (inter Danubium Margumque fluminibus), change of participial tense (egressi [...] et transeuntes), loss of subjunctive in favor of indicative, loss of distinction between principal and subordinate clauses, confusion of subordinating conjunctions.
+Semantics. Different vocabulary appears: germanus for frater, proprius for suus, civitas for urbs, pelagus for mare, etc.
+
+
+== Notes ==
+
+
+== Citations ==
+
+
+== References ==
+
+Jordanes: Romana and Getica - introduction, translation and notes by Peter Van Nuffelen, Lieve Van Hoof -Series: Translated texts for historians- Liverpool university press 2020
+
+
+== External links ==
+ Works related to Getica at Wikisource
+Iordanis de origine actibusque Getarum, Latin original

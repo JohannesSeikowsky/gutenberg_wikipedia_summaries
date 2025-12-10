@@ -1,0 +1,170 @@
+Dantons Tod ist ein Drama in vier Akten von Georg Büchner, das von Mitte Januar bis Mitte Februar 1835 geschrieben wurde. Im selben Jahr erschien eine von Karl Gutzkow herausgegebene Fassung in Eduard Dullers Literaturblatt Phönix: Frühlings-Zeitung für Deutschland. Eine Buchfassung mit dem von Duller zur Beschwichtigung der Zensur erdachten Untertitel Dramatische Bilder aus Frankreichs Schreckensherrschaft erschien im Verlag von Johann David Sauerländer. Das Stück ist damit das einzige von Büchners Dramen, das noch zu seinen Lebzeiten veröffentlicht wurde – wenn auch in stark zensierter Fassung. Die Uraufführung fand erst am 5. Januar 1902 im Berliner Belle-Alliance-Theater als Produktion des Vereins Neue Freie Volksbühne statt, da das Stück lange Zeit als unspielbar galt.
+Außerdem gibt es eine von Gottfried von Einem komponierte Opernfassung.
+
+
+== Historischer Hintergrund ==
+Den historischen Hintergrund des Stückes bildet die Französische Revolution, sodass zumindest eine grobe Übersicht über den Verlauf der Revolution und ein Verständnis der darin handelnden politischen Gruppierungen und der zwischen diesen auftretenden Konflikte für das Verständnis des Dramas notwendig sind. Der eigentliche Handlungsrahmen des Dramas umfasst dabei nur eine kurze Zeitspanne vom 24. März bis zum 5. April 1794, mithin einen Höhepunkt der so genannten Schreckensherrschaft, in welche die Revolution mündete.
+Wichtig zum Verständnis des Dramas ist der Konflikt zwischen den verschiedenen politischen Fraktionen, die sich im Verlauf der Revolution immer mehr verfeindeten.
+In der Nationalversammlung hielten zunächst die eher gemäßigten Girondisten, auch „Talpartei“ genannt, die Mehrheit. Sie waren zur Kooperation mit dem König bereit.
+Eine andere Fraktion, die Jakobiner, auch „Bergpartei“ genannt, strebte eine weitaus radikalere Veränderung der Gesellschaft an und forderte die Einführung der Republik. Führer der Jakobiner waren vor allem Robespierre, Marat und Danton, wobei letzterer – im Gegensatz zu Robespierre – der jakobinischen Sektion der Cordeliers angehörte, zu deren führenden Köpfen auch Chaumette, Desmoulins und Hébert zählten. Letzterer wiederum stand einer radikal linken Fraktion (den Hébertisten) vor, die eine Abschaffung des Eigentums und der Religion forderten und damit weit über das Ziel der anderen Jakobiner hinausschossen.
+Trotz ihrer Überzahl konnten sich die girondistischen Abgeordneten nicht gegen die Jakobiner und die öffentliche Meinung durchsetzen; sie konnten weder die Verhaftung des Königs noch das Einsetzen eines „provisorischen Vollzugsrats“ zur Entmachtung der Versammlung noch die von Marat angeregten und von Danton als Justizminister geduldeten Septembermorde an über tausend Gefangenen (2/3 Kriminelle-1/3 politische, insbesondere Royalisten) verhindern.
+Nach der am 21. Januar 1793 auf Veranlassung des Nationalkonvents vollzogenen Hinrichtung Ludwigs XVI. war auf Antrag Dantons am 6. April der so genannte Wohlfahrtsausschuss gebildet worden, der fortan die Exekutivgewalt im Staat ausübte.
+Ein Revolutionstribunal, das am 10. März 1793 eingerichtet worden war, übernahm die Gerichtsbarkeit insbesondere im Hinblick auf die „politischen Vergehen“ der Beschuldigten. Freispruch oder Tod waren die einzigen Urteilsmöglichkeiten; die Gesamtzahl der während der Schreckensherrschaft Hingerichteten wird auf 40.000 Menschen geschätzt.
+Im Frühjahr des Jahres 1793 kam es zu Aufständen der Girondisten in den Départements, die niedergeschlagen wurden und denen die Verhaftung und Hinrichtung von 32 führenden girondistischen Konventsmitgliedern folgte. Innere und äußere Bedrohungen (gravierende wirtschaftliche Probleme, Hungersnöte, Aufstände der Royalisten und Girondisten, innere Zerstrittenheit der revolutionären Kräfte, Krieg gegen Österreich und Preußen) verschärften die Lage der Republik. Die zunächst als provisorisch gegründete Regierung aus Nationalkonvent und Wohlfahrtsausschuss blieb, nach einer Weigerung des Konvents, eine demokratische Verfassung zu verabschieden, an der Macht.
+Im Juli 1793 wurde der Jakobiner Marat von Charlotte Corday ermordet. Im selben Monat rief man Danton aus dem Wohlfahrtsausschuss ab, an seiner statt wurden Robespierre und später auch Collot d’Herbois und Billaud-Varenne gewählt. Wohlfahrtsausschuss und Nationalkonvent bekannten sich nun öffentlich zur „Schreckensherrschaft“, die Welle von Hinrichtungen (unter anderem weiterer Girondisten, aber auch der ehemaligen Königin Marie-Antoinette) dauerte an.
+Als eine Korruptionsaffäre ruchbar wurde, fiel der Verdacht auf mehrere Anhänger Dantons und auch auf diesen selbst. Im November 1793 forderten Danton und der Vieux Cordelier – die Zeitschrift Camille Desmoulins’ – ein Ende der Schreckensherrschaft, was Robespierre aber entschieden ablehnte. Stattdessen ließ Robespierre am 24. März 1794 Hébert und seine Anhänger festnehmen und exekutieren.
+Hier setzt nun die Handlung von Büchners Drama ein. Nachdem sowohl die gemäßigten Girondisten als auch die radikalen Hébertisten beseitigt sind, stehen nur noch die – in der neuen politischen Landschaft als gemäßigter zu betrachtenden – Dantonisten (oder Indulgenten) mit ihrem Ruf nach einem Ende der Schreckensherrschaft Robespierre im Weg. Die Konfrontation zwischen diesen beiden Gruppierungen innerhalb der Jakobiner kann auch durch eine Unterredung zwischen Danton und Robespierre am 19. März 1794 nicht mehr beseitigt werden; mit der Zustimmung des Konvents lässt Robespierre in der Nacht vom 30. auf den 31. März Danton und seine Vertrauten (Desmoulins, Lacroix, Philippeau und andere) verhaften und vor das Revolutionstribunal bringen; am 5. April werden sie hingerichtet. Den weiteren Verlauf der Revolution zeigt Büchner nicht mehr; der anschließende Sturz Robespierres und seine am 28. Juli 1794 erfolgte Guillotinierung werden nur in Vorausahnungen Dantons angedeutet.
+In weiten Teilen des Dramas hält Büchner sich an historische Vorlagen und Quellen, fast ein Sechstel des Textes besteht aus wörtlichen oder nur leicht veränderten historischen Zitaten, die allerdings durch die Montage in das Drama oft aus dem Kontext gerissen sind: „Insgesamt ist es aber die selektive, kritische Adaption der Quellen und historischen Diskurselemente, die dem Text den Wirklichkeitsanspruch eines ‚geschichtlichen Gemäldes‘ und zugleich seinen Rang als Kontrafaktur der Historiographie verleiht.“
+Auffälligste Abweichungen von den tatsächlichen historischen Gegebenheiten betreffen die Figuren der Julie (im Drama Dantons Gattin) und Lucile (Camille Desmoulins’ Frau), deren Schicksale Büchner aus Gründen der Dramaturgie, insbesondere im Fall von Julie, radikal umschreibt. Die reale Gattin Dantons (Sebastienne-Louise Gely) beging nicht etwa Selbstmord, sondern überlebte ihren Mann (und auch Georg Büchner selbst) um Jahrzehnte, heiratete 1797 erneut und starb erst 1856.
+
+
+== Literarische Epoche ==
+Büchners Werk ist dem Vormärz, den Jahren vor der Märzrevolution von 1848, zuzurechnen. Das Ziel der politisch liberal orientierten Dichter in dieser Zeit war es, die Literatur von einer der Wirklichkeit abgewandten Scheinexistenz wieder zu einem wirksamen Organ des gesellschaftlichen Lebens zu machen, das vor allem der politischen und sozialen Erneuerung zu dienen habe („Seine höchste Aufgabe ist, der Geschichte, wie sie sich wirklich begeben, so nah, als möglich zu kommen. Sein Buch darf weder sittlich noch unsittlich sein,…“(Brief Georg Büchners, 28. Juli 1835)). Literaten dieser Epoche waren Gegner der Romantik und politischen Restauration. Sie kämpften gegen Konvention, Feudalismus und Absolutismus, traten ein für die Freiheit des Wortes, für die Emanzipation des Individuums, auch der Frauen und der Juden, und für eine demokratische Verfassung. Sie schufen eine Tendenz- und Zeitdichtung, das heißt eine Dichtung, die sich mit den Problemen der damaligen Zeit auseinandersetzt und für liberale politische Ideen engagiert. Georg Büchner vertritt die Auffassung, „dass der dramatische Dichter an die Realität gebunden ist. Seine Aufgabe ist es, der tatsächlichen Geschichte so nah wie möglich zu kommen, und indem er sie ein zweites Mal erschafft, seine Leser in eine andere Zeit hineinzuversetzen.“ Dabei lässt sich Büchners Abneigung gegenüber den anderen Dichtern seiner Zeit beobachten, indem er sich dem Idealismus seiner Zeit kritisch entgegenstellt.
+
+
+== Inhalt ==
+
+
+=== 1. Akt ===
+Im ersten Akt des Dramas werden drei Interessengruppen innerhalb der Revolution vorgestellt, deren Ziele und Visionen unterschiedlich, oft sogar gegenläufig sind (Dantonisten, Robespierristen und das Volk). Die zwei Revolutionsführer Danton und Robespierre haben verschiedene Ansichten über den Fortgang der Revolution.
+Danton – der als neureicher und einflussreicher Bürger zu den Gewinnern der Revolution zählt – wird bereits in der ersten Szene als dekadenter Lebemann dargestellt, der seine Zeit mit Kartenspiel und in Bordellen verbringt. Die politischen Vorstellungen der Dantonisten aber sind liberal und tolerant, sie fordern nicht nur ein Ende der Schreckensherrschaft, sondern auch einen liberalen Staat:
+
+„Die Revolution muß aufhören und die Republik muß anfangen. In unsern Staatsgrundsätzen muß das Recht an die Stelle der Pflicht, das Wohlbefinden an die der Tugend und die Notwehr an die der Strafe treten. Jeder muß sich geltend machen und seine Natur durchsetzen können. Er mag nun vernünftig oder unvernünftig, gebildet oder ungebildet, gut oder böse sein, das geht den Staat nichts an.“ (Hérault, I,1)
+Allerdings wird schon in der darauffolgenden Szene klar, wie utopisch diese Forderungen sind. Der Leser oder Zuschauer wird Zeuge einer tragikomischen Szene, in der ein betrunkener Bürger in Wut und Verzweiflung beklagt, dass sich seine Tochter prostituieren muss, um ihre Familie ernähren zu können. Hier wird die Lage des einfachen Volkes deutlich, das weit von der „Selbstverwirklichung“ und dem „Genussleben“ der dekadenten Dantonisten entfernt ist und wie eh und je Hunger leidet. In diese Szene tritt die dritte Partei in Form von Robespierre auf, dem das Volk die bewundernden Beinamen „der Tugendhafte“ und „der Unbestechliche“ verleiht. Anders als die Dantonisten sieht er die Not des Volkes, ohne ihr aber abhelfen zu können; er propagiert die revolutionäre Tugend, das heißt die völlige persönliche Uneigennützigkeit und Hingabe an die Sache der Revolution. Dementsprechend wird bereits in seiner ersten Rede ein beängstigender Fanatismus offenbar; seine Antwort auf den Hunger des Volkes erschöpft sich im Aufruf zu mehr Gewalt und härteren Maßnahmen; er will mit Hilfe der Blutherrschaft durch die Guillotine einen „tugendhaften Staat“ errichten.
+Unvermeidlich scheint bereits jetzt eine Kollision zwischen den unvereinbaren Positionen der Anhänger Dantons und Robespierres. Hier stoßen nicht nur zwei Staatsentwürfe, sondern auch zwei revolutionäre Forderungen aufeinander: Wie viel Freiheit darf der Gleichheit, wie viel Gleichheit der Freiheit geopfert werden?
+Nachdem Legendre vorlaut die Gegenrevolution beim Konvent verkündet, hält Robespierre eine aufpeitschende Rede, durch die er den Nationalkonvent für eine Fortsetzung, gar Verschärfung der Schreckensherrschaft, gewinnt. Die Dantonisten fürchten um ihre Sicherheit. Danton willigt auf Bitten seiner Freunde in ein Treffen mit Robespierre ein, das jedoch ergebnislos verläuft. Robespierre aber, durch Danton moralisch aus der Fassung gebracht, beschließt daraufhin unter Druck von St. Just den Tod Dantons und seiner Anhänger, indem er sich selbst von der Notwendigkeit dessen überzeugt, dass nur so die Revolution gerettet werden könne.
+
+
+=== 2. Akt ===
+Nachdem Danton seine Verhaftung akzeptiert (II,3) und die von ihm begonnene Revolution als gescheitert ansieht (II,2), drängen ihn seine Verbündeten zum Handeln (II,1) oder zumindest zur Flucht vor den Jakobinern, welche er zunächst in Angriff nimmt. Jedoch ist er von Weltmüdigkeit, Fatalismus und Resignation zerfressen und kann sich zu keinem Handeln motivieren; zudem will er Frankreich nicht verlassen [II,1: „Nimmt man das Vaterland an den Schuhsohlen mit?“]. Hinter all seiner Resignation besteht darüber hinaus auch der Glaube an seinen Einfluss und seine Popularität; der Glaube, dass der Konvent es nicht wagen würde, Maßnahmen gegen ihn und seine Fraktion zu treffen [„Sie werden’s nicht wagen“]. Danton vertraut seiner Frau Julie seine Gewissensbisse wegen der von ihm als Justizminister untätig tolerierten Septembermorde an, die ihn aber von der Notwendigkeit seines Handelns zumindest oberflächlich überzeugen kann; er verfällt erneut in einen Geschichtsfatalismus. Klar tritt in dieser Szene auch eine Parallele zu den Gewissenskonflikten Robespierres zu Tage.
+Nach Dantons Verhaftung (6. Szene) durch Simon und Bürgersoldaten rechtfertigt Robespierre dessen Verhaftung; diesmal ist es eine radikale Rede von Saint-Just, der rechten Hand Robespierres, die den Nationalkonvent mitreißt und ihn die Verhaftung Dantons billigen lässt. Der 2. Akt endet mit einer turbulenten Szene im Konvent, in der die Dantonisten auf ihre Verteidigung plädieren, was jedoch von Saint-Just abgelehnt wird, der zusammen mit Robespierre vom Konvent enthusiastisch gefeiert wird. Zum Schluss stimmen die Abgeordneten gemeinsam die Marseillaise an.
+Im zweiten Akt fließt auch die Kunstkritik Büchners mit in das Drama ein; in einem Dialog zwischen Camille Desmoulins und Danton lässt er die Figuren bespötteln, dass die Leute die flachen, eindimensionalen und hoch artifiziellen Theaterstücke bewundern, während sie die Realität, die meisterliche Schöpfung, in ihrer Komplexität verachten. Diese Sicht der Kunst ist durchaus programmatisch für Büchners Schaffen, in dem er immer wieder bemüht ist, die Welt in all ihrer Vielseitigkeit und all ihren Facetten – den schönen wie den unschönen – darzustellen. Dies zeigt sich unter anderem in der in den Dramen verwendeten Sprache; schon in Dantons Tod lässt er seine Figuren in einer damals als sexuell zu anstößig und moralisch zu unanständig empfundenen Sprache sprechen, die Büchner jedoch als realistisch verteidigt.
+
+
+=== 3. Akt ===
+In scheinbarem Gegensatz dazu steht die erste Szene des 3. Aktes, die im Kerker des Palais Luxembourg spielt, wo die Gefangenen angesichts ihrer bevorstehenden Hinrichtung über Leben, Tod und Unsterblichkeit philosophieren. Letztlich allerdings drehen sich ihre Gespräche nur im Kreise und karikieren so lediglich die Absurdität einiger damals gängiger Gottesbeweise (III,1). Danton wusste von der bevorstehenden Verhaftung, äußerte dies aber gegenüber seinen Anhängern nicht, weil er aufgrund seines nihilistisch geprägten Weltbildes eine gewisse Todessehnsucht hat.
+Fouquier und Herman beschließen, nur linientreue Geschworene einzusetzen, die Dantons Argumentation also nicht folgen werden (2. Szene). Danton wird dem Revolutionstribunal vorgeführt. Die Stimmung ist zunächst geteilt, doch Danton erinnert, rhetorisch geschickt, den Konvent und das anwesende Volk an seine revolutionären Verdienste und gewinnt so neue Sympathien (4. Szene). Weniger begeistert von Dantons neu aufblühendem Lebenswillen sind seine Anhänger, denen klar wird, dass ein leidenschaftlicherer Einsatz Dantons zu einem früheren Zeitpunkt sie wohl vor dem Gefängnis und damit unausweichlichen Tod bewahrt hätte. In Szene 7 jedoch beginnt er, an seinem nihilistischen Weltbild zu zweifeln, als er anfängt, für sein Leben doch stärker zu kämpfen, und widerspricht somit seinem Weltbild, dem Nihilismus und dem Fatalismus. Als Danton dann (9. Szene) in einem letzten leidenschaftlichen Appell für mehr Wahrheit und Gerechtigkeit und gegen Robespierre und sein blutiges Treiben plädiert, kippt die Stimmung zu Dantons Gunsten, sodass man, um seinen Einfluss nicht noch stärker werden zu lassen, die Sitzung kurzerhand auflöst.
+Die Mitglieder des Wohlfahrtsausschusses beraten sich über den Verlauf der Verhandlung. Durch die Denunziation eines Gefangenen wird Danton in Zusammenhang mit einem angeblichen Komplott gebracht, was Grund zur raschen Durchführung des Prozesses gibt, ohne Danton weiter anhören zu müssen. Nicht nur Robespierres Beredtheit, sondern auch ein korruptes Tribunal besiegeln also schließlich das Schicksal der Dantonisten.
+Auch hier fügt Büchner wieder eine Volksszene in die Handlung ein, die zeigt, wie schwankend die Gunst der Masse ist. Obwohl Dantons Reden viele überzeugen, spricht doch seine luxuriöse und dekadente Lebensweise eine andere Sprache, die sowohl zu der Armut des Volkes wie auch zu der bescheidenen und tugendhafte Lebensweise Robespierres in starkem Kontrast steht. So endet der 3. Akt mit Hochrufen auf Robespierre und Forderungen nach der Hinrichtung Dantons.
+
+
+=== 4. Akt ===
+Danton und seine Anhänger werden zum Tode verurteilt. Danton und sein Freund Camille Desmoulins tauschen Gedanken über Leben und Tod aus (IV,3). Dantons Frau Julie vergiftet sich in ihrem Haus, da sie ihrem Mann ihre Verbundenheit über den Tod hinaus versprochen hat. Sie stirbt stellvertretend für ihren Gatten den mühelosen und sanften Tod; es ist ein sogenannter Akt der Liebe, da diese über den Tod hinaus stark genug ist. Julie möchte ihren Mann in den Tod begleiten. Das Volk ist schaulustig und spöttisch, als die Verurteilten zum Schafott geführt werden. Als die durch die Stadt irrende Lucile Desmoulins von der Hinrichtung ihres Mannes hört, bricht sie zur Guillotine auf dem Revolutionsplatz auf. Dort angekommen, fasst sie einen verzweifelten Entschluss: Um im Tode bei ihrem Mann zu verbleiben, ruft sie „Es lebe der König!“ und spricht somit ihr eigenes Todesurteil: Eine herannahende Patrouille der Bürgerwehr nimmt sie fest.
+Gerade in diesem Akt weicht Büchner am deutlichsten von seinen Quellen ab; Anlehnungen an Shakespeare werden deutlich.
+
+
+== Personenübersicht ==
+Georg Danton:
+Georg Danton, der Protagonist des Dramas, wird als eine selbstsichere und von sich selbst überzeugte Persönlichkeit dargestellt. Diese Fassade erhält jedoch Risse, als der Leser von Dantons dunkler Vergangenheit erfährt, die vor allem von den Septembermorden geprägt ist, für die Danton als damaliger Justizminister verantwortlich war. Während dieser wurden tausende von Gegnern der Republik, vor allem Aristokraten, exekutiert. Obwohl Danton aus rechtlicher Sicht keinerlei Schuld zuzurechnen ist, plagen ihn seit diesem Ereignis moralische Zweifel und Gewissensbisse, die sich hauptsächlich in Form von Alpträumen äußern (II,5). Diese Einstellung erklärt auch sein plötzliches Umdenken in Bezug auf die Revolution, weshalb er als Anführer der Contrerevolution die Terrorherrschaft bekämpfen und die Revolution in gemäßigte Bahnen lenken möchte.
+Zudem ist er ein in sich nicht geschlossener Charakter, da vor allem seine drei Weltbilder in sich widersprüchlich sind. Einerseits ist er überzeugter Fatalist und damit der Meinung, dass das Schicksal den Menschen steuert und somit für alles Schlechte auf der Welt verantwortlich ist, wie zum Beispiel das Handeln Dantons während der Septembermorde. Andererseits findet er aber auch im Nihilismus einen Ausweg aus seiner Schuld, da sich diese, genauso wie alles andere auch, nach dem Tod im Nichts auflösen wird. Von dort weht auch seine oftmals im Drama erkennbare Todessehnsucht. Da er dadurch weder Hoffnung im Jenseits, noch im Diesseits erwarten kann, flüchtet er sich in den Epikureismus, dessen Ziel es ist, als Individuum sein Leben in vollen Zügen zu genießen. Dieser Epikureismus ist auch Grund für Dantons zahlreiche Grisettenbesuche. Obwohl er seine Frau Julie aus tiefstem Herzen liebt („Ich liebe dich wie das Grab.“, I,1), hält dies ihn nicht davon ab, seine sexuellen Triebe mit anderen Frauen zu befriedigen. Er weiß in diesem Kontext jedoch körperliche und emotionale Liebe zu unterscheiden. Julie ist letztendlich der Grund für sein Umdenken (III,7), als er sich entscheidet, nicht sterben zu wollen, da er sie somit für immer verlassen müsste.
+Robespierre:
+Er erkennt die Not des Volkes, wird vom Volk bewundert und als der „Tugendhafte“ und „Unbestechliche“ bezeichnet. Selbst handelt er jedoch nicht immer tugendhaft, was schon zu Anfang des Dramas in der Unterhaltung zwischen Robespierre und Danton sichtbar wird („Ist denn nichts in dir, was dir nicht manchmal ganz leise, heimlich, sagte: du lügst, du lügst!?“, I,6). Robespierre wird vorgeworfen, dass er die Menschen nur töte, um von der bestehenden Not abzulenken. Er stellt sich selbst als Mann mit sozialem Gewissen dar und prangert gleichzeitig die Genusssucht Dantons an, um das Volk von sich und seinem Tugendstaat zu überzeugen. Andere Revolutionäre bezeichnen seine Politik als Terrorherrschaft, wohingegen er selbst den Schrecken als legitimes Mittel sieht, seine revolutionären Pläne zu verwirklichen („Das Laster muss bestraft werden, die Tugend muss durch den Schrecken herrschen“, I,6).
+Legendre: Deputierter des Nationalkonvents (Dantonist)
+Camille Desmoulins: Deputierter des Nationalkonvents (Dantonist), Rechtsanwalt, Journalist, ehemaliger Schulkamerad von Robespierre, nun bester Freund und Anhänger von Danton
+Lucile Desmoulins: Frau des Camille Desmoulins, folgt Camille bis in den Tod, opfert sich mit dem Satz: „Es lebe der König“ (IV,9)
+Hérault-Séchelles: Deputierter des Nationalkonvents (Dantonist)
+Lacroix: Deputierter des Nationalkonvents (Dantonist)
+Philippeau: Deputierter des Nationalkonvents (Dantonist)
+St. Just: Mitglied des Wohlfahrtsausschusses, bedeutendster Anhänger und exekutive Gewalt von Robespierre
+Barère: Mitglied des Wohlfahrtsausschusses
+Collot d’Herbois: Mitglied des Wohlfahrtsausschusses
+Billaud-Varennes: Mitglied des Wohlfahrtsausschusses
+Julie: Dantons Gattin, vergiftet sich selbst, um mit Danton zu sterben und ihn in den Tod zu begleiten
+Marion: Prostituierte
+Paris: Dantons Freund
+Chaumette: Prokurator des Gemeinderats
+Dillon: Ein General
+Fouquier-Tinville: Öffentlicher Ankläger
+Herman: Präsident des Revolutionstribunals
+Dumas: Präsident des Revolutionstribunals
+Simon: Souffleur
+Rosalie: Prostituierte
+Adelaide: Prostituierte
+
+
+== Die dramatische Bauform in Dantons Tod ==
+
+Büchners anti-idealistisches Kunstverständnis: Leben und Entfaltung anstatt Stilisierung führt dazu, dass dieser das Drama in offener Form verfasst. Die Vielfalt der Schauplätze und Personen charakterisiert die Unübersichtlichkeit einer chaotischen Umbruchzeit, der französischen Revolution. Auch die 13 Tage der Dramenhandlung bilden kein Zeitkontinuum, sondern es werden abwechselnd einzelne Situationen gezeigt. Des Weiteren zeigt sich von der Vorstellung der Revolutionsparteien, bis hin zur Hinrichtung der Dantonisten ein allgemeiner Verlauf der Handlung. Die Verselbständigung (Eigenständigkeit) der Teile betrifft Akte, Szenen und Szenenteile. Die Spannung eines zielgerichteten Handlungsverlaufs ist nicht beabsichtigt.
+
+
+== Interpretation ==
+Am Beispiel der Jakobinerdiktatur der Jahre 1793/94 demonstriert Georg Büchner das Umschlagen ursprünglich freiheitlicher Ideale in zynische Mittel einer Willkürherrschaft und „stellt angesichts einer sich verselbständigenden zerstörerischen Geschichtsdynamik die Handlungsmöglichkeiten des Subjekts in Frage“ (Geschichtsfatalismus). Er versucht mit seinem Stück, anhand der damals herrschenden Jakobinerdiktatur während der Schlussphase der französischen Revolution auf die Missstände seiner Zeit in Deutschland aufmerksam zu machen und das Volk zu einem Vorgehen gegen die Monarchie zu bewegen. Bislang wurde seitens der Büchnerforschung der innere Zusammenhang von Eros und Gewalt, der in allen Werken Georg Büchners thematisiert wird, nicht systematisch beleuchtet. Darauf hat der Literaturwissenschaftler Reinhold Grimm erstmals 1979 in text und kritik, Georg Büchner aufmerksam gemacht. Eine Weiterführung dieses Diskurses findet sich im Georg Büchner Jahrbuch 11 (2005–2008).
+
+
+== Rezeption ==
+Gottfried von Einem schrieb eine Oper nach Dantons Tod, die 1947 zu den Salzburger Festspielen uraufgeführt wurde.
+
+
+== Hörspiele, Lesungen, Aufführungsmitschnitte ==
+1948: Dantons Tod: Hörspiel mit Fritz Kortner (Danton), Elfriede Kuzmany (Julie), Herbert Kroll (Legendre), Bruno Hübner (Robespierre), Peter Lühr (Desmoulins), Marianne Kehlau (Lucile), Otto Arneth (St. Just), Gertrud Kückelmann (Eugenie) u. a. Bearbeitung: Arnold Weiss-Rüthel, Komposition: Mark Lothar, Regie: Walter Ohm. BR. Als Podcast/Download im BR Hörspiel Pool.
+1958: Dantons Tod. Regie: Edwin Zbonek. ORF-W.
+1962: Dantons Tod. Querschnitt durch die Aufführung des Volkstheaters Rostock; Regie Hans-Anselm Petersen, 1 CD. Litera/Random House Audio, [ohne Ort] 2002.
+Helmut Griem spricht Georg Büchner [Briefe, Der Hessische Landbote, Szenen aus Dantons Tod, 1 CD.] Teldec, Hamburg 1980 [Aufnahme Mai 1968].
+1980: Dantons Tod. [Hörspiel.]  Rundfunk der DDR. Komposition: Reiner Bredemeyer, Regie: Joachim Staritz.
+1989: dantons tod. hörspiel. [Textfassung Thomas Michael Mayer, Regie Norbert Schaeffer, mit Udo Samel u. a., 2 CDs.] Preiser Records, Wien 2003.
+
+
+== Verfilmungen ==
+1931: Danton - Regie: Hans Behrendt, mit Fritz Kortner (Danton) und Gustaf Gründgens (Robespierre)
+1963: Dantons Tod – Regie Fritz Umgelter, Süddeutscher Rundfunk, 1963 mit Wolfgang Reichmann
+1977: Dantons Tod - Regie: Fritz Bornemann (Studioaufzeichnung) mit Friedo Solter (Danton), Jürgen Hentsch (Robespierre), Henry Hübchen (St. Just)
+1981: Aufzeichnung aus dem Salzburger Landestheater im Rahmen der Salzburger Festspiele. Regie Rudolf Noelte, mit Götz George (Danton), Heribert Sasse (Robespierre), Senta Berger (Marion), Mathieu Carrière (St. Just), Christian Quadflieg (Camille), Birgit Doll und Will Quadflieg (Payne)
+1983: Danton – polnisch-französische Verfilmung von Andrzej Wajda mit Gerard Depardieu nach dem polnischen Theaterstück Die Sache Danton von Stanisława Przybyszewska,1929
+
+
+== Comicadaption ==
+2023: Dantons Tod, eine grafische Inszenierung- von Andreas Eikenroth, Verlag Edition 52
+
+
+== Ausgaben ==
+Werke und Briefe. Münchner Ausgabe. Hrsg. v. Karl Pörnbacher, Gerhard Schaub, Hans-Joachim Simm, Edda Ziegler. 8. Auflage. Hanser, München 2001 [1. Aufl. 1980], ISBN 3-423-12374-5, S. 67–133. [Leseausgabe mit recht knappem Kommentar; verschiedene Taschenbuchausgaben.]
+Schriften und Briefe. Dokumente. Hg. von Henri Poschmann unter Mitarb. von Rosemarie Poschmann. Bd. 1. (= Bibliothek Deutscher Klassiker. Band 84). Deutscher Klassiker Verlag, Frankfurt am Main 1992, ISBN 3-618-60090-9, S. 11–90 (Text), 426–583 (Kommentar). [Leseausgabe mit umfangreichem Kommentar.]
+Sämtliche Werke und Schriften. Bd. 3 in 4 Teilbänden: Danton’s Tod. Marburger Ausgabe. Hg. von Burghard Dedner und Thomas Michael Mayer. Wissenschaftliche Buchgesellschaft, Darmstadt 2000, ISBN 3-534-14520-8. [Historisch-kritische Ausgabe mit Kommentarband.]
+Dantons Tod. Ein Drama. (= RUB. Nr. 6060). Reclam, Stuttgart 2002 [u. ö.], ISBN 978-3-15-006060-5. [Schulausgabe in neuer Rechtschreibung auf der Grundlage der historisch-kritischen Ausgabe.]
+Dantons Tod. Ein Schauspiel, mit Materialien, ausgewählt von Hans Ulrich Staiger. Klett, Stuttgart 2007, ISBN 978-3-12-352435-6. [Schulausgabe.]
+Dantons Tod. Ein Drama. [Hg. von F. Bruckner und K. Sternelle.] (= Lesehefte. Band 113). Hamburger Lesehefte Verlag, Husum 2008. [Schulausgabe in neuer Rechtschreibung mit Anmerkungen, einigen Briefen Büchners und einem Nachwort.]
+
+
+== Literatur ==
+
+
+=== Kurze Orientierungen ===
+Tanja van Hoorn: [Werkartikel] Dantons Tod. In: Heinz Ludwig Arnold (Hrsg.): Kindlers Literatur Lexikon. 3., völlig neu bearbeitete Auflage. 18 Bde. Metzler, Stuttgart/Weimar 2009, ISBN 978-3-476-04000-8, Bd. 3, 268f.
+Stefan Scherer: Georg Büchner: ‚Danton's Tod‘. In: Ders.: Einführung in die Dramen-Analyse. Wissenschaftliche Buchgesellschaft, Darmstadt 2010, ISBN 978-3-534-16266-6, S. 114–123.
+
+
+=== Lektürehilfen ===
+Gerald Funk: Erläuterungen und Dokumente Georg Büchner Dantons Tod, nach der Historisch-kritischen Marburger Ausgabe. (= RUB. Nr. 16034). Reclam, Stuttgart 2000 [u. ö.].
+Wilhelm Große: Lektüreschlüssel für Schüler Georg Büchner Dantons Tod. (= RUB. Nr. 15344). Reclam, Stuttgart 2005.
+Arnd Beise: Georg Büchner Dantons Tod. (= Schroedel Interpretationen. Band 17). Schroedel, Braunschweig 2011.
+Hansjürgen Popp: Lektürehilfen Georg Büchner Dantons Tod. Klett, Stuttgart 2013, ISBN 978-3-12-923073-2.
+Beate Herfurth-Uber: „Dantons Tod, Hören & Lernen, Wissen kompakt in 80 Minuten“, mit Schlüsselszenen einer Inszenierung am Theater Plauen-Zwickau, Interviews mit dem Historiker Prof. Axel Kuhn und dem Regisseur Matthias Thieme. MultiSkript Verlag, 2010, ISBN 978-3-9812218-7-9. Audio-CD
+Alfred Behrmann/Joachim Wohlleben: Georg Büchner: Dantons Tod. Eine Dramenanalyse. 1980.
+
+
+=== Sonstiges ===
+Karl Eibl: „Ergo todtgeschlagen“. Erkenntnisgrenzen und Gewalt in Büchners ‚Dantons Tod‘ und ‚Woyzeck‘. In: Euphorion 75 (1981), S. 411–429.
+Gerhard P. Knapp: Georg Büchner. 3. Auflage. Metzler, Stuttgart 2000, ISBN 3-476-13159-9.
+Riitta Pohjola-Skarp: Danton's Tod von Georg Büchner. Revolutionsdrama als Tragödie. Peter Lang Verlag, Frankfurt am Main 2014, ISBN 978-3-631-65600-6.
+
+
+== Siehe auch ==
+ZEIT-Schülerbibliothek
+
+
+== Weblinks ==
+
+Publikationen zum Drama Dantons Tod im Katalog der Deutschen Nationalbibliothek
+Suche nach Büchners Drama Dantons Tod. In: Deutsche Digitale Bibliothek
+Suche nach Büchners Drama Dantons Tod im Online-Katalog der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
+Dantons Tod bei Zeno.org.
+Dantons Tod im Project Gutenberg
+Dantons Tod im Volltext im Projekt Gutenberg-DE
+Figurenlexikon zu Dantons Tod von David Thies im Portal Literaturlexikon online
+Georg Büchner: Dantons Tod. Illustriert von Paul Hübner, 1920
+Lernstoff für das Zentralabitur Übersicht zu Georg Büchner und Dantons Tod, Archivlink abgerufen am 17. April 2025
+Choi Go-Sung:  Dissertation (Marburg 2011), Das Komische in Georg Büchners Drama Danton’s Tod, Archivlink abgerufen am 17. April 2025
+Filmtrailer zur Inszenierung von Roberto Ciulli am Theater an der Ruhr.
+
+
+== Einzelnachweise ==

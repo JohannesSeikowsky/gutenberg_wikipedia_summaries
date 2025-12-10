@@ -1,0 +1,78 @@
+Le Scarabée d'or (The Gold Bug) est une nouvelle policière et d'aventures d'Edgar Allan Poe, parue en juin 1843 dans le journal de Philadelphie Dollar Newspaper.
+Avec cette nouvelle, Poe a gagné un concours organisé par le journal et reçu un prix de 100 dollars, ce qui représente le montant le plus élevé que l'écrivain ait touché pour une nouvelle publiée. C'est également le texte le plus largement lu du vivant de l'auteur.
+La nouvelle popularisa la cryptographie auprès du grand public tout en établissant la réputation de cryptographe de l'écrivain aux yeux de ses contemporains. Elle a été reprise dans de nombreux journaux  et publications et fut traduite en français par Alphonse Borghers (1845), puis par Charles Baudelaire dans le recueil des Histoires extraordinaires paru en 1856.
+Edgar Allan Poe résida à Fort Moultrie de 1827 à 1828 sur l'île Sullivan dans le comté de Charleston (Caroline du Sud) où se déroule l'intrigue. Plusieurs rues portent aujourd'hui le nom de ses nouvelles et poèmes (Raven drive, GoldBug drive...) et la bibliothèque a été nommée en son honneur. La trame romanesque sur laquelle se base la nouvelle continue également de motiver les chasseurs sur les traces d'un trésor enfoui dans la région.
+
+
+== Résumé ==
+Dans cette nouvelle, un Gentleman du Sud ayant subi des revers de fortune, William Legrand vit en reclus avec Jupiter, son fidèle serviteur, sur l'Île Sullivan en Caroline du Sud où ce fils de bonne famille déchu est venu fuir la misère. Il y trouve un magnifique scarabée doré. Apparemment en or massif, le scarabée va tourmenter son esprit jusqu'à l'obsession.
+La découverte d'un message mystérieux, esquisse griffonnée sur un vieux parchemin, va alors engendrer pour les protagonistes une série de rebondissements mêlant suspense et cryptologie : Legrand, accompagné par son fidèle serviteur Jupiter et suivi par son ami  narrateur, se lance à la poursuite du trésor du célèbre Cap'tain Kidd qui a jadis tracé un code secret à l'encre sympathique sur l'ancien parchemin.
+
+
+=== Le cryptogramme ===
+Un élément important de l'histoire est de décrypter un code secret à l'aide d'une méthode de cryptographie. En effet, le parchemin contient les indications pour trouver le trésor de Kidd, sous une forme codée :
+
+53‡‡†305))6*;4826)4‡.)4‡);80
+6*;48†8¶60))85;1‡(;:‡*8†83(88)
+5*†;46(;88*96*?;8)*‡(;485);5*†
+2:*‡(;4956*2(5*-4)8¶8*;40692
+85);)6†8)4‡‡;1(‡9;48081;8:8‡1
+;48†85;4)485†528806*81(‡9;48
+;(88;4(‡?34;48)4‡;161;:188;‡?;
+
+Et Legrand explique en détails au narrateur comment décoder ce code (qui est simplement chiffré par substitution) en utilisant la fréquence des lettres. Il explique par exemple que le symbole qui revient le plus est le 8, et correspond donc au E car c'est la lettre la plus fréquente en anglais.
+En appliquant cette méthode, et en plaçant les espaces aux bons endroits, on obtient le texte suivant : 
+
+A good glass in the bishop’s hostel
+in the devil’s seat forty-one degrees
+and thirteen minutes northeast and
+by north main branch seventh limb
+east side shoot from the left eye of
+the death’s-head a bee-line from the
+tree through the shot fifty feet out.
+
+Ce qui signifie en français "Un bon verre dans l’hostel de l’évêque dans la chaise du diable quarante et un degrés et treize minutes nord-est quart de nord principale tige septième branche côté est lâchez de l’œil gauche de la tête de mort une ligne d’abeille de l’arbre à travers la balle cinquante pieds au large."
+Legrand détermine ensuite que le "bishop's hostel" faisait référence au manoir de la famille Bessop, et sur le domaine du manoir il trouve un rocher dont une saillie ressemble à une chaise ("la chaise du diable"). Il utilise alors une longue-vue et regarde dans la direction indiquée, et y voit un crâne dans le feuillage d'un grand arbre, ce crâne indiquant l'emplacement du trésor.
+
+
+== Adaptations ==
+
+
+=== Théâtre ===
+Le scarabée d'or  fut adapté au théâtre à Philadelphie deux mois après sa parution et connut quantité de publications pirates à partir de 1846.
+
+
+=== Cinéma ===
+"Le Scarabée d'Or" est un épisode d'une série télévisée française de Maurice Ronet et Claudine Reinach, avec l'acteur Vittorio Caprioli, diffusé le 21 février 1981 en France, mettant en scène une chasse au trésor dans la jungle des Caraïbes avec un une fin tragique et un glissement progressif vers une interrogation philosophique. C'est l'un des six épisodes de 51‒59 minutes, créée d'après les Histoires extraordinaires d'Edgar Allan Poe en 1980 et diffusée en 1981 sur FR3, sous le titre général "Histoires extraordinaires". Pour le réalisateur Maurice Ronet, "Le Scarabée d’or" présente un aspect original de l'œuvre d'Edgar Allan Poe, « vaguement esquissé par Roger Corman dans son adaptation du "Chat noir", à savoir le grotesque ».
+
+
+=== Série Télévisé ===
+L'épisode 6 de la série « La Chute de la maison Usher », qui a pour but de reprendre plusieurs nouvelles de l'auteur, s'inspire de la nouvelle.
+
+
+== Inspirations ==
+
+
+=== L'île au trésor de Stevenson ===
+L'étrange chasse au trésor dans laquelle se lance le héros préfigure L'Île au trésor de Stevenson, publiée 20 ans après. Dans sa postface à la première édition de L'île au trésor (1883) ce dernier a reconnu avoir été influencé par la nouvelle d'Edgar. Les comptes-rendus du procès du capitaine Kidd ont en effet enflammé l'imagination romanesque d'Edgar Poe ainsi que celle de Stevenson.
+
+
+=== Le scrabble ===
+L'ordre des mots utilisés dans la nouvelle a inspiré Alfred Mosher Butts, féru de littérature, quand il créa à New York, en 1931, un jeu dont les premiers noms  furent « Lexiko » et « Criss-Cross Words », qui ressemblait à un jeu de mots croisés avec une grille qui mesurait 15 sur 15, le but étant de placer des lettres sur la grille pour marquer des points. Un de ses amis, James Brunot, entrepreneur, a renommé en 1948 le jeu « Scrabble », et versé à Alfred Butts une redevance puis placé son jeu en 1952 chez Macy's, le plus grand magasin de New York.
+Dans le « Scarabée d’or », le héros d'Edgar Poe décrypte un message codé en s’appuyant sur la fréquence des lettres en anglais. Butts reprend l’idée, confère une valeur à chaque lettre, suivant sa rareté dans la langue, étudie la première page des journaux, notamment le New York Times et y compte le nombre d’occurrences de chaque lettre.
+
+
+== Voir aussi ==
+
+
+=== Article connexe ===
+Cryptologie dans Le Scarabée d'or
+
+
+=== Lien externe ===
+Le scarabée d'or d'Edgar Allan Poe en version audio 
+
+
+== Notes et références ==
+
+ Portail de la littérature américaine   Portail du polar   Portail de la fantasy et du fantastique   Portail de la cryptologie

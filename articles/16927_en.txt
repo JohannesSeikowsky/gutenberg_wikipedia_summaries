@@ -1,0 +1,45 @@
+Histories (Latin: Historiae) is a Roman historical chronicle by Tacitus. Written c. 100–110, its complete form covered c. 69–96, a period which includes the Year of Four Emperors following the downfall of Nero, as well as the period between the rise of the Flavian dynasty under Vespasian and the death of Domitian. However, the surviving portion of the work only reaches the year 70 and the very beginning of the reign of Vespasian.
+Together, the Histories and the Annals amounted to 30 books. Saint Jerome refers to these books explicitly, and about half of them have survived. Although scholars disagree on how to assign the books to each work, traditionally, fourteen are assigned to Histories and sixteen to the Annals. Tacitus' friend Pliny the Younger referred to "your histories" when writing to Tacitus about the earlier work. 
+By the time Tacitus had completed the Histories, it covered Roman history from AD 69, following Nero's death, to AD 96, the end of Domitian's reign. The Annals deals with the five decades before Nero, from AD 14, the reign of Tiberius, to AD 68, when Nero died.
+
+
+== Subject matter ==
+
+In one of the first chapters of the Agricola, Tacitus states that he wishes to speak about the years of Domitian, of Nerva, and of Trajan. In the Histories, the project has been modified: in the introduction, Tacitus says that he will deal with the age of Nerva and Trajan at a later time. Instead, he covers the period that started with the civil wars of the Year of Four Emperors and ended with the despotism of the Flavians. Only the first four books and the first 26 chapters of the fifth book have survived, covering the year 69 and the first part of 70. The work is believed to have continued up to Domitian's death on September 18, 96. The fifth book contains—as a prelude to the account of Titus' victory in the First Jewish–Roman War—a short ethnographic survey of the ancient Jews—and is an invaluable record of the educated Romans' attitude towards that people.
+Tacitus wrote the Histories 30 years later, not long after Nerva's seizure of power, which bore similarities to the events of the year 69, when four emperors — Galba, Otho, Vitellius, and Vespasian — each took power in quick succession. The mode of their accession showed that because imperial power was based on the support of the legions, an emperor could now be chosen not only at Rome, but anywhere in the empire where sufficient legions were amassed.
+Nerva, like Galba, came to the throne by senatorial designation, after the violent death of the previous emperor, Domitian. Like Galba, Nerva had to deal with a revolt of Praetorians and like Galba, he had designated his successor by the traditional expedient of adoption. Galba, described by Tacitus as a feeble old man, had chosen a successor unable, due to his severity, to obtain the faith and the control of the troops. Nerva, instead, had consolidated his power by making a link between the throne and Trajan, who was general of the Upper Rhine legions and popular throughout the army. It is probable that Tacitus was a member of the imperial council in which Trajan was chosen to be adopted.
+
+
+== Ideology ==
+In the first book of the Historiae, a speech put in the mouth of Galba makes clear Tacitus' ideological and political position. Galba's pure respect for formality and lack of political realism rendered him unable to control events. In contrast, Nerva adopted Trajan, who was able to keep the legions unified, to keep the army out of imperial politics, to stop disorder among the legions, and thus to prevent rival claimants to the throne. Tacitus was sure that only the principatus (the "prince", that is, the monarchical emperor) could maintain peace, the fidelity of the armies, and the cohesion of the empire.
+Discussing Augustus Caesar's rise to power, Tacitus says that after the Battle of Actium, the unification of the power in the hands of a prince was necessary to keep the peace. The prince ought not to be a tyrant, like Domitian, nor a fool, like Galba. He should be able to keep the imperium safe, while saving the prestige and the dignity of the Senate. (Seneca addresses the same point). Tacitus considered the rule of the adoptive Emperors the only possible solution to the problems of Empire.
+
+
+== Style ==
+The style of narration is rapid, reflecting the speed of the events. The narrative rhythm leaves no space to slow down or digress. To write effectively in this style, Tacitus had to summarize substantial information from his sources. Sometimes he skips parts; more usually he divides the story into single scenes and, in this way, creates a dramatic narration. 
+Tacitus is a master at describing a mass of people. He knows how to portray the mass when it is calm; he knows equally how to show the threat of insurrection and panic-stricken flight.
+Tacitus writes from the point of view of an aristocrat. He shows fear, mixed with disdain, for the soldiers' tumult and for the rabble of the capital. He also holds in low esteem those members of the Senate whose behavior he describes with malice, insisting upon the contrast between their public image and the unconfessable reality: adulation, conspiracy, and ambition. The Historiae is a grim work; it speaks throughout of violence, dishonesty, and injustice.
+Tacitus skillfully shows the characters, alternating short and sharp notations with complete portraits. His technique is similar to that of Sallust: incongruency, parataxis, and loose stylistic structure combine to make the characters sharp. The influence of Sallust is clear in the rest of Tacitus' style as well. Tacitus improves on the method, stressing the tension between gravitas, which connects the narrative with the past, and pathos, which makes it dramatic. Tacitus loves ellipsis of verbs and conjunctions. He uses irregular constructs and frequent changes of subject, to give variety and movement to the narration. It often happens that when a sentence seems finished, it is extended with a surprising tail that adds a comment, which is usually alluding or indirect.
+It has been theorized that Tacitus' style is based on that of Pompeius Trogus, due to the similarity between his style and that of the later Justin in his Historia Philippicae et Totius Mundi Origines et Terrae Situs, which was based on the work of Trogus. However, this interpretation is disputed, and an alternative is that Justin's style was based on the work of Tacitus.
+
+
+== Content ==
+
+
+== See also ==
+Annals (Tacitus)
+Tacitean studies
+
+
+== References ==
+
+
+== Further reading ==
+Syme, Ronald (1958). Tacitus. Oxford: Oxford University Press. ISBN 0-19-814327-3. {{cite book}}: ISBN / Date incompatibility (help)
+Damon, Cynthia (2003) Tacitus, Histories, Book I (Cambridge Greek and Latin Classics) ISBN 978-0-521-57822-6
+
+
+== External links ==
+ Works related to Histories at Wikisource
+ Quotations related to Tacitus at Wikiquote
+ Histories public domain audiobook at LibriVox

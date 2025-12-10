@@ -1,0 +1,117 @@
+Popol Vuh (also  Popul Vuh or Pop Vuj) is a text recounting the mythology and history of the Kʼicheʼ people of Guatemala, one of the Maya peoples who also inhabit the Mexican states of Chiapas, Campeche, Yucatan and Quintana Roo, as well as areas of Belize, Honduras and El Salvador.
+The Popol Vuh is a foundational sacred narrative of the Kʼich'eʼ people from long before the Spanish conquest of the Maya. It includes the Mayan creation myth, the exploits of the Hero Twins Hunahpú and Xbalanqué, and a chronicle of the Kʼicheʼ people.
+The name "Popol Vuh" translates as "Book of the Community" or "Book of Counsel" (literally "Book that pertains to the mat", since a woven mat was used as a royal throne in ancient Kʼicheʼ society and symbolised the unity of the community). It was originally preserved through oral tradition until approximately 1550, when it was recorded in writing. The documentation of the Popol Vuh is credited to the 18th-century Spanish Dominican friar Francisco Ximénez, who prepared a manuscript with a transcription in Kʼicheʼ and parallel columns with translations into Spanish.
+Like the Chilam Balam and similar texts, the Popol Vuh is of particular importance given the scarcity of early accounts dealing with Mesoamerican mythologies. As part of the Spanish conquest, missionaries and colonists destroyed many documents.
+
+
+== History ==
+
+
+=== Francisco Ximénez's manuscript ===
+In 1701, Francisco Ximénez, a Dominican priest, came to Santo Tomás Chichicastenango (also known as Santo Tomás Chuilá). This town was in the Quiché territory and is likely where Ximénez first recorded the work. Ximénez transcribed and translated the account, setting up parallel Kʼicheʼ and Spanish language columns in his manuscript. (He represented the Kʼicheʼ language  phonetically with Latin and Parra characters.) In or around 1714, Ximénez incorporated the Spanish content in book one, chapters 2–21 of his Historia de la provincia de San Vicente de Chiapa y Guatemala de la orden de predicadores. Ximénez's manuscripts were held posthumously by the Dominican Order until General Francisco Morazán expelled the clerics from Guatemala in 1829–30. At that time the Order's documents were taken over largely by the Universidad de San Carlos.
+From 1852 to 1855, Moritz Wagner and Carl Scherzer traveled in Central America, arriving in Guatemala City in early May 1854. Scherzer found Ximénez's writings in the university library, noting that there was one particular item "del mayor interés" ('of the greatest interest'). With assistance from the Guatemalan historian and archivist Juan Gavarrete, Scherzer copied (or had a copy made of) the Spanish content from the last half of the manuscript, which he published upon his return to Europe. In 1855, French Abbot Charles Étienne Brasseur de Bourbourg also came across Ximénez's manuscript in the university library. However, whereas Scherzer copied the manuscript, Brasseur apparently stole the university's volume and took it back to France. After Brasseur's death in 1874, the Mexico-Guatémalienne collection containing Popol Vuh passed to Alphonse Pinart, through whom it was sold to Edward E. Ayer. In 1897, Ayer decided to donate his 17,000 pieces to The Newberry Library in Chicago, a project that was not completed until 1911. Father Ximénez's transcription-translation of Popol Vuh was among Ayer's donated items.
+Priest Ximénez's manuscript sank into obscurity until Adrián Recinos rediscovered it at the Newberry in 1941. Recinos is generally credited with finding the manuscript and publishing the first direct edition since Scherzer. But Munro Edmonson and Carlos López attribute the first rediscovery to Walter Lehmann in 1928. Experts Allen Christenson, Néstor Quiroa, Rosa Helena Chinchilla Mazariegos, John Woodruff, and Carlos López all consider the Newberry volume to be Ximénez's one and only "original."
+'Popol Vuh' is also spelled as 'Popol Vuj', its sound in Spanish use is close to German term for 'book': 'buch', in the translation of title meaning by Adrián Recinos, both phonetics and etymology connect to 'People's book', in the  line of 'people' used as a synonym for the whole nation or tribe, as in 'Bible, book of Lord's people'.
+
+
+=== Father Ximénez's source ===
+
+It is generally believed that Ximénez borrowed a phonetic manuscript from a parishioner for his source, although Néstor Quiroa points out that "such a manuscript has never been found, and thus Ximenez's work represents the only source for scholarly studies." This document would have been a phonetic rendering of an oral recitation performed in or around Santa Cruz del Quiché shortly following Pedro de Alvarado's 1524 conquest. By comparing the genealogy at the end of Popol Vuh with dated colonial records, Adrián Recinos and Dennis Tedlock suggest a date between 1554 and 1558. But to the extent that the text speaks of a "written" document, Woodruff cautions that "critics appear to have taken the text of the first folio recto too much at face value in drawing conclusions about Popol Vuh's survival." If there was an early post-conquest document, one theory (first proposed by Rudolf Schuller) ascribes the phonetic authorship to Diego Reynoso, one of the signatories of the Título de Totonicapán. Another possible author could have been Don Cristóbal Velasco, who, also in Titulo de Totonicapán, is listed as "Nim Chokoh Cavec" ('Great Steward of the Kaweq'). In either case, the colonial presence is clear in Popol Vuh's preamble: "This we shall write now under the Law of God and Christianity; we shall bring it to light because now the Popol Vuh, as it is called, cannot be seen any more, in which was clearly seen the coming from the other side of the sea and the narration of our obscurity, and our life was clearly seen." Accordingly, the need to "preserve" the content presupposes an imminent disappearance of the content, and therefore, Edmonson theorized a pre-conquest glyphic codex. No evidence of such a codex has yet been found.
+A minority, however, disputes the existence of pre-Ximénez texts on the same basis that is used to argue their existence. Both positions are based on two statements by Ximénez. The first of these comes from Historia de la provincia where Ximénez writes that he found various texts during his curacy of Santo Tomás Chichicastenango that were guarded with such secrecy "that not even a trace of it was revealed among the elder ministers" although "almost all of them have it memorized." The second passage used to argue pre-Ximénez texts comes from Ximénez's addendum to Popol Vuh. There he states that many of the natives' practices can be "seen in a book that they have, something like a prophecy, from the beginning of their [pre-Christian] days, where they have all the months and signs corresponding to each day, one of which I have in my possession." Scherzer explains in a footnote that what Ximénez is referencing "is only a secret calendar" and that he himself had "found this rustic calendar previously in various indigenous towns in the Guatemalan highlands" during his travels with Wagner. This presents a contradiction because the item which Ximénez has in his possession is not Popol Vuh, and a carefully guarded item is not likely to have been easily available to Ximénez. Apart from this, Woodruff surmises that because "Ximenez never discloses his source, instead inviting readers to infer what they wish [. . .], it is plausible that there was no such alphabetic redaction among the Indians. The implied alternative is that he or another missionary made the first written text from an oral recitation."
+
+
+== Story of Hunahpú and Xbalanqué ==
+
+Many versions of the legend of the Hero Twins Hunahpú and Xbalanqué circulated through the Maya peoples, but the story that survives was preserved by the Dominican priest Francisco Ximénez who translated the document between 1700 and 1715. Maya deities in the Post-Classic codices differ from the earlier versions described in the Early Classic period. In Mayan mythology Hunahpú and Xbalanqué are the second pair of twins out of three, preceded by Hun-Hunahpú and his brother Vucub-Hunahpú, and precursors to the third pair of twins, Hun Batz and Hun Chuen. In the Popol Vuh, the first set of twins, Hun-Hunahpú and Vucub-Hanahpú were invited to the Mayan Underworld, Xibalba, to play a ballgame with the Xibalban lords. In the Underworld the twins faced many trials filled with trickery; eventually they fail and are put to death. The Hero Twins, Hunahpú and Xbalanqué, are magically conceived after the death of their father, Hun-Hunahpú, and in time they return to Xibalba to avenge the deaths of their father and uncle by defeating the Lords of the Underworld.
+
+
+== Structure ==
+Popol Vuh encompasses a range of subjects that includes creation, ancestry, history, and cosmology. There are no content divisions in the Newberry Library's holograph, but popular editions have adopted the organization imposed by Brasseur de Bourbourg in 1861 in order to facilitate comparative studies. Though some variation has been tested by Dennis Tedlock and Allen Christenson, editions typically take the following form:
+
+Preamble
+
+Introduction to the piece that introduces Xpiyacoc and Xmucane, the purpose for writing the Popol Vuh, and the measuring of the earth.
+Book One
+
+Account of the creation of living beings. Animals were created first, followed by humans. The first humans were made of earth and mud, but crumbled. The second humans were created from wood, but they did not function well and were washed away in a flood and killed by animals. Those that survived became monkeys.
+Vucub-Caquix ascends.
+Book Two
+
+The Hero Twins plan to kill Vucub-Caquix and his sons, Zipacna and Cabracan.
+They succeed, "restoring order and balance to the world."
+Book Three
+
+The father and uncle of The Hero Twins, Hun Hunahpu and Vucub Hunahpu, sons of Xmucane and Xpiacoc, are murdered at a ball game in Xibalba.
+Hun Hunahpu's head is placed in a calabash tree, where it spits in the hand of Xquiq, impregnating her.
+She leaves the underworld to be with her mother-in-law, Xmucane.
+Her sons then challenge the Lords who killed their father and uncle, succeeding and becoming the sun and the moon.
+Book Four
+
+Humans are successfully created from maize.
+The gods give them morality in order to keep them loyal.
+Later, they give the humans wives to make them content.
+This book also describes the movement of the Kʼicheʼ and includes the introduction of Gucumatz.
+
+
+=== Excerpts ===
+A visual comparison of two sections of the Popol Vuh are presented below and include the original Kʼiche, literal English translation, and modern English translation as shown by Allen Christenson.
+
+
+==== "Preamble" ====
+
+
+==== "The Primordial World" ====
+
+
+== Modern history ==
+
+
+=== Modern editions ===
+Since Brasseur's and Scherzer's first editions, the Popol Vuh has been translated into many other languages besides its original Kʼicheʼ. The Spanish edition by Adrián Recinos is still a major reference, as is Recino's English translation by Delia Goetz. Other English translations include those of Victor Montejo, Munro Edmonson (1985), and Dennis Tedlock (1985, 1996). Tedlock's version is notable because it builds on commentary and interpretation by a modern Kʼicheʼ daykeeper, Andrés Xiloj. Augustín Estrada Monroy published a facsimile edition in the 1970s and Ohio State University has a digital version and transcription online. Modern translations and transcriptions of the Kʼicheʼ text have been published by, among others, Sam Colop (1999) and Allen J. Christenson (2004). In 2018, The New York Times named Michael Bazzett's new translation as one of the ten best books of poetry of 2018. The tale of Hunahpu and Xbalanque has also been rendered as an hour-long animated film by Patricia Amlin.
+
+
+=== Contemporary culture ===
+The Popol Vuh continues to be an important part in the belief system of many Kʼicheʼ. Although Catholicism is generally seen as the dominant religion, some believe that many natives practice a syncretic blend of Christian and indigenous beliefs.  Some stories from the Popol Vuh continued to be told by modern Maya as folk legends; some stories recorded by anthropologists in the 20th century may preserve portions of the ancient tales in greater detail than the Ximénez manuscript. On August 22, 2012, the Popol Vuh was declared intangible cultural heritage of Guatemala by the Guatemalan Ministry of Culture.
+
+
+=== Reflections in Western culture ===
+Since its rediscovery by Europeans in the nineteenth century, the Popol Vuh has attracted the attention of many creators of cultural works.
+Mexican muralist Diego Rivera produced a series of watercolors in 1931 as illustrations for the book.
+In 1934, the early avant-garde Franco-American composer Edgard Varèse wrote his Ecuatorial, a setting of words from the Popol Vuh for bass soloist and various instruments.
+The planet of Camazotz in Madeleine L'Engle's A Wrinkle in Time (1962) is named for the bat-god of the hero-twins story.
+In 1969 in Munich, Germany, keyboardist Florian Fricke—at the time ensconced in Mayan myth—formed a band named Popol Vuh with synth player Frank Fiedler and percussionist Holger Trulzsch. Their 1970 debut album, Affenstunde, reflected this spiritual connection. Another band by the same name, this one of Norwegian descent, formed around the same time, its name also inspired by the Kʼicheʼ writings.
+The text was used by German film director Werner Herzog as extensive narration for the first chapter of his movie Fata Morgana (1971). Herzog and Florian Fricke were life long collaborators and friends.
+The Argentinian composer Alberto Ginastera began writing his symphonic work Popol Vuh in 1975, but did not complete the piece before his death in 1983.
+The myths and legends included in Louis L'Amour's novel The Haunted Mesa (1987) are largely based on the Popol Vuh.
+The Popol Vuh is referenced throughout Robert Rodriguez's television show From Dusk till Dawn: The Series (2014). In particular, the show's protagonists, the Gecko Brothers, Seth and Richie, are referred to as the embodiment of Hunahpú and Xbalanqué, the hero twins, from the Popol Vuh.
+In the 2024 historical novel Daughter of Fire by Sofia Robleda, the preservation of the Popol Vuh is central to the plot.
+Quotes from the Popol Vuh are used in "Live Gloriously", the main theme for the video game Civilization VII.
+
+
+== Antecedents in Maya iconography ==
+Contemporary archaeologists (first of all Michael D. Coe) have found depictions of characters and episodes from Popol Vuh on Mayan ceramics and other art objects (e.g., the Hero Twins, Howler Monkey Gods, the shooting of Vucub-Caquix and, as many believe, the restoration of the Twins' dead father, Hun Hunahpu). The accompanying sections of hieroglyphical text could thus, theoretically, relate to passages from the Popol Vuh. Richard D. Hansen found a stucco frieze depicting two floating figures that might be the Hero Twins at the site of El Mirador.
+Following the Twin Hero narrative, mankind is fashioned from white and yellow corn, demonstrating the crop's transcendent importance in Maya culture. To the Maya of the Classic period, Hun Hunahpu may have represented the maize god. Although in the Popol Vuh his severed head is unequivocally stated to have become a calabash, some scholars believe the calabash to be interchangeable with a cacao pod or an ear of corn. In this line, decapitation and sacrifice correspond to harvesting corn and the sacrifices accompanying planting and harvesting. Planting and harvesting also relate to Maya astronomy and the calendar, since the cycles of the moon and sun determined the crop seasons.
+
+
+== Notable editions ==
+
+2018. The Popol Vuh: A New Verse Translation. Bazzett, Michael (trans.). Seedbank Books. 2018. ISBN 978-1-5713-1468-0.{{cite book}}:  CS1 maint: others (link)
+
+
+== See also ==
+Ancient murals at El Mirador, Guatemala
+
+
+== Notes ==
+
+
+== External links ==
+
+Popol Wuj Archives, sponsored by the Department of Spanish and Portuguese at The Ohio State University, Columbus, Ohio, and the Center for Latin American Studies at OSU.
+A facsimile of the earliest preserved manuscript, in Quiché and Spanish, hosted at The Ohio State University Libraries. Learn more about this project by reading "Decolonial Information Practices: Repatriating and Stewarding the Popol Vuh Online."
+de los Monteros, Pamela Espinosa (2019-10-25). "Decolonial Information Practices: Repatriating and Stewarding the Popol Vuh Online". Preservation, Digital Technology & Culture. 48 (3–4): 107–119. doi:10.1515/pdtc-2019-0009. ISSN 2195-2965.
+The original Quiché text with line-by-line English translation Allen J. Christenson edition
+An English translation by Allen J. Christenson.
+Text in English
+A link to sections of the animated depiction by Patricia Amlin.
+Creation (1931). From the Collections at the Library of Congress

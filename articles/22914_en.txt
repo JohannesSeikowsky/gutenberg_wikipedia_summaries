@@ -1,0 +1,55 @@
+The Sceptical Chymist: or Chymico-Physical Doubts & Paradoxes is the title of a book by Robert Boyle, published in London in 1661.  In the form of a dialogue, the Sceptical Chymist presented Boyle's hypothesis that matter consisted of corpuscles and clusters of corpuscles in motion and that every phenomenon was the result of collisions of particles in motion. Boyle also objected to the definitions of elemental bodies propounded by Aristotle and by Paracelsus, instead defining elements as "perfectly unmingled bodies" (see below). For these reasons Robert Boyle has sometimes been called the founder of modern chemistry.
+The main setting for the book is a private garden, where five characters are having a conversation about the constituents of mixed bodies. Four of the characters are named, while the fifth one is the unnamed narrator. Due to the popularity of the book, Aristotle’s doctrine of the four elements and Paracelsus’ theory of the three principles gradually passed into disuse.
+
+
+== Contents ==
+The first part of the book begins with 5 friends (Carneades the host and the Skeptic, Philoponus the Chymist, Themistius the Aristotelian, Eleutherius the impartial Judge, and an unnamed narrator) meeting in Carneades's garden and chatting about the constituents of mixed bodies.
+In part one, Carneades (Boyle) lays out four propositions to the gathering, which sets the foundation for the rest of the book. They are as follows:
+
+Proposition I.
+It seems not absurd to conceive that at the first production of mixt bodies, the universal matter whereof they among other parts of the universe consisted, was actually divided into little particles of several sizes and shapes variously moved.
+Proposition II.
+Neither is it impossible that of these minute particles divers of the smallest and neighboring ones were here and there associated into minute masses or clusters, and did by their coalitions constitute great store of such little primary concretions or masses as were not easily dissipable into such particles as composed them.
+Proposition III.
+I shall not peremptorily deny, that from most such mixt bodies as partake either of animals or vegetable nature, there may by the help of the fire be actually obtained a determinate number (whether three, four, or five, or fewer or more) of substances, worthy of differing denominations.
+Proposition IV.
+It may likewise be granted, that those distinct substances, which concretes generally either afford or are made up of, may without very much inconvenience be called the elements or principles of them.
+
+
+== Major themes ==
+Boyle first argued that fire is not a universal and sufficient analyzer of dividing all bodies into their elements, contrary to Jean Beguin and Joseph Duchesne. To prove this he turned for support to Jan Baptist van Helmont whose Alkahest  was reputed to be a universal analyzer.
+Boyle rejected the Aristotelian theory of the four elements (earth, air, fire, and water) and also the three principles (salt, sulfur, and mercury) proposed by Paracelsus. After discussing the classical elements and chemical principles in the first five parts of the book, in the sixth part Boyle defines chemical element in a manner that approaches more closely to the modern concept:
+
+I now mean by Elements, as those Chymists that speak plainest do by their Principles, certain Primitive and Simple, or perfectly unmingled bodies; which not being made of any other bodies, or of one another, are the Ingredients of all those call'd perfectly mixt Bodies are immediately compounded, and into which they are ultimately resolved.
+However, Boyle denied that any known material substances correspond to such "perfectly unmingled bodies."  In his view, all known materials were compounds, even such substances as gold, silver, lead, sulfur, and carbon.
+
+
+== Influence ==
+According to E. J. Dijksterhuis, "After the appearance of The Sceptical Chymist Aristotle’s doctrine of the four elements as well as Paracelsus’ theory of the three principia gradually passes into disuse."
+The book's influence can be discerned in Nicholas Brady's reference to "jarring seeds" in his Ode to St. Cecilia (set by Henry Purcell in 1691, well before Daniel Bernoulli's kinetic theory):
+
+Soul of the World! Inspir'd by thee,
+The jarring Seeds of Matter did agree,
+Thou didst the scatter'd Atoms bind,
+Which, by thy Laws of true proportion join'd,
+Made up of various Parts one perfect Harmony.
+Philosopher of science Thomas Kuhn references The Sceptical Chymist in the eleventh chapter of his book The Structure of Scientific Revolutions, while discussing his views on the historiography of science.
+
+
+== Cultural references ==
+The Sceptical Chymist is referenced in the novel Quicksilver.
+
+
+== References ==
+
+
+== Work ==
+Boyle, Robert (1661), The Sceptical Chymist : or Chymico-physical doubts and paradoxes, touching the spagyrist's principles commonly call'd hypostatical, as they are wont to be propos'd and defended by the generality of alchymists. Whereunto is praemis'd part of another discourse relating to the same subject: or Chymico-physical doubts and paradoxes, touching the spagyrist's principles commonly call'd hypostatical, as they are wont to be propos'd and defended by the generality of alchymists. Whereunto is praemis'd part of another discourse relating to the same subject, London: J. Cadwell, p. 436, OCLC 752672500, Wikidata Q60161, copy held by the British Library
+
+
+== External links ==
+
+Scan of the 1661 edition, at archive.org
+Transcription of the book at Project Gutenberg
+In retrospect: The Sceptical Chymist Article by Lawrence Principe in Nature, January 5, 2011
+Davidson, John S. "Annotations to Boyle's "The Sceptical Chymist"" (PDF). Retrieved 2014-04-11.

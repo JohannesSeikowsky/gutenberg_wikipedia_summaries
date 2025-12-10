@@ -1,0 +1,170 @@
+The Dream Pool Essays (or Dream Torrent Essays) was an extensive book written by the Chinese polymath and statesman Shen Kuo (1031–1095), published in 1088 during the Song dynasty (960–1279) of China. Shen compiled this encyclopedic work while living in forced retirement from government office, naming the book after his private estate near modern Zhenjiang, Jiangsu province. The Dream Pool Essays was heavily reorganized in reprint editions by later Chinese authors from the late 11th to 17th centuries. In modern times it has been translated from Chinese into several languages. These include English, German, French, and Japanese translations.
+The Dream Pool Essays covers a range of topics including discoveries and advancements in Traditional Chinese medicine, mathematics, astronomy, science and technology, optics, architecture and civil engineering, metallurgy, and early archaeology. Observations of the natural world included those of wildlife, meteorology, hypotheses advancing early ideas in geomorphology and climate change based on findings of petrification and natural erosion, and strange recorded phenomena such as the description of an unidentified flying object. In addition to establishing the theory of true north in magnetic declination towards the North Pole, Shen was also the first to record the use of a compass for navigation, the first to describe the invention of movable type printing by contemporary artisan Bi Sheng, and the first in China to describe a drydock for repairing boats out of water.
+
+
+== History ==
+Shen Kuo was a renowned government official and military general during the Northern Song period of China. However, he was impeached from office by chancellor Cai Que (蔡確; 1036–1093), who wrongly held him responsible for a Song Chinese military defeat by the Tangut-led Western Xia dynasty in 1081 during the Song–Xia wars. When Shen compiled and published The Dream Pool Essays (Meng Xi Bi Tan, 《梦溪笔谈》) in 1088, he was living in retirement and relative isolation on his lavish garden estate near modern-day Zhenjiang, Jiangsu province. He titled the book after the name he gave to his private estate, the "Dream Brook". In English a full literal translation of the title is Brush Talks from a Dream Brook, and Shen Kuo is quoted as saying:
+
+Because I had only my writing brush and ink slab to converse with, I call it Brush Talks.
+As the historian Chen Dengyuan points out, much of Shen Kuo's written work was probably purged under the leadership of minister Cai Jing (1046–1126). For example, only six of Shen's books remain, and four of these have been significantly altered since the time they were penned by the author. The Dream Pool Essays was first quoted in a Chinese written work of 1095 AD, showing that even towards the end of Shen's life his final book was becoming widely printed. The book was originally 30 chapters long, yet an unknown Chinese author's edition of 1166 AD edited and reorganized the work into 26 chapters. There is one surviving copy of this 1166 edition now in Japan, while a Chinese reprint was produced in 1305. In 1631 another edition was printed, but it was heavily reorganized into three broad chapters.
+In modern times, Zhang Jiaju's biographical work Shen Kuo (1962) contains selected translations of the Dream Pool Essays from Middle Chinese into modern Vernacular Chinese. The Dream Pool Essays has also been translated from Chinese into various foreign languages. Various volumes of Joseph Needham's Science and Civilization in China series published since 1954 contain a large amount of selected English translations of the Dream Pool Essays. The Brush Talks from Dream Brook is the first complete English translation, presented in two volumes by translators Wang Hong and Zhao Zheng, and published in 2008 by the Sichuan People's Publishing House, China. A Japanese translation of the 1166 Chinese edition was prepared by the History of Science Seminar, Institute for Research in Humanities (Jimbun Kagaku Kenkyusho) for Kyoto University, and printed by the author Umehara Kaoru in his 3-volume edition of Bokei hitsudan (1978–1981). Quoted excerpts from the Dream Pool Essays in French were printed in the written works of J. Brenier in 1989  and J. F. Billeter in 1993. A complete German translation is offered in Shen Kuo: Pinselunterhaltungen am Traumbach. Das Gesamte Wissen des Alten China, translated and edited by Konrad Herrmann, and published in 1997 by Diederichs Verlag Munich (Gelbe Reihe Magnum, vol. I).
+
+
+== Content ==
+The text addressed scientific knowledge in areas including physics, astrology, mathematics, and medicine; it contended that there was no contradiction between technology and Confucian precepts.
+
+
+=== Geological theory ===
+With Shen's writings on fossils, geomorphology, and shifting geographical climates, he states in the following passages:
+
+In the Zhi-ping reign period [1064–67 AD] a man of Zezhou was digging a well in his garden, and unearthed something shaped like a squirming serpent, or dragon. He was so frightened by it that he dared not touch it, but after some time, seeing that it did not move, he examined it and found it to be stone. The ignorant country people smashed it, but Zheng Boshun, who was magistrate of Jincheng at the time, got hold of a large piece of it on which scale-like markings were to be seen exactly like those on a living creature. Thus a serpent or some kind of marine snake (chhen) had certainly been turned to stone, as happens with the 'stone-crabs'.
+
+In recent years [cca. 1080] there was a landslide on the bank of a large river in Yong-ning Guan near Yanzhou. The bank collapsed, opening a space of several dozens of feet, and under the ground a forest of bamboo shoots was thus revealed. It contained several hundred bamboo with their roots and trunks all complete, and all turned to stone...Now bamboos do not grow in Yanzhou. These were several dozens of feet below the present surface of the ground, and we do not know in what dynasty they could possibly have grown. Perhaps in very ancient times the climate was different so that the place was low, damp, gloomy, and suitable for bamboos. On the Jin-hua Shan in Wuzhou there are stone pine-cones, and stones formed from peach kernels, stone bulrush roots, stone fishes, crabs, and so on, but as these are all (modern) native products of that place, people are not very surprised at them. But these petrified bamboos appeared under the ground so deep, though they are not produced in that place today. This is a very strange thing.
+
+
+=== Astronomy ===
+When the Director of the Astronomical Observatory asked Shen Kuo if the shapes of the Sun and Moon were round like balls or flat like fans, Shen Kuo explained his reasoning for the former:
+
+If they were like balls they would surely obstruct each other when they met. I replied that these celestial bodies were certainly like balls. How do we know this? By the waxing and waning of the moon. The moon itself gives forth no light, but is like a ball of silver; the light is the light of the sun (reflected). When the brightness is first seen, the sun(-light passes almost) alongside, so the side only is illuminated and looks like a crescent. When the sun gradually gets further away, the light shines slanting, and the moon is full, round like a bullet. If half of a sphere is covered with (white) powder and looked at from the side, the covered part will look like a crescent; if looked at from the front, it will appear round. Thus we know that the celestial bodies are spherical.
+
+When the director of the astronomical observatory asked Shen Kuo why eclipses occurred only on an occasional basis while in conjunction and opposition once a day, Shen Kuo wrote:
+
+I answered that the ecliptic and the moon's path are like two rings, lying one over the other, but distant by a small amount. (If this obliquity did not exist), the sun would be eclipsed whenever the two bodies were in conjunction, and the moon would be eclipsed whenever they were exactly in position. But (in fact) though they may occupy the same degree, the two paths are not (always) near (each other), and so naturally the bodies do not (intrude) upon one another.
+
+On the use of the sighting tube to fix the position of the pole star, Shen Kuo wrote:
+
+Before Han times it was believed that the pole star was in the center of the sky, so it was called Jixing (Summit star). Zu Geng(-zhi) found out with the help of the sighting tube that the point in the sky which really does not move was a little more than 1 degree away from the summit star. In the Xining reign-period (1068–1077) I accepted the order of the emperor to take charge of the Bureau of the Calendar. I then tried to find the true pole by means of the tube. On the very first night I noticed that the star which could be seen through the tube moved after a while outside the field of view. I realized, therefore, that the tube was too small, so I increased the size of the tube by stages. After three months' trials I adjusted it so that the star would go round and round within the field of view without disappearing. In this way I found that the pole star was distant from the true pole somewhat more than 3 degrees. We used to make the diagrams of the field, plotting the positions of the star from the time when it entered the field of view, observing after nightfall, at midnight, and early in the morning before dawn. Two hundred of such diagrams showed that the 'pole star' was really a circumpolar star. And this I stated in my detailed report to the emperor.
+
+
+=== Movable type printing ===
+On the methods of Bi Sheng's invention of movable type printing between the years 1041 to 1048 AD, Shen Kuo wrote:
+
+[Bi Sheng] took sticky clay and cut in it characters as thin as the edge of a coin. Each character formed, as it were, a single type. He baked them in the fire to make them hard. He had previously prepared an iron plate and he had covered his plate with a mixture of pine resin, wax, and paper ashes. When he wished to print, he took an iron frame and set it on the iron plate. In this he placed the types, set close together. When the frame was full, the whole made one solid block of type. He then placed it near the fire to warm it. When the paste [at the back] was slightly melted, he took a smooth board and pressed it over the surface, so that the block of type became as even as a whetstone. If one were to print only two or three copies, this method would be neither simple nor easy. But for printing hundreds or thousands of copies, it was marvelously quick. As a rule he kept two forms going. While the impression was being made from the one form, the type was being put in place on the other. When the printing of the one form was finished, the other was then ready. In this way the two forms alternated and the printing was done with great rapidity.
+
+
+=== Personal beliefs and philosophy ===
+Of Taoism and the inability of empirical science to explain everything in the world, Shen Kuo wrote:
+
+Those in the world who speak of the regularities underlying the phenomena, it seems, manage to apprehend their crude traces. But these regularities have their very subtle aspect, which those who rely on mathematical astronomy cannot know of. Still even these are nothing more than traces. As for the spiritual processes described in the [Book of Changes] that "when they are stimulated, penetrate every situation in the realm," mere traces have nothing to do with them. This spiritual state by which foreknowledge is attained can hardly be sought through changes, of which in any case only the cruder sort are attainable. What I have called the subtlest aspect of these traces, those who discuss the celestial bodies attempt to know by depending on mathematical astronomy; but astronomy is nothing more than the outcome of conjecture.
+
+
+=== Dissertation on the Timberwork Manual ===
+Below are two passages from Shen's book outlining the basics contained in Yu Hao's Timberwork Manual. Yu Hao was a Chinese architect of the earlier 10th, and Kuo was one to praise his work. In the first quote, Shen Kuo describes a scene where Yu Hao gives advice to another artisan architect about slanting struts for diagonal wind bracing:
+
+When Mr. Qian (Wei-yan) was Governor of the two Zhejiang provinces, he authorized the building of a wooden pagoda at the Fan-tian Si (Brahma-Heaven Temple) in Hangzhou with a design of twice three stories. While it was under construction General Chhien went up to the top and was worried because it swayed a little. But the Master-Builder explained that as the tiles had not yet been put on, the upper part was still rather light, hence the effect. So then they put on all the tiles, but the sway continued as before. Being at a loss what to do, he privately sent his wife to see the wife of Yu Hao with a present of golden hair pins, and enquire about the cause of the motion. (Yu) Hao laughed and said: 'That's easy, just fit in struts (pan) to settle the work, fixed with (iron) nails, and it will not move any more.' The Master-Builder followed his advice, and the tower stood quite firm. This is because the nailed struts filled in and bound together (all the members) up and down so that the six planes (above and below, front and back, left and right) were mutually linked like the cage of the thorax. Although people might walk on the struts, the six planes grasped and supported each other, so naturally there could be no more motion. Everybody acknowledged the expertise thus shown.
+
+In this next quote, Shen Kuo describes the dimensions and types of architecture outlined in Yu Hao's book:
+
+Methods of building construction are described in the Timberwork Manual, which, some say, was written by Yu Hao. (According to that book), buildings have three basic units of proportion, what is above the cross-beams follows the Upperwork Unit, what is above the ground floor follows the Middlework Unit, and everything below that (platforms, foundations, paving, etc.) follows the Lowerwork Unit. The length of the cross-beams will naturally govern the lengths of the uppermost cross-beams as well as the rafters, etc. Thus for a (main) cross-beam of (8 ft) length, an uppermost cross-beam of (3.5 ft) length will be needed. (The proportions are maintained) in larger and smaller halls. This (2/28) is the Upperwork Unit. Similarly, the dimensions of the foundations must match the dimensions of the columns to be used, as also those of the (side-) rafters, etc. For example, a column (11 ft) high will need a platform (4.5 ft) high. So also for all the other components, corbelled brackets, projecting rafters, other rafters, all have their fixed proportions. All these follow the Middlework Unit (2/24). Now below of ramps (and steps) there are three kinds, steep, easy-going, and intermediate. In places these gradients are based upon a unit derived from the imperial litters. Steep ramps are ramps for ascending which the leading and trailing bearers have to extend their arms fully down and up respectively (ratio 3/35). Easy-going ramps are those for which the leaders use elbow length and the trailers shoulder height (ratio 1/38); intermediate ones are negotiated by the leaders with downstretched arms and trailers at shoulder height (ratio 2/18). These are the Lowerwork Units. The book (of Yu Hao) had three chapters. But builders in recent years have become much more precise and skillful (yen shan) than formerly. Thus for some time past the old Timberwork Manual has fallen out of use. But (unfortunately) there is hardly anybody capable of writing a new one. To do that would be a masterpiece in itself!
+
+
+=== Botany and zoology ===
+Shen Kuo described the natural predator insect similarly shaped to the gou-he ("dog-grubs") which preyed upon the agricultural pest infestation of zi-fang, the moth Leucania separata:
+
+In the Yuan-Feng reign period (1078–1085), in the Qingzhou region, an outbreak of zi-fang insects caused serious damage to the crops in the fields in autumn. Suddenly another insect appeared in swarms of thousands and tens of thousands, covering the entire ground area. It was shaped like earth-burrowing gou-he (dog grubs), and its mouth was flanked by pincers. Whenever it met a zi-fang, it would seize it with the pincers and break the poor beast into two bits. Within ten days all the zi-fang had disappeared, so the locality had an abundant harvest. Such kinds of insects have been known since antiquity and the local people call them pang-bu-ken ("not allowing other [insects] to be").
+
+
+=== Natural phenomena ===
+Around 1078, Shen Kuo wrote an accurate description of the damaging effects of lightning to buildings and to the specific materials of objects within. Taking an objective and speculative viewpoint, he stated:
+
+A house belonging to Li Shunju was struck by lightning. Brilliant sparkling light was seen under the eaves. Everyone thought that the hall would be burnt, and those who were inside rushed out. After the thunder had abated, the house was found to be alright, though its walls and the paper on the windows were blackened. On certain wooden shelves, certain lacquered vessels with silver mouths had been struck by the lightning, so that the silver had melted and dropped to the ground, but the lacquer was not even scorched. Also, a valuable sword made of strong steel had been melted to liquid, without the parts of the house nearby being affected. One would have thought that the thatch and wood would have been burnt up first, yet here were metals melted and no injury to thatch and wood. This is beyond the understanding of ordinary people. There are Buddhist books which speak of 'dragon fire' which burns more fiercely when it meets with water instead of being extinguished by water like 'human' fire. Most people can only judge of things by the experiences of ordinary life, but phenomena outside the scope of this are really quite numerous. How insecure it is to investigate natural principles using only the light of common knowledge, and subjective ideas.
+
+
+=== "Strange Happenings" ===
+A passage called "Strange Happenings" contains a peculiar account of an unidentified flying object. Shen wrote that, during the reign of Emperor Renzong (1022–1063), an object as bright as a pearl occasionally hovered over the city of Yangzhou at night, but described first by local inhabitants of eastern Anhui and then in Jiangsu. Shen wrote that a man near Xingkai Lake observed this curious object; allegedly it:
+
+...opened its door and a flood of intense light like sunbeams darted out of it, then the outer shell opened up, appearing as large as a bed with a big pearl the size of a fist illuminating the interior in silvery white. The intense silver-white light, shot from the interior, was too strong for human eyes to behold; it cast shadows of every tree within a radius of ten miles. The spectacle was like the rising Sun, lighting up the distant sky and woods in red. Then all of a sudden, the object took off at a tremendous speed and descended upon the lake like the Sun setting.
+
+Shen went on to say that Yibo, a poet of Gaoyou, wrote a poem about this "pearl" after witnessing it. Shen wrote that since the "pearl" often made an appearance around Fanliang in Yangzhou, the people there erected a "Pearl Pavilion" on a wayside, where people came by boat in hopes to see the mysterious flying object.
+
+
+=== Swords ===
+Around 1065 Shen Kuo wrote about the assembly methods for swords, and the patterns produced in the steel:
+
+Ancient people use chi kang, (combined steel), for the edge, and jou thieh (soft iron) for the back, otherwise it would often break. Too strong a weapon will cut and destroy its own edge; that is why it is advisable to use nothing but combined steel. As for the yu-chhang (fish intestines) effect, it is what is now called the 'snake-coiling' steel sword, or alternatively, the 'pine tree design'. If you cook a fish fully and remove its bones, the shape of its guts will be seen to be like the lines on a 'snake-coiling sword'.
+
+
+=== Chinese clothing ===
+Shen Kuo observed that the Chinese since some centuries prior had entirely adopted barbarian fashions.
+
+中國衣冠，自北齊以來，乃全用胡服。窄袖、緋綠短衣、長靿靴、有鞢帶，皆胡服也。窄袖利於馳射，短衣、長靿皆便於涉草。胡人樂茂草，常寢處其間，予使北時皆見之。雖王庭亦在深荐中。予至胡庭日，新雨過，涉草，衣褲皆濡，唯胡人都無所沾。帶衣所垂蹀躞，蓋欲佩帶弓劍、帨、算囊、刀勵之類。
+The clothing of China since the Northern Qi [550–557] onward has been entirely made barbarian. Narrow sleeves, short dark red or green robes, tall boots and metal girdle ornaments are all barbarian garb. The narrow sleeves are useful when shooting while galloping. The short robes and tall boots are convenient when passing through tall grass. The barbarians all enjoy thick grass as they always sleep in it. I saw them all do it when I was sent north. Even the king's court is in the deep grasses. On the day I had arrived at the barbarian court the new rains had passed and I waded through the grass. My robes and trousers were all soaked, but the barbarians were not at all wet. With things hanging from robe and belt they walk about. One perhaps might want to hang items like a bow and blade, handkerchief, coin purse or knife from the belt.
+
+
+== Book chapters ==
+On the humanities:
+
+Official life and the imperial court (60 paragraphs)
+Academic and examination matters (10 paragraphs)
+Literary and artistic (70 paragraphs)
+Law and police (11 paragraphs)
+Military (25 paragraphs)
+Miscellaneous stories and anecdotes (72 paragraphs)
+Divination, magic, and folklore (22 paragraphs)
+On natural sciences:
+
+On the I Ching, Yin and Yang, and 5 elements (7 paragraphs)
+Mathematics (11 paragraphs)
+Astronomy and calendar (19 paragraphs)
+Meteorology (18 paragraphs)
+Geology and mineralogy (17 paragraphs)
+Geography and cartography (15 paragraphs)
+Physics (6 paragraphs)
+Chemistry (3 paragraphs)
+Engineering, metallurgy, and technology (18 paragraphs)
+Irrigation and hydraulic engineering (6 paragraphs)
+Architecture (6 paragraphs)
+Biological sciences, botany, and zoology (52 paragraphs)
+Agricultural arts (6 paragraphs)
+Medicine and pharmaceutics (23 paragraphs)
+Humanistic sciences:
+
+Anthropology (6 paragraphs)
+Archeology (21 paragraphs)
+Philology (36 paragraphs)
+Music (44 paragraphs)
+(Total number of paragraphs = 584)
+
+
+== See also ==
+
+Chinese classics
+Chinese literature
+History of science and technology in China
+List of Chinese writers
+Technology of the Song dynasty
+
+
+== Notes ==
+^ a: Shen Gua (1031–1091) et les Sciences, Revue d'Histoire des Sciences et de Leurs Applications (1989)
+^ b: Florilège des notes du Ruisseau des rêves (Mengxi bitan) de Shen Gua (1031–1095) by Jean-François Billeter and 31 of his Geneva University students, in Études Asiatiques (1993)
+^ i: See Greek fire
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+Bowman, John S. (2000). Columbia Chronologies of Asian History and Culture. New York: Columbia University Press.
+Chan, Alan Kam-leung and Gregory K. Clancey, Hui-Chieh Loy (2002). Historical Perspectives on East Asian Science, Technology and Medicine. Singapore: Singapore University Press ISBN 9971-69-259-7
+Mohn, Peter (2003). Magnetism in the Solid State: An Introduction. New York: Springer-Verlag Inc. ISBN 3-540-43183-7.
+Needham, Joseph (1986). Science and Civilization in China: Volume 1, Introductory Orientations. Taipei: Caves Books, Ltd.
+Needham, Joseph (1986). Science and Civilization in China: Volume 3, Mathematics and the Sciences of the Heavens and the Earth. Taipei: Caves Books, Ltd.
+Needham, Joseph (1986). Science and Civilization in China: Volume 4, Physics and Physical Technology, Part 3: Civil Engineering and Nautics. Taipei: Caves Books, Ltd.
+Needham, Joseph (1986). Science and Civilization in China: Volume 5, Chemistry and Chemical Technology, Part 1: Paper and Printing. Taipei: Caves Books, Ltd.
+Needham, Joseph (1986). Science and Civilization in China: Volume 6, Biology and Biological Technology, Part 1: Botany. Taipei, Caves Books Ltd.
+Sivin, Nathan (1995). Science in Ancient China: Researches and Reflections. Brookfield, Vermont: VARIORUM, Ashgate Publishing.
+Ropp, Paul S. (1990). Heritage of China: Contemporary Perspectives on Chinese History. Berkeley: University of California Press. ISBN 978-0-520-06440-9
+
+
+== Further reading ==
+Fu, Daiwie. "On Mengxi Bitan's world of marginalities and “south-pointing needles”. Fragment translation vs. contextual translation". (Archive) In: Alleton, Vivianne and Michael Lackner (editors). De l'un au multiple: traductions du chinois vers les langues européennes Translations from Chinese into European Languages. Éditions de la maison des sciences de l'homme (MSH), 1999, Paris. p. 176–201. ISBN 273510768X, 9782735107681.
+Fu, Daiwie. "Mengxi Bitan as an example of organization of knowledge in Song biji." Sinologie française 6 (special issue on the history of science and technology): 269–290.
+
+
+== External links ==
+Shen Kua: mathematician, engineer, physicist, and astronomer Archived 2011-08-17 at the Wayback Machine
+Works by Shen Kuo at Project Gutenberg

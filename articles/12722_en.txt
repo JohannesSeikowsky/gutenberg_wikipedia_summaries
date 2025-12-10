@@ -1,0 +1,34 @@
+Sonnet 100 is one of 154 sonnets written by the English playwright and poet William Shakespeare. It is a member of the Fair Youth sequence, in which the poet expresses his love towards a young man.
+
+
+== Structure ==
+Sonnet 100 is an English or Shakespearean sonnet. The English sonnet has three quatrains, followed by a final rhyming couplet. It follows the typical rhyme scheme of the form ABAB CDCD EFEF GG and is composed in iambic pentameter, a type of poetic metre based on five pairs of metrically weak/strong syllabic positions. The 5th line exemplifies a regular iambic pentameter:
+
+ × /     ×  /  ×   /    ×      /      × / 
+Return, forgetful Muse, and straight redeem (100.5)
+
+/ = ictus, a metrically strong syllabic position. × = nonictus.
+The 3rd line exhibits a common metrical variant, the initial reversal, which is also present in lines 4, 7, and potentially 9:
+
+  /        ×    ×  / × /   ×    /    ×    / 
+Spend'st thou thy fury on some worthless song, (100.3)
+
+The 13th line generates a somewhat complex rhythm, incorporating an initial and a mid-line reversal, as well as two non-ictic stresses ("love" and "wastes"):
+
+  /   ×  ×    /    /  ×    ×   /    ×      / 
+Give my love fame faster than Time wastes life; (100.13)
+
+
+== Notes ==
+
+
+== Further reading ==
+First edition and facsimile
+
+Variorum editions
+
+Modern critical editions
+
+
+== External links ==
+Analysis

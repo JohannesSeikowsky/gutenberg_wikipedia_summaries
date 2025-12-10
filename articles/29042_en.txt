@@ -1,0 +1,49 @@
+A Tangled Tale is a collection of 10 brief humorous stories by Lewis Carroll (Charles Lutwidge Dodgson), published serially between April 1880 and March 1885 in The Monthly Packet magazine. Arthur B. Frost added illustrations when the series was printed in book form. The stories, or Knots as Carroll calls them, present mathematical problems. In a later issue, Carroll gives the solution to a Knot and discusses readers' answers. The mathematical interpretations of the Knots are not always straightforward. The ribbing of readers answering wrongly – giving their names – was not always well received (see Knot VI below).
+In the December 1885 book preface Carroll writes:
+
+The writer's intention was to embody in each Knot (like medicine so dexterously, but ineffectually, concealed in the jam of our early childhood) one or more mathematical questions – in Arithmetic, Algebra, or Geometry, as the case might be – for the amusement, and possible edification, of the fair readers of that magazine.
+Describing why he was ending the series, Carroll writes to his readers that the Knots were "but a lame attempt". Others were more receptive: In 1888 Stuart Dodgson Collingwood wrote "With some people, this is the most popular of all his 
+books; it is certainly the most successful attempt he ever made to combine mathematics and humour." They have more recently been described as having "all the charm and wit of his better-known works".
+
+
+== Summary of Knots and solutions ==
+Knot I, Excelsior. Two knights discuss the distance they will have travelled that day, uphill and downhill at different speeds. The older knight obscurely explains the mathematical problem.
+
+Carroll's Solution: As with most of the Knots, the solution includes: a simplified restatement of the problem, a method to arrive at the solution, the solution, a discussion of readers' solutions, then readers' grades. In his discussion, Carroll relates that one reader accuses the senior knight of untruthfulness (this is rebutted by Carroll, using the knight's tone). Another reader answers the problem by extending the story (this is quoted). The poem of two readers answering the problem is also quoted.
+Knot II, Eligible Apartments. Professor Balbus, named after a hero with "anecdotes whose vagueness in detail was more than compensated by their sensational brilliance", is given a problem by students. The number of guests for a party is described in puzzling genealogical terms. He in turn creates a mathematical problem for them (about apartments which they rent during their trip). Two answers are required of readers.
+
+Solution: The mathematical problem is solved with the aid of a diagram. Those employing "guesswork" are given partial credit. One reader suggests the genealogical problem can be solved by "intermarriages", to which Carroll replies, "Wind of the western sea, you have had a very narrow escape! Be thankful to appear in the Class-list at all!"
+Knot III, Mad Mathesis. Overbearing aunt Mad Mathesis proposes a game to her niece Clara: they go from London by different trains and the winner will be a person whose train will pass more trains. Nobody wins because the numbers of the trains are equal. Clara thinks she has found a solution to win a second time, but she loses.
+Knot IV, The Dead Reckoning. The two knights of Knot I, in a modern guise, are party to a dispute about the weight of passengers' bags lost overboard from a ship.
+Knot V, Oughts and Crosses. The aunt and niece from Knot III are in an art museum. Trading snipes as before, the aunt evades her niece's logical problem: Clara's preceptress had told her girls "The more noise you make the less jam you will have, and vice versa." The niece wants to know if this means that if they are silent, they will have infinite jam. Instead, Mad Mathesis responds with her own logical problem: about writing symbols concerning quality of paintings.
+Knot VI, Her Radiancy. Two travellers from Knot IV appear in Kgovjni, a land referenced in the genealogical problem from Knot II. The ruler places them in "the best dungeon, and abundantly fed on the best bread and water" until they resolve a logical problem about a knitting contest.
+
+Solution: Two problems are posed, the first of which is resolved by word-play. Much later, after the solutions to Knot VII, Carroll returns to Knot VI, to describe the second problem (about the knitting contest) in detail, and to rebut criticisms of readers (who were identified by name) that they were duped.
+Knot VII, Petty Cash. Mad Mathesis and Clara from Knot V encounter "by a remarkable coincidence" others who are travelling not only on the same train, but at the same station, on the same day, at the same hour. Lunch bills are muddled due to the aunt's reluctance in writing down numbers that could "easily" be memorised. Thus a problem arises: to calculate sums from the bills.
+
+Solution: Carroll gives a solution which "universally" produces an answer, then gives detailed critiques of several other approaches that only "accidentally" give a solution.
+Knot VIII, De Omnibus Rebus. The travellers of Knot VI are leaving Kgovjni with relief, when two mathematical problems occur to them. The first one is about locating piglets in sheds (resolved by word-play); the second one is about the moment of meeting an omnibus.
+Knot IX, A Serpent with Corners. The characters of Knot II, Balbus and his two students, return to give three problems: two ones about solids in water and one about size of a garden.
+Knot X, Chelsea Buns. It turns out that main characters of the previous knots are connected. The older tourist from Knots I, IV, VI, VIII has: 1) a sister being Mad Mathesis; 2) three sons being the younger tourist and the two students of Balbus; 3) a daughter being Clara. They all (including Balbus) meet together and the father gives a problem to his children: they have to calculate the age of each of them; although they know their age, they must calculate it from the data of the problem, without using any other information. In addition, earlier Mad Mathesis gives Clara a problem concerning set theory (about injuries of veterans) and the students of Balbus discuss a problem connecting with what is now known as the International Date Line.
+
+Solution note: The puzzle called The Change of Day is never answered, as Carroll is "waiting for statistics" and is himself "so entirely puzzled by it". The answer to this puzzle is the International Date Line, which was created contemporaneously with A Tangled Tale.
+
+
+== Changes after magazine publication ==
+Changes were made when the stories were published in book form. In the solution to Knot III reader AYR is dropped entirely from discussion. The change causes a comparison with same number of readers getting a perfect score on a previous Knot to be dropped:
+
+(there is something uncanny about this coincidence: let us hope it will prove to be the beginning of a genuine ghost story).
+Other examples of changes in Knot III are "Mad Mathesis dragged her off" to "Mad Mathesis hurried her on", and Clara saying "If I may go the same way round, as I did last time" to "If I may choose my train".
+
+
+== References ==
+Kathleen Blake Play, Games, and Sport: The Literary Works of Lewis Carroll, Cornell University Press 1974. ISBN 0-8014-0834-2
+
+
+== External links ==
+
+A Tangled Tale at Standard Ebooks
+A Tangled Tale, Knot III (magazine version)
+
+ A Tangled Tale at Project Gutenberg
+ A Tangled Tale public domain audiobook at LibriVox
