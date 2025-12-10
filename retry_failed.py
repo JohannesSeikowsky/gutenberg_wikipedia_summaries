@@ -62,7 +62,7 @@ def extract_language_code(url):
 def extract_page_title(url):
     """Extract page title from Wikipedia URL."""
     try:
-        url = url.strip()
+        url = url.strip().rstrip('\r\n')
         match = re.search(r'/wiki/(.+)$', url)
         if match:
             return unquote(match.group(1))
@@ -82,6 +82,7 @@ def diagnose_and_fetch(url, lang, page_title, retry_count=0):
         'format': 'json',
         'prop': 'extracts|info|pageprops',
         'explaintext': True,
+        'redirects': 1,
         'titles': page_title,
         'inprop': 'url'
     }

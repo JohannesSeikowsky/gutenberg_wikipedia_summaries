@@ -3,8 +3,8 @@
 60951,https://en.wikipedia.org/wiki/The_Service
 31534,http://en.wikipedia.org/wiki/Cottolene
 55977,https://en.wikipedia.org/wiki/Flight_(1929_film)
-2230,http://en.wikipedia.org/wiki/Faust,_Part_2\r
-2229,http://en.wikipedia.org/wiki/Faust,_Part_1\r
+2230, https://en.wikipedia.org/wiki/Faust,_Part_Two https://de.wikipedia.org/wiki/Faust._Der_Trag%C3%B6die_zweiter_Teil
+2229,https://en.wikipedia.org/wiki/Faust,_Part_One https://de.wikipedia.org/wiki/Faust._Eine_Trag%C3%B6die
 42671,https://en.wikipedia.org/wiki/Pride_and_Prejudice
 43883,https://en.wikipedia.org/wiki/SS_Imperator
 34808,http://en.wikipedia.org/wiki/The_Swiss_Family_Robinson
@@ -10653,7 +10653,7 @@
 75476,https://en.wikipedia.org/wiki/The_Poisoned_Chocolates_Case
 75488,https://en.wikipedia.org/wiki/The_Box_Office_Murders
 75491,https://en.wikipedia.org/wiki/Giants_in_the_Earth_(novel)
-75544,https://en.wikipedia.org/wiki/Peer_Gynt https://simple.wikipedia.org/wiki/Peer_Gynt
+75544,https://en.wikipedia.org/wiki/Peer_Gynt
 75547,https://en.wikipedia.org/wiki/Beauvallet
 75562,https://en.wikipedia.org/wiki/The_Assassination_Bureau,_Ltd
 75569,https://de.wikipedia.org/wiki/Waldheimat._Erinnerungen_aus_der_Jugendzeit
@@ -10684,7 +10684,7 @@
 76352,https://en.wikipedia.org/wiki/The_World_Below
 76356,https://en.wikipedia.org/wiki/The_Universe_Around_Us
 76360,https://en.wikipedia.org/wiki/The_Devil%27s_Elixirs https://de.wikipedia.org/wiki/Die_Elixiere_des_Teufels
-76366,https://en.wikipedia.org/wiki/The_Cold_Heart https://simple.wikipedia.org/wiki/Heart_of_Stone_(German_fairy_tale)
+76366,https://en.wikipedia.org/wiki/The_Cold_Heart
 76386,https://en.wikipedia.org/wiki/Household_Words
 76392,https://en.wikipedia.org/wiki/Naturales_quaestiones
 76396,https://en.wikipedia.org/wiki/La_L%C3%A9gende_des_si%C3%A8cles https://fr.wikipedia.org/wiki/La_L%C3%A9gende_des_si%C3%A8cles

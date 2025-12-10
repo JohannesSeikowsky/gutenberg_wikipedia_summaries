@@ -70,7 +70,7 @@ def extract_page_title(url):
     """
     try:
         # Remove trailing whitespace and carriage returns
-        url = url.strip()
+        url = url.strip().rstrip('\r\n')
 
         # Extract the part after /wiki/
         match = re.search(r'/wiki/(.+)$', url)
@@ -103,6 +103,7 @@ def fetch_wikipedia_content(url, lang, page_title, retry_count=0):
         'format': 'json',
         'prop': 'extracts',
         'explaintext': True,
+        'redirects': 1,
         'titles': page_title
     }
 

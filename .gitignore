@@ -12,6 +12,13 @@ articles/
 progress.json
 errors.log
 summary.txt
+*.csv
+*.log
+validation_progress.json
+rerun_*.txt
+
+# Environment
+.env
 
 # Claude Code
 CLAUDE.md
